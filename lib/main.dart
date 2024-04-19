@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:testing_training/repositories/topic_list/topic_list.dart';
@@ -8,7 +9,7 @@ void main() {
 
   GetIt.I.registerLazySingleton<AbstractTopicListRepository>(
         () => TopicListRepository(
-            topicsListJsonPath:  'questions/topics.json'
+            topicsListJsonPath:  _path('questions/topics.json')
         ),
   );
 
@@ -35,3 +36,7 @@ class _TestingTrainingAppState extends State<TestingTrainingApp> {
       routerConfig: _router.config(),
     );
   }}
+
+String _path(String str) {
+  return (!kIsWeb) ? 'assets/$str' : str;
+}
