@@ -1,7 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'package:flutter/widgets.dart';
 import 'package:testing_training/repositories/topic_list/models/modules.dart';
 
 class TopicItem extends StatelessWidget {
@@ -31,6 +28,7 @@ class TopicItem extends StatelessWidget {
                 child: Text(
                   "Вопросов: ${topic.questionsCount}",
                   style: TextStyle(color: theme.colorScheme.onSurfaceVariant),
+                  textAlign: TextAlign.right,
                 ),
               ),
             ],
