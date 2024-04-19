@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Геном человека",
+    "questions_count": 180,
+    "dir_name": "genome"
+  },
+  {
+    "name": "Теория эволюции",
+    "questions_count": 538,
+    "dir_name": "evolution"
+  },
+  {
+    "name": "Органическая химия",
+    "questions_count": 382,
+    "dir_name": "orgchemistry"
+  }
+]
