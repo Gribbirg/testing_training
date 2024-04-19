@@ -1,3 +1,4 @@
+import 'package:dynamic_color/dynamic_color.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
@@ -6,11 +7,9 @@ import 'package:testing_training/router/router.dart';
 import 'package:testing_training/theme/theme.dart';
 
 void main() {
-
   GetIt.I.registerLazySingleton<AbstractTopicListRepository>(
-        () => TopicListRepository(
-            topicsListJsonPath:  _path('questions/topics.json')
-        ),
+    () =>
+        TopicListRepository(topicsListJsonPath: path('questions/topics.json')),
   );
 
   runApp(const TestingTrainingApp());
@@ -28,15 +27,19 @@ class _TestingTrainingAppState extends State<TestingTrainingApp> {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp.router(
-      title: "Подготовка к ЦТ",
-      theme: getTheme(),
-      darkTheme: getTheme(darkMode: true),
-      themeMode: ThemeMode.system,
-      routerConfig: _router.config(),
-    );
-  }}
+    return DynamicColorBuilder(
+        builder: (ColorScheme? lightColorScheme, ColorScheme? darkColorScheme) {
+      return MaterialApp.router(
+        title: "Подготовка к ЦТ",
+        theme: getTheme(colorTheme: lightColorScheme),
+        darkTheme: getTheme(colorTheme: darkColorScheme, darkMode: true),
+        themeMode: ThemeMode.system,
+        routerConfig: _router.config(),
+      );
+    });
+  }
+}
 
-String _path(String str) {
+String path(String str) {
   return (!kIsWeb) ? 'assets/$str' : str;
 }
