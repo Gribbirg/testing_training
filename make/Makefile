@@ -1,4 +1,6 @@
 # Push web app
+
+# cd C:\Users\gribk\AndroidStudioProjects\testing_training\make
 # make deploy M=""
 
 OUTPUT = grib-testing-training.github.io
