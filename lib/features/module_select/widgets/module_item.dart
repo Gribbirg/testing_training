@@ -1,19 +1,18 @@
-import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'package:testing_training/repositories/topic_list/models/models.dart';
-import 'package:testing_training/router/router.dart';
 
-class TopicItem extends StatelessWidget {
-  const TopicItem({super.key, required this.topic});
+import '../../../repositories/module_list/models/module.dart';
 
-  final Topic topic;
+class ModuleItem extends StatelessWidget {
+  const ModuleItem({super.key, required this.module});
+
+  final Module module;
 
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     return ElevatedButton(
         onPressed: () {
-          AutoRouter.of(context).push(ModuleSelectRoute(topic: topic));
+
         },
         child: Container(
           padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 10),
@@ -23,15 +22,15 @@ class TopicItem extends StatelessWidget {
               Expanded(
                 flex: 10,
                 child: Text(
-                  topic.name,
+                  module.name,
                   style: const TextStyle(fontSize: 20),
                 ),
               ),
               const SizedBox(width: 5,),
               Expanded(
-                flex: 5,
+                flex: 4,
                 child: Text(
-                  "Вопросов: ${topic.questionsCount}",
+                  "Кол-во: ${module.questionsCount}",
                   style: TextStyle(color: theme.colorScheme.onSurfaceVariant),
                   textAlign: TextAlign.right,
                 ),

@@ -5,7 +5,6 @@ abstract class ModuleListState extends Equatable {}
 class ModuleListInitial extends ModuleListState {
   @override
   List<Object?> get props => [];
-
 }
 
 class ModuleListLoading extends ModuleListState {
@@ -14,12 +13,15 @@ class ModuleListLoading extends ModuleListState {
 }
 
 class ModuleListLoaded extends ModuleListState {
+  final List<Module> modules;
+
+  ModuleListLoaded({required this.modules});
+
   @override
-  List<Object?> get props => [];
+  List<Object?> get props => [modules];
 }
 
 class ModuleListError extends ModuleListState {
-
   final String message;
 
   ModuleListError({required this.message});
@@ -27,5 +29,3 @@ class ModuleListError extends ModuleListState {
   @override
   List<Object?> get props => [];
 }
-
-
