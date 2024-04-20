@@ -1,0 +1,4258 @@
+[
+  {
+    "name": "В процессе эволюции у рыб сформировался тип головного мозга ...",
+    "number": 1,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "ихтиопсидный",
+        "image": null
+      },
+      {
+        "text": "зауропсидный",
+        "image": null
+      },
+      {
+        "text": "маммальный",
+        "image": null
+      },
+      {
+        "text": "гиостилический",
+        "image": null
+      },
+      {
+        "text": "аутостилический",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У маммального типа мозга в процессе эволюции центр регуляции сформировался в",
+    "number": 2,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "переднем отделе головного мозга - коре больших полушарий",
+        "image": null
+      },
+      {
+        "text": "промежуточном мозге",
+        "image": null
+      },
+      {
+        "text": "среднем мозге",
+        "image": null
+      },
+      {
+        "text": "продолговатом мозге",
+        "image": null
+      },
+      {
+        "text": "переднем отделе головного мозга - полосатых телах",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у высших позвоночных типа Хордовые редуцировался желудочек мозга в …",
+    "number": 3,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "среднем мозге",
+        "image": null
+      },
+      {
+        "text": "промежуточном мозге",
+        "image": null
+      },
+      {
+        "text": "переднем отделе головного мозга",
+        "image": null
+      },
+      {
+        "text": "продолговатом мозге",
+        "image": null
+      },
+      {
+        "text": "заднем мозге",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В сердце только венозная кровь у …",
+    "number": 4,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "костных рыб",
+        "image": null
+      },
+      {
+        "text": "млекопитающих",
+        "image": null
+      },
+      {
+        "text": "птиц",
+        "image": null
+      },
+      {
+        "text": "бесхвостых амфибий",
+        "image": null
+      },
+      {
+        "text": "пресмыкающихся",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции в желудочке сердца сформировался один сосуд - артериальный конус (рудимент брюшной аорты) у …",
+    "number": 5,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "бесхвостых амфибий",
+        "image": null
+      },
+      {
+        "text": "млекопитающих",
+        "image": null
+      },
+      {
+        "text": "костных рыб",
+        "image": null
+      },
+      {
+        "text": "птиц",
+        "image": null
+      },
+      {
+        "text": "пресмыкающихся",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у птиц сформировалась и функционирует в течение всей жизни почка ...",
+    "number": 6,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "метанефрос",
+        "image": null
+      },
+      {
+        "text": "мезанефрос",
+        "image": null
+      },
+      {
+        "text": "пронефрос",
+        "image": null
+      },
+      {
+        "text": "протонефридии",
+        "image": null
+      },
+      {
+        "text": "метанефридии",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у амфибий сформировался тип головного мозга ...",
+    "number": 7,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "ихтиопсидный",
+        "image": null
+      },
+      {
+        "text": "зауропсидный",
+        "image": null
+      },
+      {
+        "text": "маммальный",
+        "image": null
+      },
+      {
+        "text": "гиостилический",
+        "image": null
+      },
+      {
+        "text": "аутостилический",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В зауропсидном типе мозга в процессе эволюции центр регуляции сформировался в",
+    "number": 8,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "переднем отделе головного мозга - полосатых телах",
+        "image": null
+      },
+      {
+        "text": "промежуточном мозге",
+        "image": null
+      },
+      {
+        "text": "среднем мозге",
+        "image": null
+      },
+      {
+        "text": "продолговатом мозге",
+        "image": null
+      },
+      {
+        "text": "переднем отделе головного мозга - коре больших полушарий",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У костных рыб в процессе эволюции сформировался и выходит из желудочка сердца",
+    "number": 9,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "один сосуд",
+        "image": null
+      },
+      {
+        "text": "два сосуда",
+        "image": null
+      },
+      {
+        "text": "три сосуда",
+        "image": null
+      },
+      {
+        "text": "четыре сосуда",
+        "image": null
+      },
+      {
+        "text": "пять сосудов",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Артериальный конус - вспомогательная камера сердца, в процессе эволюции сформировался у ...",
+    "number": 10,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "хрящевых рыб",
+        "image": null
+      },
+      {
+        "text": "млекопитающих",
+        "image": null
+      },
+      {
+        "text": "костных рыб",
+        "image": null
+      },
+      {
+        "text": "бесхвостых амфибий",
+        "image": null
+      },
+      {
+        "text": "пресмыкающихся",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции сформировались и выходят из желудочка сердца три сосуда (легочная артерия, правая артериальная дуга, левая венозная дуга) у",
+    "number": 11,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "пресмыкающихся",
+        "image": null
+      },
+      {
+        "text": "млекопитающих",
+        "image": null
+      },
+      {
+        "text": "костных рыб",
+        "image": null
+      },
+      {
+        "text": "бесхвостых амфибий",
+        "image": null
+      },
+      {
+        "text": "хрящевых рыб",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у млекопитающих сформировалась и функционирует в течение всей жизни почка ...",
+    "number": 12,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "метанефрос",
+        "image": null
+      },
+      {
+        "text": "мезанефрос",
+        "image": null
+      },
+      {
+        "text": "пронефрос",
+        "image": null
+      },
+      {
+        "text": "протонефридии",
+        "image": null
+      },
+      {
+        "text": "метанефридии",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у пресмыкающихся сформировался тип головного мозга ...",
+    "number": 13,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "зауропсидный",
+        "image": null
+      },
+      {
+        "text": "ихтиопсидный",
+        "image": null
+      },
+      {
+        "text": "маммальный",
+        "image": null
+      },
+      {
+        "text": "гиостилический",
+        "image": null
+      },
+      {
+        "text": "аутостилический",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В ихтиопсидном типе мозга в процессе эволюции центр регуляции сформировался в",
+    "number": 14,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "среднем мозге",
+        "image": null
+      },
+      {
+        "text": "промежуточном мозге",
+        "image": null
+      },
+      {
+        "text": "переднем отделе головного мозга - полосатых телах",
+        "image": null
+      },
+      {
+        "text": "продолговатом мозге",
+        "image": null
+      },
+      {
+        "text": "переднем отделе головного мозга - коре больших полушарий",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у амфибий сформировались и выходят из желудочка сердца",
+    "number": 15,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "один сосуд",
+        "image": null
+      },
+      {
+        "text": "два сосуда",
+        "image": null
+      },
+      {
+        "text": "три сосуда",
+        "image": null
+      },
+      {
+        "text": "четыре сосуда",
+        "image": null
+      },
+      {
+        "text": "пять сосудов",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции луковица аорты(вспомогательная камера сердца) сформировалась у",
+    "number": 16,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "костных рыб",
+        "image": null
+      },
+      {
+        "text": "млекопитающих",
+        "image": null
+      },
+      {
+        "text": "хрящевых рыб",
+        "image": null
+      },
+      {
+        "text": "бесхвостых амфибий",
+        "image": null
+      },
+      {
+        "text": "пресмыкающихся",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции сформировалась и выполняет функцию сердца пульсирующая брюшная аорта у",
+    "number": 17,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "ланцетника",
+        "image": null
+      },
+      {
+        "text": "млекопитающих",
+        "image": null
+      },
+      {
+        "text": "хрящевых рыб",
+        "image": null
+      },
+      {
+        "text": "бесхвостых амфибий",
+        "image": null
+      },
+      {
+        "text": "пресмыкающихся",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у амфибий сформировалась и функционирует в течение всей жизни почка",
+    "number": 18,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "мезанефрос",
+        "image": null
+      },
+      {
+        "text": "пронефрос",
+        "image": null
+      },
+      {
+        "text": "метанефрос",
+        "image": null
+      },
+      {
+        "text": "метанефридии",
+        "image": null
+      },
+      {
+        "text": "протонефридий",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У беспозвоночных в процессе эволюции покровы тела формируются из",
+    "number": 19,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "эктодермы и ее производных",
+        "image": null
+      },
+      {
+        "text": "энтодермы и ее производных",
+        "image": null
+      },
+      {
+        "text": "эктодермы и мезодермы",
+        "image": null
+      },
+      {
+        "text": "мезодермы и ее производных",
+        "image": null
+      },
+      {
+        "text": "эктодермы и энтодермы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У членистоногих в процессе эволюции поверхностный слой эпителия превращается в",
+    "number": 20,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "хитинизированную кутикулу",
+        "image": null
+      },
+      {
+        "text": "известковую раковину",
+        "image": null
+      },
+      {
+        "text": "мерцательный слой",
+        "image": null
+      },
+      {
+        "text": "мантию",
+        "image": null
+      },
+      {
+        "text": "скелет",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У хордовых эволюция кожных покровов шла в направлении:",
+    "number": 21,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "замены однослойного эпителия многослойным, формировании многоклеточных желез , формировании двух слоев кожи: эпителия и кориума и многофункциональности",
+        "image": null
+      },
+      {
+        "text": "формировании многоклеточных желез",
+        "image": null
+      },
+      {
+        "text": "формировании двух слоев кожи: эпителия и кориума",
+        "image": null
+      },
+      {
+        "text": "многофункциональности",
+        "image": null
+      },
+      {
+        "text": "замены однослойного эпителия многослойным",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У моллюсков в процессе эволюции поверхностный слой эпителия развивается в",
+    "number": 22,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "известковую раковину",
+        "image": null
+      },
+      {
+        "text": "мерцательный слой",
+        "image": null
+      },
+      {
+        "text": "хитинизированную кутикулу",
+        "image": null
+      },
+      {
+        "text": "мантию",
+        "image": null
+      },
+      {
+        "text": "скелет",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У разных типов червей эволюция покровов шла в направлении развития мерцательного эпителия в",
+    "number": 23,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "плоский эпителий",
+        "image": null
+      },
+      {
+        "text": "железистый эпителий",
+        "image": null
+      },
+      {
+        "text": "кубический эпителий",
+        "image": null
+      },
+      {
+        "text": "ресничный эпителий",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У земноводных кожа используется в качестве дополнительного органа дыхания, поэтому в процессе эволюции это привело к развитию в коже этих животных ...",
+    "number": 24,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "многоклеточных желез",
+        "image": null
+      },
+      {
+        "text": "щетинок",
+        "image": null
+      },
+      {
+        "text": "микроворсинок",
+        "image": null
+      },
+      {
+        "text": "ресничек",
+        "image": null
+      },
+      {
+        "text": "одноклеточных желез",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У млекопитающих в процессе эволюции развились производные кожи:",
+    "number": 25,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "когти , волосы, рога и копыта",
+        "image": null
+      },
+      {
+        "text": "волосы",
+        "image": null
+      },
+      {
+        "text": "рога",
+        "image": null
+      },
+      {
+        "text": "копыта",
+        "image": null
+      },
+      {
+        "text": "когти",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У птиц в процессе эволюции развились производные кожи:",
+    "number": 26,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "перья, роговые щитки на нижних конечностях и когти",
+        "image": null
+      },
+      {
+        "text": "роговые щитки на нижних конечностях",
+        "image": null
+      },
+      {
+        "text": "когти",
+        "image": null
+      },
+      {
+        "text": "перья",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У пресмыкающихся в процессе эволюции развились производные кожи:",
+    "number": 27,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "роговая чешуя , роговые плоские пластины и когти",
+        "image": null
+      },
+      {
+        "text": "роговые плоские пластины",
+        "image": null
+      },
+      {
+        "text": "когти",
+        "image": null
+      },
+      {
+        "text": "усы",
+        "image": null
+      },
+      {
+        "text": "роговая чешуя",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у птиц появились перья - это производные ...",
+    "number": 28,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "эктодермы",
+        "image": null
+      },
+      {
+        "text": "энтодермы",
+        "image": null
+      },
+      {
+        "text": "эктодермы и мезодермы",
+        "image": null
+      },
+      {
+        "text": "мезодермы и ее производных",
+        "image": null
+      },
+      {
+        "text": "эктодермы и энтодермы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У хрящевых рыб в процессе эволюции сформировалась чешуя",
+    "number": 29,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "плакоидная",
+        "image": null
+      },
+      {
+        "text": "ктеноидная",
+        "image": null
+      },
+      {
+        "text": "роговая",
+        "image": null
+      },
+      {
+        "text": "циклоидная",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у высших приматов ведущим центром регуляции является отдел мозга:",
+    "number": 30,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "передний",
+        "image": null
+      },
+      {
+        "text": "задний",
+        "image": null
+      },
+      {
+        "text": "продолговатый",
+        "image": null
+      },
+      {
+        "text": "средний",
+        "image": null
+      },
+      {
+        "text": "промежуточный",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у птиц и пресмыкающихся сформировался тип головного мозга:",
+    "number": 31,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "зауропсидный",
+        "image": null
+      },
+      {
+        "text": "ихтиопсидный",
+        "image": null
+      },
+      {
+        "text": "маммальный",
+        "image": null
+      },
+      {
+        "text": "гиостилический",
+        "image": null
+      },
+      {
+        "text": "аутостилический",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у амниот сформировалось желудочков мозга:",
+    "number": 32,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "четыре",
+        "image": null
+      },
+      {
+        "text": "два",
+        "image": null
+      },
+      {
+        "text": "три",
+        "image": null
+      },
+      {
+        "text": "один",
+        "image": null
+      },
+      {
+        "text": "пять",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции выделительная система закладывается в:",
+    "number": 33,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "мезодерме",
+        "image": null
+      },
+      {
+        "text": "эктодерме",
+        "image": null
+      },
+      {
+        "text": "эктодерме и мезодерме",
+        "image": null
+      },
+      {
+        "text": "энтодерме",
+        "image": null
+      },
+      {
+        "text": "эктодерме и энтодерме",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции нервная система закладывается в:",
+    "number": 34,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "эктодерме",
+        "image": null
+      },
+      {
+        "text": "энтодерме",
+        "image": null
+      },
+      {
+        "text": "эктодерме и мезодерме",
+        "image": null
+      },
+      {
+        "text": "мезодерме",
+        "image": null
+      },
+      {
+        "text": "эктодерме и энтодерме",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции кровеносная система закладывается в:",
+    "number": 35,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "мезодерме",
+        "image": null
+      },
+      {
+        "text": "эктодерме",
+        "image": null
+      },
+      {
+        "text": "эктодерме и мезодерме",
+        "image": null
+      },
+      {
+        "text": "энтодерме",
+        "image": null
+      },
+      {
+        "text": "эктодерме и энтодерме",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у плоских червей в пищеварительной системе формируется:",
+    "number": 36,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "передний и средний отделы",
+        "image": null
+      },
+      {
+        "text": "средний отдел",
+        "image": null
+      },
+      {
+        "text": "задний отдел",
+        "image": null
+      },
+      {
+        "text": "передний отдел",
+        "image": null
+      },
+      {
+        "text": "только передний",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у круглых червей в пищеварительной системе формируется:",
+    "number": 37,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "передний, средний и задний отделы",
+        "image": null
+      },
+      {
+        "text": "средний отдел",
+        "image": null
+      },
+      {
+        "text": "задний отдел",
+        "image": null
+      },
+      {
+        "text": "передний и средний отделы",
+        "image": null
+      },
+      {
+        "text": "передний отдел",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции половой диморфизм впервые возник у...",
+    "number": 38,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "круглых червей",
+        "image": null
+      },
+      {
+        "text": "плоских червей",
+        "image": null
+      },
+      {
+        "text": "кольчатых червей",
+        "image": null
+      },
+      {
+        "text": "членистоногих",
+        "image": null
+      },
+      {
+        "text": "мягкотелых",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции у амфибий сформировались воздухоносные пути, которые представлены:",
+    "number": 39,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "ротоглоткой и гортаннотрахейной камерой",
+        "image": null
+      },
+      {
+        "text": "ротоглоткой",
+        "image": null
+      },
+      {
+        "text": "трахеей",
+        "image": null
+      },
+      {
+        "text": "гортаннотрахейной камерой",
+        "image": null
+      },
+      {
+        "text": "глоткой",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Объединение ротовой полости и глотки у амфибий - это",
+    "number": 40,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "адаптация к дыханию",
+        "image": null
+      },
+      {
+        "text": "адаптация к проглатыванию пищи",
+        "image": null
+      },
+      {
+        "text": "адаптация к нахождению под водой",
+        "image": null
+      },
+      {
+        "text": "адаптация к нырянию",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В эмбриогенезе млекопитающих мочеполовая система формируется из",
+    "number": 41,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "мезодермы и ножек сомитов",
+        "image": null
+      },
+      {
+        "text": "мезодермы",
+        "image": null
+      },
+      {
+        "text": "эктодермы",
+        "image": null
+      },
+      {
+        "text": "ножек сомитов",
+        "image": null
+      },
+      {
+        "text": "энтодермы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В эмбриогенезе птиц мочеполовая система формируется из",
+    "number": 42,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "мезодермы и ножек сомитов",
+        "image": null
+      },
+      {
+        "text": "мезодермы",
+        "image": null
+      },
+      {
+        "text": "эктодермы",
+        "image": null
+      },
+      {
+        "text": "ножек сомитов",
+        "image": null
+      },
+      {
+        "text": "энтодермы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В эмбриогенезе пресмыкающихся мочеполовая система формируется из",
+    "number": 43,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "мезодермы и ножек сомитов",
+        "image": null
+      },
+      {
+        "text": "мезодермы",
+        "image": null
+      },
+      {
+        "text": "эктодермы",
+        "image": null
+      },
+      {
+        "text": "ножек сомитов",
+        "image": null
+      },
+      {
+        "text": "энтодермы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Органы выделения у анамний представлены",
+    "number": 44,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "мезонефросом",
+        "image": null
+      },
+      {
+        "text": "метанефросом",
+        "image": null
+      },
+      {
+        "text": "головной почкой",
+        "image": null
+      },
+      {
+        "text": "протонефридиями",
+        "image": null
+      },
+      {
+        "text": "метанефридиями",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Органы выделения у взрослых амниот представлены",
+    "number": 45,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "тазовой почкой",
+        "image": null
+      },
+      {
+        "text": "туловищной почкой",
+        "image": null
+      },
+      {
+        "text": "головной почкой",
+        "image": null
+      },
+      {
+        "text": "протонефридиями",
+        "image": null
+      },
+      {
+        "text": "метанефридиями",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Прогрессивные направления филогенеза выделительной системы представителей типа членистоногие состоят в",
+    "number": 46,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "замене метанефридиев на мальпигиевы сосуды",
+        "image": null
+      },
+      {
+        "text": "появлении протонефридиев",
+        "image": null
+      },
+      {
+        "text": "появлении метанефридиев",
+        "image": null
+      },
+      {
+        "text": "появлении коксальных желез",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Прогрессивные направления филогенеза выделительной системы представителей типа хордовые состоят в",
+    "number": 47,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "появлении почки, увеличении количества нефронов в почке, увеличении длины выделительных канальцев и концентрации мочи",
+        "image": null
+      },
+      {
+        "text": "увеличении количества нефронов в почке",
+        "image": null
+      },
+      {
+        "text": "увеличении длины выделительных канальцев",
+        "image": null
+      },
+      {
+        "text": "концентрации мочи",
+        "image": null
+      },
+      {
+        "text": "появлении почки",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Прогрессивные направления филогенеза в первичной почке по сравнению с головной почкой состоят в",
+    "number": 48,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "удлинении канальцев нефрона",
+        "image": null
+      },
+      {
+        "text": "укорочении канальцев нефрона",
+        "image": null
+      },
+      {
+        "text": "дифференцировки канальцев нефрона",
+        "image": null
+      },
+      {
+        "text": "редукции воронки нефрона",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Прогрессивные направления филогенеза во вторичной почке по сравнению с первичной почкой состоят в",
+    "number": 49,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "удлинении канальцев нефрона, дифференцировки канальцев нефрона , редукции воронки нефрона",
+        "image": null
+      },
+      {
+        "text": "укорочении канальцев нефрона",
+        "image": null
+      },
+      {
+        "text": "дифференцировки канальцев нефрона",
+        "image": null
+      },
+      {
+        "text": "редукции воронки нефрона",
+        "image": null
+      },
+      {
+        "text": "удлинении канальцев нефрона",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Прогрессивные направления филогенеза выделительной системы представителей типа хордовые состоят в",
+    "number": 50,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "возникновении прямой связи между кровеносной и выделительной системами, появлении почечного тельца, редукции нефростома",
+        "image": null
+      },
+      {
+        "text": "появлении почечного тельца",
+        "image": null
+      },
+      {
+        "text": "редукции нефростома",
+        "image": null
+      },
+      {
+        "text": "возникновении прямой связи между кровеносной и выделительной системами",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Головная почка имеет количество нефронов",
+    "number": 51,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "до 12",
+        "image": null
+      },
+      {
+        "text": "несколько сот",
+        "image": null
+      },
+      {
+        "text": "около миллиона",
+        "image": null
+      },
+      {
+        "text": "более миллиарда",
+        "image": null
+      },
+      {
+        "text": "до сотни",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Первичная почка имеет количество нефронов",
+    "number": 52,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "несколько сот",
+        "image": null
+      },
+      {
+        "text": "до сотни",
+        "image": null
+      },
+      {
+        "text": "около миллиона",
+        "image": null
+      },
+      {
+        "text": "более миллиарда",
+        "image": null
+      },
+      {
+        "text": "до 12",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Вторичная почка имеет количество нефронов",
+    "number": 53,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "около миллиона",
+        "image": null
+      },
+      {
+        "text": "несколько сот",
+        "image": null
+      },
+      {
+        "text": "до сотни",
+        "image": null
+      },
+      {
+        "text": "более миллиарда",
+        "image": null
+      },
+      {
+        "text": "до 12",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Пронефрос закладывается в сегментах эмбриона",
+    "number": 54,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "головных",
+        "image": null
+      },
+      {
+        "text": "туловищных",
+        "image": null
+      },
+      {
+        "text": "тазовых",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Мезонефрос закладывается в сегментах эмбриона",
+    "number": 55,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "туловищных",
+        "image": null
+      },
+      {
+        "text": "тазовых",
+        "image": null
+      },
+      {
+        "text": "головных",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Метанефрос закладывается в сегментах эмбриона",
+    "number": 56,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "тазовых",
+        "image": null
+      },
+      {
+        "text": "туловищных",
+        "image": null
+      },
+      {
+        "text": "головных",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Предпочка функционирует у высших позвоночных",
+    "number": 57,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "только в эмбриогенезе и в головных сегментах зародыша",
+        "image": null
+      },
+      {
+        "text": "в течение всей жизни",
+        "image": null
+      },
+      {
+        "text": "в головных сегментах зародыша",
+        "image": null
+      },
+      {
+        "text": "в тазовых сегментах зародыша",
+        "image": null
+      },
+      {
+        "text": "только в эмбриогенезе",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": ".Предпочка функционирует в течение всей жизни",
+    "number": 58,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "нет правильного ответа",
+        "image": null
+      },
+      {
+        "text": "у рыб",
+        "image": null
+      },
+      {
+        "text": "амфибий",
+        "image": null
+      },
+      {
+        "text": "у млекопитающих",
+        "image": null
+      },
+      {
+        "text": "у птиц",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Предпочка функционирует",
+    "number": 59,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "у личинок рыб и амфибий",
+        "image": null
+      },
+      {
+        "text": "у рыб",
+        "image": null
+      },
+      {
+        "text": "амфибий",
+        "image": null
+      },
+      {
+        "text": "у млекопитающих",
+        "image": null
+      },
+      {
+        "text": "у птиц",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Первичная почка полностью развивается и функционирует у",
+    "number": 60,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "рыб и земноводных",
+        "image": null
+      },
+      {
+        "text": "земноводных",
+        "image": null
+      },
+      {
+        "text": "птиц",
+        "image": null
+      },
+      {
+        "text": "пресмыкающихся",
+        "image": null
+      },
+      {
+        "text": "рыб",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Вторичная почка полностью развивается и функционирует у",
+    "number": 61,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "птиц и пресмыкающихся",
+        "image": null
+      },
+      {
+        "text": "земноводных",
+        "image": null
+      },
+      {
+        "text": "птиц",
+        "image": null
+      },
+      {
+        "text": "пресмыкающихся",
+        "image": null
+      },
+      {
+        "text": "рыб",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Сходство пронефроса с мезонефросом",
+    "number": 62,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "наличие нефростома",
+        "image": null
+      },
+      {
+        "text": "одинаковое место закладки у эмбриона",
+        "image": null
+      },
+      {
+        "text": "одинаковое количество нефронов",
+        "image": null
+      },
+      {
+        "text": "наличие почечного тельца",
+        "image": null
+      },
+      {
+        "text": "прямая связь с кровеносной системой",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Сходство мезонефроса с метанефросом",
+    "number": 63,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "наличие почечного тельца",
+        "image": null
+      },
+      {
+        "text": "одинаковое место закладки у эмбриона",
+        "image": null
+      },
+      {
+        "text": "наличие нефростома",
+        "image": null
+      },
+      {
+        "text": "одинаковое количество нефронов",
+        "image": null
+      },
+      {
+        "text": "непосредственная связь с целомом",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Нефрон головной почки состоит из:",
+    "number": 64,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "нефростома и выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "петли Генле",
+        "image": null
+      },
+      {
+        "text": "почечного тельца",
+        "image": null
+      },
+      {
+        "text": "выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "нефростома",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Нефрон первичной почки состоит из:",
+    "number": 65,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "нефростома, почечного тельца и выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "петли Генле",
+        "image": null
+      },
+      {
+        "text": "почечного тельца",
+        "image": null
+      },
+      {
+        "text": "выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "нефростома",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Нефрон вторичной почки состоит из:",
+    "number": 66,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "петли Генле, почечного тельца и выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "петли Генле",
+        "image": null
+      },
+      {
+        "text": "почечного тельца",
+        "image": null
+      },
+      {
+        "text": "выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "нефростома",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Головная почка функционирует в течение всей жизни",
+    "number": 67,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "у круглоротых(миксин)",
+        "image": null
+      },
+      {
+        "text": "у рыб",
+        "image": null
+      },
+      {
+        "text": "амфибий",
+        "image": null
+      },
+      {
+        "text": "у млекопитающих",
+        "image": null
+      },
+      {
+        "text": "у птиц",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "круглых червей в процессе эволюции сформировались органы выделения:",
+    "number": 68,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "видоизмененные протонефридии в виде одной или двух гигантских клеток в виде буквы Н",
+        "image": null
+      },
+      {
+        "text": "метанефридии",
+        "image": null
+      },
+      {
+        "text": "почки",
+        "image": null
+      },
+      {
+        "text": "видоизмененные метанефридии",
+        "image": null
+      },
+      {
+        "text": "протонефридии",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У плоских червей в процессе эволюции сформировались органы выделения:",
+    "number": 69,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протонефридии",
+        "image": null
+      },
+      {
+        "text": "метанефридии",
+        "image": null
+      },
+      {
+        "text": "почки",
+        "image": null
+      },
+      {
+        "text": "видоизмененные метанефридии",
+        "image": null
+      },
+      {
+        "text": "видоизмененные протонефридии в виде одной или двух гигантских клеток в виде буквы Н",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Прогрессивность мальпигиевых сосудов по сравнению с метанефридиями заключается в",
+    "number": 70,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "сохранении влаги в организме за счет обратного всасывания воды в кишечнике",
+        "image": null
+      },
+      {
+        "text": "образовании прямой связи с кровеносной системой",
+        "image": null
+      },
+      {
+        "text": "увеличении количества трубочек",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для нефрона головной почки круглоротых характерно наличие",
+    "number": 71,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "нефростома и выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "петли Генле",
+        "image": null
+      },
+      {
+        "text": "почечного тельца",
+        "image": null
+      },
+      {
+        "text": "выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "нефростома",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для нефрона первичной почки костных рыб характерно наличие",
+    "number": 72,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "нефростома, почечного тельца и выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "петли Генле",
+        "image": null
+      },
+      {
+        "text": "почечного тельца",
+        "image": null
+      },
+      {
+        "text": "выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "нефростома",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для нефрона первичной почки хрящевых рыб характерно наличие",
+    "number": 73,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "нефростома, почечного тельца и выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "петли Генле",
+        "image": null
+      },
+      {
+        "text": "почечного тельца",
+        "image": null
+      },
+      {
+        "text": "выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "нефростома",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для нефрона первичной почки бесхвостых амфибий характерно наличие",
+    "number": 74,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "нефростома, почечного тельца и выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "петли Генле",
+        "image": null
+      },
+      {
+        "text": "почечного тельца",
+        "image": null
+      },
+      {
+        "text": "выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "нефростома",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для нефрона вторичной почки птиц характерно наличие",
+    "number": 75,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "петли Генле, почечного тельца и выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "петли Генле",
+        "image": null
+      },
+      {
+        "text": "почечного тельца",
+        "image": null
+      },
+      {
+        "text": "выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "нефростома",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для нефрона вторичной почки пресмыкающихся характерно наличие",
+    "number": 76,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "петли Генле, почечного тельца и выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "петли Генле",
+        "image": null
+      },
+      {
+        "text": "почечного тельца",
+        "image": null
+      },
+      {
+        "text": "выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "нефростома",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для нефрона вторичной почки млекопитающих характерно наличие:",
+    "number": 77,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "петли Генле, почечного тельца и выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "петли Генле",
+        "image": null
+      },
+      {
+        "text": "почечного тельца",
+        "image": null
+      },
+      {
+        "text": "выделительного канальца",
+        "image": null
+      },
+      {
+        "text": "нефростома",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Петля Генле присутствует в нефроне почки:(почек)........",
+    "number": 78,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "вторичной",
+        "image": null
+      },
+      {
+        "text": "первичной",
+        "image": null
+      },
+      {
+        "text": "предпочки",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Капиллярный клубочек врастает в выделительный каналец нефрона с образованием почечного тельца у почки.......",
+    "number": 79,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "туловищной",
+        "image": null
+      },
+      {
+        "text": "головной",
+        "image": null
+      },
+      {
+        "text": "тазовой",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Наличие капсулы Боумена-Шумлянского характерно для нефрона почки",
+    "number": 80,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "тазовой",
+        "image": null
+      },
+      {
+        "text": "туловищной",
+        "image": null
+      },
+      {
+        "text": "головной",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Отсутствие нефростома характерно для нефрона почки",
+    "number": 81,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "тазовой",
+        "image": null
+      },
+      {
+        "text": "туловищной",
+        "image": null
+      },
+      {
+        "text": "головной",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Самый длинный выделительный каналец, дифференцированный на отделы характерен для нефрона почки(почек).......",
+    "number": 82,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "тазовой",
+        "image": null
+      },
+      {
+        "text": "туловищной",
+        "image": null
+      },
+      {
+        "text": "головной",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Наличие проксимального и дистального отделов извитых канальцев характерно для нефрона почки",
+    "number": 83,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "тазовой",
+        "image": null
+      },
+      {
+        "text": "туловищной",
+        "image": null
+      },
+      {
+        "text": "головной",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Концентрация мочи происходит в нефронах почки",
+    "number": 84,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "тазовой",
+        "image": null
+      },
+      {
+        "text": "туловищной",
+        "image": null
+      },
+      {
+        "text": "головной",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Фильтрация и реабсорбция происходят в нефронах почки",
+    "number": 85,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "тазовой",
+        "image": null
+      },
+      {
+        "text": "туловищной",
+        "image": null
+      },
+      {
+        "text": "головной",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У эмбриона человека закладывается",
+    "number": 86,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "предпочка, первичная почка и вторичная почка",
+        "image": null
+      },
+      {
+        "text": "первичная почка",
+        "image": null
+      },
+      {
+        "text": "вторичная почка",
+        "image": null
+      },
+      {
+        "text": "предпочка и первичная почка",
+        "image": null
+      },
+      {
+        "text": "предпочка",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У эмбриона птицы закладывается",
+    "number": 87,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "предпочка, первичная почка и вторичная почка",
+        "image": null
+      },
+      {
+        "text": "первичная почка",
+        "image": null
+      },
+      {
+        "text": "вторичная почка",
+        "image": null
+      },
+      {
+        "text": "предпочка и первичная почка",
+        "image": null
+      },
+      {
+        "text": "предпочка",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У эмбриона пресмыкающегося закладывается",
+    "number": 88,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "предпочка, первичная почка и вторичная почка",
+        "image": null
+      },
+      {
+        "text": "первичная почка",
+        "image": null
+      },
+      {
+        "text": "вторичная почка",
+        "image": null
+      },
+      {
+        "text": "предпочка и первичная почка",
+        "image": null
+      },
+      {
+        "text": "предпочка",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У эмбриона амфибии закладывается",
+    "number": 89,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "предпочка и первичная почка",
+        "image": null
+      },
+      {
+        "text": "первичная почка",
+        "image": null
+      },
+      {
+        "text": "вторичная почка",
+        "image": null
+      },
+      {
+        "text": "предпочка",
+        "image": null
+      },
+      {
+        "text": "предпочка, первичная почка и вторичная почка",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У эмбриона рыбы закладывается",
+    "number": 90,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "предпочка и первичная почка",
+        "image": null
+      },
+      {
+        "text": "первичная почка",
+        "image": null
+      },
+      {
+        "text": "вторичная почка",
+        "image": null
+      },
+      {
+        "text": "предпочка",
+        "image": null
+      },
+      {
+        "text": "предпочка, первичная почка и вторичная почка",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для представителей типа Членистоногие в результате эволюции сформировались следующие особенности строения:",
+    "number": 91,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "незамкнутая кровеносная система, хитиновый экзоскелет, мальпигиевы сосуды",
+        "image": null
+      },
+      {
+        "text": "незамкнутая кровеносная система",
+        "image": null
+      },
+      {
+        "text": "хитиновый экзоскелет",
+        "image": null
+      },
+      {
+        "text": "мальпигиевы сосуды",
+        "image": null
+      },
+      {
+        "text": "замкнутая кровеносная система",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Мальпигиевы сосуды - органы выделения и осморегуляции характерны для представителей классов:",
+    "number": 92,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "паукообразные и насекомые",
+        "image": null
+      },
+      {
+        "text": "паукообразные",
+        "image": null
+      },
+      {
+        "text": "насекомые",
+        "image": null
+      },
+      {
+        "text": "ракообразные",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Выделительная система у класса ракообразные представлена:",
+    "number": 93,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "антенальными и максилярными железами",
+        "image": null
+      },
+      {
+        "text": "максилярными железами",
+        "image": null
+      },
+      {
+        "text": "коксальными железами",
+        "image": null
+      },
+      {
+        "text": "мальпигиевыми сосудами",
+        "image": null
+      },
+      {
+        "text": "антенальными железами",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Выделительная система у класса паукообразные представлена:",
+    "number": 94,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "коксальными железами и мальпигиевыми сосудами",
+        "image": null
+      },
+      {
+        "text": "максилярными железами",
+        "image": null
+      },
+      {
+        "text": "коксальными железами",
+        "image": null
+      },
+      {
+        "text": "мальпигиевыми сосудами",
+        "image": null
+      },
+      {
+        "text": "антенальными железами",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Выделительная система у класса насекомые представлена:",
+    "number": 95,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "жировым телом(почкой накопления) и мальпигиевыми сосудами",
+        "image": null
+      },
+      {
+        "text": "максилярными железами",
+        "image": null
+      },
+      {
+        "text": "жировым телом(почкой накопления)",
+        "image": null
+      },
+      {
+        "text": "мальпигиевыми сосудами",
+        "image": null
+      },
+      {
+        "text": "антенальными железами",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Выделительная система у клещей представлена:",
+    "number": 96,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "коксальными железами",
+        "image": null
+      },
+      {
+        "text": "максилярными железами",
+        "image": null
+      },
+      {
+        "text": "антенальными железами",
+        "image": null
+      },
+      {
+        "text": "жировым телом(почкой накопления)",
+        "image": null
+      },
+      {
+        "text": "мальпигиевыми сосудами",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Нервная система у класса ракообразные:",
+    "number": 97,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "узловатого типа",
+        "image": null
+      },
+      {
+        "text": "видоизмененная ортогональная",
+        "image": null
+      },
+      {
+        "text": "диффузного типа",
+        "image": null
+      },
+      {
+        "text": "ортогонального типа",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Нервная система у класса паукообразные:",
+    "number": 98,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "узловатого типа",
+        "image": null
+      },
+      {
+        "text": "видоизмененная ортогональная",
+        "image": null
+      },
+      {
+        "text": "диффузного типа",
+        "image": null
+      },
+      {
+        "text": "ортогонального типа",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Нервная система у класса насекомые:",
+    "number": 99,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "узловатого типа",
+        "image": null
+      },
+      {
+        "text": "видоизмененная ортогональная",
+        "image": null
+      },
+      {
+        "text": "диффузного типа",
+        "image": null
+      },
+      {
+        "text": "ортогонального типа",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Нервная система представителей типа Членистоногие состоит из:",
+    "number": 100,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "надглоточного ганглия, подглоточного ганглия и брюшной нервной цепочки",
+        "image": null
+      },
+      {
+        "text": "подглоточного ганглия",
+        "image": null
+      },
+      {
+        "text": "брюшной нервной цепочки",
+        "image": null
+      },
+      {
+        "text": "надглоточного ганглия",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Самая много узловая брюшная нервная цепочка характерна для класса(классов):",
+    "number": 101,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "ракообразные",
+        "image": null
+      },
+      {
+        "text": "паукообразные",
+        "image": null
+      },
+      {
+        "text": "насекомые",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Парная брюшная нервная цепочка характерна для класса(классов):",
+    "number": 102,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "ракообразные",
+        "image": null
+      },
+      {
+        "text": "паукообразные",
+        "image": null
+      },
+      {
+        "text": "насекомые",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Непарная брюшная нервная цепочка характерна для класса(классов):",
+    "number": 103,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "паукообразные и насекомые",
+        "image": null
+      },
+      {
+        "text": "паукообразные",
+        "image": null
+      },
+      {
+        "text": "насекомые",
+        "image": null
+      },
+      {
+        "text": "ракообразные и паукообразные",
+        "image": null
+      },
+      {
+        "text": "ракообразные",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Остатки вторичной полости тела у типа Членистоногие находятся",
+    "number": 104,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "в виде перикарда и вокруг гонад",
+        "image": null
+      },
+      {
+        "text": "в виде перикарда",
+        "image": null
+      },
+      {
+        "text": "вокруг гонад",
+        "image": null
+      },
+      {
+        "text": "в сосудах",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для класса ракообразные характерны отделы\"головного мозга\"",
+    "number": 105,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "протоцеребрум и дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для класса паукообразные характерны отделы\"головного мозга\"",
+    "number": 106,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протоцеребрум и тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум и дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для класса насекомые характерны отделы\"головного мозга\"",
+    "number": 107,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протоцеребрум , дейтоцеребрум и тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум и дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для речного рака характерны отделы\"головного мозга\"",
+    "number": 108,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протоцеребрум и дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум , дейтоцеребрум и тритоцеребрум",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для паука -крестовика характерны отделы\"головного мозга\"",
+    "number": 109,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протоцеребрум и тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум и дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для бабочки -капустницы характерны отделы\"головного мозга\"",
+    "number": 110,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протоцеребрум , дейтоцеребрум и тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум и дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Протоцеребрум- отдел \"головного мозга\"у класса ракообразные иннервирует",
+    "number": 111,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "сложные глаза",
+        "image": null
+      },
+      {
+        "text": "усики",
+        "image": null
+      },
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "верхнюю губу",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Протоцеребрум- отдел \"головного мозга\"у класса паукообразные иннервирует",
+    "number": 112,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "простые глаза",
+        "image": null
+      },
+      {
+        "text": "усики",
+        "image": null
+      },
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "верхнюю губу",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Протоцеребрум- отдел \"головного мозга\"у класса насекомые иннервирует",
+    "number": 113,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "сложные глаза",
+        "image": null
+      },
+      {
+        "text": "усики",
+        "image": null
+      },
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "верхнюю губу",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Дейтоцеребрум - отдел \"головного мозга\"у класса ракообразные иннервирует",
+    "number": 114,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "усики",
+        "image": null
+      },
+      {
+        "text": "сложные глаза",
+        "image": null
+      },
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "верхнюю губу",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Тритоцеребрум - отдел \"головного мозга\"у класса паукообразные иннервирует",
+    "number": 115,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "усики",
+        "image": null
+      },
+      {
+        "text": "сложные глаза",
+        "image": null
+      },
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "верхнюю губу",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Дейтоцеребрум - отдел \"головного мозга\"у класса насекомые иннервирует",
+    "number": 116,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "усики",
+        "image": null
+      },
+      {
+        "text": "сложные глаза",
+        "image": null
+      },
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "верхнюю губу",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Тритоцеребрум - отдел \"головного мозга\"у класса насекомые иннервирует",
+    "number": 117,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "нижнюю губу",
+        "image": null
+      },
+      {
+        "text": "усики",
+        "image": null
+      },
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "сложные глаза",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Хитиновая кутикула- производная кожи у класса ракообразные состоит из:",
+    "number": 118,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "экзокутикулы и эндокутикулы",
+        "image": null
+      },
+      {
+        "text": "эндокутикулы",
+        "image": null
+      },
+      {
+        "text": "эпикутикулы",
+        "image": null
+      },
+      {
+        "text": "экзокутикулы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Хитиновая кутикула- производная кожи у класса паукообразные состоит из:",
+    "number": 119,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "экзокутикулы , эндокутикулы и эпикутикулы",
+        "image": null
+      },
+      {
+        "text": "эндокутикулы",
+        "image": null
+      },
+      {
+        "text": "эпикутикулы",
+        "image": null
+      },
+      {
+        "text": "экзокутикулы и эндокутикулы",
+        "image": null
+      },
+      {
+        "text": "экзокутикулы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Хитиновая кутикула- производная кожи у класса насекомые состоит из:",
+    "number": 120,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "экзокутикулы , эндокутикулы и эпикутикулы",
+        "image": null
+      },
+      {
+        "text": "эндокутикулы",
+        "image": null
+      },
+      {
+        "text": "эпикутикулы",
+        "image": null
+      },
+      {
+        "text": "экзокутикулы и эндокутикулы",
+        "image": null
+      },
+      {
+        "text": "экзокутикулы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Полость тела у типа Членистоногие:",
+    "number": 121,
+    "answers_count": 3,
+    "answers": [
+      {
+        "text": "смешанная",
+        "image": null
+      },
+      {
+        "text": "вторичная",
+        "image": null
+      },
+      {
+        "text": "первичная",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Видоизмененные конечности - средство защиты и нападения у класса паукообразные - это",
+    "number": 122,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "усики",
+        "image": null
+      },
+      {
+        "text": "сяжки",
+        "image": null
+      },
+      {
+        "text": "жвалы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Видоизмененные конечности - ногощупальцы у класса паукообразные -это",
+    "number": 123,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "усики",
+        "image": null
+      },
+      {
+        "text": "сяжки",
+        "image": null
+      },
+      {
+        "text": "жвалы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У класса ракообразные передний отдел\"головного мозга\" называется",
+    "number": 124,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протоцеребрум",
+        "image": null
+      },
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "нефростом",
+        "image": null
+      },
+      {
+        "text": "невроцель",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У класса ракообразные средний отдел\"головного мозга\" называется",
+    "number": 125,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум",
+        "image": null
+      },
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "нефростом",
+        "image": null
+      },
+      {
+        "text": "невроцель",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У класса паукообразные передний отдел\"головного мозга\" называется",
+    "number": 126,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протоцеребрум",
+        "image": null
+      },
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "нефростом",
+        "image": null
+      },
+      {
+        "text": "невроцель",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У класса насекомые передний отдел\"головного мозга\" называется",
+    "number": 127,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протоцеребрум",
+        "image": null
+      },
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "нефростом",
+        "image": null
+      },
+      {
+        "text": "невроцель",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У класса насекомые средний отдел\"головного мозга\" называется",
+    "number": 128,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум",
+        "image": null
+      },
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "нефростом",
+        "image": null
+      },
+      {
+        "text": "невроцель",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "У класса насекомые задний отдел\"головного мозга\" называется",
+    "number": 129,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "тритоцеребрум",
+        "image": null
+      },
+      {
+        "text": "дейтоцеребрум",
+        "image": null
+      },
+      {
+        "text": "протоцеребрум",
+        "image": null
+      },
+      {
+        "text": "нефростом",
+        "image": null
+      },
+      {
+        "text": "невроцель",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Число пар ходильных конечностей у класса ракообразные (речной рак)",
+    "number": 130,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "5 пар",
+        "image": null
+      },
+      {
+        "text": "3 пары",
+        "image": null
+      },
+      {
+        "text": "4 пары",
+        "image": null
+      },
+      {
+        "text": "пар",
+        "image": null
+      },
+      {
+        "text": "2 пары",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Число пар ходильных конечностей у класса паукообразные",
+    "number": 131,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "4 пары",
+        "image": null
+      },
+      {
+        "text": "3 пары",
+        "image": null
+      },
+      {
+        "text": "5 пар",
+        "image": null
+      },
+      {
+        "text": "6 пар",
+        "image": null
+      },
+      {
+        "text": "2 пары",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Число пар ходильных конечностей у класса насекомые",
+    "number": 132,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "3 пары",
+        "image": null
+      },
+      {
+        "text": "4 пары",
+        "image": null
+      },
+      {
+        "text": "5 пар",
+        "image": null
+      },
+      {
+        "text": "6 пар",
+        "image": null
+      },
+      {
+        "text": "2 пары",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Тип дыхания, характерный для взрослых представителей класса ракообразные",
+    "number": 133,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "жаберное",
+        "image": null
+      },
+      {
+        "text": "трахейное",
+        "image": null
+      },
+      {
+        "text": "кожно-легочное",
+        "image": null
+      },
+      {
+        "text": "трахейно-легочное",
+        "image": null
+      },
+      {
+        "text": "кожное",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Тип дыхания, характерный для взрослых представителей класса паукообразные",
+    "number": 134,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "кожно-легочное и трахейно-легочное",
+        "image": null
+      },
+      {
+        "text": "трахейное",
+        "image": null
+      },
+      {
+        "text": "кожно-легочное",
+        "image": null
+      },
+      {
+        "text": "трахейно-легочное",
+        "image": null
+      },
+      {
+        "text": "жаберное",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Тип дыхания, характерный для взрослых представителей класса насекомые",
+    "number": 135,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "трахейное",
+        "image": null
+      },
+      {
+        "text": "жаберное",
+        "image": null
+      },
+      {
+        "text": "кожно-легочное",
+        "image": null
+      },
+      {
+        "text": "трахейно-легочное",
+        "image": null
+      },
+      {
+        "text": "кожное",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Только трахейное дыхание характерно для класса (классов)...",
+    "number": 136,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "насекомые",
+        "image": null
+      },
+      {
+        "text": "паукообразные",
+        "image": null
+      },
+      {
+        "text": "ракообразные",
+        "image": null
+      },
+      {
+        "text": "паукообразные и насекомые",
+        "image": null
+      },
+      {
+        "text": "амфибии",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Трахейно-легочное дыхание характерно для класса (классов)...",
+    "number": 137,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "паукообразные",
+        "image": null
+      },
+      {
+        "text": "ракообразные",
+        "image": null
+      },
+      {
+        "text": "насекомые",
+        "image": null
+      },
+      {
+        "text": "паукообразные и насекомые",
+        "image": null
+      },
+      {
+        "text": "амфибии",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Кожно-легочное дыхание характерно для класса (классов)...",
+    "number": 138,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "паукообразные",
+        "image": null
+      },
+      {
+        "text": "ракообразные",
+        "image": null
+      },
+      {
+        "text": "насекомые",
+        "image": null
+      },
+      {
+        "text": "паукообразные и насекомые",
+        "image": null
+      },
+      {
+        "text": "нет правильного ответа",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Количество отделов тела у класса паукообразные",
+    "number": 139,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "два",
+        "image": null
+      },
+      {
+        "text": "три",
+        "image": null
+      },
+      {
+        "text": "четыре",
+        "image": null
+      },
+      {
+        "text": "пять",
+        "image": null
+      },
+      {
+        "text": "один",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Особенности организации представителей отряда Пауки",
+    "number": 140,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "наличие хелицер и педипальп и коксальных выделительных желез",
+        "image": null
+      },
+      {
+        "text": "3 пары ходильных ног",
+        "image": null
+      },
+      {
+        "text": "наличие хелицер и педипальп",
+        "image": null
+      },
+      {
+        "text": "коксальные выделительные железы",
+        "image": null
+      },
+      {
+        "text": "наличие крыльев",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Особенности организации представителей отряда Клещи",
+    "number": 141,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "4 пары ходильных ног , наличие хелицер и педипальп, а также коксальные выделительные железы",
+        "image": null
+      },
+      {
+        "text": "4 пары ходильных ног",
+        "image": null
+      },
+      {
+        "text": "наличие хелицер и педипальп",
+        "image": null
+      },
+      {
+        "text": "коксальные выделительные железы",
+        "image": null
+      },
+      {
+        "text": "наличие крыльев",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Особенности организации представителей класса Насекомые",
+    "number": 142,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "как правило наличие крыльев ,3 пары ходильных ног, 3 сегмента груди",
+        "image": null
+      },
+      {
+        "text": "3 пары ходильных ног",
+        "image": null
+      },
+      {
+        "text": "наличие хелицер и педипальп",
+        "image": null
+      },
+      {
+        "text": "3 сегмента груди",
+        "image": null
+      },
+      {
+        "text": "как правило наличие крыльев",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Особенности организации представителей семейства Комары",
+    "number": 143,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "наличие крыльев одной пары, 3 пары ходильных ног, развитие с метаморфозом в водной среде, 3 сегмента груди",
+        "image": null
+      },
+      {
+        "text": "3 пары ходильных ног",
+        "image": null
+      },
+      {
+        "text": "развитие с метаморфозом в водной среде",
+        "image": null
+      },
+      {
+        "text": "наличие крыльев одной пары",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции задняя пара крыльев у комаров превратилась в",
+    "number": 144,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "жужжальца",
+        "image": null
+      },
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "надкрылья",
+        "image": null
+      },
+      {
+        "text": "бородавчатые железы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции передняя пара конечностей у пауков видоизменилась в",
+    "number": 145,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "жужжальца",
+        "image": null
+      },
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "надкрылья",
+        "image": null
+      },
+      {
+        "text": "бородавчатые железы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В процессе эволюции вторая пара конечностей у пауков видоизменилась в",
+    "number": 146,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "педипальпы",
+        "image": null
+      },
+      {
+        "text": "хелицеры",
+        "image": null
+      },
+      {
+        "text": "жужжальца",
+        "image": null
+      },
+      {
+        "text": "надкрылья",
+        "image": null
+      },
+      {
+        "text": "бородавчатые железы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Общее количество пар конечностей у паукообразных составляет",
+    "number": 147,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "шесть",
+        "image": null
+      },
+      {
+        "text": "четыре",
+        "image": null
+      },
+      {
+        "text": "две",
+        "image": null
+      },
+      {
+        "text": "три",
+        "image": null
+      },
+      {
+        "text": "пять",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Общее количество пар конечностей у насекомых составляет",
+    "number": 148,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "семь",
+        "image": null
+      },
+      {
+        "text": "четыре",
+        "image": null
+      },
+      {
+        "text": "шесть",
+        "image": null
+      },
+      {
+        "text": "три",
+        "image": null
+      },
+      {
+        "text": "две",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  }
+]

@@ -1,0 +1,577 @@
+[
+  {
+    "name": "ИСХОДНЫЕ СОЕДИНЕНИЯ ДЛЯ ПОЛУЧЕНИЯ БАРБИТУРОВОЙ КИСЛОТЫ",
+    "answers": [
+      {
+        "text": null,
+        "image": "449.png"
+      },
+      {
+        "text": null,
+        "image": "450.png"
+      },
+      {
+        "text": null,
+        "image": "451.png"
+      },
+      {
+        "text": null,
+        "image": "452.png"
+      }
+    ],
+    "number": 1,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Верное утверждение для схемы таутомерных превращений ",
+    "answers": [
+      {
+        "text": "лактимная форма превращается в лактамную за счет перехода протона ОН-кислотного центра к пиридиновому атому азота",
+        "image": null
+      },
+      {
+        "text": "лактимная форма более устойчива, чем лактамная",
+        "image": null
+      },
+      {
+        "text": "приведена схема лактим-лактамной таутомерии барбитуровой кислоты",
+        "image": null
+      },
+      {
+        "text": "в лактамной форме атомы азота проявляют основные свойства",
+        "image": null
+      }
+    ],
+    "image": "453.png",
+    "number": 2,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИОННАЯ СПОСОБНОСТЬ СОЕДИНЕНИЙ В РЕАКЦИЯХ\nЭЛЕКТРОФИЛЬНОГО ЗАМЕЩЕНИЯ УМЕНЬШАЕТСЯ В РЯДУ:\n1)  ПИРИДИН\n2)  ПИРИМИДИН\n3)  ПИРРОЛ\n4)  ПИРАЗОЛ",
+    "answers": [
+      {
+        "text": "3→4→1→2",
+        "image": null
+      },
+      {
+        "text": "2→3→4→1",
+        "image": null
+      },
+      {
+        "text": "3→1→4→2",
+        "image": null
+      },
+      {
+        "text": "1→2→4→3",
+        "image": null
+      }
+    ],
+    "number": 3,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ О РЕАКЦИИ ПОЛУЧЕНИЯ 5-ФЕНИЛ-5-ЭТИЛБАРБИТУРОВОЙ КИСЛОТЫ",
+    "answers": [
+      {
+        "text": "реакция протекает по механизму нуклеофильного замещения у sp2-гибридизованного атома углерода",
+        "image": null
+      },
+      {
+        "text": "реакция протекает по механизму нуклеофильного присоединения",
+        "image": null
+      },
+      {
+        "text": "молекула мочевины играет роль электрофильного реагента",
+        "image": null
+      },
+      {
+        "text": "конечный продукт реакции способен ккето-енольной таутомерии",
+        "image": null
+      }
+    ],
+    "image": "454.png",
+    "number": 4,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТ ВЗАИМОДЕЙСТВИЯ ПИРИДИНА С СЕРНОЙ КИСЛОТОЙ ПРИ 0 ℃",
+    "answers": [
+      {
+        "text": null,
+        "image": "455.png"
+      },
+      {
+        "text": null,
+        "image": "456.png"
+      },
+      {
+        "text": null,
+        "image": "457.png"
+      },
+      {
+        "text": null,
+        "image": "458.png"
+      }
+    ],
+    "number": 5,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИЯ, ПРОТЕКАЮЩАЯ ПО МЕХАНИЗМУ ЭЛЕКТРОФИЛЬНОГО ЗАМЕЩЕНИЯ",
+    "answers": [
+      {
+        "text": null,
+        "image": "459.png"
+      },
+      {
+        "text": null,
+        "image": "460.png"
+      },
+      {
+        "text": null,
+        "image": "461.png"
+      },
+      {
+        "text": null,
+        "image": "462.png"
+      }
+    ],
+    "number": 6,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИЯ, ПРОТЕКАЮЩАЯ ПО МЕХАНИЗМУ НУКЛЕОФИЛЬНОГО ЗАМЕЩЕНИЯ",
+    "answers": [
+      {
+        "text": null,
+        "image": "463.png"
+      },
+      {
+        "text": null,
+        "image": "464.png"
+      },
+      {
+        "text": null,
+        "image": "465.png"
+      },
+      {
+        "text": null,
+        "image": "466.png"
+      }
+    ],
+    "number": 7,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ПИРИДИНА",
+    "answers": [
+      {
+        "text": "является π-недостаточным гетероциклом",
+        "image": null
+      },
+      {
+        "text": "электрофильное замещение направляется преимущественно в положение 4",
+        "image": null
+      },
+      {
+        "text": "взаимодействует со щелочными металлами",
+        "image": null
+      },
+      {
+        "text": "вступает в реакции нуклеофильного присоединения",
+        "image": null
+      }
+    ],
+    "number": 8,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КИСЛОТНЫЕ СВОЙСТВА СОЕДИНЕНИЙ УМЕНЬШАЮТСЯ В РЯДУ:\n1) ПИРРОЛ\n2) ИМИДАЗОЛ\n3) ПИРРОЛИДИН\n4) УКСУСНАЯ КИСЛОТА",
+    "answers": [
+      {
+        "text": "4→2→1→3",
+        "image": null
+      },
+      {
+        "text": "2→1→3→4",
+        "image": null
+      },
+      {
+        "text": "4→1→3→2",
+        "image": null
+      },
+      {
+        "text": "3→2→1→4",
+        "image": null
+      }
+    ],
+    "number": 9,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИЯ, ПРОТЕКАЮЩАЯ ПО МЕХАНИЗМУ ЭЛЕКТРОФИЛЬНОГО ЗАМЕЩЕНИЯ",
+    "answers": [
+      {
+        "text": null,
+        "image": "c5_10_1.png"
+      },
+      {
+        "text": null,
+        "image": "c5_10_2.png"
+      },
+      {
+        "text": null,
+        "image": "468.png"
+      },
+      {
+        "text": null,
+        "image": "469.png"
+      }
+    ],
+    "number": 10,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ОПТИМАЛЬНЫЙ РЕАГЕНТ ДЛЯ НИТРОВАНИЯ ФУРАНА",
+    "answers": [
+      {
+        "text": "CH3COONO2",
+        "image": null
+      },
+      {
+        "text": "HNO3 конц.",
+        "image": null
+      },
+      {
+        "text": "HNO3  разб.",
+        "image": null
+      },
+      {
+        "text": "NaNO2, HCl",
+        "image": null
+      }
+    ],
+    "number": 11,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ОПТИМАЛЬНЫЙ РЕАГЕНТ ДЛЯ СУЛЬФИРОВАНИЯ ПИРАЗОЛА",
+    "answers": [
+      {
+        "text": "H2SO4, t°",
+        "image": null
+      },
+      {
+        "text": "C5H5N•SO3",
+        "image": null
+      },
+      {
+        "text": "H2SO4 разб.",
+        "image": null
+      },
+      {
+        "text": "SO3, H2SO4",
+        "image": null
+      }
+    ],
+    "number": 12,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ОСНОВНЫЕ СВОЙСТВА СОЕДИНЕНИЙ УМЕНЬШАЮТСЯ В РЯДУ:\n1)  ПИРРОЛ\n2)  ИМИДАЗОЛ\n3)  ПИРРОЛИДИН\n4)  ПИРИДИН",
+    "answers": [
+      {
+        "text": "3→2→4→1",
+        "image": null
+      },
+      {
+        "text": "2→4→3→1",
+        "image": null
+      },
+      {
+        "text": "3→2→1→4",
+        "image": null
+      },
+      {
+        "text": "2→1→3→4",
+        "image": null
+      }
+    ],
+    "number": 13,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
+    "answers": [
+      {
+        "text": null,
+        "image": "471.png"
+      },
+      {
+        "text": null,
+        "image": "472.png"
+      },
+      {
+        "text": null,
+        "image": "473.png"
+      },
+      {
+        "text": null,
+        "image": "474.png"
+      }
+    ],
+    "image": "470.png",
+    "number": 14,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА ПУРИНА",
+    "answers": [
+      {
+        "text": null,
+        "image": "475.png"
+      },
+      {
+        "text": null,
+        "image": "476.png"
+      },
+      {
+        "text": null,
+        "image": "477.png"
+      },
+      {
+        "text": null,
+        "image": "478.png"
+      }
+    ],
+    "number": 15,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА КСАНТИНА",
+    "answers": [
+      {
+        "text": null,
+        "image": "c5_16_1.png"
+      },
+      {
+        "text": null,
+        "image": "c5_16_2.png"
+      },
+      {
+        "text": null,
+        "image": "480.png"
+      },
+      {
+        "text": null,
+        "image": "481.png"
+      }
+    ],
+    "number": 16,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА МОЧЕВОЙ КИСЛОТЫ",
+    "answers": [
+      {
+        "text": null,
+        "image": "482.png"
+      },
+      {
+        "text": null,
+        "image": "483.png"
+      },
+      {
+        "text": null,
+        "image": "484.png"
+      },
+      {
+        "text": null,
+        "image": "485.png"
+      }
+    ],
+    "number": 17,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАГЕНТ, ИСПОЛЬЗУЕМЫЙ ДЛЯ ПРЕВРАЩЕНИЯ",
+    "answers": [
+      {
+        "text": "HNO2",
+        "image": null
+      },
+      {
+        "text": "HNO3",
+        "image": null
+      },
+      {
+        "text": "KOH",
+        "image": null
+      },
+      {
+        "text": "H2O",
+        "image": null
+      }
+    ],
+    "image": "486.png",
+    "number": 18,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАГЕНТ, ИСПОЛЬЗУЕМЫЙ ДЛЯ ПРЕВРАЩЕНИЯ",
+    "answers": [
+      {
+        "text": "HNO2",
+        "image": null
+      },
+      {
+        "text": "HNO3",
+        "image": null
+      },
+      {
+        "text": "KOH",
+        "image": null
+      },
+      {
+        "text": "H2O",
+        "image": null
+      }
+    ],
+    "image": "487.png",
+    "number": 19,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНЫЕ УТВЕРЖДЕНИЯ ДЛЯ ТЕОБРОМИНА",
+    "answers": [
+      {
+        "text": "способен к лактим-лактамной таутомерии",
+        "image": null
+      },
+      {
+        "text": "является метилированным гипоксантином",
+        "image": null
+      },
+      {
+        "text": "является структурным изомером кофеина",
+        "image": null
+      },
+      {
+        "text": "относится к производным хинолина",
+        "image": null
+      }
+    ],
+    "image": "c5_20_0.png",
+    "number": 20,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "НУМЕРАЦИЯ ПУРИНА, ПРИНЯТАЯ ПРАВИЛАМИ ИЮПАК",
+    "answers": [
+      {
+        "text": null,
+        "image": "488.png"
+      },
+      {
+        "text": null,
+        "image": "c5_21_2.png"
+      },
+      {
+        "text": null,
+        "image": "c5_21_3.png"
+      },
+      {
+        "text": null,
+        "image": "c5_21_4.png"
+      }
+    ],
+    "number": 21,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, СПОСОБНОЕ К ЛАКТИМ-ЛАКТАМНОЙ ТАУТОМЕРИИ",
+    "answers": [
+      {
+        "text": "урацил",
+        "image": null
+      },
+      {
+        "text": "аденин",
+        "image": null
+      },
+      {
+        "text": "пурин",
+        "image": null
+      },
+      {
+        "text": "кофеин",
+        "image": null
+      }
+    ],
+    "number": 22,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ АЛЛОПУРИНОЛА",
+    "answers": [
+      {
+        "text": "способен к лактим-лактамной таутомерии",
+        "image": null
+      },
+      {
+        "text": "не взаимодействует с гидроксидом натрия",
+        "image": null
+      },
+      {
+        "text": "в основе лежит гетероциклическая система пурин",
+        "image": null
+      },
+      {
+        "text": "содержит гетероцикл имидазол",
+        "image": null
+      }
+    ],
+    "image": "490.png",
+    "number": 23,
+    "type": "oneselect",
+    "right_ans_num": 0
+  }
+]

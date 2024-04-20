@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Дети, появившиеся на свет в результате одной беременности называются: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "близнецами",
+        "image": null
+      },
+      {
+        "text": "монозиготами близнецами",
+        "image": null
+      },
+      {
+        "text": "дизиготами",
+        "image": null
+      },
+      {
+        "text": "братьями и сестрами",
+        "image": null
+      }
+    ],
+    "number": 1,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "С морфологической точки зрения 21 пара хромосом относится к группе ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "акроцентрических",
+        "image": null
+      },
+      {
+        "text": "метацентрических",
+        "image": null
+      },
+      {
+        "text": "самые крупные",
+        "image": null
+      },
+      {
+        "text": "средние",
+        "image": null
+      }
+    ],
+    "number": 2,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Расположение метафазных пар хромосом, по мере убывания размеров представляет собой: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "идиограмму",
+        "image": null
+      },
+      {
+        "text": "геном",
+        "image": null
+      },
+      {
+        "text": "кариотип",
+        "image": null
+      },
+      {
+        "text": "генотип",
+        "image": null
+      }
+    ],
+    "number": 3,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Метод дифференциального окрашивания хромосом был предложен: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "Т. Касперсоном ",
+        "image": null
+      },
+      {
+        "text": "Т. Морганом",
+        "image": null
+      },
+      {
+        "text": "Г. Менделем",
+        "image": null
+      },
+      {
+        "text": "Ф. Гальтоном",
+        "image": null
+      }
+    ],
+    "number": 4,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Метод, определяющий роль наследственности и среды в развитии признака, называется: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "близнецовый ",
+        "image": null
+      },
+      {
+        "text": "биохимический",
+        "image": null
+      },
+      {
+        "text": "генеалогический",
+        "image": null
+      },
+      {
+        "text": "цитологический",
+        "image": null
+      }
+    ],
+    "number": 5,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Близнецы, развивающиеся из одной яйцеклетки, называются: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "монозиготные ",
+        "image": null
+      },
+      {
+        "text": "дизиготные",
+        "image": null
+      },
+      {
+        "text": "двуяйцевыми",
+        "image": null
+      },
+      {
+        "text": "неидентичными",
+        "image": null
+      }
+    ],
+    "number": 6,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Близнецы, развивающиеся разных яйцеклеток, называются: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "дизиготные ",
+        "image": null
+      },
+      {
+        "text": "идентичные",
+        "image": null
+      },
+      {
+        "text": "однояйцевыми",
+        "image": null
+      },
+      {
+        "text": "все ответы верны",
+        "image": null
+      }
+    ],
+    "number": 7,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Рождение однояйцевых близнецов, как правило…",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "передается по линии матери ",
+        "image": null
+      },
+      {
+        "text": "не наследуется",
+        "image": null
+      },
+      {
+        "text": "зависит от среды",
+        "image": null
+      },
+      {
+        "text": "нет верного ответа",
+        "image": null
+      }
+    ],
+    "number": 8,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Конкордантность по группе крови среди монозиготных близнецов в %: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "99",
+        "image": null
+      },
+      {
+        "text": "45",
+        "image": null
+      },
+      {
+        "text": "10",
+        "image": null
+      },
+      {
+        "text": "0",
+        "image": null
+      }
+    ],
+    "number": 9,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Дискордантность-это: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "отличие по многим признакам ",
+        "image": null
+      },
+      {
+        "text": "сходность по многим признакам",
+        "image": null
+      },
+      {
+        "text": "разнояйцовость",
+        "image": null
+      },
+      {
+        "text": "дизиготность",
+        "image": null
+      }
+    ],
+    "number": 10,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Генеалогический метод позволяет определить: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "тип наследования  признака",
+        "image": null
+      },
+      {
+        "text": "роль среды в формировании признака",
+        "image": null
+      },
+      {
+        "text": "роль генотипа в формировании признака",
+        "image": null
+      },
+      {
+        "text": "колебание частот аллелей",
+        "image": null
+      }
+    ],
+    "number": 11,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Цитогенетическим методом изучаются хромосомы на стадии митоза: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "метафазы ",
+        "image": null
+      },
+      {
+        "text": "профазы",
+        "image": null
+      },
+      {
+        "text": "анафазы",
+        "image": null
+      },
+      {
+        "text": "телофазы",
+        "image": null
+      }
+    ],
+    "number": 12,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Денверская классификация учитывает следующую характеристику хромосом: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "размер",
+        "image": null
+      },
+      {
+        "text": "количество центромер",
+        "image": null
+      },
+      {
+        "text": "уровень спирализации",
+        "image": null
+      },
+      {
+        "text": "дифференциальное окрашивание",
+        "image": null
+      }
+    ],
+    "number": 13,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для изучения кариотипа, генных и хромосомных мутаций человека с помощью цитогенетического метода, деление клетки, останавливается перед этой стадией митоза митоза: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "анафазой",
+        "image": null
+      },
+      {
+        "text": "метафазой",
+        "image": null
+      },
+      {
+        "text": "телофазой",
+        "image": null
+      },
+      {
+        "text": "интерфазой",
+        "image": null
+      }
+    ],
+    "number": 14,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В Х-хромосоме локализован доминантный ген, отвечающий за: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "нормальное цветовосприятие ",
+        "image": null
+      },
+      {
+        "text": "катаракту",
+        "image": null
+      },
+      {
+        "text": "праворукость",
+        "image": null
+      },
+      {
+        "text": "ихтиоз",
+        "image": null
+      }
+    ],
+    "number": 15,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Цитогенетический метод исследует кариотип человека, хромосомы которого, состоят из хроматид: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "2 хроматид",
+        "image": null
+      },
+      {
+        "text": "1 хроматиды",
+        "image": null
+      },
+      {
+        "text": "3 хроматид",
+        "image": null
+      },
+      {
+        "text": "4 хроматид",
+        "image": null
+      }
+    ],
+    "number": 16,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Вероятность однополости дизиготных близнецов составляет: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "0.5",
+        "image": null
+      },
+      {
+        "text": "0.25",
+        "image": null
+      },
+      {
+        "text": "0",
+        "image": null
+      },
+      {
+        "text": "1",
+        "image": null
+      }
+    ],
+    "number": 17,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Различия между монозиготными близнецами зависят: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "только от факторов внешней среды ",
+        "image": null
+      },
+      {
+        "text": "только от генотипа",
+        "image": null
+      },
+      {
+        "text": "от генотипа и среды в равной степени",
+        "image": null
+      },
+      {
+        "text": "от родителей",
+        "image": null
+      }
+    ],
+    "number": 18,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Вероятнось образования дизиготных близнецов определяется: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "влиянием среды",
+        "image": null
+      },
+      {
+        "text": "генотипом матери",
+        "image": null
+      },
+      {
+        "text": "генотипом отца",
+        "image": null
+      },
+      {
+        "text": "предрасположенность по линии матери",
+        "image": null
+      }
+    ],
+    "number": 19,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Наследственная предрасположенность к шизофрении, выявлена методом: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "близнецовым ",
+        "image": null
+      },
+      {
+        "text": "биохимическим",
+        "image": null
+      },
+      {
+        "text": "дерматоглифическим",
+        "image": null
+      },
+      {
+        "text": "цитогенетическим",
+        "image": null
+      }
+    ],
+    "number": 20,
+    "image": null,
+    "right_ans_num": 0
+  }
+]

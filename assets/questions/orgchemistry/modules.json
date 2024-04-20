@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Модуль: Основы строения органических соединений",
+    "questions_count": 66,
+    "dir_name": "mainbuilt"
+  },
+  {
+    "name": "Модуль 2: Углеводороды",
+    "questions_count": 50,
+    "dir_name": "carbo"
+  },
+  {
+    "name": "Модуль: Функциональные классы органических соединений",
+    "questions_count": 139,
+    "dir_name": "funclasses"
+  },
+  {
+    "name": "Модуль: Биополимеры и их структурные компоненты",
+    "questions_count": 71,
+    "dir_name": "biopoli"
+  },
+  {
+    "name": "Модуль: Гетероциклические соединения",
+    "questions_count": 23,
+    "dir_name": "geter"
+  },
+  {
+    "name": "Модуль: Низкомолекулярные природные соединения",
+    "questions_count": 33,
+    "dir_name": "smallmolek"
+  }
+]

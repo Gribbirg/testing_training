@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Количество телец Бара обнаруживается у организма 48, ХХУУ: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "одно",
+        "image": null
+      },
+      {
+        "text": "два",
+        "image": null
+      },
+      {
+        "text": "три",
+        "image": null
+      },
+      {
+        "text": "четыре",
+        "image": null
+      }
+    ],
+    "number": 1,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Количество телец Бара обнаруживается у организма 48, ХХХХ:",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "три ",
+        "image": null
+      },
+      {
+        "text": "два",
+        "image": null
+      },
+      {
+        "text": "одно",
+        "image": null
+      },
+      {
+        "text": "четыре",
+        "image": null
+      }
+    ],
+    "number": 2,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Количество флюоресцирующих телец обнаруживается у организма 48,ХХУУ: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "два ",
+        "image": null
+      },
+      {
+        "text": "одно",
+        "image": null
+      },
+      {
+        "text": "три",
+        "image": null
+      },
+      {
+        "text": "четыре",
+        "image": null
+      }
+    ],
+    "number": 3,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Механизм возникновения хромосомных болезней: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "геномные мутации",
+        "image": null
+      },
+      {
+        "text": "генные мутации",
+        "image": null
+      },
+      {
+        "text": "нарушения обмена веществ",
+        "image": null
+      },
+      {
+        "text": "выпадения нуклеотида",
+        "image": null
+      }
+    ],
+    "number": 4,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Механизм хромосомной аберрации наблюдается при: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "синдроме кошачьего крика ",
+        "image": null
+      },
+      {
+        "text": "трисомии по 21 хромосоме",
+        "image": null
+      },
+      {
+        "text": "синдроме Шерешевского-Тернера",
+        "image": null
+      },
+      {
+        "text": "синдроме Клайнфельтера",
+        "image": null
+      }
+    ],
+    "number": 5,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Причина мозаицизма: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "нарушения мейоза ",
+        "image": null
+      },
+      {
+        "text": "нарушения гаметогенеза",
+        "image": null
+      },
+      {
+        "text": "слияние гамет с нарушениями",
+        "image": null
+      },
+      {
+        "text": "развитие из одной гаметы",
+        "image": null
+      }
+    ],
+    "number": 6,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Мозаицизм около 5% клеток с нарушениями расхождения 21-ой пары хромосом приводит к:",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "слабо проявляются фенотипические картины заболевания ",
+        "image": null
+      },
+      {
+        "text": "тяжелой формы синдрома Дауна",
+        "image": null
+      },
+      {
+        "text": "синдром Эдвардса",
+        "image": null
+      },
+      {
+        "text": "синдром Патау",
+        "image": null
+      }
+    ],
+    "number": 7,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Одним из механизмов возникновения «мозаиков» является нарушение: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "дробления бластомеров",
+        "image": null
+      },
+      {
+        "text": "митотического деление соматических клеток",
+        "image": null
+      },
+      {
+        "text": "физиологии слияния гамет",
+        "image": null
+      },
+      {
+        "text": "комбинативной изменчивости",
+        "image": null
+      }
+    ],
+    "number": 8,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Механизм возникновения синдрома Шерешевского-Тернера определяется: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "гетероплоидией ",
+        "image": null
+      },
+      {
+        "text": "полиплоидными мутациями",
+        "image": null
+      },
+      {
+        "text": "хромосомными аберрациями",
+        "image": null
+      },
+      {
+        "text": "генными мутациями",
+        "image": null
+      }
+    ],
+    "number": 9,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Делеция малого плеча пятой пары хромосом вызывает заболевание: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "хромосомное ",
+        "image": null
+      },
+      {
+        "text": "геномное",
+        "image": null
+      },
+      {
+        "text": "обмена",
+        "image": null
+      },
+      {
+        "text": "генной",
+        "image": null
+      }
+    ],
+    "number": 10,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Сидром трисомии 13 пары хромосом приводит к нарушению: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "в системе аутосом ",
+        "image": null
+      },
+      {
+        "text": "дупликации хромосомы",
+        "image": null
+      },
+      {
+        "text": "делеции хромосомы 13 пары",
+        "image": null
+      },
+      {
+        "text": "синдрома Эдвардса",
+        "image": null
+      }
+    ],
+    "number": 11,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Метод лечения, который изменяет причину наследственного заболевания и радикально его излечивает: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "этиологический ",
+        "image": null
+      },
+      {
+        "text": "диетотерапия",
+        "image": null
+      },
+      {
+        "text": "симптоматический",
+        "image": null
+      },
+      {
+        "text": "патогенетический",
+        "image": null
+      }
+    ],
+    "number": 12,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Ферментопатии относятся к группе наследственных заболеваний: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "обмена",
+        "image": null
+      },
+      {
+        "text": "хромосомных",
+        "image": null
+      },
+      {
+        "text": "геномных",
+        "image": null
+      },
+      {
+        "text": "транслокационным",
+        "image": null
+      }
+    ],
+    "number": 13,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Альбинизм относятся к группе наследственных заболеваний: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "генных",
+        "image": null
+      },
+      {
+        "text": "хромосомных",
+        "image": null
+      },
+      {
+        "text": "геномных",
+        "image": null
+      },
+      {
+        "text": "транслокационных",
+        "image": null
+      }
+    ],
+    "number": 14,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Фенилкетонурия наследуется по типу: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "аутосомно-рецессивному ",
+        "image": null
+      },
+      {
+        "text": "аутосомно-доминантному",
+        "image": null
+      },
+      {
+        "text": "сцепленному с Х-хромосомой",
+        "image": null
+      },
+      {
+        "text": "голандрическому",
+        "image": null
+      }
+    ],
+    "number": 15,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Синдром Леша-Нихана имеет дефект обмена: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "пуринов ",
+        "image": null
+      },
+      {
+        "text": "жиров",
+        "image": null
+      },
+      {
+        "text": "углеводов",
+        "image": null
+      },
+      {
+        "text": "минеральных",
+        "image": null
+      }
+    ],
+    "number": 16,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Болезнь Вильсона-Коновалова имеет дефект обмена:",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "Минеральных веществ",
+        "image": null
+      },
+      {
+        "text": "жиров",
+        "image": null
+      },
+      {
+        "text": "пуринов",
+        "image": null
+      },
+      {
+        "text": "углеводов",
+        "image": null
+      }
+    ],
+    "number": 17,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Муковисцидоз вызван нарушениями: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "обмена углеводов ",
+        "image": null
+      },
+      {
+        "text": "развития органов и тканей",
+        "image": null
+      },
+      {
+        "text": "обмена жиров",
+        "image": null
+      },
+      {
+        "text": "обмена минеральных веществ",
+        "image": null
+      }
+    ],
+    "number": 18,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Больная восьми лет низкого роста, имеет «щитовидную» грудную клетку и широко расставленные соски, крыловидную складку на шеи, лицо «сфинкса» должна быть направлена к врачу – цитогенетику с подозрением на синдром: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "Шерешевского-Тернера ",
+        "image": null
+      },
+      {
+        "text": "Патау",
+        "image": null
+      },
+      {
+        "text": "Эдвардса",
+        "image": null
+      },
+      {
+        "text": "Клайнфельтера",
+        "image": null
+      }
+    ],
+    "number": 19,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Больной мужчина тридцати лет со скудным оволосением в подмышечных впадинах и на лобке, страдающий первичным бесплодием должен быть направлен к врачу – цитогенетику с подозрением на синдром: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "Клайнфельтера",
+        "image": null
+      },
+      {
+        "text": "Патау",
+        "image": null
+      },
+      {
+        "text": "Эдвардса",
+        "image": null
+      },
+      {
+        "text": "Шерешевского-Тернера.",
+        "image": null
+      }
+    ],
+    "number": 20,
+    "image": null,
+    "right_ans_num": 0
+  }
+]

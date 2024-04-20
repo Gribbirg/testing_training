@@ -1,0 +1,3477 @@
+[
+  {
+    "name": "ЭФЕДРИН МОЖЕТ БЫТЬ СИНТЕЗИРОВАН ВСЕМИ СПОСОБАМИ, КРОМЕ",
+    "answers": [
+      {
+        "text": "C6H5-СН(ОН)-CHI-NHCH3 + CH3I",
+        "image": null
+      },
+      {
+        "text": "C6H5–CH(OH)-СН(CH3)NH2 + CH3I",
+        "image": null
+      },
+      {
+        "text": "C6H5-СН(ОН)-CHBr-CH3 + CH3NH2",
+        "image": null
+      },
+      {
+        "text": "C6H5-СНCl–CH(CH3)-NHCH3 + H2O",
+        "image": null
+      }
+    ],
+    "image": "184.png",
+    "number": 1,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТ, ПРЕИМУЩЕСТВЕННО ОБРАЗУЮЩИЙСЯ ПРИ ВЗАИМОДЕЙСТВИИ 2,3-ДИМЕТИЛ-3-ХЛОРОПЕНТАНА С ГИДРОКСИДОМ КАЛИЯ В СПИРТОВОМ РАСТВОРЕ",
+    "answers": [
+      {
+        "text": null,
+        "image": "185.png"
+      },
+      {
+        "text": null,
+        "image": "186.png"
+      },
+      {
+        "text": null,
+        "image": "187.1.png"
+      },
+      {
+        "text": null,
+        "image": "187.2.png"
+      }
+    ],
+    "number": 2,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТ ВЗАИМОДЕЙСТВИЯ ЭТАНТИОЛА С ИЗБЫТКОМ МЕТИЛИОДИДА",
+    "answers": [
+      {
+        "text": "[(CH3)2SC2H5]+I-",
+        "image": null
+      },
+      {
+        "text": "C2H5SCH3",
+        "image": null
+      },
+      {
+        "text": "[(CH3)3S]+I-",
+        "image": null
+      },
+      {
+        "text": "CH3SCH3",
+        "image": null
+      }
+    ],
+    "number": 3,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "УХОДЯЩИЕ ГРУППЫ (АНИОНЫ) В РЕАКЦИИ ФТОРОТАНА CF3-CHClBr С ВОДНЫМ РАСТВОРОМ ГИДРОКСИДА НАТРИЯ",
+    "answers": [
+      {
+        "text": "Br- и Cl-",
+        "image": null
+      },
+      {
+        "text": "F- и Cl-",
+        "image": null
+      },
+      {
+        "text": "Br- и F-",
+        "image": null
+      },
+      {
+        "text": "H- и Br-",
+        "image": null
+      }
+    ],
+    "number": 4,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ИСХОДНЫЕ СОЕДИНЕНИЯ ДЛЯ ОБРАЗОВАНИЯ БУТЕНА-2",
+    "answers": [
+      {
+        "text": "CH3CHBr-СHBrСH3 + Zn, ацетоновый раствор",
+        "image": null
+      },
+      {
+        "text": "CH3CHBr-СH2СH3 + NaOH, водный раствор",
+        "image": null
+      },
+      {
+        "text": "CH2Br-СH2СH2СH3 + NaOH, водный раствор",
+        "image": null
+      },
+      {
+        "text": "CH3СH2СH2СH2I + KOH, спиртовой раствор",
+        "image": null
+      }
+    ],
+    "number": 5,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТ ВЗАИМОДЕЙСТВИЯ 3-БРОМО-2-МЕТИЛПЕНТАНА С ГИДРОКСИДОМ НАТРИЯ (СПИРТОВОЙ РАСТВОР)",
+    "answers": [
+      {
+        "text": "(CH3) 2С=CH–CH2CH3",
+        "image": null
+      },
+      {
+        "text": "(CH3) 2СH–CH(OC2H5)–CH2CH3",
+        "image": null
+      },
+      {
+        "text": "(CH3)2СH–CH2CH=CH2",
+        "image": null
+      },
+      {
+        "text": "СH2=C(CH3)–CH2CH2CH3",
+        "image": null
+      }
+    ],
+    "number": 6,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВСЕ СХЕМЫ РЕАКЦИЙ ВЕРНЫ, КРОМЕ",
+    "answers": [
+      {
+        "text": "CH3CH2CH2Cl  +  CH3NH2  ->  CH3CH2CH2NH2  +  CH3Cl",
+        "image": null
+      },
+      {
+        "text": "CH3CH2CH2Br  +  KCN  ->  CH3CH2CH2CN  +  KBr",
+        "image": null
+      },
+      {
+        "text": "C2H5I  +  C2H5SC2H5  ->  [(C2H5)3S]+I-",
+        "image": null
+      },
+      {
+        "text": "C2H5Br  +  C2H5ONa  ->  C2H5OC2H5  + NaBr",
+        "image": null
+      }
+    ],
+    "number": 7,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, ИЗ КОТОРОГО В РЕЗУЛЬТАТЕ РЕАКЦИИ ЭЛИМИНИРОВАНИЯ ОБРАЗУЕТСЯ ПЕНТИН-2",
+    "answers": [
+      {
+        "text": "CH3–CHCl-CHCl–CH2CH3",
+        "image": null
+      },
+      {
+        "text": "CH3–CHCl-CH2CH2CH2Cl",
+        "image": null
+      },
+      {
+        "text": "CH2Cl–CH2CH2CH2CH2Cl",
+        "image": null
+      },
+      {
+        "text": "CH2Cl-CHCl–CH2CH2CH3",
+        "image": null
+      }
+    ],
+    "number": 8,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, ИЗ КОТОРОГО В РЕЗУЛЬТАТЕ РЕАКЦИИ ЭЛИМИНИРОВАНИЯ ОБРАЗУЕТСЯ ПЕНТАДИЕН-1,3",
+    "answers": [
+      {
+        "text": "CH3–CHCl-CH2CH2CH2Cl",
+        "image": null
+      },
+      {
+        "text": "CH3–CHCl-CHCl–CH2CH3",
+        "image": null
+      },
+      {
+        "text": "CH2Cl–CH2CH2CH2CH2Cl",
+        "image": null
+      },
+      {
+        "text": "CH2Cl-CHCl–CH2CH2CH3",
+        "image": null
+      }
+    ],
+    "number": 9,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОПАНДИОЛ-1,3 МОЖЕТ ОБРАЗОВАТЬСЯ В РЕЗУЛЬТАТЕ ВСЕХ РЕАКЦИЙ, КРОМЕ",
+    "answers": [
+      {
+        "text": "CH2=CHCH2Br  +  2H2O  (H+),  t",
+        "image": null
+      },
+      {
+        "text": "BrCH2CH2CH2I  +  2H2O,  t",
+        "image": null
+      },
+      {
+        "text": "ClCH2CH2CH2Br  +  2KOH  (водный раствор",
+        "image": null
+      },
+      {
+        "text": "HOCH2CH2CH2Br  +  NaOH  (водный раствор)",
+        "image": null
+      }
+    ],
+    "number": 10,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИОННАЯ СПОСОБНОСТЬ СОЕДИНЕНИЙ В РЕАКЦИЯХ SN УМЕНЬШАЕТСЯ В РЯДУ:\n1) фтороалканы\n2) иодоалканы\n3) хлороалканы\n4) бромоалканы",
+    "answers": [
+      {
+        "text": "2→4→3→1",
+        "image": null
+      },
+      {
+        "text": "3→2→1→4",
+        "image": null
+      },
+      {
+        "text": "3→4→2→1",
+        "image": null
+      },
+      {
+        "text": "4→3→1→2",
+        "image": null
+      }
+    ],
+    "number": 11,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИОННАЯ СПОСОБНОСТЬ СОЕДИНЕНИЙ В РЕАКЦИЯХ SN1 УМЕНЬШАЕТСЯ В РЯДУ:\n1) CH3CH2CH(Cl)CH3\n2) (CH3)3CCl\n3) С6Н5СН2Cl\n4) (CH3)2N-C6H4-CH2Cl",
+    "answers": [
+      {
+        "text": "4→3→2→1",
+        "image": null
+      },
+      {
+        "text": "4→3→1→2",
+        "image": null
+      },
+      {
+        "text": "3→4→1→2",
+        "image": null
+      },
+      {
+        "text": "2→3→1→4",
+        "image": null
+      }
+    ],
+    "number": 12,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "С ВОДНЫМ РАСТВОРОМ ГИДРОКАРБОНАТА НАТРИЯ РЕАГИРУЕТ",
+    "answers": [
+      {
+        "text": null,
+        "image": "188.png"
+      },
+      {
+        "text": null,
+        "image": "189.png"
+      },
+      {
+        "text": null,
+        "image": "190.png"
+      },
+      {
+        "text": null,
+        "image": "191.png"
+      }
+    ],
+    "number": 13,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАГЕНТЫ, ПОСЛЕДОВАТЕЛЬНО ИСПОЛЬЗУЕМЫЕ ДЛЯ ПОЛУЧЕНИЯ АЛАНИНА (2-АМИНОПРОПАНОВОЙ КИСЛОТЫ) ИЗ ПРОПЕНОВОЙ КИСЛОТЫ",
+    "answers": [
+      {
+        "text": "H2, Ni;    Cl2,P;    NH3",
+        "image": null
+      },
+      {
+        "text": "HBr;    NH3",
+        "image": null
+      },
+      {
+        "text": "KMnO4;     NH3",
+        "image": null
+      },
+      {
+        "text": "H2O;    NH3",
+        "image": null
+      }
+    ],
+    "number": 14,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАГЕНТЫ, ПОСЛЕДОВАТЕЛЬНО ИСПОЛЬЗУЕМЫЕ ДЛЯ ПОЛУЧЕНИЯ β-АЛАНИНА (3-АМИНОПРОПАНОВОЙ КИСЛОТЫ) ИЗ ПРОПЕНОВОЙ КИСЛОТЫ",
+    "answers": [
+      {
+        "text": "HBr;    NH3",
+        "image": null
+      },
+      {
+        "text": "H2, Ni;    Cl2,P;    NH3",
+        "image": null
+      },
+      {
+        "text": "KMnO4;     NH3",
+        "image": null
+      },
+      {
+        "text": "H2O;    NH3",
+        "image": null
+      }
+    ],
+    "number": 15,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТ РЕАКЦИИ",
+    "answers": [
+      {
+        "text": null,
+        "image": "193.png"
+      },
+      {
+        "text": null,
+        "image": "194.png"
+      },
+      {
+        "text": null,
+        "image": "195.png"
+      },
+      {
+        "text": null,
+        "image": "196.png"
+      }
+    ],
+    "image": "192.png",
+    "number": 16,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТ РЕАКЦИИ",
+    "answers": [
+      {
+        "text": null,
+        "image": "198.png"
+      },
+      {
+        "text": null,
+        "image": "199.png"
+      },
+      {
+        "text": null,
+        "image": "200.png"
+      },
+      {
+        "text": null,
+        "image": "201.png"
+      }
+    ],
+    "image": "197.png",
+    "number": 17,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "СУБСТРАТ И РЕАГЕНТ, ИСПОЛЬЗУЕМЫЕ ДЛЯ СИНТЕЗА ФЕНАМИНА",
+    "answers": [
+      {
+        "text": null,
+        "image": "203.png"
+      },
+      {
+        "text": null,
+        "image": "204.png"
+      },
+      {
+        "text": null,
+        "image": "205.png"
+      },
+      {
+        "text": null,
+        "image": "206.png"
+      }
+    ],
+    "image": "202.png",
+    "number": 18,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "СУБСТРАТ И РЕАГЕНТ, ИСПОЛЬЗУЕМЫЕ ДЛЯ СИНТЕЗА ЭФЕДРИНА",
+    "answers": [
+      {
+        "text": null,
+        "image": "208.png"
+      },
+      {
+        "text": null,
+        "image": "209.png"
+      },
+      {
+        "text": null,
+        "image": "210.png"
+      },
+      {
+        "text": null,
+        "image": "211.png"
+      }
+    ],
+    "image": "207.png",
+    "number": 19,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ ТИОЛОВ ВЕРНЫ, КРОМЕ",
+    "answers": [
+      {
+        "text": "окисляются, как и спирты, по атому углерода",
+        "image": null
+      },
+      {
+        "text": "взаимодействуют с раствором щелочи",
+        "image": null
+      },
+      {
+        "text": "образуют сложные тиоэфиры",
+        "image": null
+      },
+      {
+        "text": "взаимодействуют с метилиодидом в щелочной среде",
+        "image": null
+      }
+    ],
+    "number": 20,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ БЕНЗИЛОВОГО СПИРТА",
+    "answers": [
+      {
+        "text": "ацилируется уксусным ангидридом",
+        "image": null
+      },
+      {
+        "text": "дает фиолетовое окрашивание с FeCl3",
+        "image": null
+      },
+      {
+        "text": "взаимодействует с раствором гидроксида натрия",
+        "image": null
+      },
+      {
+        "text": "окисляется дихроматом калия в фенилуксусную кислоту",
+        "image": null
+      }
+    ],
+    "number": 21,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИЯ, В РЕЗУЛЬТАТЕ КОТОРОЙ ОБРАЗУЕТСЯ ЭТАНСУЛЬФОНОВАЯ КИСЛОТА",
+    "answers": [
+      {
+        "text": "C2H5SH + HNO3 →",
+        "image": null
+      },
+      {
+        "text": "C2H5SH + I2 →",
+        "image": null
+      },
+      {
+        "text": "C2H5SH + H2O2 →",
+        "image": null
+      },
+      {
+        "text": "C2H5SH + CH2=CH2 →",
+        "image": null
+      }
+    ],
+    "number": 22,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИЯ, В РЕЗУЛЬТАТЕ КОТОРОЙ ОБРАЗУЕТСЯ ДИЭТИЛДИСУЛЬФИД",
+    "answers": [
+      {
+        "text": "C2H5SH + I2 →",
+        "image": null
+      },
+      {
+        "text": "C2H5SH + CH2=CH2 →",
+        "image": null
+      },
+      {
+        "text": "C2H5SH + HNO3 →",
+        "image": null
+      },
+      {
+        "text": "C2H5SH + C2H5COCl →",
+        "image": null
+      }
+    ],
+    "number": 23,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
+    "answers": [
+      {
+        "text": "CH3CH(OH)CH2OH",
+        "image": null
+      },
+      {
+        "text": "CH3CH2COOH",
+        "image": null
+      },
+      {
+        "text": "CH3CH(OH)CH3",
+        "image": null
+      },
+      {
+        "text": "CH3COCH3",
+        "image": null
+      }
+    ],
+    "image": "212.png",
+    "number": 24,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "СХЕМА РЕАКЦИИ ВНУТРИМОЛЕКУЛЯРНОЙ ДЕГИДРАТАЦИИ СПИРТА",
+    "answers": [
+      {
+        "text": null,
+        "image": "213.png"
+      },
+      {
+        "text": null,
+        "image": "214.png"
+      },
+      {
+        "text": null,
+        "image": "215.png"
+      },
+      {
+        "text": null,
+        "image": "216.png"
+      }
+    ],
+    "number": 25,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СХЕМА РЕАКЦИИ МЕЖМОЛЕКУЛЯРНОЙ ДЕГИДРАТАЦИИ СПИРТА",
+    "answers": [
+      {
+        "text": null,
+        "image": "217.png"
+      },
+      {
+        "text": null,
+        "image": "218.png"
+      },
+      {
+        "text": null,
+        "image": "219.png"
+      },
+      {
+        "text": null,
+        "image": "220.png"
+      }
+    ],
+    "number": 26,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
+    "answers": [
+      {
+        "text": null,
+        "image": "222.png"
+      },
+      {
+        "text": null,
+        "image": "223.png"
+      },
+      {
+        "text": null,
+        "image": "224.png"
+      },
+      {
+        "text": "CH3CH=CHCH3",
+        "image": null
+      }
+    ],
+    "image": "221.png",
+    "number": 27,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
+    "answers": [
+      {
+        "text": "[CH3CH2CH2S(CH3)2]+Cl-",
+        "image": null
+      },
+      {
+        "text": "CH3SCH2CH2CH3",
+        "image": null
+      },
+      {
+        "text": "(CH3CH2CH2)2S",
+        "image": null
+      },
+      {
+        "text": "CH3CH2CH2SH",
+        "image": null
+      }
+    ],
+    "image": "225.png",
+    "number": 28,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТ ВЗАИМОДЕЙСТВИЯ ТРЕТ-БУТИЛОВОГО СПИРТА (2-МЕТИЛПРОПАНОЛА-2) С БРОМОВОДОРОДОМ",
+    "answers": [
+      {
+        "text": null,
+        "image": "226.png"
+      },
+      {
+        "text": null,
+        "image": "227.png"
+      },
+      {
+        "text": null,
+        "image": "228.png"
+      },
+      {
+        "text": null,
+        "image": "229.png"
+      }
+    ],
+    "number": 29,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ОСНОВНОЙ ПРОДУКТ РЕАКЦИИ БУТАНОЛА-2 С КОНЦЕНТРИРОВАННОЙ  СЕРНОЙ КИСЛОТОЙ ПРИ НАГРЕВАНИИ ВЫШЕ 140 ℃",
+    "answers": [
+      {
+        "text": "CH3CH=CHCH3",
+        "image": null
+      },
+      {
+        "text": "CH3CH2CH=CH2",
+        "image": null
+      },
+      {
+        "text": null,
+        "image": "230.png"
+      },
+      {
+        "text": "CH3CH(OSO3H)CH2CH3",
+        "image": null
+      }
+    ],
+    "number": 30,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ЦИКЛОГЕКСАНОЛА",
+    "answers": [
+      {
+        "text": "окисляется дихроматом натрия в кислой среде",
+        "image": null
+      },
+      {
+        "text": "дает фиолетовое окрашивание с раствором хлорида железа(III)",
+        "image": null
+      },
+      {
+        "text": "дает синее окрашивание с гидроксидом меди(II)",
+        "image": null
+      },
+      {
+        "text": "взаимодействует с раствором гидроксида натрия",
+        "image": null
+      }
+    ],
+    "number": 31,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКТИВ ДЛЯ ОБНАРУЖЕНИЯ 2-МЕТИЛПРОПАНОЛА-2",
+    "answers": [
+      {
+        "text": "ZnCl2, HCl (реактив Лукаса)",
+        "image": null
+      },
+      {
+        "text": "FeCl3",
+        "image": null
+      },
+      {
+        "text": "(CH3COO)2Pb",
+        "image": null
+      },
+      {
+        "text": "Br2, H2O",
+        "image": null
+      }
+    ],
+    "number": 32,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКТИВ ДЛЯ ОБНАРУЖЕНИЯ ПРОПАНТИОЛА-1",
+    "answers": [
+      {
+        "text": "(CH3COO)2Pb",
+        "image": null
+      },
+      {
+        "text": "ZnCl2, HCl (реактив Лукаса)",
+        "image": null
+      },
+      {
+        "text": "FeCl3",
+        "image": null
+      },
+      {
+        "text": "Br2, H2O",
+        "image": null
+      }
+    ],
+    "number": 33,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СИНЕЕ ОКРАШИВАНИЕ С ГИДРОКСИДОМ МЕДИ(II) ДАЕТ СОЕДИНЕНИЕ",
+    "answers": [
+      {
+        "text": null,
+        "image": "231.png"
+      },
+      {
+        "text": null,
+        "image": "232.png"
+      },
+      {
+        "text": null,
+        "image": "233.png"
+      },
+      {
+        "text": null,
+        "image": "234.png"
+      }
+    ],
+    "number": 34,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ 2-МЕТИЛПРОПАНТИОЛА-1",
+    "answers": [
+      {
+        "text": "реагирует с метилиодидом в щелочной среде",
+        "image": null
+      },
+      {
+        "text": "не реагирует с водным раствором гидроксида натрия",
+        "image": null
+      },
+      {
+        "text": "не взаимодействует с оксидом ртути(II)",
+        "image": null
+      },
+      {
+        "text": "при взаимодействии с азотной кислотой превращается в дисульфид",
+        "image": null
+      }
+    ],
+    "number": 35,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ ПИРОКАТЕХИНА ВЕРНЫ, КРОМЕ",
+    "answers": [
+      {
+        "text": "реагирует с электрофильными реагентами труднее, чем бензол",
+        "image": null
+      },
+      {
+        "text": "дает цветную реакцию с раствором хлорида железа(III)",
+        "image": null
+      },
+      {
+        "text": "растворяется в щелочах",
+        "image": null
+      },
+      {
+        "text": "образует с ионами тяжелых металлов нерастворимые в воде соли",
+        "image": null
+      }
+    ],
+    "number": 36,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ О-ГИДРОКСИБЕНЗИЛОВОГО СПИРТА",
+    "answers": [
+      {
+        "text": "дает качественную реакцию с раствором хлорида железа(III)",
+        "image": null
+      },
+      {
+        "text": "взаимодействует с 2 моль NaOH",
+        "image": null
+      },
+      {
+        "text": "при окислении превращается в дикарбоновую кислоту",
+        "image": null
+      },
+      {
+        "text": "дает синее окрашивание с гидроксидом меди(II)",
+        "image": null
+      }
+    ],
+    "number": 37,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
+    "answers": [
+      {
+        "text": null,
+        "image": "c3_38_1.png"
+      },
+      {
+        "text": null,
+        "image": "c3_38_2.png"
+      },
+      {
+        "text": null,
+        "image": "c3_38_3.png"
+      },
+      {
+        "text": null,
+        "image": "c3_38_4.png"
+      }
+    ],
+    "image": "c3_38_0.png",
+    "number": 38,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
+    "answers": [
+      {
+        "text": null,
+        "image": "238.png"
+      },
+      {
+        "text": null,
+        "image": "239.png"
+      },
+      {
+        "text": null,
+        "image": "240.png"
+      },
+      {
+        "text": null,
+        "image": "241.png"
+      }
+    ],
+    "image": "237.png",
+    "number": 39,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, ВСТУПАЮЩЕЕ В РЕАКЦИЮ НИТРОЗИРОВАНИЯ",
+    "answers": [
+      {
+        "text": "α-нафтол",
+        "image": null
+      },
+      {
+        "text": "толуол",
+        "image": null
+      },
+      {
+        "text": "бензол",
+        "image": null
+      },
+      {
+        "text": "бензальдегид",
+        "image": null
+      }
+    ],
+    "number": 40,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КИСЛОТНЫЕ СВОЙСТВА СОЕДИНЕНИЙ УМЕНЬШАЮТСЯ В РЯДУ:\n1) п-крезол\n2) п-нитрофенол\n3) фенол\n4) п-метоксифенол",
+    "answers": [
+      {
+        "text": "2→3→1→4",
+        "image": null
+      },
+      {
+        "text": "2→4→3→1",
+        "image": null
+      },
+      {
+        "text": "3→4→2→1",
+        "image": null
+      },
+      {
+        "text": "3→2→1→4",
+        "image": null
+      }
+    ],
+    "number": 41,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ М-КРЕЗОЛА",
+    "answers": [
+      {
+        "text": "при действии бромной воды дает трибромопроизводное",
+        "image": null
+      },
+      {
+        "text": "реагирует с гидрокарбонатом натрия в водном растворе",
+        "image": null
+      },
+      {
+        "text": "ацетилируется уксусной кислотой",
+        "image": null
+      },
+      {
+        "text": "дает синее окрашивание с гидроксидом меди(II)",
+        "image": null
+      }
+    ],
+    "number": 42,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ОСНОВНЫЕ СВОЙСТВА СОЕДИНЕНИЙ УМЕНЬШАЮТСЯ В РЯДУ:",
+    "answers": [
+      {
+        "text": "3→1→2→4",
+        "image": null
+      },
+      {
+        "text": "4→1→2→3",
+        "image": null
+      },
+      {
+        "text": "2→1→3→4",
+        "image": null
+      },
+      {
+        "text": "3→4→1→2",
+        "image": null
+      }
+    ],
+    "image": "c3_43_0.png",
+    "number": 43,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "МЕХАНИЗМ РАСЩЕПЛЕНИЯ ПРОСТЫХ ЭФИРОВ ИОДО- И БРОМОВОДОРОДНОЙ КИСЛОТАМИ ПРИ НАГРЕВАНИИ",
+    "answers": [
+      {
+        "text": "нуклеофильное замещение",
+        "image": null
+      },
+      {
+        "text": "электрофильное замещение",
+        "image": null
+      },
+      {
+        "text": "нуклеофильное присоединение",
+        "image": null
+      },
+      {
+        "text": "электрофильное присоединение",
+        "image": null
+      }
+    ],
+    "number": 44,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, НЕ СПОСОБНОЕ К РАСЩЕПЛЕНИЮ ПРИ НАГРЕВАНИИ С КОНЦЕНТРИРОВАННОЙ ИОДОВОДОРОДНОЙ КИСЛОТОЙ",
+    "answers": [
+      {
+        "text": null,
+        "image": "243.png"
+      },
+      {
+        "text": null,
+        "image": "244.png"
+      },
+      {
+        "text": null,
+        "image": "245.png"
+      },
+      {
+        "text": null,
+        "image": "246.png"
+      }
+    ],
+    "number": 45,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА СУЛЬФОНИЕВОЙ СОЛИ",
+    "answers": [
+      {
+        "text": "(CH3)3S+I-",
+        "image": null
+      },
+      {
+        "text": "C2H5SO3-Na+",
+        "image": null
+      },
+      {
+        "text": "CH3CH2CH2S-Na+",
+        "image": null
+      },
+      {
+        "text": "C2H5SO2-Na+",
+        "image": null
+      }
+    ],
+    "number": 46,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ДИФЕНИЛОВОГО ЭФИРА",
+    "answers": [
+      {
+        "text": "нитруется в пара- и орто-положения относительно эфирной связи",
+        "image": null
+      },
+      {
+        "text": "растворяется в растворах щелочей",
+        "image": null
+      },
+      {
+        "text": "растворяется в растворах минеральных кислот",
+        "image": null
+      },
+      {
+        "text": "подвергается расщеплению иодоводородной кислотой при нагревании",
+        "image": null
+      }
+    ],
+    "number": 47,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТЫ РЕАКЦИИ CH3СН2СН2СН2ОСН3  +  HI (1 моль)",
+    "answers": [
+      {
+        "text": "CH3СН2СН2СН2ОН и CH3I",
+        "image": null
+      },
+      {
+        "text": "CH3СН2CH=СН2 и CH3I",
+        "image": null
+      },
+      {
+        "text": "CH3СН2СН2СН2I и CH3ОН",
+        "image": null
+      },
+      {
+        "text": "(CH3)3COH и CH3I",
+        "image": null
+      }
+    ],
+    "number": 48,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТЫ РЕАКЦИИ (CH3)3C-О-CH3  +  HI (1 моль)",
+    "answers": [
+      {
+        "text": "(CH3)3C–I и CH3ОН",
+        "image": null
+      },
+      {
+        "text": "(CH3)3COH и CH3I",
+        "image": null
+      },
+      {
+        "text": "CH3СН2CH=СН2 и CH3I",
+        "image": null
+      },
+      {
+        "text": "CH3СН2СН2СН2ОН и CH3I",
+        "image": null
+      }
+    ],
+    "number": 49,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ПРОСТЫХ ЭФИРОВ",
+    "answers": [
+      {
+        "text": "при взаимодействии с кислородом воздуха образуют пероксиды",
+        "image": null
+      },
+      {
+        "text": "взаимодействуют со щелочами",
+        "image": null
+      },
+      {
+        "text": "образуют ассоциаты",
+        "image": null
+      },
+      {
+        "text": "расщепляются концентрированной хлороводородной кислотой",
+        "image": null
+      }
+    ],
+    "number": 50,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ОСНОВНОЙ ПРОДУКТ РЕАКЦИИ",
+    "answers": [
+      {
+        "text": null,
+        "image": "c3_51_1.png"
+      },
+      {
+        "text": null,
+        "image": "c3_51_2.png"
+      },
+      {
+        "text": null,
+        "image": "249.png"
+      },
+      {
+        "text": "CH3CH2S−SCH2CH3",
+        "image": null
+      }
+    ],
+    "image": "247.png",
+    "number": 51,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "ОСНОВНОЙ ПРОДУКТ РЕАКЦИИ",
+    "answers": [
+      {
+        "text": null,
+        "image": "c3_52_1.png"
+      },
+      {
+        "text": "c3_52_2",
+        "image": null
+      },
+      {
+        "text": null,
+        "image": "251.png"
+      },
+      {
+        "text": "CH3CH2S−SCH2CH3",
+        "image": null
+      }
+    ],
+    "image": "c3_52_0.png",
+    "number": 52,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ЭПОКСИДОВ",
+    "answers": [
+      {
+        "text": "образуются при окислении алкенов пероксикарбоновыми кислотами",
+        "image": null
+      },
+      {
+        "text": "взаимодействуют с галогеноводородами с образованием 1,2-дигалогенопроизводных",
+        "image": null
+      },
+      {
+        "text": "при взаимодействии со спиртами образуют сложные эфиры",
+        "image": null
+      },
+      {
+        "text": "образуются при окислении алкенов озоном",
+        "image": null
+      }
+    ],
+    "number": 53,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
+    "answers": [
+      {
+        "text": null,
+        "image": "c3_54_1.png"
+      },
+      {
+        "text": null,
+        "image": "c3_54_2.png"
+      },
+      {
+        "text": null,
+        "image": "253.png"
+      },
+      {
+        "text": null,
+        "image": "254.png"
+      }
+    ],
+    "image": "c3_54_0.png",
+    "number": 54,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА 2,3-ДИМЕТИЛПЕНТАНАЛЯ",
+    "answers": [
+      {
+        "text": "CH3CH2CH(CH3)CH(CH3)CH=O",
+        "image": null
+      },
+      {
+        "text": "(CH3)2CHCH(CH3)CH2CH=O",
+        "image": null
+      },
+      {
+        "text": "(CH3)2CHCH2C(CH3)2CH=O",
+        "image": null
+      },
+      {
+        "text": "(CH3)3CCH2CH2CH=O",
+        "image": null
+      }
+    ],
+    "number": 55,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИОННАЯ СПОСОБНОСТЬ СОЕДИНЕНИЙ В РЕАКЦИЯХ НУКЛЕОФИЛЬНОГО ПРИСОЕДИНЕНИЯ УМЕНЬШАЕТСЯ В РЯДУ:\n1) АЦЕТОН\n2) ФОРМАЛЬДЕГИД\n3) БЕНЗОФЕНОН\n4) АЦЕТАЛЬДЕГИД",
+    "answers": [
+      {
+        "text": "2→4→1→3",
+        "image": null
+      },
+      {
+        "text": "3→2→1→4",
+        "image": null
+      },
+      {
+        "text": "2→1→3→4",
+        "image": null
+      },
+      {
+        "text": "3→4→1→2",
+        "image": null
+      }
+    ],
+    "number": 56,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СХЕМА РЕАКЦИИ, ПРОТЕКАЮЩИХ ПО МЕХАНИЗМУ НУКЛЕОФИЛЬНОГО ПРИСОЕДИНЕНИЯ",
+    "answers": [
+      {
+        "text": null,
+        "image": "c3_57_1.png"
+      },
+      {
+        "text": "CH3CH2CH2CH2ONa  +  C2H5Br →",
+        "image": null
+      },
+      {
+        "text": null,
+        "image": "c3_57_3.png"
+      },
+      {
+        "text": null,
+        "image": "c3_57_4.png"
+      }
+    ],
+    "number": 57,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА П-БЕНЗОХИНОНА",
+    "answers": [
+      {
+        "text": null,
+        "image": "c3_58_1.png"
+      },
+      {
+        "text": null,
+        "image": "c3_58_2.png"
+      },
+      {
+        "text": null,
+        "image": "c3_58_3.png"
+      },
+      {
+        "text": null,
+        "image": "c3_58_4.png"
+      }
+    ],
+    "number": 58,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА АЦЕТАЛЯ",
+    "answers": [
+      {
+        "text": "CH3CH(OCH3)2",
+        "image": null
+      },
+      {
+        "text": "CH3OCH2CH2OCH3",
+        "image": null
+      },
+      {
+        "text": "(CH3)2C(OH)CH(OH)OCH3",
+        "image": null
+      },
+      {
+        "text": "СH3СOO(CH2)3CH3",
+        "image": null
+      }
+    ],
+    "number": 59,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПАРА СОЕДИНЕНИЙ, ИЗ КОТОРЫХ ПРИ НАГРЕВАНИИ В КИСЛОЙ СРЕДЕ ОБРАЗУЕТСЯ 1,1-ДИЭТОКСИПРОПАН",
+    "answers": [
+      {
+        "text": "CH3СН2ОН и  CH3CH2CH=O",
+        "image": null
+      },
+      {
+        "text": "НОCH2СН2ОН  и  CH3CH2CН2ОH",
+        "image": null
+      },
+      {
+        "text": "CH3СН2ОН  и  CH3CH2CООH",
+        "image": null
+      },
+      {
+        "text": "CH3CH=O  и   CH3CH2CН2ОH",
+        "image": null
+      }
+    ],
+    "number": 60,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА ИМИНА",
+    "answers": [
+      {
+        "text": "CH3CH=NCH3",
+        "image": null
+      },
+      {
+        "text": "CH3CH=NOH",
+        "image": null
+      },
+      {
+        "text": "CH3CH=NNHC6H5",
+        "image": null
+      },
+      {
+        "text": "CH3CH=CHN(C2H5)2",
+        "image": null
+      }
+    ],
+    "number": 61,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА ОКСИМА",
+    "answers": [
+      {
+        "text": "CH3CH=NOH",
+        "image": null
+      },
+      {
+        "text": "CH3CH=NNHC6H5",
+        "image": null
+      },
+      {
+        "text": "CH3CH=CHN(C2H5)2",
+        "image": null
+      },
+      {
+        "text": "CH3CH=NCH3",
+        "image": null
+      }
+    ],
+    "number": 62,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПАРА СОЕДИНЕНИЙ, КОТОРЫЕ МОЖНО ОТЛИЧИТЬ ДРУГ ОТ ДРУГА С ПОМОЩЬЮ ГИДРОКСИДА МЕДИ(II) ПРИ НАГРЕВАНИИ",
+    "answers": [
+      {
+        "text": "пропаналь и бензофенон",
+        "image": null
+      },
+      {
+        "text": "ацетофенон и циклогексанол",
+        "image": null
+      },
+      {
+        "text": "этиленгликоль и глицерин",
+        "image": null
+      },
+      {
+        "text": "пентанон-2 и пентанол-2",
+        "image": null
+      }
+    ],
+    "number": 63,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАГЕНТЫ ДЛЯ ВОССТАНОВЛЕНИЯ АЛЬДЕГИДОВ И КЕТОНОВ ПО КЛЕММЕНСЕНУ",
+    "answers": [
+      {
+        "text": "Zn, Hg; HCl конц.",
+        "image": null
+      },
+      {
+        "text": "H2NNH2; KOH",
+        "image": null
+      },
+      {
+        "text": "LiAlH4",
+        "image": null
+      },
+      {
+        "text": "(C2H5O)3Al",
+        "image": null
+      }
+    ],
+    "number": 64,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАГЕНТЫ ДЛЯ ВОССТАНОВЛЕНИЯ АЛЬДЕГИДОВ И КЕТОНОВ ПО КИЖНЕРУ-ВОЛЬФУ",
+    "answers": [
+      {
+        "text": "H2NNH2; KOH",
+        "image": null
+      },
+      {
+        "text": "Zn, Hg; HCl конц.",
+        "image": null
+      },
+      {
+        "text": "LiAlH4",
+        "image": null
+      },
+      {
+        "text": "(C2H5O)3Al",
+        "image": null
+      }
+    ],
+    "number": 65,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТ РЕАКЦИИ ГИДРАЗИНА С АЦЕТАЛЬДЕГИДОМ",
+    "answers": [
+      {
+        "text": "CH3CH=NNH2",
+        "image": null
+      },
+      {
+        "text": "CH3CH=NOH",
+        "image": null
+      },
+      {
+        "text": "CH3CH=NC6H5",
+        "image": null
+      },
+      {
+        "text": "CH3CH=NNHCONH2",
+        "image": null
+      }
+    ],
+    "number": 66,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТ РЕАКЦИИ ГИДРОКСИЛАМИНА С АЦЕТАЛЬДЕГИДОМ",
+    "answers": [
+      {
+        "text": "CH3CH=NOH",
+        "image": null
+      },
+      {
+        "text": "CH3CH=NNH2",
+        "image": null
+      },
+      {
+        "text": "CH3CH=NC6H5",
+        "image": null
+      },
+      {
+        "text": "CH3CH=NNHCONH2",
+        "image": null
+      }
+    ],
+    "number": 67,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "CПИРТ, ОБРАЗУЮЩИЙСЯ В РЕЗУЛЬТАТЕ ПРИСОЕДИНЕНИЯ ЭТИЛМАГНИЙБРОМИДА К ПРОПАНАЛЮ",
+    "answers": [
+      {
+        "text": "пентанол-3",
+        "image": null
+      },
+      {
+        "text": "2-метилпентанол-3",
+        "image": null
+      },
+      {
+        "text": "3-метилпентанол-3",
+        "image": null
+      },
+      {
+        "text": "2,4-диметилпентанол-3",
+        "image": null
+      }
+    ],
+    "number": 68,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "CПИРТ, ОБРАЗУЮЩИЙСЯ В РЕЗУЛЬТАТЕ ПРИСОЕДИНЕНИЯ ЭТИЛМАГНИЙБРОМИДА К БУТАНОНУ",
+    "answers": [
+      {
+        "text": "3-метилпентанол-3",
+        "image": null
+      },
+      {
+        "text": "2-метилпентанол-3",
+        "image": null
+      },
+      {
+        "text": "пентанол-3",
+        "image": null
+      },
+      {
+        "text": "2,4-диметилпентанол-3",
+        "image": null
+      }
+    ],
+    "number": 69,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "АЛЬДОЛЬНАЯ КОНДЕНСАЦИЯ",
+    "answers": [
+      {
+        "text": null,
+        "image": "c3_70_1.png"
+      },
+      {
+        "text": null,
+        "image": "c3_70_2.png"
+      },
+      {
+        "text": null,
+        "image": "c3_70_3.png"
+      },
+      {
+        "text": null,
+        "image": "c3_70_4.png"
+      }
+    ],
+    "number": 70,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИЯ КАННИЦЦАРО",
+    "answers": [
+      {
+        "text": null,
+        "image": "c3_71_1.png"
+      },
+      {
+        "text": null,
+        "image": "c3_71_2.png"
+      },
+      {
+        "text": null,
+        "image": "c3_71_3.png"
+      },
+      {
+        "text": null,
+        "image": "c3_71_4.png"
+      }
+    ],
+    "number": 71,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КИСЛОТНЫЕ СВОЙСТВА СОЕДИНЕНИЙ УМЕНЬШАЮТСЯ В РЯДУ:\n1) УКСУСНАЯ КИСЛОТА\n2) ФЕНОЛ\n3) МЕТАНОЛ\n4) ХЛОРОУКСУСНАЯ КИСЛОТА",
+    "answers": [
+      {
+        "text": "4→1→2→3",
+        "image": null
+      },
+      {
+        "text": "4→2→1→3",
+        "image": null
+      },
+      {
+        "text": "2→1→3→4",
+        "image": null
+      },
+      {
+        "text": "3→4→1→2",
+        "image": null
+      }
+    ],
+    "number": 72,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КИСЛОТА, ПОЛУЧАЕМАЯ ИЗ МАЛОНОВОГО ЭФИРА И ИЗОПРОПИЛЙОДИДА",
+    "answers": [
+      {
+        "text": "(СH3)2CHCH2COOH",
+        "image": null
+      },
+      {
+        "text": "СH3CH2CH2CH2COOH",
+        "image": null
+      },
+      {
+        "text": "СH3CH2CH2COOH",
+        "image": null
+      },
+      {
+        "text": "(СH3)3CCOOH",
+        "image": null
+      }
+    ],
+    "number": 73,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КИСЛОТА, ПОЛУЧАЕМАЯ ИЗ МАЛОНОВОГО ЭФИРА И ПРОПИЛЙОДИДА",
+    "answers": [
+      {
+        "text": "СH3CH2CH2CH2COOH",
+        "image": null
+      },
+      {
+        "text": "СH3CH2CH2COOH",
+        "image": null
+      },
+      {
+        "text": "(СH3)2CHCH2COOH",
+        "image": null
+      },
+      {
+        "text": "(СH3)3CCOOH",
+        "image": null
+      }
+    ],
+    "number": 74,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "АЦИЛИРУЮЩАЯ СПОСОБНОСТЬ СОЕДИНЕНИЙ УМЕНЬШАЕТСЯ В РЯДУ:\n1) АЦЕТИЛХЛОРИД\n2) АЦЕТАМИД\n3) УКСУСНЫЙ АНГИДРИД\n4) ЭТИЛАЦЕТАТ",
+    "answers": [
+      {
+        "text": "1→3→4→2",
+        "image": null
+      },
+      {
+        "text": "2→1→3→4",
+        "image": null
+      },
+      {
+        "text": "3→2→1→4",
+        "image": null
+      },
+      {
+        "text": "1→3→2→4",
+        "image": null
+      }
+    ],
+    "number": 75,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА ЭТИЛБУТАНОАТА",
+    "answers": [
+      {
+        "text": "СH3(CH2)2COOCH2CH3",
+        "image": null
+      },
+      {
+        "text": "CH3CH2OOCCH2COOCH2CH3",
+        "image": null
+      },
+      {
+        "text": "СH3CH2COO(CH2)3CH3",
+        "image": null
+      },
+      {
+        "text": "HOOCCOO(CH2)3CH3",
+        "image": null
+      }
+    ],
+    "number": 76,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА ДИЭТИЛМАЛОНАТА",
+    "answers": [
+      {
+        "text": "CH3CH2OOCCH2COOCH2CH3",
+        "image": null
+      },
+      {
+        "text": "HOOCCOO(CH2)3CH3",
+        "image": null
+      },
+      {
+        "text": "СH3CH2COO(CH2)3CH3",
+        "image": null
+      },
+      {
+        "text": "СH3(CH2)2COOCH2CH3",
+        "image": null
+      }
+    ],
+    "number": 77,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КИСЛОТА, ПРИ НАГРЕВАНИИ КОТОРОЙ ОБРАЗУЕТСЯ ЦИКЛИЧЕСКИЙ АНГИДРИД",
+    "answers": [
+      {
+        "text": "янтарная (бутандиовая)",
+        "image": null
+      },
+      {
+        "text": "фумаровая (транс-бутендиовая)",
+        "image": null
+      },
+      {
+        "text": "терефталевая (бензол-1,4-дикарбоновая)",
+        "image": null
+      },
+      {
+        "text": "малоновая (пропандиовая)",
+        "image": null
+      }
+    ],
+    "number": 78,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КИСЛОТА, КОТОРАЯ ЛЕГЧЕ ДРУГИХ ПОДВЕРГАЕТСЯ ДЕКАРБОКСИЛИРОВАНИЮ",
+    "answers": [
+      {
+        "text": "HOOC–CH2–COOH",
+        "image": null
+      },
+      {
+        "text": "HOOC–CH2CH2–COOH",
+        "image": null
+      },
+      {
+        "text": "СН3COOH",
+        "image": null
+      },
+      {
+        "text": "C6H5COOH",
+        "image": null
+      }
+    ],
+    "number": 79,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
+    "answers": [
+      {
+        "text": "C2H5COCl",
+        "image": null
+      },
+      {
+        "text": "CH3COCl",
+        "image": null
+      },
+      {
+        "text": "CH3CHClCOCl",
+        "image": null
+      },
+      {
+        "text": "CH3CHClCOOH",
+        "image": null
+      }
+    ],
+    "image": "255.png",
+    "number": 80,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИЯ, ПРОИСХОДЯЩАЯ С МАЛОНОВОЙ КИСЛОТОЙ ПРИ НАГРЕВАНИИ",
+    "answers": [
+      {
+        "text": "декарбоксилирование",
+        "image": null
+      },
+      {
+        "text": "внутримолекулярная дегидратация",
+        "image": null
+      },
+      {
+        "text": "восстановление",
+        "image": null
+      },
+      {
+        "text": "дегидрирование",
+        "image": null
+      }
+    ],
+    "number": 81,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИЯ, ПРОИСХОДЯЩАЯ С ЯНТАРНОЙ  КИСЛОТОЙ ПРИ НАГРЕВАНИИ",
+    "answers": [
+      {
+        "text": "внутримолекулярная дегидратация",
+        "image": null
+      },
+      {
+        "text": "дегидрирование",
+        "image": null
+      },
+      {
+        "text": "декарбоксилирование",
+        "image": null
+      },
+      {
+        "text": "восстановление",
+        "image": null
+      }
+    ],
+    "number": 82,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, КОТОРОЕ ГИДРОЛИЗУЕТСЯ В ЩЕЛОЧНОЙ СРЕДЕ",
+    "answers": [
+      {
+        "text": "C2H5COOC2H5",
+        "image": null
+      },
+      {
+        "text": "C2H5COC2H5",
+        "image": null
+      },
+      {
+        "text": "C2H5OC2H5",
+        "image": null
+      },
+      {
+        "text": "C2H5CН(OC2H5)2",
+        "image": null
+      }
+    ],
+    "number": 83,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТЫ ГИДРОЛИЗА СЛОЖНОГО ЭФИРА",
+    "answers": [
+      {
+        "text": "HOOCСН2COOH и CH3OH",
+        "image": null
+      },
+      {
+        "text": "CH3COOH и (CH3)2C=O",
+        "image": null
+      },
+      {
+        "text": "CH3CH2COONa и CH3COONa",
+        "image": null
+      },
+      {
+        "text": "C3Н7OH и C2Н5OH",
+        "image": null
+      }
+    ],
+    "number": 84,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПАРА СОЕДИНЕНИЙ, ИЗ КОТОРЫХ МОЖНО ПОЛУЧИТЬ СЛОЖНЫЙ ЭФИР",
+    "answers": [
+      {
+        "text": "(CH3CO)2O  +  C2H5OH  →",
+        "image": null
+      },
+      {
+        "text": "CH3COСН3  +  C2H5OH  →",
+        "image": null
+      },
+      {
+        "text": "CH3CH2COCl + CH3COONa  →",
+        "image": null
+      },
+      {
+        "text": "CH3CH2CONH2  +  C2H5OH  →",
+        "image": null
+      }
+    ],
+    "number": 85,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВСЕ УТВЕРЖДЕНИЯ О МОЛЕКУЛЕ АНИЛИНА ВЕРНЫ, КРОМЕ",
+    "answers": [
+      {
+        "text": "основность анилина выше, чем у аммиака",
+        "image": null
+      },
+      {
+        "text": "аминогруппа является электронодонором по отношению к бензольному кольцу",
+        "image": null
+      },
+      {
+        "text": "все атомы углерода находятся в состоянии sp2-гибридизации",
+        "image": null
+      },
+      {
+        "text": "в молекуле осуществляется р,π-сопряжение",
+        "image": null
+      }
+    ],
+    "number": 86,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА N-МЕТИЛ-N-ЭТИЛАНИЛИНА",
+    "answers": [
+      {
+        "text": null,
+        "image": "256.png"
+      },
+      {
+        "text": null,
+        "image": "257.png"
+      },
+      {
+        "text": null,
+        "image": "258.png"
+      },
+      {
+        "text": null,
+        "image": "259.png"
+      }
+    ],
+    "number": 87,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ИСХОДНЫЕ СОЕДИНЕНИЯ ДЛЯ ПОЛУЧЕНИЯ ВТОРИЧНОГО АМИНА",
+    "answers": [
+      {
+        "text": "(CH3)2CHCH=NC2H5  +  H2, Ni",
+        "image": null
+      },
+      {
+        "text": "(CH3)2CHCONH2  +  KOBr",
+        "image": null
+      },
+      {
+        "text": "C2H5NHC2H5  +  CH3Br",
+        "image": null
+      },
+      {
+        "text": "(CH3)3CNO2  +  Fe, HCl",
+        "image": null
+      }
+    ],
+    "number": 88,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ИСХОДНЫЕ СОЕДИНЕНИЯ ДЛЯ ПОЛУЧЕНИЯ ТРЕТИЧНОГО АМИНА",
+    "answers": [
+      {
+        "text": "C2H5NHC2H5  +  CH3Br",
+        "image": null
+      },
+      {
+        "text": "(CH3)3CNO2  +  Fe, HCl",
+        "image": null
+      },
+      {
+        "text": "(CH3)2CHCH=NC2H5  +  H2, Ni",
+        "image": null
+      },
+      {
+        "text": "(CH3)2CHCONH2  +  KOBr",
+        "image": null
+      }
+    ],
+    "number": 89,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ АНИЛИНА И N,N- ДИМЕТИЛАНИЛИНА",
+    "answers": [
+      {
+        "text": "оба соединения более активны в реакциях электрофильного замещения, чем бензол",
+        "image": null
+      },
+      {
+        "text": "оба соединения, проявляя нуклеофильные свойства, образуют устойчивые ацильные производные по атому азота",
+        "image": null
+      },
+      {
+        "text": "оба соединения образуют изонитрил",
+        "image": null
+      },
+      {
+        "text": "оба соединения в реакции с азотистой кислотой образуют соответствующие соли диазония",
+        "image": null
+      }
+    ],
+    "number": 90,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "НАИБОЛЕЕ СИЛЬНОЕ ОСНОВАНИЕ",
+    "answers": [
+      {
+        "text": null,
+        "image": "260.png"
+      },
+      {
+        "text": null,
+        "image": "261.png"
+      },
+      {
+        "text": null,
+        "image": "262.png"
+      },
+      {
+        "text": null,
+        "image": "263.png"
+      }
+    ],
+    "number": 91,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАГЕНТЫ, С ПОМОЩЬЮ КОТОРЫХ МОЖНО ОТЛИЧИТЬ АНИЛИН ОТ ДИЭТИЛАМИНА",
+    "answers": [
+      {
+        "text": "CHCl3, KOH, C2H5OH",
+        "image": null
+      },
+      {
+        "text": "CH3Cl",
+        "image": null
+      },
+      {
+        "text": "H2SO4 разб",
+        "image": null
+      },
+      {
+        "text": "СН3СOСl",
+        "image": null
+      }
+    ],
+    "number": 92,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ОСНОВНЫЕ СВОЙСТВА СОЕДИНЕНИЙ УМЕНЬШАЮТСЯ В РЯДУ:\n1) п-ХЛОРОАНИЛИН\n2) ДИЭТИЛАМИН\n3) 4-НИТРОАНИЛИН\n4) п-АНИЗИДИН (4-МЕТОКСИАНИЛИН)\n5) ЭТАНОЛ",
+    "answers": [
+      {
+        "text": "2→4→1→3→5",
+        "image": null
+      },
+      {
+        "text": "1→4→2→3→5",
+        "image": null
+      },
+      {
+        "text": "3→2→5→1→4",
+        "image": null
+      },
+      {
+        "text": "4→3→2→1→5",
+        "image": null
+      }
+    ],
+    "number": 93,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ОСНОВНОЙ ПРОДУКТ ВЗАИМОДЕЙСТВИЯ ПРОПИЛАМИНА С ХЛОРОФОРМОМ В СПИРТОВОМ РАСТВОРЕ ЩЕЛОЧИ",
+    "answers": [
+      {
+        "text": "CH3CH2СH2N+≡C-",
+        "image": null
+      },
+      {
+        "text": "CH3CH2СH2С≡N",
+        "image": null
+      },
+      {
+        "text": "CH3CH2СH2N=O",
+        "image": null
+      },
+      {
+        "text": "CH3CH=СH2",
+        "image": null
+      }
+    ],
+    "number": 94,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ ДИЭТИЛАМИНА ВЕРНЫ, КРОМЕ",
+    "answers": [
+      {
+        "text": "при взаимодействии хлороформом образует изонитрил",
+        "image": null
+      },
+      {
+        "text": "все атомы углерода находятся в состоянии sp3-гибридизации",
+        "image": null
+      },
+      {
+        "text": "основность диэтиламина выше, чем у анилина",
+        "image": null
+      },
+      {
+        "text": "при взаимодействии азотистой кислотой образует N-нитрозоамин",
+        "image": null
+      }
+    ],
+    "number": 95,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ С КОТОРЫМ НЕ ВЗАИМОДЕЙСТВУЕТ П-ФЕНЕТИДИН (4-ЭТОКСИАНИЛИН)",
+    "answers": [
+      {
+        "text": "NaOH, H2O",
+        "image": null
+      },
+      {
+        "text": "NaNO2, HCl",
+        "image": null
+      },
+      {
+        "text": "Br2",
+        "image": null
+      },
+      {
+        "text": "CHCl3, KOH, C2H5OH",
+        "image": null
+      }
+    ],
+    "number": 96,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВО ВСЕХ СХЕМАХ РЕАКЦИЙ ОБРАЗУЮТСЯ ВЕЩЕСТВА НАЗВАННЫХ ТИПОВ, КРОМЕ",
+    "answers": [
+      {
+        "text": null,
+        "image": "264.png"
+      },
+      {
+        "text": null,
+        "image": "265.png"
+      },
+      {
+        "text": null,
+        "image": "266.png"
+      },
+      {
+        "text": null,
+        "image": "267.png"
+      }
+    ],
+    "number": 97,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, В КОТОРОМ ЗАМЕСТИТЕЛЬ ОРИЕНТИРУЮТ ЭЛЕКТРОФИЛЬНОЕ ЗАМЕЩЕНИЕ ПРЕИМУЩЕСТВЕННО В мета-ПОЛОЖЕНИЕ",
+    "answers": [
+      {
+        "text": null,
+        "image": "268.png"
+      },
+      {
+        "text": null,
+        "image": "269.png"
+      },
+      {
+        "text": null,
+        "image": "270.png"
+      },
+      {
+        "text": null,
+        "image": "271.png"
+      }
+    ],
+    "number": 98,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СХЕМЫ РЕАКЦИЙ, В КОТОРЫХ АТОМ АЗОТА ПРОЯВЛЯЕТ ОСНОВНЫЕ СВОЙСТВА",
+    "answers": [
+      {
+        "text": "C6H5NH2  +  HCl  →  [C6H5NH3]+Cl-",
+        "image": null
+      },
+      {
+        "text": "(C2H5)2NH  +  HNO2  →  (C2H5)2NH-N=O  +  H2O",
+        "image": null
+      },
+      {
+        "text": "C6H5COCl  +  CH3NH2  →  C6H5CONHCH3  +  HCl",
+        "image": null
+      },
+      {
+        "text": "C2H5CH=O  +  C2H5NH2  →  C2H5CH=NC2H5  +  H2O",
+        "image": null
+      }
+    ],
+    "number": 99,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТ РЕАКЦИИ C6H5CH=O  +  C2H5NH2",
+    "answers": [
+      {
+        "text": "C6H5CH=NC2H5  +  H2O",
+        "image": null
+      },
+      {
+        "text": "C6H5NHC2H5  + H2O",
+        "image": null
+      },
+      {
+        "text": "C6H5CH(OC2H5)NH2",
+        "image": null
+      },
+      {
+        "text": "C6H5CONH2  +  C2H5Cl",
+        "image": null
+      }
+    ],
+    "number": 100,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ПРОДУКТЫ РЕАКЦИИ C6H5COCl  +  C2H5NH2",
+    "answers": [
+      {
+        "text": "C6H5CONHC2H5  +  [C2H5NH3]+Cl-",
+        "image": null
+      },
+      {
+        "text": "C6H5NHC2H5  + H2O",
+        "image": null
+      },
+      {
+        "text": "C6H5CONH2  +  C2H5Cl",
+        "image": null
+      },
+      {
+        "text": "C6H5CH(OC2H5)NH2",
+        "image": null
+      }
+    ],
+    "number": 101,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ИСХОДНЫЙ АМИН, ПРИ ВЗАИМОДЕЙСТВИИ КОТОРОГО С АЗОТИСТОЙ КИСЛОТОЙ ОБРАЗУЕТСЯ N-НИТРОЗОСОЕДИНЕНИЕ",
+    "answers": [
+      {
+        "text": "бутилметиламин",
+        "image": null
+      },
+      {
+        "text": "N,N-диметиланилин",
+        "image": null
+      },
+      {
+        "text": "циклогексиламин",
+        "image": null
+      },
+      {
+        "text": "α-нафтиламин",
+        "image": null
+      }
+    ],
+    "number": 102,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ИСХОДНЫЙ АМИН, ПРИ ВЗАИМОДЕЙСТВИИ КОТОРОГО С АЗОТИСТОЙ КИСЛОТОЙ ОБРАЗУЕТСЯ С-НИТРОЗОСОЕДИНЕНИЕ",
+    "answers": [
+      {
+        "text": "N,N-диметиланилин",
+        "image": null
+      },
+      {
+        "text": "бутилметиламин",
+        "image": null
+      },
+      {
+        "text": "циклогексиламин",
+        "image": null
+      },
+      {
+        "text": "α-нафтиламин",
+        "image": null
+      }
+    ],
+    "number": 103,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СХЕМА, В КОТОРОЙ НЕВЕРНО УКАЗАНЫ ПРОДУКТЫ РЕАКЦИИ",
+    "answers": [
+      {
+        "text": null,
+        "image": "272.png"
+      },
+      {
+        "text": null,
+        "image": "273.png"
+      },
+      {
+        "text": null,
+        "image": "274.png"
+      },
+      {
+        "text": null,
+        "image": "275.png"
+      }
+    ],
+    "number": 104,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИОНАЯ СПОСОБНОСТЬ СОЕДИНЕНИЙ В РЕАКЦИЯХ ЭЛЕКТРОФИЛЬНОГО ЗАМЕЩЕНИЯ УМЕНЬШАЕТСЯ В РЯДУ:\n1) АНИЛИН\n2) п-НИТРОАНИЛИН\n3) м-АНИЗИДИН (3-МЕТОКСИАНИЛИН)\n4) п-ТОЛУИДИН (4-МЕТИЛАНИЛИН)",
+    "answers": [
+      {
+        "text": "3→4→1→2",
+        "image": null
+      },
+      {
+        "text": "4→3→1→2",
+        "image": null
+      },
+      {
+        "text": "2→4→1→3",
+        "image": null
+      },
+      {
+        "text": "1→4→3→2",
+        "image": null
+      }
+    ],
+    "number": 105,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СХЕМА РЕАКЦИИ ДИАЗОТИРОВАНИЯ",
+    "answers": [
+      {
+        "text": null,
+        "image": "276.png"
+      },
+      {
+        "text": null,
+        "image": "277.png"
+      },
+      {
+        "text": null,
+        "image": "278.png"
+      },
+      {
+        "text": null,
+        "image": "279.png"
+      }
+    ],
+    "number": 106,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ СОЛЕЙ ДИАЗОНИЯ ВЕРНЫ, КРОМЕ",
+    "answers": [
+      {
+        "text": "устойчивы при нагревании",
+        "image": null
+      },
+      {
+        "text": "получают диазотированием первичных ароматических аминов",
+        "image": null
+      },
+      {
+        "text": "катион диазония является слабым электрофилом",
+        "image": null
+      },
+      {
+        "text": "вступают в реакции азосочетания с фенолами",
+        "image": null
+      }
+    ],
+    "number": 107,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "РЕАКЦИЯ, ПРОТЕКАЮЩАЯ БЕЗ ВЫДЕЛЕНИЯ АЗОТА",
+    "answers": [
+      {
+        "text": null,
+        "image": "280.png"
+      },
+      {
+        "text": null,
+        "image": "281.png"
+      },
+      {
+        "text": null,
+        "image": "282.png"
+      },
+      {
+        "text": null,
+        "image": "283.png"
+      }
+    ],
+    "number": 108,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА ДИАЗОСОЕДИНЕНИЯ",
+    "answers": [
+      {
+        "text": null,
+        "image": "284.png"
+      },
+      {
+        "text": null,
+        "image": "285.png"
+      },
+      {
+        "text": null,
+        "image": "286.png"
+      },
+      {
+        "text": null,
+        "image": "287.png"
+      }
+    ],
+    "number": 109,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА АЗОСОЕДИНЕНИЯ",
+    "answers": [
+      {
+        "text": null,
+        "image": "288.png"
+      },
+      {
+        "text": null,
+        "image": "289.png"
+      },
+      {
+        "text": null,
+        "image": "290.png"
+      },
+      {
+        "text": null,
+        "image": "291.png"
+      }
+    ],
+    "number": 110,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "МЕХАНИЗМ РЕАКЦИИ",
+    "answers": [
+      {
+        "text": "свободнорадикальное замещение",
+        "image": null
+      },
+      {
+        "text": "электрофильное замещение",
+        "image": null
+      },
+      {
+        "text": "нуклеофильное присоединение",
+        "image": null
+      },
+      {
+        "text": "электрофильное присоединение",
+        "image": null
+      }
+    ],
+    "image": "292.png",
+    "number": 111,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "МЕХАНИЗМ РЕАКЦИИ",
+    "answers": [
+      {
+        "text": "электрофильное замещение",
+        "image": null
+      },
+      {
+        "text": "нуклеофильное замещение",
+        "image": null
+      },
+      {
+        "text": "электрофильное присоединение",
+        "image": null
+      },
+      {
+        "text": "нуклеофильное присоединение",
+        "image": null
+      }
+    ],
+    "image": "293.png",
+    "number": 112,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "АЗО- И ДИАЗОКОМПОНЕНТА ДЛЯ ПОЛУЧЕНИЯ АЗОСОЕДИНЕНИЯ",
+    "answers": [
+      {
+        "text": null,
+        "image": "295.png"
+      },
+      {
+        "text": null,
+        "image": "296.png"
+      },
+      {
+        "text": null,
+        "image": "297.png"
+      },
+      {
+        "text": null,
+        "image": "298.png"
+      }
+    ],
+    "image": "294.png",
+    "number": 113,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "АУКСОХРОМ В СТРУКТУРАХ АЗОКРАСИТЕЛЕЙ",
+    "answers": [
+      {
+        "text": "-N(CH3)2",
+        "image": null
+      },
+      {
+        "text": "-СН2OH",
+        "image": null
+      },
+      {
+        "text": "-CH3",
+        "image": null
+      },
+      {
+        "text": "-СН2NHСН3",
+        "image": null
+      }
+    ],
+    "number": 114,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, ОБРАЗУЮЩЕЕСЯ ПРИ НАГРЕВАНИИ ХЛОРИДА ДИАЗОТИРОВАННОЙ СУЛЬФАНИЛОВОЙ\nКИСЛОТЫ В ВОДНОМ РАСТВОРЕ",
+    "answers": [
+      {
+        "text": null,
+        "image": "299.png"
+      },
+      {
+        "text": null,
+        "image": "300.png"
+      },
+      {
+        "text": null,
+        "image": "301.png"
+      },
+      {
+        "text": null,
+        "image": "302.png"
+      }
+    ],
+    "number": 115,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЛЬ ДИАЗОНИЯ, НАИБОЛЕЕ АКТИВНАЯ В РЕАКЦИИ АЗОСОЧЕТАНИЯ С ФЕНОЛОМ",
+    "answers": [
+      {
+        "text": null,
+        "image": "303.png"
+      },
+      {
+        "text": null,
+        "image": "304.png"
+      },
+      {
+        "text": null,
+        "image": "c3_116_3.png"
+      },
+      {
+        "text": null,
+        "image": "c3_116_4.png"
+      }
+    ],
+    "number": 116,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, КОТОРОЕ ВСТУПАЕТ В РЕАКЦИИ АЗОСОЧЕТАНИЯ С СОЛЯМИ ДИАЗОНИЯ",
+    "answers": [
+      {
+        "text": null,
+        "image": "306.png"
+      },
+      {
+        "text": null,
+        "image": "307.png"
+      },
+      {
+        "text": null,
+        "image": "308.png"
+      },
+      {
+        "text": null,
+        "image": "309.png"
+      }
+    ],
+    "number": 117,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "АЗОКОМПОНЕНТА ДЛЯ ПОЛУЧЕНИЯ 4-ГИДРОКСИ-4'- НИТРОАЗОБЕНЗОЛА",
+    "answers": [
+      {
+        "text": null,
+        "image": "310.png"
+      },
+      {
+        "text": null,
+        "image": "311.png"
+      },
+      {
+        "text": null,
+        "image": "312.png"
+      },
+      {
+        "text": null,
+        "image": "313.png"
+      }
+    ],
+    "number": 118,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА ЛАКТАМА",
+    "answers": [
+      {
+        "text": null,
+        "image": "314.png"
+      },
+      {
+        "text": null,
+        "image": "315.png"
+      },
+      {
+        "text": null,
+        "image": "316.png"
+      },
+      {
+        "text": null,
+        "image": "317.png"
+      }
+    ],
+    "number": 119,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ФОРМУЛА ДИКЕТОПИПЕРАЗИНА",
+    "answers": [
+      {
+        "text": null,
+        "image": "318.png"
+      },
+      {
+        "text": null,
+        "image": "319.png"
+      },
+      {
+        "text": null,
+        "image": "320.png"
+      },
+      {
+        "text": null,
+        "image": "321.png"
+      }
+    ],
+    "number": 120,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, ПРИ ГИДРОЛИЗЕ КОТОРОГО ОБРАЗУЕТСЯ 4- ГИДРОКСИПЕНТАНОВАЯ КИСЛОТА",
+    "answers": [
+      {
+        "text": null,
+        "image": "322.png"
+      },
+      {
+        "text": null,
+        "image": "323.png"
+      },
+      {
+        "text": "HOCH2(CH2)3COOCH3",
+        "image": null
+      },
+      {
+        "text": "(CH3O)2CH(CH2)2COOCH3",
+        "image": null
+      }
+    ],
+    "number": 121,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, ПРИ НАГРЕВАНИИ КОТОРОГО ОБРАЗУЕТСЯ БУТЕН-2-ОВАЯ КИСЛОТА",
+    "answers": [
+      {
+        "text": "CH3CH(NH2)CH2COOH",
+        "image": null
+      },
+      {
+        "text": "CH3CH2CH(OH)COOH",
+        "image": null
+      },
+      {
+        "text": "H2NCH2CH2CH2COOH",
+        "image": null
+      },
+      {
+        "text": "CH3CH(OH)CH(OH)COOH",
+        "image": null
+      }
+    ],
+    "number": 122,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КИСЛОТА, ВСТУПАЮЩАЯ В РЕАКЦИЮ МЕЖМОЛЕКУЛЯРНОЙ ЭТЕРИФИКАЦИИ ПРИ НАГРЕВАНИИ",
+    "answers": [
+      {
+        "text": "2-гидрокси-3-метилбутановая кислота",
+        "image": null
+      },
+      {
+        "text": "4-гидрокси-2-метилпентановая кислота",
+        "image": null
+      },
+      {
+        "text": "3-гидрокси-2-метилбутановая кислота",
+        "image": null
+      },
+      {
+        "text": "3-гидрокси-2-метилпентандиовая кислота",
+        "image": null
+      }
+    ],
+    "number": 123,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КИСЛОТА, ВСТУПАЮЩАЯ В РЕАКЦИЮ ВНУТРИМОЛЕКУЛЯРНОЙ ЭТЕРИФИКАЦИИ ПРИ НАГРЕВАНИИ",
+    "answers": [
+      {
+        "text": "4-гидрокси-2-метилпентановая кислота",
+        "image": null
+      },
+      {
+        "text": "2-гидрокси-3-метилбутановая кислота",
+        "image": null
+      },
+      {
+        "text": "3-гидрокси-2-метилпентандиовая кислота",
+        "image": null
+      },
+      {
+        "text": "3-гидрокси-2-метилбутановая кислота",
+        "image": null
+      }
+    ],
+    "number": 124,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ИСХОДНЫЕ СОЕДИНЕНИЯ И УСЛОВИЯ РЕАКЦИИ ДЛЯ ПОЛУЧЕНИЯ 3-ГИДРОКСИ-2-МЕТИЛБУТАНОВОЙ КИСЛОТЫ",
+    "answers": [
+      {
+        "text": "CH3CHClCH(CH3)COOH  +  NaOH →",
+        "image": null
+      },
+      {
+        "text": null,
+        "image": "324.png"
+      },
+      {
+        "text": null,
+        "image": "325.png"
+      },
+      {
+        "text": null,
+        "image": "326.png"
+      }
+    ],
+    "number": 125,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, ПРИ НАГРЕВАНИИ КОТОРОГО ОБРАЗУЕТСЯ ПЕНТЕН-2-ОВАЯ КИСЛОТА",
+    "answers": [
+      {
+        "text": "CH3CH2(NH2)CHCH2COOH",
+        "image": null
+      },
+      {
+        "text": "CH3CH(NH2)CH2CH2COOH",
+        "image": null
+      },
+      {
+        "text": "CH3CH2CH2CH(OH)COOH",
+        "image": null
+      },
+      {
+        "text": "H2NCH2CH2CH2CH2COOH",
+        "image": null
+      }
+    ],
+    "number": 126,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, ПРИ ГИДРОЛИЗЕ КОТОРОГО ОБРАЗУЕТСЯ 4- ГИДРОКСИПЕНТАНОВАЯ КИСЛОТА",
+    "answers": [
+      {
+        "text": null,
+        "image": "327.png"
+      },
+      {
+        "text": null,
+        "image": "328.png"
+      },
+      {
+        "text": null,
+        "image": "329.png"
+      },
+      {
+        "text": null,
+        "image": "330.png"
+      }
+    ],
+    "number": 127,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ЛАКТОНОВ",
+    "answers": [
+      {
+        "text": "образуются в результате внутримолекулярной этерификации",
+        "image": null
+      },
+      {
+        "text": "содержат в цикле две сложноэфирные группы",
+        "image": null
+      },
+      {
+        "text": "содержат в цикле простую эфирную связь",
+        "image": null
+      },
+      {
+        "text": "гидродизуются только в кислой среде",
+        "image": null
+      }
+    ],
+    "number": 128,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, КОТОРОЕ ОБРАЗУЕТСЯ ПРИ НАГРЕВАНИИ ГЕТЕРОФУНКЦИОНАЛЬНОЙ КИСЛОТЫ",
+    "answers": [
+      {
+        "text": null,
+        "image": "331.png"
+      },
+      {
+        "text": null,
+        "image": "c3_129_2.png"
+      },
+      {
+        "text": null,
+        "image": "c3_129_3.png"
+      },
+      {
+        "text": null,
+        "image": "333.png"
+      }
+    ],
+    "number": 129,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, ПРИ ГИДРОЛИЗЕ КОТОРОЕО ОБРАЗУЕТСЯ 4- АМИНОПЕНТАНОВАЯ КИСЛОТА",
+    "answers": [
+      {
+        "text": null,
+        "image": "c3_130_1.png"
+      },
+      {
+        "text": null,
+        "image": "c3_130_2.png"
+      },
+      {
+        "text": null,
+        "image": "335.png"
+      },
+      {
+        "text": null,
+        "image": "336.png"
+      }
+    ],
+    "number": 130,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
+    "answers": [
+      {
+        "text": null,
+        "image": "c3_131_1.png"
+      },
+      {
+        "text": null,
+        "image": "c3_131_2.png"
+      },
+      {
+        "text": null,
+        "image": "c3_131_3.png"
+      },
+      {
+        "text": null,
+        "image": "338.png"
+      }
+    ],
+    "image": "c3_131_0.png",
+    "number": 131,
+    "type": "oneselect",
+    "right_ans_num": 0
+  },
+  {
+    "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ ЛАКТАМОВ ВЕРНЫ, КРОМЕ",
+    "answers": [
+      {
+        "text": "являются циклическими диамидами",
+        "image": null
+      },
+      {
+        "text": "образуются в результате внутримолекулярного ацилирования аминогруппы",
+        "image": null
+      },
+      {
+        "text": "образуются по механизму нуклеофильного замещения у sp2-гибридизованного атома углерода",
+        "image": null
+      },
+      {
+        "text": "гидролизуются в кислой и щелочной средах",
+        "image": null
+      }
+    ],
+    "number": 132,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КЕТОННАЯ ФОРМА ЭФИРА Β-ОКСОКИСЛОТЫ",
+    "answers": [
+      {
+        "text": null,
+        "image": "339.png"
+      },
+      {
+        "text": null,
+        "image": "340.png"
+      },
+      {
+        "text": null,
+        "image": "341.png"
+      },
+      {
+        "text": null,
+        "image": "342.png"
+      }
+    ],
+    "number": 133,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "ЕНОЛЬНАЯ ФОРМА ЩАВЕЛЕВОУКСУСНОЙ КИСЛОТЫ",
+    "answers": [
+      {
+        "text": "HOOC–C(OH)=CHCOOH",
+        "image": null
+      },
+      {
+        "text": "HOOC–C(OH)=C(CH3)COOH",
+        "image": null
+      },
+      {
+        "text": "HOOC–C(OH)=C(COOH)CH2COOH",
+        "image": null
+      },
+      {
+        "text": "O=CH-CH=CHCOOH",
+        "image": null
+      }
+    ],
+    "number": 134,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, ИЗ КОТОРОГО ПРИ ДЕКАРБОКСИЛИРОВАНИИ ОБРАЗУЕТСЯ АЦЕТОН",
+    "answers": [
+      {
+        "text": null,
+        "image": "343.png"
+      },
+      {
+        "text": null,
+        "image": "344.png"
+      },
+      {
+        "text": null,
+        "image": "345.png"
+      },
+      {
+        "text": null,
+        "image": "346.png"
+      }
+    ],
+    "number": 135,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, ИЗ КОТОРОГО ПРИ ДЕКАРБОКСИЛИРОВАНИИ ОБРАЗУЕТСЯ ПИРОВИНОГРАДНАЯ КИСЛОТА",
+    "answers": [
+      {
+        "text": null,
+        "image": "347.png"
+      },
+      {
+        "text": null,
+        "image": "c3_136_2.png"
+      },
+      {
+        "text": null,
+        "image": "c3_136_3.png"
+      },
+      {
+        "text": null,
+        "image": "349.png"
+      }
+    ],
+    "number": 136,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КИСЛОТА, КОТОРАЯ ЛЕГЧЕ ДРУГИХ ПОДВЕРГАЕТСЯ ДЕКАРБОКСИЛИРОВАНИЮ",
+    "answers": [
+      {
+        "text": "HOOCC(O)CH2COOH",
+        "image": null
+      },
+      {
+        "text": "HOOCCH2CH2CH2COOH",
+        "image": null
+      },
+      {
+        "text": "HOCH2CH2COOH",
+        "image": null
+      },
+      {
+        "text": "C6H5COOH",
+        "image": null
+      }
+    ],
+    "number": 137,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "СОЕДИНЕНИЕ, КОТОРОЕ В РАВНОВЕСНОЙ СМЕСИ ИМЕЕТ НАИБОЛЕЕ ВЫСОКОЕ СОДЕРЖАНИЕ ЕНОЛЬНОЙ ФОРМЫ",
+    "answers": [
+      {
+        "text": "HOOCC(O)CH2COOH",
+        "image": null
+      },
+      {
+        "text": "CH3C(O)CH2CH2COOC2H5",
+        "image": null
+      },
+      {
+        "text": "CH3C(O)CH2COOC2H5",
+        "image": null
+      },
+      {
+        "text": "CH3C(O)C6H5",
+        "image": null
+      }
+    ],
+    "number": 138,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "КИСЛОТНЫЕ СВОЙСТВА СОЕДИНЕНИЙ УМЕНЬШАЮТСЯ В РЯДУ:\n1) 3-ОКСОБУТАНОВАЯ КИСЛОТА\n2) 2-ОКСОПРОПАНОВАЯ КИСЛОТА\n3) 4-ОКСОПЕНТАНОВАЯ КИСЛОТА\n4) 6-ОКСОГЕПТАНОВАЯ КИСЛОТА",
+    "answers": [
+      {
+        "text": "2→1→3→4",
+        "image": null
+      },
+      {
+        "text": "2→4→3→1",
+        "image": null
+      },
+      {
+        "text": "3→2→1→4",
+        "image": null
+      },
+      {
+        "text": "3→4→2→1",
+        "image": null
+      }
+    ],
+    "number": 139,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  }
+]

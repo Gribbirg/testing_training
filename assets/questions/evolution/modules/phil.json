@@ -1,0 +1,842 @@
+[
+  {
+    "name": "\"Первые живые существа возникли из четырех вечных и неизменных элементов мировой материи: огонь, воздух, вода и земля из сочетания которых в различных пропорциях образуются все вещи\" - сказал",
+    "number": 1,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Эмпедокл",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Платон",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Лукреций Кар",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Растения и животные возникают из неживого материала предположил",
+    "number": 2,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Платон",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      },
+      {
+        "text": "Лукреций Кар",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "\"Живые существа образуются в результате соединения пассивной материи с активным началом (формой), представляющим собой душу, которая затем движет организмом\"- сказал",
+    "number": 3,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Платон",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Лукреций Кар",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "\"Мир состоит из множества мельчайших частиц, которые находятся в движении\" принадлежит",
+    "number": 4,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Демокриту",
+        "image": null
+      },
+      {
+        "text": "Эмпедоклу",
+        "image": null
+      },
+      {
+        "text": "Платону",
+        "image": null
+      },
+      {
+        "text": "Аристотел.",
+        "image": null
+      },
+      {
+        "text": "Лукрецию Кару",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "\"Для природы характерно закономерное развитие, выживание тех организмов, которые наиболее гармонично (целесообразно) устроены\" - сказал",
+    "number": 5,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Эмпедокл",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Платон",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Лукреций Кар",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Французский монах Роджер Бэкон",
+    "number": 6,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "заложил основы опытного естествознания",
+        "image": null
+      },
+      {
+        "text": "создал рецепт \"изготовления\" гомункулуса",
+        "image": null
+      },
+      {
+        "text": "создал труд \"Канон врачебной науки\"",
+        "image": null
+      },
+      {
+        "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
+        "image": null
+      },
+      {
+        "text": "представил доказательства невозможности самозарождения",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Осуществил ряд экспериментов с мясом и мухами и пришел к заключению, что личинки, возникающие в гниющем мясе, являются личинками насекомых - это",
+    "number": 7,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Ф. Реди",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Авиценна",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "\"Жизнь существует во вселенной и переносится в простейших формах с одного небесного тела на другое под давлением световых лучей\" утверждает",
+    "number": 8,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Аррениус",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Авиценна",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "\"Канон врачебной науки\" труд философа средневековья",
+    "number": 9,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Авиценны",
+        "image": null
+      },
+      {
+        "text": "Демокрита",
+        "image": null
+      },
+      {
+        "text": "Эмпедокла",
+        "image": null
+      },
+      {
+        "text": "Аристотеля",
+        "image": null
+      },
+      {
+        "text": "Роджера Бэкона",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Аристотелевскую\"лестницу природы\"создали",
+    "number": 10,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Г. Лейбниц и Ш. Бонне",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл и Авиценна",
+        "image": null
+      },
+      {
+        "text": "Аристотель и Аррениус",
+        "image": null
+      },
+      {
+        "text": "Г. Лейбниц и Аристотель",
+        "image": null
+      },
+      {
+        "text": "Аррениус и Авиценна",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Древнегреческие философы:",
+    "number": 11,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Эмпедокл , Демокрит и Платон",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Платон",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Философы Древнего Рима:",
+    "number": 12,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Лукреций Кар",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Платон",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Идея о естественном происхождении живых существ принадлежит древнегреческому философу",
+    "number": 13,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Эмпедоклу и Демокриту",
+        "image": null
+      },
+      {
+        "text": "Демокриту",
+        "image": null
+      },
+      {
+        "text": "Платону",
+        "image": null
+      },
+      {
+        "text": "Аристотелю",
+        "image": null
+      },
+      {
+        "text": "Эмпедоклу",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Знаменитый врач средневековья Парацельс",
+    "number": 14,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "создал рецепт \"изготовления\" гомункулуса",
+        "image": null
+      },
+      {
+        "text": "заложил основы опытного естествознания",
+        "image": null
+      },
+      {
+        "text": "создал труд \"Канон врачебной науки\"",
+        "image": null
+      },
+      {
+        "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
+        "image": null
+      },
+      {
+        "text": "представил доказательства невозможности самозарождения",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Римский поэт и философ-материалист написавший поэму «О природе вещей»",
+    "number": 15,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Лукреций Кар",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Платон",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Согласно взглядам креационистов, жизнь",
+    "number": 16,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "была создана сверхъестественным образом",
+        "image": null
+      },
+      {
+        "text": "возникала неоднократно из вещества неживой природы",
+        "image": null
+      },
+      {
+        "text": "вечна, возникла одновременно со Вселенной",
+        "image": null
+      },
+      {
+        "text": "самозародилась и продолжает самозарождаться",
+        "image": null
+      },
+      {
+        "text": "занесена на нашу планету извне",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Философы средневековья:",
+    "number": 17,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Авиценна и Роджер Бэкон",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Авиценна",
+        "image": null
+      },
+      {
+        "text": "Роджер Бэкон",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Гипотезу панспермии сформулировал в начале нашего века ученый",
+    "number": 18,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Аррениус",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Авиценна",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Ф. Реди",
+    "number": 19,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
+        "image": null
+      },
+      {
+        "text": "заложил основы опытного естествознания",
+        "image": null
+      },
+      {
+        "text": "создал труд \"Канон врачебной науки\"",
+        "image": null
+      },
+      {
+        "text": "создал рецепт \"изготовления\" гомункулуса",
+        "image": null
+      },
+      {
+        "text": "представил доказательства невозможности самозарождения",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Философ средневековья арабского Востока",
+    "number": 20,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Авиценна",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Роджер Бэкон",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Л. Пастер",
+    "number": 21,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "представил доказательства невозможности самозарождения",
+        "image": null
+      },
+      {
+        "text": "заложил основы опытного естествознания",
+        "image": null
+      },
+      {
+        "text": "создал труд \"Канон врачебной науки\"",
+        "image": null
+      },
+      {
+        "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
+        "image": null
+      },
+      {
+        "text": "создал рецепт \"изготовления\" гомункулуса",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Древнегреческий философ - материалист, один из основателей античной атомистики",
+    "number": 22,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      },
+      {
+        "text": "Платон",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Лукреций Кар",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Экспериментально доказал, что источником загрязнений всех растворов являются бактерии",
+    "number": 23,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Л. Пастер",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Авиценна",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      },
+      {
+        "text": "Родже Бэкон",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Согласно гипотезе панспермии, жизнь ...",
+    "number": 24,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "занесена на нашу планету извне",
+        "image": null
+      },
+      {
+        "text": "была создана сверхъестественным образом",
+        "image": null
+      },
+      {
+        "text": "вечна, возникла одновременно со Вселенной",
+        "image": null
+      },
+      {
+        "text": "самозародилась и продолжает самозарождаться",
+        "image": null
+      },
+      {
+        "text": "возникала неоднократно из вещества неживой природы",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Для средневековья характерно господство идеологии ...",
+    "number": 25,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "религиозной",
+        "image": null
+      },
+      {
+        "text": "материалистической",
+        "image": null
+      },
+      {
+        "text": "метафизической",
+        "image": null
+      },
+      {
+        "text": "мистической",
+        "image": null
+      },
+      {
+        "text": "идолопоклонческой",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Осуществил ряд экспериментов с мясом и мухами и пришел к заключению, что личинки, возникающие в гниющем мясе, являются личинками насекомых",
+    "number": 26,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Ф. Реди",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Авиценна",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Первые живые существа возникли из четырех вечных и неизменных элементов мировой материи: огонь, воздух, вода и земля из сочетания которых в различных пропорциях образуются все вещи",
+    "number": 27,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Эмпедокл",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Платон",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Лукреций Кар",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "\"Жизнь существует во вселенной и переносится в простейших формах с одного небесного тела на другое под давлением световых лучей\" утверждает",
+    "number": 28,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Аррениус",
+        "image": null
+      },
+      {
+        "text": "Демокрит",
+        "image": null
+      },
+      {
+        "text": "Авиценна",
+        "image": null
+      },
+      {
+        "text": "Аристотель",
+        "image": null
+      },
+      {
+        "text": "Эмпедокл",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  }
+]

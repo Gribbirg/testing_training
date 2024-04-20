@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Хромосомные болезни изучает метод генетики человека: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "цитогенетический",
+        "image": null
+      },
+      {
+        "text": "биохимический",
+        "image": null
+      },
+      {
+        "text": "близнецовый",
+        "image": null
+      },
+      {
+        "text": "дерматоглифический",
+        "image": null
+      }
+    ],
+    "number": 1,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Наследственные болезни обмена можно определить методом: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "биохимическим ",
+        "image": null
+      },
+      {
+        "text": "популяционно-статистическим",
+        "image": null
+      },
+      {
+        "text": "близнецовым",
+        "image": null
+      },
+      {
+        "text": "цитогенетическим",
+        "image": null
+      }
+    ],
+    "number": 2,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Фенилкетонурия относится к болезням: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "аминокислотного обмена ",
+        "image": null
+      },
+      {
+        "text": "геномным",
+        "image": null
+      },
+      {
+        "text": "хромосомным",
+        "image": null
+      },
+      {
+        "text": "жирового обмена",
+        "image": null
+      }
+    ],
+    "number": 3,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Механизм возникновения наследственных болезней обмена: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "генный",
+        "image": null
+      },
+      {
+        "text": "геномный",
+        "image": null
+      },
+      {
+        "text": "хромосомный",
+        "image": null
+      },
+      {
+        "text": "модификационный",
+        "image": null
+      }
+    ],
+    "number": 4,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Ферментопатии относятся к болезням: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "генным ",
+        "image": null
+      },
+      {
+        "text": "мутационным",
+        "image": null
+      },
+      {
+        "text": "хромосомным",
+        "image": null
+      },
+      {
+        "text": "все ответы не верны",
+        "image": null
+      }
+    ],
+    "number": 5,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Фенилкетонурия наследуется по … типу ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "аутосомно-рецессивному  типу",
+        "image": null
+      },
+      {
+        "text": "аутосомно-доминантному типу",
+        "image": null
+      },
+      {
+        "text": "сцепленному с полом типу",
+        "image": null
+      },
+      {
+        "text": "Голандрическому типу",
+        "image": null
+      }
+    ],
+    "number": 6,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Синдром Дауна относится к болезням: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "хромосомным",
+        "image": null
+      },
+      {
+        "text": "мутационным",
+        "image": null
+      },
+      {
+        "text": "генным",
+        "image": null
+      },
+      {
+        "text": "все ответы не верны",
+        "image": null
+      }
+    ],
+    "number": 7,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Возможные механизмы возникновения синдрома Дауна: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "трисомия аутосом и транслокация ",
+        "image": null
+      },
+      {
+        "text": "трисомия половых хромосом",
+        "image": null
+      },
+      {
+        "text": "транслокация",
+        "image": null
+      },
+      {
+        "text": "только трисомия аутосом",
+        "image": null
+      }
+    ],
+    "number": 8,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Точковые мутации проводят к болезням: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "обмена",
+        "image": null
+      },
+      {
+        "text": "цитогенетическим",
+        "image": null
+      },
+      {
+        "text": "хромосомным",
+        "image": null
+      },
+      {
+        "text": "все ответы верны",
+        "image": null
+      }
+    ],
+    "number": 9,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Трисомия по 21-ой хромосоме приводит к синдрому: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "Дауна",
+        "image": null
+      },
+      {
+        "text": "Эдвардса",
+        "image": null
+      },
+      {
+        "text": "Патау",
+        "image": null
+      },
+      {
+        "text": "«кошачьего крика»",
+        "image": null
+      }
+    ],
+    "number": 10,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Трисомия по 13-ой хромосоме: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "синдром Патау ",
+        "image": null
+      },
+      {
+        "text": "синдром Эдвардса",
+        "image": null
+      },
+      {
+        "text": "синдром Дауна",
+        "image": null
+      },
+      {
+        "text": "синдром «кошачьего крика»",
+        "image": null
+      }
+    ],
+    "number": 11,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Трисомия по 18-ой хромосоме: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "синдром  Эдвардса ",
+        "image": null
+      },
+      {
+        "text": "синдром  Дауна",
+        "image": null
+      },
+      {
+        "text": "синдром Патау",
+        "image": null
+      },
+      {
+        "text": "синдром «кошачьего крика».",
+        "image": null
+      }
+    ],
+    "number": 12,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Трисомия по хромосоме в группе Д может вызывать синдром: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "Патау ",
+        "image": null
+      },
+      {
+        "text": "Эдвардса",
+        "image": null
+      },
+      {
+        "text": "Дауна",
+        "image": null
+      },
+      {
+        "text": "«кошачьего крика»",
+        "image": null
+      }
+    ],
+    "number": 13,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Триплоидия вызывает синдром: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "все ответы не верны ",
+        "image": null
+      },
+      {
+        "text": "Эдвардса",
+        "image": null
+      },
+      {
+        "text": "Патау",
+        "image": null
+      },
+      {
+        "text": "Дауна",
+        "image": null
+      }
+    ],
+    "number": 14,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Реципрокидные транслокации, которые приводят с синдрому Дауна: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "21/21",
+        "image": null
+      },
+      {
+        "text": "15/15",
+        "image": null
+      },
+      {
+        "text": "18/18",
+        "image": null
+      },
+      {
+        "text": "20/20",
+        "image": null
+      }
+    ],
+    "number": 15,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Триплоидии приводят к: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "летальности ",
+        "image": null
+      },
+      {
+        "text": "синдрому «кошачьего крика»",
+        "image": null
+      },
+      {
+        "text": "синдрому Клайнфельтера",
+        "image": null
+      },
+      {
+        "text": "синдрому Дауна",
+        "image": null
+      }
+    ],
+    "number": 16,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Генетическая картина синдрома Клайнфельтера: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "все ответы верны ",
+        "image": null
+      },
+      {
+        "text": "ХХУУ",
+        "image": null
+      },
+      {
+        "text": "ХХХУ",
+        "image": null
+      },
+      {
+        "text": "ХХУ",
+        "image": null
+      }
+    ],
+    "number": 17,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Генетическая картина синдрома Шерешевского-Тернера: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "45, ХО",
+        "image": null
+      },
+      {
+        "text": "47, ХО",
+        "image": null
+      },
+      {
+        "text": "47, ХХХ",
+        "image": null
+      },
+      {
+        "text": "47, ХО",
+        "image": null
+      }
+    ],
+    "number": 18,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Генетическая картина синдрома трисомии по Х-хромосоме: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "44АХХХ ",
+        "image": null
+      },
+      {
+        "text": "45, ХО",
+        "image": null
+      },
+      {
+        "text": "47, ХХУ",
+        "image": null
+      },
+      {
+        "text": "45, ХХХ",
+        "image": null
+      }
+    ],
+    "number": 19,
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Наследственность и изменчивость человека изучается с помощью методов: ",
+    "type": "oneselect",
+    "answers": [
+      {
+        "text": "клонирования, цитологическим ",
+        "image": null
+      },
+      {
+        "text": "цитогенетическим, гибридологическим",
+        "image": null
+      },
+      {
+        "text": "гибридологическим, генеалогическим, близнецовым",
+        "image": null
+      },
+      {
+        "text": "биохимическим, дерматоглифическим, анализирующем",
+        "image": null
+      }
+    ],
+    "number": 20,
+    "image": null,
+    "right_ans_num": 0
+  }
+]

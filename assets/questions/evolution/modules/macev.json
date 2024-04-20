@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Примером макроэволюционного процесса является:",
+    "number": 1,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "образование рода ос",
+        "image": null
+      },
+      {
+        "text": "вылет роя пчел",
+        "image": null
+      },
+      {
+        "text": "описание нового вида мыши - полевки",
+        "image": null
+      },
+      {
+        "text": "формирование нового вида карася",
+        "image": null
+      },
+      {
+        "text": "миграция птиц на юг",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Упрощение строения организма, приводящее к снижению его уровня организации, - это",
+    "number": 2,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "дегенерация",
+        "image": null
+      },
+      {
+        "text": "идиоадаптация",
+        "image": null
+      },
+      {
+        "text": "ароморфоз",
+        "image": null
+      },
+      {
+        "text": "биологический регресс",
+        "image": null
+      },
+      {
+        "text": "микроэволюция",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "К ароморфозам млекопитающих следует отнести",
+    "number": 3,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "матку",
+        "image": null
+      },
+      {
+        "text": "два круга кровообращения",
+        "image": null
+      },
+      {
+        "text": "три отдела пищеварительной системы",
+        "image": null
+      },
+      {
+        "text": "безъядерные эритроциты",
+        "image": null
+      },
+      {
+        "text": "четырехкамерный желудок",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Примером идиоадаптации является",
+    "number": 4,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "воздушные корни орхидных",
+        "image": null
+      },
+      {
+        "text": "семязачаток голосеменных",
+        "image": null
+      },
+      {
+        "text": "придаточные корни у плауновидных",
+        "image": null
+      },
+      {
+        "text": "цветок покрытосеменных",
+        "image": null
+      },
+      {
+        "text": "корнеплоды",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "К примерам дегенерации нельзя отнести утрату.",
+    "number": 5,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "хвоста у головастика",
+        "image": null
+      },
+      {
+        "text": "хорды у взрослой асцидии",
+        "image": null
+      },
+      {
+        "text": "пищеварительной системы у ленточных червей",
+        "image": null
+      },
+      {
+        "text": "головного мозга у ланцетника",
+        "image": null
+      },
+      {
+        "text": "головной почки у амфибий",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Формулировкой теории биохимической эволюции современная биология обязана",
+    "number": 6,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "А.И. Опарину",
+        "image": null
+      },
+      {
+        "text": "А.Н. Северцову",
+        "image": null
+      },
+      {
+        "text": "И.И. Шмальгаузену",
+        "image": null
+      },
+      {
+        "text": "Ч. Даввину",
+        "image": null
+      },
+      {
+        "text": "К. Линнею",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Первыми носителями жизни согласно современным представлениям были молекулы",
+    "number": 7,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "РНК",
+        "image": null
+      },
+      {
+        "text": "углеводов",
+        "image": null
+      },
+      {
+        "text": "жиров",
+        "image": null
+      },
+      {
+        "text": "ДНК",
+        "image": null
+      },
+      {
+        "text": "белков",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Остатки организмов, встречающиеся в самых глубоких слоях отложений",
+    "number": 8,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "кораллы",
+        "image": null
+      },
+      {
+        "text": "насекомые",
+        "image": null
+      },
+      {
+        "text": "пауки",
+        "image": null
+      },
+      {
+        "text": "птицы",
+        "image": null
+      },
+      {
+        "text": "рептилии",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В настоящее время полностью вымерла группа растений:",
+    "number": 9,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "семенные папоротники",
+        "image": null
+      },
+      {
+        "text": "травянистые плауны",
+        "image": null
+      },
+      {
+        "text": "наземные хвощи",
+        "image": null
+      },
+      {
+        "text": "древесные папоротники",
+        "image": null
+      },
+      {
+        "text": "травянистые хвощи",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Свидетельством в пользу эндосимбиотического происхождения пластид и митохондрий является",
+    "number": 10,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "наличие собственных молекул ДНК у обоих органелл",
+        "image": null
+      },
+      {
+        "text": "осуществление обоими органеллами ключевых процессов жизнедеятельности",
+        "image": null
+      },
+      {
+        "text": "наличие двойной мембраны",
+        "image": null
+      },
+      {
+        "text": "способность синтезировать АТФ",
+        "image": null
+      },
+      {
+        "text": "наличие рибосом",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Основной причиной накопления кислорода в атмосфере свыше двух млрд. лет назад стало",
+    "number": 11,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "появление фотосинтеза у бактерий",
+        "image": null
+      },
+      {
+        "text": "выброс кислорода при извержениях вулканов",
+        "image": null
+      },
+      {
+        "text": "расщепление воды до кислорода и углекислого газа под действием электрических разрядов",
+        "image": null
+      },
+      {
+        "text": "разрушение озонового экрана в верхних слоях атмосферы",
+        "image": null
+      },
+      {
+        "text": "биохимические реакции",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  }
+]

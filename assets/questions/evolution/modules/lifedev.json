@@ -1,0 +1,1082 @@
+[
+  {
+    "name": "Архебактерии существовали в",
+    "number": 1,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "архейской эре",
+        "image": null
+      },
+      {
+        "text": "протерозойской эре",
+        "image": null
+      },
+      {
+        "text": "палеозойской эре",
+        "image": null
+      },
+      {
+        "text": "мезозойской эре",
+        "image": null
+      },
+      {
+        "text": "кайнозойской эре",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Переход от неядерных форм жизни к ядерным произошел в эру",
+    "number": 2,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протерозойскую",
+        "image": null
+      },
+      {
+        "text": "мезозойскую",
+        "image": null
+      },
+      {
+        "text": "палеозойскую",
+        "image": null
+      },
+      {
+        "text": "кайнозойскую",
+        "image": null
+      },
+      {
+        "text": "архейскую",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Представители основных групп растений и почти всех типов и классов животных (кроме птиц и млекопитающих) возникли в эру",
+    "number": 3,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "палеозойскую",
+        "image": null
+      },
+      {
+        "text": "мезозойскую",
+        "image": null
+      },
+      {
+        "text": "кайнозойскую",
+        "image": null
+      },
+      {
+        "text": "протерозойскую",
+        "image": null
+      },
+      {
+        "text": "архейскую",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Трилобиты - это",
+    "number": 4,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "примитивные членистоногие",
+        "image": null
+      },
+      {
+        "text": "плеченогие",
+        "image": null
+      },
+      {
+        "text": "древние брюхоногие",
+        "image": null
+      },
+      {
+        "text": "двустворчатые моллюски",
+        "image": null
+      },
+      {
+        "text": "губки",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Гигантские скорпионы появились в палеозойской эре в периоде",
+    "number": 5,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "ордовике",
+        "image": null
+      },
+      {
+        "text": "девоне",
+        "image": null
+      },
+      {
+        "text": "силуре",
+        "image": null
+      },
+      {
+        "text": "карбоне",
+        "image": null
+      },
+      {
+        "text": "кембрии",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Первые растения, вышедшие из воды на сушу были",
+    "number": 6,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "псилофиты",
+        "image": null
+      },
+      {
+        "text": "семенные папоротники",
+        "image": null
+      },
+      {
+        "text": "трилобиты",
+        "image": null
+      },
+      {
+        "text": "ликопсиды",
+        "image": null
+      },
+      {
+        "text": "цикадофиты",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Первые животные, вышедшие на сушу и дышащие воздухом",
+    "number": 7,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "паукообразные",
+        "image": null
+      },
+      {
+        "text": "насекомые",
+        "image": null
+      },
+      {
+        "text": "трилобиты",
+        "image": null
+      },
+      {
+        "text": "двоякодышащие",
+        "image": null
+      },
+      {
+        "text": "кистеперые",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Примитивные голосеменные растения - появились в",
+    "number": 8,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "палеозойской эре",
+        "image": null
+      },
+      {
+        "text": "протерозойской эре",
+        "image": null
+      },
+      {
+        "text": "архейской эре",
+        "image": null
+      },
+      {
+        "text": "мезозойской эре",
+        "image": null
+      },
+      {
+        "text": "кайнозойской эре",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "От риниофитов- первых наземных растений произошли отделы",
+    "number": 9,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "плауновидные , хвощевидные и псилотовидные",
+        "image": null
+      },
+      {
+        "text": "хвощевидные",
+        "image": null
+      },
+      {
+        "text": "псилотовидные",
+        "image": null
+      },
+      {
+        "text": "голосеменные",
+        "image": null
+      },
+      {
+        "text": "плауновидные",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Расцвет рептилий наблюдается в",
+    "number": 10,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "мезозойской эре",
+        "image": null
+      },
+      {
+        "text": "протерозойской эре",
+        "image": null
+      },
+      {
+        "text": "палеозойской эре",
+        "image": null
+      },
+      {
+        "text": "архейской эре",
+        "image": null
+      },
+      {
+        "text": "кайнозойской эре",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Гипотеза гастреи- происхождение многоклеточных организмов на Земле принадлежит",
+    "number": 11,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Э.Г. Геккелю",
+        "image": null
+      },
+      {
+        "text": "И.И. Мечникову",
+        "image": null
+      },
+      {
+        "text": "А.Н. Северцеву",
+        "image": null
+      },
+      {
+        "text": "И.И. Шмальгаузену",
+        "image": null
+      },
+      {
+        "text": "С.С. Четвериков",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "По гипотезе фагоцителлы многоклеточные организмы образовались",
+    "number": 12,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "из одноклеточных ,путем заползания части колонии одноклеточных во внутрь полости",
+        "image": null
+      },
+      {
+        "text": "из одноклеточных, путем впячивания части колонии одноклеточных во внутрь полости",
+        "image": null
+      },
+      {
+        "text": "из одноклеточных, путем многократного их деления митозом",
+        "image": null
+      },
+      {
+        "text": "путем божественного начала",
+        "image": null
+      },
+      {
+        "text": "путем заселения из космоса",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Цианобактерии существовали в",
+    "number": 13,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "архейской эре",
+        "image": null
+      },
+      {
+        "text": "протерозойской эре",
+        "image": null
+      },
+      {
+        "text": "палеозойской эре",
+        "image": null
+      },
+      {
+        "text": "мезозойской эре",
+        "image": null
+      },
+      {
+        "text": "кайнозойской эре",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Переход от одноклеточных организмов к многоклеточным произошел в эру",
+    "number": 14,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протерозойскую",
+        "image": null
+      },
+      {
+        "text": "мезозойскую",
+        "image": null
+      },
+      {
+        "text": "палеозойскую",
+        "image": null
+      },
+      {
+        "text": "кайнозойскую",
+        "image": null
+      },
+      {
+        "text": "архейскую",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Медузы, грибы, водоросли, плеченогие, ракоскорпионы существовали в эру",
+    "number": 15,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "протерозойскую",
+        "image": null
+      },
+      {
+        "text": "мезозойскую",
+        "image": null
+      },
+      {
+        "text": "палеозойскую",
+        "image": null
+      },
+      {
+        "text": "кайнозойскую",
+        "image": null
+      },
+      {
+        "text": "архейскую",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Трилобиты существовали в эру",
+    "number": 16,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "палеозойскую",
+        "image": null
+      },
+      {
+        "text": "мезозойскую",
+        "image": null
+      },
+      {
+        "text": "кайнозойскую",
+        "image": null
+      },
+      {
+        "text": "протерозойскую",
+        "image": null
+      },
+      {
+        "text": "архейскую",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Первые позвоночные появились в воде в периоде",
+    "number": 17,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "ордовике",
+        "image": null
+      },
+      {
+        "text": "девоне",
+        "image": null
+      },
+      {
+        "text": "силуре",
+        "image": null
+      },
+      {
+        "text": "карбоне",
+        "image": null
+      },
+      {
+        "text": "кембрии",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Псилофиты - это",
+    "number": 18,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "древние плауны и хвощи",
+        "image": null
+      },
+      {
+        "text": "древние папоротники",
+        "image": null
+      },
+      {
+        "text": "примитивные членистоногие",
+        "image": null
+      },
+      {
+        "text": "гигантские скорпионы",
+        "image": null
+      },
+      {
+        "text": "сидячие животные с двустворчатой раковиной",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Семенные папоротники появились на суше в периоде",
+    "number": 19,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "девоне",
+        "image": null
+      },
+      {
+        "text": "карбоне",
+        "image": null
+      },
+      {
+        "text": "силуре",
+        "image": null
+      },
+      {
+        "text": "ордовике",
+        "image": null
+      },
+      {
+        "text": "кембрии",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Первые насекомые появились в период",
+    "number": 20,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "карбона",
+        "image": null
+      },
+      {
+        "text": "девона",
+        "image": null
+      },
+      {
+        "text": "силура",
+        "image": null
+      },
+      {
+        "text": "ордовика",
+        "image": null
+      },
+      {
+        "text": "кембрия",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Широкое распространение земноводных происходит в периоде",
+    "number": 21,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "карбоне",
+        "image": null
+      },
+      {
+        "text": "девоне",
+        "image": null
+      },
+      {
+        "text": "силуре",
+        "image": null
+      },
+      {
+        "text": "ордовике",
+        "image": null
+      },
+      {
+        "text": "кембрии",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Человекообразные обезьяны появились в эру",
+    "number": 22,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "кайнозойскую",
+        "image": null
+      },
+      {
+        "text": "мезозойскую",
+        "image": null
+      },
+      {
+        "text": "палеозойскую",
+        "image": null
+      },
+      {
+        "text": "протерозойскую",
+        "image": null
+      },
+      {
+        "text": "архейскую",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Гипотеза фагоцителлы - происхождение многоклеточных организмов принадлежит",
+    "number": 23,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "И.И. Мечникову",
+        "image": null
+      },
+      {
+        "text": "Э.Г. Геккелю",
+        "image": null
+      },
+      {
+        "text": "А.Н. Северцеву",
+        "image": null
+      },
+      {
+        "text": "И.И. Шмальгаузену",
+        "image": null
+      },
+      {
+        "text": "С.С. Четвериков",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "По гипотезе гастреи многоклеточные организмы образовались",
+    "number": 24,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "из одноклеточных, путем впячивания части колонии одноклеточных во внутрь полости",
+        "image": null
+      },
+      {
+        "text": "из одноклеточных, путем заползания части колонии одноклеточных во внутрь полости",
+        "image": null
+      },
+      {
+        "text": "из одноклеточных, путем многократного их деления митозом",
+        "image": null
+      },
+      {
+        "text": "путем божественного начала",
+        "image": null
+      },
+      {
+        "text": "путем заселения из космоса",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В кембрийском периоде палеозойской эры были широко распространены:",
+    "number": 25,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "мечехвосты, трилобиты, губки и брюхоногие",
+        "image": null
+      },
+      {
+        "text": "трилобиты",
+        "image": null
+      },
+      {
+        "text": "губки",
+        "image": null
+      },
+      {
+        "text": "брюхоногие",
+        "image": null
+      },
+      {
+        "text": "мечехвосты",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Плеченогие получили широкое распространение в эру",
+    "number": 26,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "палеозойскую",
+        "image": null
+      },
+      {
+        "text": "мезозойскую",
+        "image": null
+      },
+      {
+        "text": "кайнозойскую",
+        "image": null
+      },
+      {
+        "text": "протерозойскую",
+        "image": null
+      },
+      {
+        "text": "архейскую",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Щитковые обитали в палеозойской эре в периоде",
+    "number": 27,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "ордовике",
+        "image": null
+      },
+      {
+        "text": "девоне",
+        "image": null
+      },
+      {
+        "text": "силуре",
+        "image": null
+      },
+      {
+        "text": "карбоне",
+        "image": null
+      },
+      {
+        "text": "кембрии",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Выход растений из воды на сушу происходил в палеозойской эре в период",
+    "number": 28,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "силура",
+        "image": null
+      },
+      {
+        "text": "девона",
+        "image": null
+      },
+      {
+        "text": "карбона",
+        "image": null
+      },
+      {
+        "text": "ордовика",
+        "image": null
+      },
+      {
+        "text": "кембрия",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Плеченогие - это",
+    "number": 29,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "сидячие животные с двустворчатой раковиной",
+        "image": null
+      },
+      {
+        "text": "древние брюхоногие",
+        "image": null
+      },
+      {
+        "text": "примитивные членистоногие",
+        "image": null
+      },
+      {
+        "text": "гигантские скорпионы",
+        "image": null
+      },
+      {
+        "text": "древние губки",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Первые леса гигантских папоротников, хвощей, плаунов появились в период",
+    "number": 30,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "девона",
+        "image": null
+      },
+      {
+        "text": "карбона",
+        "image": null
+      },
+      {
+        "text": "силура",
+        "image": null
+      },
+      {
+        "text": "ордовика",
+        "image": null
+      },
+      {
+        "text": "кембрия",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Появление и распространение земноводных характерно для эры",
+    "number": 31,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "палеозойской",
+        "image": null
+      },
+      {
+        "text": "мезозойской",
+        "image": null
+      },
+      {
+        "text": "кайнозойской",
+        "image": null
+      },
+      {
+        "text": "протерозойской",
+        "image": null
+      },
+      {
+        "text": "архейской",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Семенные папоротники дали начало растениям",
+    "number": 32,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "голосеменным",
+        "image": null
+      },
+      {
+        "text": "плауновидным",
+        "image": null
+      },
+      {
+        "text": "хвощевидным",
+        "image": null
+      },
+      {
+        "text": "моховидным",
+        "image": null
+      },
+      {
+        "text": "псилотовидным",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Плацентарные млекопитающие появились в эру",
+    "number": 33,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "кайнозойскую",
+        "image": null
+      },
+      {
+        "text": "мезозойскую",
+        "image": null
+      },
+      {
+        "text": "палеозойскую",
+        "image": null
+      },
+      {
+        "text": "протерозойскую",
+        "image": null
+      },
+      {
+        "text": "архейскую",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Семенные папоротники дали начало растениям",
+    "number": 34,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "покрытосеменным",
+        "image": null
+      },
+      {
+        "text": "плауновидным",
+        "image": null
+      },
+      {
+        "text": "хвощевидным",
+        "image": null
+      },
+      {
+        "text": "моховидным",
+        "image": null
+      },
+      {
+        "text": "псилотовидным",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Гипотезы происхождения многоклеточных организмов на Земле принадлежат",
+    "number": 35,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "Э.Г. Геккелю и И.И. Мечникову",
+        "image": null
+      },
+      {
+        "text": "И.И. Мечникову и А.Н. Северцеву",
+        "image": null
+      },
+      {
+        "text": "А.Н. Северцеву и С.С. Четверикову",
+        "image": null
+      },
+      {
+        "text": "И.И. Шмальгаузену и А.Н. Северцеву",
+        "image": null
+      },
+      {
+        "text": "С.С. Четверикову и И.И. Шмальгаузену",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "Первые организмы на Земле были",
+    "number": 36,
+    "answers_count": 5,
+    "answers": [
+      {
+        "text": "анаэробные гетеротрофы",
+        "image": null
+      },
+      {
+        "text": "анаэробные автотрофы",
+        "image": null
+      },
+      {
+        "text": "аэробные автотрофы",
+        "image": null
+      },
+      {
+        "text": "аэробные гетеротрофы",
+        "image": null
+      },
+      {
+        "text": "автотрофные симбионты",
+        "image": null
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  }
+]

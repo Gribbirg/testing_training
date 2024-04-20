@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Модуль 1",
+    "questions_count": 20,
+    "dir_name": "module1"
+  },
+  {
+    "name": "Модуль 2",
+    "questions_count": 20,
+    "dir_name": "module2"
+  },
+  {
+    "name": "Модуль 3",
+    "questions_count": 20,
+    "dir_name": "module3"
+  },
+  {
+    "name": "Модуль 4",
+    "questions_count": 20,
+    "dir_name": "module4"
+  },
+  {
+    "name": "Модуль 5",
+    "questions_count": 20,
+    "dir_name": "module5"
+  },
+  {
+    "name": "Модуль 6",
+    "questions_count": 20,
+    "dir_name": "module6"
+  },
+  {
+    "name": "Модуль 7",
+    "questions_count": 20,
+    "dir_name": "module7"
+  },
+  {
+    "name": "Модуль 8",
+    "questions_count": 20,
+    "dir_name": "module8"
+  },
+  {
+    "name": "Модуль 9",
+    "questions_count": 20,
+    "dir_name": "module9"
+  }
+]
