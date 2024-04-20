@@ -1,10 +1,14 @@
+import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
+import 'package:testing_training/router/router.dart';
 
-import '../../../repositories/module_list/models/module.dart';
+import '../../../repositories/questions/models/module.dart';
+import '../../../repositories/questions/models/topic.dart';
 
 class ModuleItem extends StatelessWidget {
-  const ModuleItem({super.key, required this.module});
+  const ModuleItem({super.key, required this.module, required this.topic});
 
+  final Topic topic;
   final Module module;
 
   @override
@@ -12,7 +16,7 @@ class ModuleItem extends StatelessWidget {
     final theme = Theme.of(context);
     return ElevatedButton(
         onPressed: () {
-
+          AutoRouter.of(context).popAndPush(QuestionsRoute(topic: topic, module: module));
         },
         child: Container(
           padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 10),

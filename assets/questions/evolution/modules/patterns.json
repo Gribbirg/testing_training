@@ -6,19 +6,23 @@
     "answers": [
       {
         "text": "арогенез",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аллогенез",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "катагенез",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ценогенез",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -32,19 +36,23 @@
     "answers": [
       {
         "text": "аллогенез",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "арогенез",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "катагенез",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ценогенез",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -58,19 +66,23 @@
     "answers": [
       {
         "text": "катагенез",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "арогенез",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "аллогенез",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ценогенез",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -84,19 +96,23 @@
     "answers": [
       {
         "text": "ценогенез",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "арогенез",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "аллогенез",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "катагенез",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -110,19 +126,23 @@
     "answers": [
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -136,19 +156,23 @@
     "answers": [
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -162,19 +186,23 @@
     "answers": [
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -188,19 +216,23 @@
     "answers": [
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -214,19 +246,23 @@
     "answers": [
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -240,19 +276,23 @@
     "answers": [
       {
         "text": "субституции",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -266,19 +306,23 @@
     "answers": [
       {
         "text": "интеграции",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -292,19 +336,23 @@
     "answers": [
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -318,19 +366,23 @@
     "answers": [
       {
         "text": "расширения функций",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -344,19 +396,23 @@
     "answers": [
       {
         "text": "смена функций",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -370,19 +426,23 @@
     "answers": [
       {
         "text": "активации и интенсификации функции",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -396,19 +456,23 @@
     "answers": [
       {
         "text": "смена функций",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -422,19 +486,23 @@
     "answers": [
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -448,19 +516,23 @@
     "answers": [
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -474,19 +546,23 @@
     "answers": [
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -500,19 +576,23 @@
     "answers": [
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -526,19 +606,23 @@
     "answers": [
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -552,19 +636,23 @@
     "answers": [
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -578,19 +666,23 @@
     "answers": [
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -604,19 +696,23 @@
     "answers": [
       {
         "text": "гетеробатмии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -630,19 +726,23 @@
     "answers": [
       {
         "text": "гетеробатмии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -656,19 +756,23 @@
     "answers": [
       {
         "text": "ценогенез",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "арогенез",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "аллогенез",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "катагенез",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -682,19 +786,23 @@
     "answers": [
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дифференциации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -708,19 +816,23 @@
     "answers": [
       {
         "text": "анаболия",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "девиация",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архаллаксис",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -734,19 +846,23 @@
     "answers": [
       {
         "text": "девиация",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "анаболия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архаллаксис",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -760,19 +876,23 @@
     "answers": [
       {
         "text": "архаллаксис",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "анаболия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "девиация",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -786,19 +906,23 @@
     "answers": [
       {
         "text": "анаболии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "девиации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архаллаксисе",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -812,19 +936,23 @@
     "answers": [
       {
         "text": "девиации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "анаболии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архаллаксисе",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -838,19 +966,23 @@
     "answers": [
       {
         "text": "архаллаксисе",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "анаболии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "девиации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -864,19 +996,23 @@
     "answers": [
       {
         "text": "анаболия",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "девиация",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архаллаксис",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -890,19 +1026,23 @@
     "answers": [
       {
         "text": "девиацией",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "анаболией",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архаллаксисом",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопией",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -916,19 +1056,23 @@
     "answers": [
       {
         "text": "анаболия",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "девиация",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архаллаксис",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -942,19 +1086,23 @@
     "answers": [
       {
         "text": "архаллаксисом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "анаболией",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "девиацией",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопией",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -968,19 +1116,23 @@
     "answers": [
       {
         "text": "полителия",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "полимастия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гипертрихоз",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "полидактилия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -994,19 +1146,23 @@
     "answers": [
       {
         "text": "полимастия",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "полителия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гипертрихоз",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "полидактилия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1020,19 +1176,23 @@
     "answers": [
       {
         "text": "гипертрихоз",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "полителия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полимастия",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "полидактилия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1046,19 +1206,23 @@
     "answers": [
       {
         "text": "в эмбриогенезе человека закладывается вначале пять пар сосков, а впоследствии остается лишь одна",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "в эмбриогенезе человека закладывается вначале четыре пары сосков, а впоследствии остается лишь одна",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "в эмбриогенезе человека закладывается вначале две пары сосков, а впоследствии остается лишь одна",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "количество млечных желез и сосков коррелируется с плодовитостью",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1072,19 +1236,23 @@
     "answers": [
       {
         "text": "осевого скелета",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "висцерального скелета",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "скелета конечностей",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "черепа",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1098,19 +1266,23 @@
     "answers": [
       {
         "text": "появление несрастающихся дужек позвонков у круглоротых",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "появление несрастающихся дужек позвонков у хрящевых рыб",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "появление несрастающихся дужек позвонков у костных рыб",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "появление несрастающихся дужек позвонков у амфибий",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1124,19 +1296,23 @@
     "answers": [
       {
         "text": "нарушение редукции позвонков в хвостовом отделе",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "наличие хвостового отдела",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "нарушение механизмов редукции хвостового отдела целиком",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "нарушение механизмов закладки хвостового отдела",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1150,19 +1326,23 @@
     "answers": [
       {
         "text": "нарушение дифференцировки элементов челюстной жаберной дуги",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "нарушение дифференцировки гиомандибулярного хряща",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "нарушение дифференцировки элементов нижней челюстной жаберной дуги",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "нарушение дифференцировки элементов верхней челюстной жаберной дуги",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1176,19 +1356,23 @@
     "answers": [
       {
         "text": "со скелетом конечностей",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "с висцеральным скелетом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "с осевым скелетом",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "с черепом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1202,19 +1386,23 @@
     "answers": [
       {
         "text": "со скелетом конечностей",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "с висцеральным скелетом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "с осевым скелетом",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "с черепом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1228,19 +1416,23 @@
     "answers": [
       {
         "text": "\"Волчья пасть\"",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "болезнь Шпренгеля",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полидактилия",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "полимастия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1254,19 +1446,23 @@
     "answers": [
       {
         "text": "недоразвитие целых долей легкого",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "недоразвитие полностью легкого",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "разрастание долей легкого",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "недоразвитие только бронхов легкого",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1280,19 +1476,23 @@
     "answers": [
       {
         "text": "анаболия",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "девиация",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архаллаксис",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1306,19 +1506,23 @@
     "answers": [
       {
         "text": "девиация",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "анаболия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архаллаксис",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гетеротопия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1332,19 +1536,23 @@
     "answers": [
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полимеризации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1358,19 +1566,23 @@
     "answers": [
       {
         "text": "субституции",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гетерохронии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гетеротопии",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "олигомеризации",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",

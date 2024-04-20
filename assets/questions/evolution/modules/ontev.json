@@ -6,19 +6,23 @@
     "answers": [
       {
         "text": "рост, дифференцировка и интеграция частей организма",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "рост и иинтеграция частей организма",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "дифференцировка и иинтеграция частей организма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "рост и дифференцировка частей организма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -32,19 +36,23 @@
     "answers": [
       {
         "text": "Карл Бэр",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Ф. Мюллер",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Э. Геккель",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "А.Н. Северцев",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -58,19 +66,23 @@
     "answers": [
       {
         "text": "Карл Бэр",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Ф. Мюллер",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Э. Геккель",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "А.Н. Северцев",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -84,19 +96,23 @@
     "answers": [
       {
         "text": "Э. Геккель",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Ф. Мюллер",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Карл Бэр",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "А.Н. Северцев",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -110,19 +126,23 @@
     "answers": [
       {
         "text": "В. Гарстанга",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Ф. Мюллера",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Карл Бэра",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "А.Н. Северцева",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -136,19 +156,23 @@
     "answers": [
       {
         "text": "И.И. Шмальгаузену",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Ф. Мюллеру",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "В. Гарстангу",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "А.Н. Северцеву",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -162,19 +186,23 @@
     "answers": [
       {
         "text": "А.Н. Северцеву",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Ф. Мюллеру",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "В. Гарстангу",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "И.И. Шмальгаузену",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -188,19 +216,23 @@
     "answers": [
       {
         "text": "С. Гулду",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "А.Н. Северцеву",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "В. Гарстангу",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "И.И. Шмальгаузену",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -214,19 +246,23 @@
     "answers": [
       {
         "text": "Карл Бэр",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Ф. Мюллер",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Э. Геккель",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "А.Н. Северцев",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -240,19 +276,23 @@
     "answers": [
       {
         "text": "типа",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "класса",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "рода",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "вида",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -266,19 +306,23 @@
     "answers": [
       {
         "text": "усложнение, упрощение и перестройка стадий онтогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "возникновение новых стадий в онтогенезе",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "исключение определенных стадий из онтогенеза",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "перестройка онтогенеза без изменения отдельных его стадий",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -292,19 +336,23 @@
     "answers": [
       {
         "text": "Г. Шпеманом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "А.Н. Северцевым",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "В. Гарстангом",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "И.И. Шмальгаузеном",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -318,19 +366,23 @@
     "answers": [
       {
         "text": "индуктор, компетентная ткань и взаимодействие между ними",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "индуктор",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "компетентная ткань",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гормоны эмбриональной индукции",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -344,19 +396,23 @@
     "answers": [
       {
         "text": "тканевую закладку, которая выделяет низкомолекулярные белки, воздействующие на ткань - мишень",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "тканевую закладку, которая выделяет гормоны, воздействующие на ткань - мишень",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тканевую закладку, которая выделяет ферменты, воздействующие на ткань - мишень",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "тканевую закладку, которая выделяет полисахариды, воздействующие на ткань - мишень",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -370,19 +426,23 @@
     "answers": [
       {
         "text": "активации синтеза специфических информационных РНК",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "активации синтеза специфических рибосомальных РНК",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "активации синтеза специфических белков",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "активации синтеза специфических гормонов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -396,19 +456,23 @@
     "answers": [
       {
         "text": "белок активин",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "агент Noggin",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "ген Notch",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ген Dorsalin",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -422,19 +486,23 @@
     "answers": [
       {
         "text": "Noggin",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "активин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Notch",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Dorsalin",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -448,19 +516,23 @@
     "answers": [
       {
         "text": "Dorsalin",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "активин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Notch",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Noggin",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -474,19 +546,23 @@
     "answers": [
       {
         "text": "Notch",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "активин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Dorsalin",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Noggin",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -500,19 +576,23 @@
     "answers": [
       {
         "text": "goosecoid (gsc)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Notch",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Dorsalin",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Noggin",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -526,19 +606,23 @@
     "answers": [
       {
         "text": "амфибий, рыб, птиц и млекопитающих",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "рыб и птиц",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "птиц и млекопитающих",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "амфибий и рыб",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -552,19 +636,23 @@
     "answers": [
       {
         "text": "передний мозг",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "средний мозг",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "задний мозг",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "продолговатый мозг",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -578,19 +666,23 @@
     "answers": [
       {
         "text": "хрусталик глаза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "слуховые пузырьки",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "глотка",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "пищевод",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -604,19 +696,23 @@
     "answers": [
       {
         "text": "средний мозг",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "передний мозг",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "промежуточный мозг",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "продолговатый мозг",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -630,19 +726,23 @@
     "answers": [
       {
         "text": "слуховой пузырек",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "хрусталик глаза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "глотка",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "пищевод",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -656,19 +756,23 @@
     "answers": [
       {
         "text": "спинной мозг",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "передний мозг",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "промежуточный мозг",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "продолговатый мозг",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -682,19 +786,23 @@
     "answers": [
       {
         "text": "хвостовая хорда",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "почечные канальцы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "глотка",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "пищевод",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -708,19 +816,23 @@
     "answers": [
       {
         "text": "почечные канальцы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "хвостовая хорда",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "глотка",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "пищевод",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -734,19 +846,23 @@
     "answers": [
       {
         "text": "глотка",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "хвостовая хорда",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почечные канальцы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "хвостовая хорда",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -760,19 +876,23 @@
     "answers": [
       {
         "text": "НОХ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Notch",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Dorsalin",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Noggin",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -786,19 +906,23 @@
     "answers": [
       {
         "text": "НОХ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Notch",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Dorsalin",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Noggin",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -812,19 +936,23 @@
     "answers": [
       {
         "text": "полипептид, являющийся транскрипционным фактором, способным связываться с ДНК",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "полипептид, являющийся транскрипционным фактором, способным связываться с РНК",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полипептид, являющийся транскрипционным фактором, способным связываться с энхансером",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "полипептид, являющийся транскрипционным фактором, способным связываться с сайленсером",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -838,19 +966,23 @@
     "answers": [
       {
         "text": "регулируют активность других генов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "включают активность других генов",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "подавляют активность других генов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "усиливают активность других генов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -864,19 +996,23 @@
     "answers": [
       {
         "text": "плейотропные и консервативные",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "неконсервативные и монотропные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "консервативные и монотропные",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "малоактивные и плейотропные",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -890,19 +1026,23 @@
     "answers": [
       {
         "text": "изменением конструкции регуляторных сетей и изменением набора ключевых генов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "изменением активности ключевых генов и появлением новых генетических путей развития",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "изменением конструкции регуляторных сетей при неизменности активности ключевых генов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "изменением конструкции регуляторных сетей при изменении активности ключевых генов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -916,19 +1056,23 @@
     "answers": [
       {
         "text": "сложные, многосетевые и \"избыточные\"",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "простые и многосетевые",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "\"избыточные\" и сложные",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "многосетевые и \"избыточные\"",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -942,19 +1086,23 @@
     "answers": [
       {
         "text": "множеством обратных связей",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "\"избыточностью\" сетей",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сложным строением сетей",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "постоянством набора ключевых генов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -968,19 +1116,23 @@
     "answers": [
       {
         "text": "эмбрионы хордовых животных сильнее всего похожи друг на друга на средних стадиях эмбрионального развития",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эмбрионы хордовых животных сильнее всего похожи друг на друга на ранних стадиях эмбрионального развития",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эмбрионы хордовых животных сильнее всего похожи друг на друга на поздних стадиях эмбрионального развития",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "эмбрионы хордовых животных сильнее всего похожи друг на друга на ранних и средних стадиях эмбрионального развития",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -994,19 +1146,23 @@
     "answers": [
       {
         "text": "повышенной эволюционной консервативностью на средних стадиях онтогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "повышенной эволюционной консервативностью на ранних стадиях онтогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "повышенной эволюционной консервативностью на поздних стадиях онтогенеза",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "повышенной эволюционной консервативностью на ранних и поздних стадиях онтогенеза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1020,19 +1176,23 @@
     "answers": [
       {
         "text": "только средние",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "только ранние",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "только поздние",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ранние и поздние",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1046,19 +1206,23 @@
     "answers": [
       {
         "text": "повышенная многофункциональная активность генов, работающих на средних стадиях развития",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "повышенная многофункциональная активность генов, работающих на ранних стадиях развития",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "повышенная многофункциональная активность генов, работающих на поздних стадиях развития",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "повышенная монофункциональная активность генов, работающих на средних стадиях развития",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1072,19 +1236,23 @@
     "answers": [
       {
         "text": "средних стадиях онтогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "поздних стадиях онтогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "ранних стадиях онтогенеза",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ранних и поздних стадиях онтогенеза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1098,19 +1266,23 @@
     "answers": [
       {
         "text": "функционировании генов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "сцеплении генов и плейотропии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "коррелятивных изменениях органов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "комбинативной изменчивости",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1124,19 +1296,23 @@
     "answers": [
       {
         "text": "сцеплении генов и плейотропии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "функционировании генов",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "коррелятивных изменениях органов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "комбинативной изменчивости",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1150,19 +1326,23 @@
     "answers": [
       {
         "text": "коррелятивных изменениях органов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "функционировании генов",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сцеплении генов и плейотропии",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "комбинативной изменчивости",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1176,19 +1356,23 @@
     "answers": [
       {
         "text": "адаптивный ответ на изменения среды через функциональную деятельность организма ведущий к прогрессирующей специализации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "координации между взаимосвязанными органами, повышающие степень канализации онтогенеза и филогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "изменения пространственных соотношений между органами, не связанными непосредственной функциональной зависимостью",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "координации между невзаимосвязанными органами, понижающие степень канализации онтогенеза и филогенеза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1202,19 +1386,23 @@
     "answers": [
       {
         "text": "координации между взаимосвязанными органами, повышающие степень канализации онтогенеза и филогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "адаптивный ответ на изменения среды через функциональную деятельность организма ведущий к прогрессирующей специализации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "изменения пространственных соотношений между органами, не связанными непосредственной функциональной зависимостью",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "координации между невзаимосвязанными органами, понижающие степень канализации онтогенеза и филогенеза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1228,19 +1416,23 @@
     "answers": [
       {
         "text": "изменения пространственных соотношений между органами, не связанными непосредственной функциональной зависимостью",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "адаптивный ответ на изменения среды через функциональную деятельность организма ведущий к прогрессирующей специализации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "координации между взаимосвязанными органами, повышающие степень канализации онтогенеза и филогенеза",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "координации между невзаимосвязанными органами, понижающие степень канализации онтогенеза и филогенеза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1254,19 +1446,23 @@
     "answers": [
       {
         "text": "Э. Геккель",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Ф. Мюллер",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Карл Бэр",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "А.Н. Северцев",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1280,19 +1476,23 @@
     "answers": [
       {
         "text": "хвост",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аллантоис",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "амнион",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "желточный мешок",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1306,19 +1506,23 @@
     "answers": [
       {
         "text": "пресмыкающихся",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "земноводных",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "птиц",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "млекопитающих",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1332,19 +1536,23 @@
     "answers": [
       {
         "text": "плавательный хвост",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аллантоис",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "амнион",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "желточный мешок",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1358,19 +1566,23 @@
     "answers": [
       {
         "text": "хорион",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аллантоис",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "амнион",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "желточный мешок",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1384,19 +1596,23 @@
     "answers": [
       {
         "text": "А.Н. Северцев и И.И. Шмальгаузен",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Э. Геккель и Ф. Мюллер",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Г. Шпеман и В. Гарстанг",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "А.Н. Северцев и Г. Шпеман",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1410,19 +1626,23 @@
     "answers": [
       {
         "text": "эволюционные изменения формообразования на поздних стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эволюционные изменения формообразования на средних стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эволюционные изменения формообразования на начальных стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "эволюционные изменения формообразования на всех стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1436,19 +1656,23 @@
     "answers": [
       {
         "text": "эволюционные изменения формообразования на средних стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эволюционные изменения формообразования на поздних стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эволюционные изменения формообразования на начальных стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "эволюционные изменения формообразования на всех стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1462,19 +1686,23 @@
     "answers": [
       {
         "text": "эволюционные изменения формообразования на начальных стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эволюционные изменения формообразования на поздних стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эволюционные изменения формообразования на средних стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "эволюционные изменения формообразования на всех стадиях развития зародыша",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1488,19 +1716,23 @@
     "answers": [
       {
         "text": "замедления развития эмбриона",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "изменение времени закладки зачатков эмбриона",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "изменение мест закладки эмбриона",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "изменение стадий онтогенеза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1514,19 +1746,23 @@
     "answers": [
       {
         "text": "изменение времени закладки зачатков эмбриона",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "замедления развития эмбриона",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "изменение мест закладки эмбриона",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "изменение стадий онтогенеза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1540,19 +1776,23 @@
     "answers": [
       {
         "text": "изменение мест закладки эмбриона",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "замедления развития эмбриона",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "изменение времени закладки зачатков эмбриона",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "изменение стадий онтогенеза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1566,19 +1806,23 @@
     "answers": [
       {
         "text": "крыловидные выросты у семян многих растений",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "развитие чешуи у акуловых и рептилий",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "клубни и луковицы у растений",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "колючки у растений",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1592,19 +1836,23 @@
     "answers": [
       {
         "text": "клубни и луковицы у растений",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "крыловидные выросты у семян многих растений",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "срастание костей и хрящей в скелете взрослых особей",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "плодовые тела у грибов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1618,19 +1866,23 @@
     "answers": [
       {
         "text": "ороговение чешуи",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "крыловидные выросты у семян многих растений",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "срастание костей и хрящей в скелете взрослых особей",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "плодовые тела у грибов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1644,19 +1896,23 @@
     "answers": [
       {
         "text": "увеличение числа позвонков у змей",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "крыловидные выросты у семян многих растений",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "срастание костей и хрящей в скелете взрослых особей",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "плодовые тела у грибов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1670,19 +1926,23 @@
     "answers": [
       {
         "text": "увеличение лучей плавников у рыб",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "крыловидные выросты у семян многих растений",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "срастание костей и хрящей в скелете взрослых особей",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "плодовые тела у грибов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1696,19 +1956,23 @@
     "answers": [
       {
         "text": "удвоение числа тычинок у растений",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "развитие чешуи у акуловых и рептилий",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "клубни и луковицы у растений",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "колючки у растений",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1722,19 +1986,23 @@
     "answers": [
       {
         "text": "происхождение однодольности у растений",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "развитие чешуи у акуловых и рептилий",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "клубни и луковицы у растений",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "колючки у растений",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1748,19 +2016,23 @@
     "answers": [
       {
         "text": "удлинения, усложнения и увеличения эффективности функционирования отдельных систем",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "его удлинения в результате возрастания количества стадий",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "усложнения каждой из стадий",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "увеличения эффективности функционирования отдельных систем развивающегося организма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1774,19 +2046,23 @@
     "answers": [
       {
         "text": "одни связи организма со средой заменяются другими",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "происходит переразвитие организма вследствие быстрого изменения среды и нарушения координации с ней",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1800,19 +2076,23 @@
     "answers": [
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "одни связи организма со средой заменяются другими",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "происходит переразвитие организма вследствие быстрого изменения среды и нарушения координации с ней",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1826,19 +2106,23 @@
     "answers": [
       {
         "text": "происходит переразвитие организма вследствие быстрого изменения среды и нарушения координации с ней",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "одни связи организма со средой заменяются другими",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1852,19 +2136,23 @@
     "answers": [
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "одни связи организма со средой заменяются другими",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "происходит переразвитие организма вследствие быстрого изменения среды и нарушения координации с ней",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1878,19 +2166,23 @@
     "answers": [
       {
         "text": "происходит расширение среды, связанное с повышением уровня организации и жизнедеятельности",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "одни связи организма со средой заменяются другими",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1904,19 +2196,23 @@
     "answers": [
       {
         "text": "овладение средой, ее подчинение потребностям организма достигается лишь на высших ступенях развития",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "одни связи организма со средой заменяются другими",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",

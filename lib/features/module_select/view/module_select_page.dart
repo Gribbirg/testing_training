@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';
 import 'package:testing_training/features/module_select/bloc/module_list_bloc.dart';
-import 'package:testing_training/repositories/module_list/abstract_module_list_repository.dart';
-import 'package:testing_training/repositories/topic_list/models/topic.dart';
+import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
 import 'package:testing_training/router/router.dart';
 
+import '../../../repositories/questions/models/topic.dart';
 import '../widgets/module_item.dart';
 
 @RoutePage()
@@ -21,7 +21,7 @@ class ModuleSelectPage extends StatefulWidget {
 
 class _ModuleSelectPageState extends State<ModuleSelectPage> {
   final _moduleListBloc =
-      ModuleListBloc(GetIt.I<AbstractModuleListRepository>());
+      ModuleListBloc(GetIt.I<AbstractQuestionsRepository>());
 
   @override
   void initState() {
@@ -66,6 +66,7 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
                         constraints: const BoxConstraints(maxWidth: 800),
                         padding: const EdgeInsets.symmetric(vertical: 5),
                         child: ModuleItem(
+                          topic: widget.topic!,
                           module: modulesList[index],
                         ),
                       ),

@@ -5,24 +5,29 @@
     "answers": [
       {
         "text": "генеалогический ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гибридологический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "исторический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "морфологический",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 1,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Генеалогический метод впервые был предложен: ",
@@ -30,24 +35,29 @@
     "answers": [
       {
         "text": "Ф. Гальтоном ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Т. Морганом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Г. Менделем",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Н. Бочковым",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 2,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Метод, который позволяющий определить характер и тип наследования признака, а так же вероятность проявления анализируемого признака у потомства, называется ",
@@ -55,24 +65,29 @@
     "answers": [
       {
         "text": "генеалогическим ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гибридологическим",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "клиническим",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "биохимическим",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 3,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Признак, который встречается в родословной с одинаковой частотой у мужчин и женщин, в каждом поколении наследуется: ",
@@ -80,24 +95,29 @@
     "answers": [
       {
         "text": "аутосомно-доминантно ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "сцеплено с У-хромосомой",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сцеплено с Х-хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "аутосомно-рецессивно",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 4,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Признак, который встречается в родословной с одинаковой частотой у мужчин и женщин, не в каждом поколении, у больных детей могут быть здоровые родители, наследуется: ",
@@ -105,24 +125,29 @@
     "answers": [
       {
         "text": "аутосомно-рецессивно ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "сцеплено с У-хромосомой",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "аутосомно-доминантно",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "сцеплено с Х-хромосомой",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 5,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Признаки, которые встречаются в равной степени у мужчин и у женщин, являются: ",
@@ -130,24 +155,29 @@
     "answers": [
       {
         "text": "аутосомными ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "сцепленными с полом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "голандрическими",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "доминантными",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 6,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Признаки, которые встречаются чаще у мужчин или у женщин, являются: ",
@@ -155,24 +185,29 @@
     "answers": [
       {
         "text": "сцепленными с полом ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "голандрическими",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "аутосомными",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "доминантными",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 7,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Признак, который проявляется в каждом поколении, чаще отмечается у женщин, при больном отце, отмечается у всех его дочерей, называется: ",
@@ -180,24 +215,29 @@
     "answers": [
       {
         "text": "доминантным, сцепленным с Х-хромосомой ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "сцепленным с полом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "аутосомным",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "голандрическим",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 8,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Признак, проявляющийся у детей, родители которых им не обладают, является:",
@@ -205,24 +245,29 @@
     "answers": [
       {
         "text": "рецессивным",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "сцепленным с полом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "голандрическим",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "доминантным",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 9,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Признак, который встречается чаще у мужчин и не в каждом поколении, а у больной матери все её сыновья больные, является: ",
@@ -230,24 +275,29 @@
     "answers": [
       {
         "text": "рецессивным, сцепленным с Х-хромосомой ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "голандрическим",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "доминантным, сцепленным с Х-хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "аутосомным",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 10,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Признаки, наследуемые от отца к сыну, называются: ",
@@ -255,24 +305,29 @@
     "answers": [
       {
         "text": "голандрическими",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "рецессивными, сцепленным с Х-хромосомой",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "доминантными, сцепленным с Х-хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "аутосомными",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 11,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Для цитоплазматической наследственности характерно: ",
@@ -280,24 +335,29 @@
     "answers": [
       {
         "text": "все ответы верны ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "признак передается по материнской линии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "признак встречается с одинаковой частотой у обоих полов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "признак проявляется при попадании плазмогенов от яйцеклетки",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 12,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Пробанд это…",
@@ -305,24 +365,29 @@
     "answers": [
       {
         "text": "человек, в отношении которого составляется родословная ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "исследователь, собирающий сведения",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "родственник больного",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "человек, изучающий родословную",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 13,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Сибсами являются: ",
@@ -330,24 +395,29 @@
     "answers": [
       {
         "text": "родные братья и сестры ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дяди и племянники",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "любые члены родословной",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "двоюродные бабушки",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 14,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Если анализируемый признак в родословной встречается в нескольких поколениях, то можно предположить, что этот признак: ",
@@ -355,24 +425,29 @@
     "answers": [
       {
         "text": "имеет наследственную природу ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомный",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сцеплен с полом",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "не имеет наследственной природы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 15,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Признак, который встречается только у мужчин, а у больных отцов все сыновья больны, является: ",
@@ -380,24 +455,29 @@
     "answers": [
       {
         "text": "голандрическим",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "рецессивным, сцепленным с Х-хромосомой",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "доминантным, сцепленным с Х-хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "аутосомным",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 16,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Если признак встречается преимущественно у лиц мужского или женского пола, то этот признак: ",
@@ -405,24 +485,29 @@
     "answers": [
       {
         "text": "сцеплен с Х- или У- хромосомой ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомный",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "доминантный",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "рецессивный",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 17,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Если в родословной заболевание проявляется через поколение с одинаковой частотой у  лиц мужского и женского пола при здоровых родителях, то это заболевание имеет характерные черты наследования: ",
@@ -430,24 +515,29 @@
     "answers": [
       {
         "text": "аутосомно-рецессивного ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомно-доминантного",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сцепленного с полом",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "голандрического",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 18,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Генеалогический метод позволяет установить:",
@@ -455,24 +545,29 @@
     "answers": [
       {
         "text": "сцепленное наследование ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "строение генов",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "морфологию и количество хромосом в кариотипе",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "структуру хромосом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 19,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Какое заключение можно сделать на основе анализа родословной, которая показала, что заболевание встречается в каждом поколении и только у мужчин, передается от отца к сыну?",
@@ -480,23 +575,28 @@
     "answers": [
       {
         "text": "признак сцеплен с Y-хромосомой ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "признак аутосомно-рецессивный",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "рецессивный признак, сцепленный с Х-хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "аутосомно-доминантный признак",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 20,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   }
 ]

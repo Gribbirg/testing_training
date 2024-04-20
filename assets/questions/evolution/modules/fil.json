@@ -6,23 +6,28 @@
     "answers": [
       {
         "text": "ихтиопсидный",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "зауропсидный",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "маммальный",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гиостилический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "аутостилический",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -36,23 +41,28 @@
     "answers": [
       {
         "text": "переднем отделе головного мозга - коре больших полушарий",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "промежуточном мозге",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "среднем мозге",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "продолговатом мозге",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "переднем отделе головного мозга - полосатых телах",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -66,23 +76,28 @@
     "answers": [
       {
         "text": "среднем мозге",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "промежуточном мозге",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "переднем отделе головного мозга",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "продолговатом мозге",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "заднем мозге",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -96,23 +111,28 @@
     "answers": [
       {
         "text": "костных рыб",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "млекопитающих",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "птиц",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "бесхвостых амфибий",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "пресмыкающихся",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -126,23 +146,28 @@
     "answers": [
       {
         "text": "бесхвостых амфибий",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "млекопитающих",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "костных рыб",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "птиц",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "пресмыкающихся",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -156,23 +181,28 @@
     "answers": [
       {
         "text": "метанефрос",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезанефрос",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "пронефрос",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протонефридии",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "метанефридии",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -186,23 +216,28 @@
     "answers": [
       {
         "text": "ихтиопсидный",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "зауропсидный",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "маммальный",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гиостилический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "аутостилический",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -216,23 +251,28 @@
     "answers": [
       {
         "text": "переднем отделе головного мозга - полосатых телах",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "промежуточном мозге",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "среднем мозге",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "продолговатом мозге",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "переднем отделе головного мозга - коре больших полушарий",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -246,23 +286,28 @@
     "answers": [
       {
         "text": "один сосуд",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "два сосуда",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "три сосуда",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "четыре сосуда",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "пять сосудов",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -276,23 +321,28 @@
     "answers": [
       {
         "text": "хрящевых рыб",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "млекопитающих",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "костных рыб",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "бесхвостых амфибий",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "пресмыкающихся",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -306,23 +356,28 @@
     "answers": [
       {
         "text": "пресмыкающихся",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "млекопитающих",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "костных рыб",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "бесхвостых амфибий",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "хрящевых рыб",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -336,23 +391,28 @@
     "answers": [
       {
         "text": "метанефрос",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезанефрос",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "пронефрос",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протонефридии",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "метанефридии",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -366,23 +426,28 @@
     "answers": [
       {
         "text": "зауропсидный",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "ихтиопсидный",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "маммальный",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гиостилический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "аутостилический",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -396,23 +461,28 @@
     "answers": [
       {
         "text": "среднем мозге",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "промежуточном мозге",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "переднем отделе головного мозга - полосатых телах",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "продолговатом мозге",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "переднем отделе головного мозга - коре больших полушарий",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -426,23 +496,28 @@
     "answers": [
       {
         "text": "один сосуд",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "два сосуда",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "три сосуда",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "четыре сосуда",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "пять сосудов",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -456,23 +531,28 @@
     "answers": [
       {
         "text": "костных рыб",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "млекопитающих",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хрящевых рыб",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "бесхвостых амфибий",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "пресмыкающихся",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -486,23 +566,28 @@
     "answers": [
       {
         "text": "ланцетника",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "млекопитающих",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хрящевых рыб",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "бесхвостых амфибий",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "пресмыкающихся",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -516,23 +601,28 @@
     "answers": [
       {
         "text": "мезанефрос",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "пронефрос",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "метанефрос",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "метанефридии",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "протонефридий",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -546,23 +636,28 @@
     "answers": [
       {
         "text": "эктодермы и ее производных",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "энтодермы и ее производных",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эктодермы и мезодермы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мезодермы и ее производных",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "эктодермы и энтодермы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -576,23 +671,28 @@
     "answers": [
       {
         "text": "хитинизированную кутикулу",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "известковую раковину",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мерцательный слой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мантию",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "скелет",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -606,23 +706,28 @@
     "answers": [
       {
         "text": "замены однослойного эпителия многослойным, формировании многоклеточных желез , формировании двух слоев кожи: эпителия и кориума и многофункциональности",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "формировании многоклеточных желез",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "формировании двух слоев кожи: эпителия и кориума",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "многофункциональности",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "замены однослойного эпителия многослойным",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -636,23 +741,28 @@
     "answers": [
       {
         "text": "известковую раковину",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мерцательный слой",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хитинизированную кутикулу",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мантию",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "скелет",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -666,19 +776,23 @@
     "answers": [
       {
         "text": "плоский эпителий",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "железистый эпителий",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "кубический эпителий",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ресничный эпителий",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -692,23 +806,28 @@
     "answers": [
       {
         "text": "многоклеточных желез",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "щетинок",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "микроворсинок",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ресничек",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "одноклеточных желез",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -722,23 +841,28 @@
     "answers": [
       {
         "text": "когти , волосы, рога и копыта",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "волосы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "рога",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "копыта",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "когти",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -752,19 +876,23 @@
     "answers": [
       {
         "text": "перья, роговые щитки на нижних конечностях и когти",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "роговые щитки на нижних конечностях",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "когти",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "перья",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -778,23 +906,28 @@
     "answers": [
       {
         "text": "роговая чешуя , роговые плоские пластины и когти",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "роговые плоские пластины",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "когти",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "усы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "роговая чешуя",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -808,23 +941,28 @@
     "answers": [
       {
         "text": "эктодермы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "энтодермы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эктодермы и мезодермы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мезодермы и ее производных",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "эктодермы и энтодермы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -838,19 +976,23 @@
     "answers": [
       {
         "text": "плакоидная",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "ктеноидная",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "роговая",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "циклоидная",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -864,23 +1006,28 @@
     "answers": [
       {
         "text": "передний",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "задний",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "продолговатый",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "средний",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "промежуточный",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -894,23 +1041,28 @@
     "answers": [
       {
         "text": "зауропсидный",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "ихтиопсидный",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "маммальный",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гиостилический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "аутостилический",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -924,23 +1076,28 @@
     "answers": [
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "два",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "три",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "один",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "пять",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -954,23 +1111,28 @@
     "answers": [
       {
         "text": "мезодерме",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эктодерме",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эктодерме и мезодерме",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "энтодерме",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "эктодерме и энтодерме",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -984,23 +1146,28 @@
     "answers": [
       {
         "text": "эктодерме",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "энтодерме",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эктодерме и мезодерме",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мезодерме",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "эктодерме и энтодерме",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1014,23 +1181,28 @@
     "answers": [
       {
         "text": "мезодерме",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эктодерме",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эктодерме и мезодерме",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "энтодерме",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "эктодерме и энтодерме",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1044,23 +1216,28 @@
     "answers": [
       {
         "text": "передний и средний отделы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "средний отдел",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "задний отдел",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "передний отдел",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "только передний",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1074,23 +1251,28 @@
     "answers": [
       {
         "text": "передний, средний и задний отделы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "средний отдел",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "задний отдел",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "передний и средний отделы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "передний отдел",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1104,23 +1286,28 @@
     "answers": [
       {
         "text": "круглых червей",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "плоских червей",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "кольчатых червей",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "членистоногих",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "мягкотелых",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1134,23 +1321,28 @@
     "answers": [
       {
         "text": "ротоглоткой и гортаннотрахейной камерой",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "ротоглоткой",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "трахеей",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гортаннотрахейной камерой",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "глоткой",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1164,19 +1356,23 @@
     "answers": [
       {
         "text": "адаптация к дыханию",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "адаптация к проглатыванию пищи",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "адаптация к нахождению под водой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "адаптация к нырянию",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1190,23 +1386,28 @@
     "answers": [
       {
         "text": "мезодермы и ножек сомитов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезодермы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эктодермы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ножек сомитов",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "энтодермы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1220,23 +1421,28 @@
     "answers": [
       {
         "text": "мезодермы и ножек сомитов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезодермы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эктодермы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ножек сомитов",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "энтодермы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1250,23 +1456,28 @@
     "answers": [
       {
         "text": "мезодермы и ножек сомитов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезодермы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эктодермы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ножек сомитов",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "энтодермы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1280,23 +1491,28 @@
     "answers": [
       {
         "text": "мезонефросом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "метанефросом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "головной почкой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протонефридиями",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "метанефридиями",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1310,23 +1526,28 @@
     "answers": [
       {
         "text": "тазовой почкой",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "туловищной почкой",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "головной почкой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протонефридиями",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "метанефридиями",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1340,19 +1561,23 @@
     "answers": [
       {
         "text": "замене метанефридиев на мальпигиевы сосуды",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "появлении протонефридиев",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "появлении метанефридиев",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "появлении коксальных желез",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1366,23 +1591,28 @@
     "answers": [
       {
         "text": "появлении почки, увеличении количества нефронов в почке, увеличении длины выделительных канальцев и концентрации мочи",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "увеличении количества нефронов в почке",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "увеличении длины выделительных канальцев",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "концентрации мочи",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "появлении почки",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1396,19 +1626,23 @@
     "answers": [
       {
         "text": "удлинении канальцев нефрона",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "укорочении канальцев нефрона",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "дифференцировки канальцев нефрона",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "редукции воронки нефрона",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1422,23 +1656,28 @@
     "answers": [
       {
         "text": "удлинении канальцев нефрона, дифференцировки канальцев нефрона , редукции воронки нефрона",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "укорочении канальцев нефрона",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "дифференцировки канальцев нефрона",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "редукции воронки нефрона",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "удлинении канальцев нефрона",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1452,19 +1691,23 @@
     "answers": [
       {
         "text": "возникновении прямой связи между кровеносной и выделительной системами, появлении почечного тельца, редукции нефростома",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "появлении почечного тельца",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "редукции нефростома",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "возникновении прямой связи между кровеносной и выделительной системами",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1478,23 +1721,28 @@
     "answers": [
       {
         "text": "до 12",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "несколько сот",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "около миллиона",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "более миллиарда",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "до сотни",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1508,23 +1756,28 @@
     "answers": [
       {
         "text": "несколько сот",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "до сотни",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "около миллиона",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "более миллиарда",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "до 12",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1538,23 +1791,28 @@
     "answers": [
       {
         "text": "около миллиона",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "несколько сот",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "до сотни",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "более миллиарда",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "до 12",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1568,15 +1826,18 @@
     "answers": [
       {
         "text": "головных",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "туловищных",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тазовых",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1590,15 +1851,18 @@
     "answers": [
       {
         "text": "туловищных",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "тазовых",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "головных",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1612,15 +1876,18 @@
     "answers": [
       {
         "text": "тазовых",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "туловищных",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "головных",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1634,23 +1901,28 @@
     "answers": [
       {
         "text": "только в эмбриогенезе и в головных сегментах зародыша",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "в течение всей жизни",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "в головных сегментах зародыша",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "в тазовых сегментах зародыша",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "только в эмбриогенезе",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1664,23 +1936,28 @@
     "answers": [
       {
         "text": "нет правильного ответа",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "у рыб",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "амфибий",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "у млекопитающих",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "у птиц",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1694,23 +1971,28 @@
     "answers": [
       {
         "text": "у личинок рыб и амфибий",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "у рыб",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "амфибий",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "у млекопитающих",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "у птиц",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1724,23 +2006,28 @@
     "answers": [
       {
         "text": "рыб и земноводных",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "земноводных",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "птиц",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "пресмыкающихся",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "рыб",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1754,23 +2041,28 @@
     "answers": [
       {
         "text": "птиц и пресмыкающихся",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "земноводных",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "птиц",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "пресмыкающихся",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "рыб",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1784,23 +2076,28 @@
     "answers": [
       {
         "text": "наличие нефростома",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "одинаковое место закладки у эмбриона",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "одинаковое количество нефронов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "наличие почечного тельца",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "прямая связь с кровеносной системой",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1814,23 +2111,28 @@
     "answers": [
       {
         "text": "наличие почечного тельца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "одинаковое место закладки у эмбриона",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "наличие нефростома",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "одинаковое количество нефронов",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "непосредственная связь с целомом",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1844,23 +2146,28 @@
     "answers": [
       {
         "text": "нефростома и выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "петли Генле",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почечного тельца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "нефростома",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1874,23 +2181,28 @@
     "answers": [
       {
         "text": "нефростома, почечного тельца и выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "петли Генле",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почечного тельца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "нефростома",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1904,23 +2216,28 @@
     "answers": [
       {
         "text": "петли Генле, почечного тельца и выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "петли Генле",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почечного тельца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "нефростома",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1934,23 +2251,28 @@
     "answers": [
       {
         "text": "у круглоротых(миксин)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "у рыб",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "амфибий",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "у млекопитающих",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "у птиц",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1964,23 +2286,28 @@
     "answers": [
       {
         "text": "видоизмененные протонефридии в виде одной или двух гигантских клеток в виде буквы Н",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "метанефридии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почки",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "видоизмененные метанефридии",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "протонефридии",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1994,23 +2321,28 @@
     "answers": [
       {
         "text": "протонефридии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "метанефридии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почки",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "видоизмененные метанефридии",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "видоизмененные протонефридии в виде одной или двух гигантских клеток в виде буквы Н",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2024,15 +2356,18 @@
     "answers": [
       {
         "text": "сохранении влаги в организме за счет обратного всасывания воды в кишечнике",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "образовании прямой связи с кровеносной системой",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "увеличении количества трубочек",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2046,23 +2381,28 @@
     "answers": [
       {
         "text": "нефростома и выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "петли Генле",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почечного тельца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "нефростома",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2076,23 +2416,28 @@
     "answers": [
       {
         "text": "нефростома, почечного тельца и выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "петли Генле",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почечного тельца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "нефростома",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2106,23 +2451,28 @@
     "answers": [
       {
         "text": "нефростома, почечного тельца и выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "петли Генле",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почечного тельца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "нефростома",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2136,23 +2486,28 @@
     "answers": [
       {
         "text": "нефростома, почечного тельца и выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "петли Генле",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почечного тельца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "нефростома",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2166,23 +2521,28 @@
     "answers": [
       {
         "text": "петли Генле, почечного тельца и выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "петли Генле",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почечного тельца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "нефростома",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2196,23 +2556,28 @@
     "answers": [
       {
         "text": "петли Генле, почечного тельца и выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "петли Генле",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почечного тельца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "нефростома",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2226,23 +2591,28 @@
     "answers": [
       {
         "text": "петли Генле, почечного тельца и выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "петли Генле",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "почечного тельца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выделительного канальца",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "нефростома",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2256,15 +2626,18 @@
     "answers": [
       {
         "text": "вторичной",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "первичной",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "предпочки",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2278,15 +2651,18 @@
     "answers": [
       {
         "text": "туловищной",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "головной",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тазовой",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2300,15 +2676,18 @@
     "answers": [
       {
         "text": "тазовой",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "туловищной",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "головной",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2322,15 +2701,18 @@
     "answers": [
       {
         "text": "тазовой",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "туловищной",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "головной",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2344,15 +2726,18 @@
     "answers": [
       {
         "text": "тазовой",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "туловищной",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "головной",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2366,15 +2751,18 @@
     "answers": [
       {
         "text": "тазовой",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "туловищной",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "головной",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2388,15 +2776,18 @@
     "answers": [
       {
         "text": "тазовой",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "туловищной",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "головной",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2410,15 +2801,18 @@
     "answers": [
       {
         "text": "тазовой",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "туловищной",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "головной",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2432,23 +2826,28 @@
     "answers": [
       {
         "text": "предпочка, первичная почка и вторичная почка",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "первичная почка",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "вторичная почка",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "предпочка и первичная почка",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "предпочка",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2462,23 +2861,28 @@
     "answers": [
       {
         "text": "предпочка, первичная почка и вторичная почка",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "первичная почка",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "вторичная почка",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "предпочка и первичная почка",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "предпочка",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2492,23 +2896,28 @@
     "answers": [
       {
         "text": "предпочка, первичная почка и вторичная почка",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "первичная почка",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "вторичная почка",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "предпочка и первичная почка",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "предпочка",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2522,23 +2931,28 @@
     "answers": [
       {
         "text": "предпочка и первичная почка",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "первичная почка",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "вторичная почка",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "предпочка",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "предпочка, первичная почка и вторичная почка",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2552,23 +2966,28 @@
     "answers": [
       {
         "text": "предпочка и первичная почка",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "первичная почка",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "вторичная почка",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "предпочка",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "предпочка, первичная почка и вторичная почка",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2582,23 +3001,28 @@
     "answers": [
       {
         "text": "незамкнутая кровеносная система, хитиновый экзоскелет, мальпигиевы сосуды",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "незамкнутая кровеносная система",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хитиновый экзоскелет",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мальпигиевы сосуды",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "замкнутая кровеносная система",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2612,19 +3036,23 @@
     "answers": [
       {
         "text": "паукообразные и насекомые",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "паукообразные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "насекомые",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ракообразные",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2638,23 +3066,28 @@
     "answers": [
       {
         "text": "антенальными и максилярными железами",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "максилярными железами",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "коксальными железами",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мальпигиевыми сосудами",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "антенальными железами",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2668,23 +3101,28 @@
     "answers": [
       {
         "text": "коксальными железами и мальпигиевыми сосудами",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "максилярными железами",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "коксальными железами",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мальпигиевыми сосудами",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "антенальными железами",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2698,23 +3136,28 @@
     "answers": [
       {
         "text": "жировым телом(почкой накопления) и мальпигиевыми сосудами",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "максилярными железами",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "жировым телом(почкой накопления)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мальпигиевыми сосудами",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "антенальными железами",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2728,23 +3171,28 @@
     "answers": [
       {
         "text": "коксальными железами",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "максилярными железами",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "антенальными железами",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "жировым телом(почкой накопления)",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "мальпигиевыми сосудами",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2758,19 +3206,23 @@
     "answers": [
       {
         "text": "узловатого типа",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "видоизмененная ортогональная",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "диффузного типа",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ортогонального типа",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2784,19 +3236,23 @@
     "answers": [
       {
         "text": "узловатого типа",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "видоизмененная ортогональная",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "диффузного типа",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ортогонального типа",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2810,19 +3266,23 @@
     "answers": [
       {
         "text": "узловатого типа",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "видоизмененная ортогональная",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "диффузного типа",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ортогонального типа",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2836,19 +3296,23 @@
     "answers": [
       {
         "text": "надглоточного ганглия, подглоточного ганглия и брюшной нервной цепочки",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "подглоточного ганглия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "брюшной нервной цепочки",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "надглоточного ганглия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2862,15 +3326,18 @@
     "answers": [
       {
         "text": "ракообразные",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "паукообразные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "насекомые",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2884,15 +3351,18 @@
     "answers": [
       {
         "text": "ракообразные",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "паукообразные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "насекомые",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2906,23 +3376,28 @@
     "answers": [
       {
         "text": "паукообразные и насекомые",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "паукообразные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "насекомые",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ракообразные и паукообразные",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "ракообразные",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -2936,19 +3411,23 @@
     "answers": [
       {
         "text": "в виде перикарда и вокруг гонад",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "в виде перикарда",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "вокруг гонад",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "в сосудах",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2962,19 +3441,23 @@
     "answers": [
       {
         "text": "протоцеребрум и дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2988,23 +3471,28 @@
     "answers": [
       {
         "text": "протоцеребрум и тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протоцеребрум и дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3018,23 +3506,28 @@
     "answers": [
       {
         "text": "протоцеребрум , дейтоцеребрум и тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протоцеребрум и дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3048,23 +3541,28 @@
     "answers": [
       {
         "text": "протоцеребрум и дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "протоцеребрум , дейтоцеребрум и тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3078,23 +3576,28 @@
     "answers": [
       {
         "text": "протоцеребрум и тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протоцеребрум и дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3108,23 +3611,28 @@
     "answers": [
       {
         "text": "протоцеребрум , дейтоцеребрум и тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протоцеребрум и дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3138,23 +3646,28 @@
     "answers": [
       {
         "text": "сложные глаза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "усики",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "верхнюю губу",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3168,23 +3681,28 @@
     "answers": [
       {
         "text": "простые глаза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "усики",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "верхнюю губу",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3198,23 +3716,28 @@
     "answers": [
       {
         "text": "сложные глаза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "усики",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "верхнюю губу",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3228,23 +3751,28 @@
     "answers": [
       {
         "text": "усики",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "сложные глаза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "верхнюю губу",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3258,23 +3786,28 @@
     "answers": [
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "усики",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сложные глаза",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "верхнюю губу",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3288,23 +3821,28 @@
     "answers": [
       {
         "text": "усики",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "сложные глаза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "верхнюю губу",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3318,23 +3856,28 @@
     "answers": [
       {
         "text": "нижнюю губу",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "усики",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "сложные глаза",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3348,19 +3891,23 @@
     "answers": [
       {
         "text": "экзокутикулы и эндокутикулы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эндокутикулы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эпикутикулы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экзокутикулы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -3374,23 +3921,28 @@
     "answers": [
       {
         "text": "экзокутикулы , эндокутикулы и эпикутикулы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эндокутикулы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эпикутикулы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экзокутикулы и эндокутикулы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "экзокутикулы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3404,23 +3956,28 @@
     "answers": [
       {
         "text": "экзокутикулы , эндокутикулы и эпикутикулы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эндокутикулы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эпикутикулы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экзокутикулы и эндокутикулы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "экзокутикулы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3434,15 +3991,18 @@
     "answers": [
       {
         "text": "смешанная",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "вторичная",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "первичная",
-        "image": null
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -3456,23 +4016,28 @@
     "answers": [
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "усики",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "сяжки",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "жвалы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3486,23 +4051,28 @@
     "answers": [
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "усики",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "сяжки",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "жвалы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3516,23 +4086,28 @@
     "answers": [
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "нефростом",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "невроцель",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3546,23 +4121,28 @@
     "answers": [
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "нефростом",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "невроцель",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3576,23 +4156,28 @@
     "answers": [
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "нефростом",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "невроцель",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3606,23 +4191,28 @@
     "answers": [
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "нефростом",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "невроцель",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3636,23 +4226,28 @@
     "answers": [
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "нефростом",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "невроцель",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3666,23 +4261,28 @@
     "answers": [
       {
         "text": "тритоцеребрум",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дейтоцеребрум",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "протоцеребрум",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "нефростом",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "невроцель",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3696,23 +4296,28 @@
     "answers": [
       {
         "text": "5 пар",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "3 пары",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "4 пары",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "пар",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "2 пары",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3726,23 +4331,28 @@
     "answers": [
       {
         "text": "4 пары",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "3 пары",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "5 пар",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "6 пар",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "2 пары",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3756,23 +4366,28 @@
     "answers": [
       {
         "text": "3 пары",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "4 пары",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "5 пар",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "6 пар",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "2 пары",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3786,23 +4401,28 @@
     "answers": [
       {
         "text": "жаберное",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "трахейное",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "кожно-легочное",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "трахейно-легочное",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кожное",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3816,23 +4436,28 @@
     "answers": [
       {
         "text": "кожно-легочное и трахейно-легочное",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "трахейное",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "кожно-легочное",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "трахейно-легочное",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "жаберное",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3846,23 +4471,28 @@
     "answers": [
       {
         "text": "трахейное",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "жаберное",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "кожно-легочное",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "трахейно-легочное",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кожное",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3876,23 +4506,28 @@
     "answers": [
       {
         "text": "насекомые",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "паукообразные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "ракообразные",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "паукообразные и насекомые",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "амфибии",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3906,23 +4541,28 @@
     "answers": [
       {
         "text": "паукообразные",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "ракообразные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "насекомые",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "паукообразные и насекомые",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "амфибии",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3936,23 +4576,28 @@
     "answers": [
       {
         "text": "паукообразные",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "ракообразные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "насекомые",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "паукообразные и насекомые",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "нет правильного ответа",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3966,23 +4611,28 @@
     "answers": [
       {
         "text": "два",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "три",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "пять",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "один",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -3996,23 +4646,28 @@
     "answers": [
       {
         "text": "наличие хелицер и педипальп и коксальных выделительных желез",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "3 пары ходильных ног",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "наличие хелицер и педипальп",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "коксальные выделительные железы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "наличие крыльев",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -4026,23 +4681,28 @@
     "answers": [
       {
         "text": "4 пары ходильных ног , наличие хелицер и педипальп, а также коксальные выделительные железы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "4 пары ходильных ног",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "наличие хелицер и педипальп",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "коксальные выделительные железы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "наличие крыльев",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -4056,23 +4716,28 @@
     "answers": [
       {
         "text": "как правило наличие крыльев ,3 пары ходильных ног, 3 сегмента груди",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "3 пары ходильных ног",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "наличие хелицер и педипальп",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "3 сегмента груди",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "как правило наличие крыльев",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -4086,19 +4751,23 @@
     "answers": [
       {
         "text": "наличие крыльев одной пары, 3 пары ходильных ног, развитие с метаморфозом в водной среде, 3 сегмента груди",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "3 пары ходильных ног",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "развитие с метаморфозом в водной среде",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "наличие крыльев одной пары",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -4112,23 +4781,28 @@
     "answers": [
       {
         "text": "жужжальца",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "надкрылья",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "бородавчатые железы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -4142,23 +4816,28 @@
     "answers": [
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "жужжальца",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "надкрылья",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "бородавчатые железы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -4172,23 +4851,28 @@
     "answers": [
       {
         "text": "педипальпы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "хелицеры",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "жужжальца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "надкрылья",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "бородавчатые железы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -4202,23 +4886,28 @@
     "answers": [
       {
         "text": "шесть",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "две",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "три",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "пять",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -4232,23 +4921,28 @@
     "answers": [
       {
         "text": "семь",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "шесть",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "три",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "две",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",

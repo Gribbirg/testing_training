@@ -6,19 +6,23 @@
     "answers": [
       {
         "text": "эктогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "автогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дарвинизма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -32,19 +36,23 @@
     "answers": [
       {
         "text": "автогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эктогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дарвинизма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -58,19 +66,23 @@
     "answers": [
       {
         "text": "номогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эктогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дарвинизма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -84,19 +96,23 @@
     "answers": [
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "номогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "эктогенеза",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дарвинизма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -110,19 +126,23 @@
     "answers": [
       {
         "text": "С.С. Четвериков",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Дубинин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Дж.Хаксли",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Добжанский",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -136,19 +156,23 @@
     "answers": [
       {
         "text": "эктогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "автогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дарвинизма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -162,19 +186,23 @@
     "answers": [
       {
         "text": "автогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "неодарвинизма",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дарвинизма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -188,19 +216,23 @@
     "answers": [
       {
         "text": "С.И. Коржинский",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "А. Вейсман",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Жоффруа Сент-Илер",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Л.С. Берг",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -214,19 +246,23 @@
     "answers": [
       {
         "text": "Хуго де Фризом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "А. Вейсманом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Жоффруа Сент-Илером",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Л.С. Бергом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -240,19 +276,23 @@
     "answers": [
       {
         "text": "С.С. Четверикову",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Дубинину",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Дж. Хаксли",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Добжанскому",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -266,19 +306,23 @@
     "answers": [
       {
         "text": "эктогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "автогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дарвинизма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -292,19 +336,23 @@
     "answers": [
       {
         "text": "Л.С. Берг",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "А. Вейсман",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Жоффруа Сент-Илер",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Хуго де Фриз",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -318,19 +366,23 @@
     "answers": [
       {
         "text": "С.И. Коржинскому",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "А. Вейсману",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Жоффруа Сент-Илеру",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Л.С. Бергу",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -344,19 +396,23 @@
     "answers": [
       {
         "text": "Т. Морганом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "А. Вейсманом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Жоффруа Сент-Илером",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Л.С. Бергом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -370,19 +426,23 @@
     "answers": [
       {
         "text": "С.С. Четверикову",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Дубинину",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Дж. Хаксли",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Добжанскому",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -396,19 +456,23 @@
     "answers": [
       {
         "text": "Жоффруа Сент-Илер",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "А. Вейсман",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Л.С. Берг",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Хуго де Фриз",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -422,19 +486,23 @@
     "answers": [
       {
         "text": "номогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эктогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дарвинизм",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -448,19 +516,23 @@
     "answers": [
       {
         "text": "Л.С. Берга",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "А. Вейсмана",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Жоффруа Сент-Илера",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Хуго де Фриза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -474,19 +546,23 @@
     "answers": [
       {
         "text": "Т. Морган",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "А. Вейсман",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Жоффруа Сент-Илер",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Л.С. Берг",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -500,19 +576,23 @@
     "answers": [
       {
         "text": "С.С. Четвериков",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Дубинин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Дж. Хаксли",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Добжанский",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -526,19 +606,23 @@
     "answers": [
       {
         "text": "эктогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "неодарвинизма",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дарвинизма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -552,19 +636,23 @@
     "answers": [
       {
         "text": "автогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эктогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дарвинизма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -578,19 +666,23 @@
     "answers": [
       {
         "text": "номогенеза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эктогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дарвинизма",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -604,19 +696,23 @@
     "answers": [
       {
         "text": "неодарвинизма",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эктогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационизма",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "автогенеза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -630,19 +726,23 @@
     "answers": [
       {
         "text": "популяция достаточно большая, скрещивание более - менее случайно, интенсивность отбора низкая)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "скрещивание более - менее случайно",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "интенсивность отбора низкая",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "популяция достаточно большая",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",

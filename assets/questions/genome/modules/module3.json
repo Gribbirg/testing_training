@@ -5,24 +5,29 @@
     "answers": [
       {
         "text": "близнецами",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "монозиготами близнецами",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "дизиготами",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "братьями и сестрами",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 1,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "С морфологической точки зрения 21 пара хромосом относится к группе ",
@@ -30,24 +35,29 @@
     "answers": [
       {
         "text": "акроцентрических",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "метацентрических",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "самые крупные",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "средние",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 2,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Расположение метафазных пар хромосом, по мере убывания размеров представляет собой: ",
@@ -55,24 +65,29 @@
     "answers": [
       {
         "text": "идиограмму",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "геном",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "кариотип",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "генотип",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 3,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Метод дифференциального окрашивания хромосом был предложен: ",
@@ -80,24 +95,29 @@
     "answers": [
       {
         "text": "Т. Касперсоном ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Т. Морганом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Г. Менделем",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Ф. Гальтоном",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 4,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Метод, определяющий роль наследственности и среды в развитии признака, называется: ",
@@ -105,24 +125,29 @@
     "answers": [
       {
         "text": "близнецовый ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "биохимический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "генеалогический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "цитологический",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 5,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Близнецы, развивающиеся из одной яйцеклетки, называются: ",
@@ -130,24 +155,29 @@
     "answers": [
       {
         "text": "монозиготные ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дизиготные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "двуяйцевыми",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "неидентичными",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 6,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Близнецы, развивающиеся разных яйцеклеток, называются: ",
@@ -155,24 +185,29 @@
     "answers": [
       {
         "text": "дизиготные ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "идентичные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "однояйцевыми",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "все ответы верны",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 7,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Рождение однояйцевых близнецов, как правило…",
@@ -180,24 +215,29 @@
     "answers": [
       {
         "text": "передается по линии матери ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "не наследуется",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "зависит от среды",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "нет верного ответа",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 8,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Конкордантность по группе крови среди монозиготных близнецов в %: ",
@@ -205,24 +245,29 @@
     "answers": [
       {
         "text": "99",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "45",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "10",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "0",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 9,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Дискордантность-это: ",
@@ -230,24 +275,29 @@
     "answers": [
       {
         "text": "отличие по многим признакам ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "сходность по многим признакам",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "разнояйцовость",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дизиготность",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 10,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Генеалогический метод позволяет определить: ",
@@ -255,24 +305,29 @@
     "answers": [
       {
         "text": "тип наследования  признака",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "роль среды в формировании признака",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "роль генотипа в формировании признака",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "колебание частот аллелей",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 11,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Цитогенетическим методом изучаются хромосомы на стадии митоза: ",
@@ -280,24 +335,29 @@
     "answers": [
       {
         "text": "метафазы ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "профазы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "анафазы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "телофазы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 12,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Денверская классификация учитывает следующую характеристику хромосом: ",
@@ -305,24 +365,29 @@
     "answers": [
       {
         "text": "размер",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "количество центромер",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "уровень спирализации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дифференциальное окрашивание",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 13,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Для изучения кариотипа, генных и хромосомных мутаций человека с помощью цитогенетического метода, деление клетки, останавливается перед этой стадией митоза митоза: ",
@@ -330,24 +395,29 @@
     "answers": [
       {
         "text": "анафазой",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "метафазой",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "телофазой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "интерфазой",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 14,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "В Х-хромосоме локализован доминантный ген, отвечающий за: ",
@@ -355,24 +425,29 @@
     "answers": [
       {
         "text": "нормальное цветовосприятие ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "катаракту",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "праворукость",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ихтиоз",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 15,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Цитогенетический метод исследует кариотип человека, хромосомы которого, состоят из хроматид: ",
@@ -380,24 +455,29 @@
     "answers": [
       {
         "text": "2 хроматид",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "1 хроматиды",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "3 хроматид",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "4 хроматид",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 16,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Вероятность однополости дизиготных близнецов составляет: ",
@@ -405,24 +485,29 @@
     "answers": [
       {
         "text": "0.5",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "0.25",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "0",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "1",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 17,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Различия между монозиготными близнецами зависят: ",
@@ -430,24 +515,29 @@
     "answers": [
       {
         "text": "только от факторов внешней среды ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "только от генотипа",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "от генотипа и среды в равной степени",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "от родителей",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 18,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Вероятнось образования дизиготных близнецов определяется: ",
@@ -455,24 +545,29 @@
     "answers": [
       {
         "text": "влиянием среды",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "генотипом матери",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "генотипом отца",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "предрасположенность по линии матери",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 19,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Наследственная предрасположенность к шизофрении, выявлена методом: ",
@@ -480,23 +575,28 @@
     "answers": [
       {
         "text": "близнецовым ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "биохимическим",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "дерматоглифическим",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "цитогенетическим",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 20,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   }
 ]

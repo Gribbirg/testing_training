@@ -6,23 +6,28 @@
     "answers": [
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Платон",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Лукреций Кар",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -36,23 +41,28 @@
     "answers": [
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Платон",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Лукреций Кар",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -66,23 +76,28 @@
     "answers": [
       {
         "text": "Платон",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Лукреций Кар",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -96,23 +111,28 @@
     "answers": [
       {
         "text": "Демокриту",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Эмпедоклу",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Платону",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотел.",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Лукрецию Кару",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -126,23 +146,28 @@
     "answers": [
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Платон",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Лукреций Кар",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -156,23 +181,28 @@
     "answers": [
       {
         "text": "заложил основы опытного естествознания",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "создал рецепт \"изготовления\" гомункулуса",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "создал труд \"Канон врачебной науки\"",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "представил доказательства невозможности самозарождения",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -186,23 +216,28 @@
     "answers": [
       {
         "text": "Ф. Реди",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Авиценна",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -216,23 +251,28 @@
     "answers": [
       {
         "text": "Аррениус",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Авиценна",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -246,23 +286,28 @@
     "answers": [
       {
         "text": "Авиценны",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрита",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Эмпедокла",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотеля",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Роджера Бэкона",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -276,23 +321,28 @@
     "answers": [
       {
         "text": "Г. Лейбниц и Ш. Бонне",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Эмпедокл и Авиценна",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Аристотель и Аррениус",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Г. Лейбниц и Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Аррениус и Авиценна",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -306,23 +356,28 @@
     "answers": [
       {
         "text": "Эмпедокл , Демокрит и Платон",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Платон",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -336,23 +391,28 @@
     "answers": [
       {
         "text": "Лукреций Кар",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Платон",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -366,23 +426,28 @@
     "answers": [
       {
         "text": "Эмпедоклу и Демокриту",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокриту",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Платону",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотелю",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Эмпедоклу",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -396,23 +461,28 @@
     "answers": [
       {
         "text": "создал рецепт \"изготовления\" гомункулуса",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "заложил основы опытного естествознания",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "создал труд \"Канон врачебной науки\"",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "представил доказательства невозможности самозарождения",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -426,23 +496,28 @@
     "answers": [
       {
         "text": "Лукреций Кар",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Платон",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -456,23 +531,28 @@
     "answers": [
       {
         "text": "была создана сверхъестественным образом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "возникала неоднократно из вещества неживой природы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "вечна, возникла одновременно со Вселенной",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "самозародилась и продолжает самозарождаться",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "занесена на нашу планету извне",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -486,23 +566,28 @@
     "answers": [
       {
         "text": "Авиценна и Роджер Бэкон",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Авиценна",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Роджер Бэкон",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -516,23 +601,28 @@
     "answers": [
       {
         "text": "Аррениус",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Авиценна",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -546,23 +636,28 @@
     "answers": [
       {
         "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "заложил основы опытного естествознания",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "создал труд \"Канон врачебной науки\"",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "создал рецепт \"изготовления\" гомункулуса",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "представил доказательства невозможности самозарождения",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -576,23 +671,28 @@
     "answers": [
       {
         "text": "Авиценна",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Роджер Бэкон",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -606,23 +706,28 @@
     "answers": [
       {
         "text": "представил доказательства невозможности самозарождения",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "заложил основы опытного естествознания",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "создал труд \"Канон врачебной науки\"",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "создал рецепт \"изготовления\" гомункулуса",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -636,23 +741,28 @@
     "answers": [
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Платон",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Лукреций Кар",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -666,23 +776,28 @@
     "answers": [
       {
         "text": "Л. Пастер",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Авиценна",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Родже Бэкон",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -696,23 +811,28 @@
     "answers": [
       {
         "text": "занесена на нашу планету извне",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "была создана сверхъестественным образом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "вечна, возникла одновременно со Вселенной",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "самозародилась и продолжает самозарождаться",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "возникала неоднократно из вещества неживой природы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -726,23 +846,28 @@
     "answers": [
       {
         "text": "религиозной",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "материалистической",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "метафизической",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мистической",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "идолопоклонческой",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -756,23 +881,28 @@
     "answers": [
       {
         "text": "Ф. Реди",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Авиценна",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -786,23 +916,28 @@
     "answers": [
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Платон",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Лукреций Кар",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -816,23 +951,28 @@
     "answers": [
       {
         "text": "Аррениус",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Демокрит",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Авиценна",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Аристотель",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "Эмпедокл",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",

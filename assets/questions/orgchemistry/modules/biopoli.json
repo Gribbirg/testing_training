@@ -4,1774 +4,2129 @@
     "answers": [
       {
         "text": null,
-        "image": "c4_1_1.png"
+        "image": "c4_1_1.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "350.png"
+        "image": "350.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "351.png"
+        "image": "351.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "352.png"
+        "image": "352.png",
+        "number": 4
       }
     ],
     "number": 1,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "АМИНОКИСЛОТА С ПОЛЯРНОЙ ИОНОГЕННОЙ ГРУППОЙ В РАДИКАЛЕ",
     "answers": [
       {
         "text": "цистеин (2-амино-3-меркаптопропановая кислота)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "валин (2-амино-3-метилбутановая кислота)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "треонин (2-амино-3-гидроксибутановая кислота)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "фенилаланин (2-амино-3-фенилпропановая кислота)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 2,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "АМИНОКИСЛОТА С ПОЛЯРНОЙ НЕИОНОГЕННОЙ ГРУППОЙ В РАДИКАЛЕ",
     "answers": [
       {
         "text": "треонин (2-амино-3-гидроксибутановая кислота)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "цистеин (2-амино-3-меркаптопропановая кислота)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "лизин (2,6-диаминогексановая кислота)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "тирозин (2-амино-3-(4-гидроксифенил)пропановая кислота)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 3,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ИОННАЯ ФОРМА АСПАРАГИНОВОЙ КИСЛОТЫ В СИЛЬНОЩЕЛОЧНОЙ СРЕДЕ",
     "answers": [
       {
         "text": null,
-        "image": "353.png"
+        "image": "353.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "354.png"
+        "image": "354.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "355.png"
+        "image": "355.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "356.png"
+        "image": "356.png",
+        "number": 4
       }
     ],
     "number": 4,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ИОННАЯ ФОРМА АСПАРАГИНОВОЙ КИСЛОТЫ В СИЛЬНОКИСЛОЙ СРЕДЕ",
     "answers": [
       {
         "text": null,
-        "image": "357.png"
+        "image": "357.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "358.png"
+        "image": "358.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "359.png"
+        "image": "359.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "360.png"
+        "image": "360.png",
+        "number": 4
       }
     ],
     "number": 5,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "НЕВЕРНАЯ СХЕМА РЕАКЦИИ",
     "answers": [
       {
         "text": "RCH(NH2)COOH  +  PCl5  →  RCH(NH2)COCl  +  POCl3  +  HCl",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "RCH(NH2)COOH  +  CH3OH  +  HCl  → [RCH(NH3+)COOCH3]Cl–  +  H2O",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "RCH(NH2)COOH  +  HCl  →  [RCH(NH3+)COOH]Cl–",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": null,
-        "image": "361.png"
+        "image": "361.png",
+        "number": 4
       }
     ],
     "number": 6,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПРОДУКТ МОНОДЕКАРБОКСИЛИРОВАНИЯ АСПАРАГИНОВОЙ КИСЛОТЫ",
     "answers": [
       {
         "text": "3-аминопропановая кислота",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "3-аминобутановая кислота",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "2-аминобутановая кислота",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "2-аминопропановая кислота",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 7,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СОКРАЩЕННОЕ ОБОЗНАЧЕНИЕ ТРИПЕПТИДА",
     "answers": [
       {
         "text": "Ala-Cys-Val",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Val-Cys-Ala",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Ala-Ser-Val",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Val-Ser-Ala",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "362.png",
     "number": 8,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ОСНОВАНИЕ ШИФФА",
     "answers": [
       {
         "text": null,
-        "image": "363.png"
+        "image": "363.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "364.png"
+        "image": "364.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "365.png"
+        "image": "365.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "366.png"
+        "image": "366.png",
+        "number": 4
       }
     ],
     "number": 9,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "N-МЕТИЛАМИД",
     "answers": [
       {
         "text": null,
-        "image": "367.png"
+        "image": "367.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "368.png"
+        "image": "368.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "369.png"
+        "image": "369.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "370.png"
+        "image": "370.png",
+        "number": 4
       }
     ],
     "number": 10,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "НЕЙТРАЛЬНАЯ АМИНОКИСЛОТА",
     "answers": [
       {
         "text": "серин",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "лизин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "аспарагин",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "лейцин",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 11,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "КИСЛАЯ АМИНОКИСЛОТА",
     "answers": [
       {
         "text": "аспарагиновая кислота",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "лизин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "серин",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "валин",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 12,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ОСНОВНАЯ АМИНОКИСЛОТА",
     "answers": [
       {
         "text": "лизин",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "серин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "аспарагин",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "валин",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 13,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПРОЕКЦИОННАЯ ФОРМУЛА ФИШЕРА L-РИБОЗЫ",
     "answers": [
       {
         "text": null,
-        "image": "c4_14_1.png"
+        "image": "c4_14_1.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "c4_14_2.png"
+        "image": "c4_14_2.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "c4_14_3.png"
+        "image": "c4_14_3.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "c4_14_4.png"
+        "image": "c4_14_4.png",
+        "number": 4
       }
     ],
     "number": 14,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ФОРМУЛА АЛЬДОПЕНТОЗЫ",
     "answers": [
       {
         "text": null,
-        "image": "372.png"
+        "image": "372.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "373.png"
+        "image": "373.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "374.png"
+        "image": "374.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "375.png"
+        "image": "375.png",
+        "number": 4
       }
     ],
     "number": 15,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ФОРМУЛА КЕТОГЕКСОЗЫ",
     "answers": [
       {
         "text": null,
-        "image": "376.png"
+        "image": "376.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "c4_16_2.png"
+        "image": "c4_16_2.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "c4_16_3.png"
+        "image": "c4_16_3.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "378.png"
+        "image": "378.png",
+        "number": 4
       }
     ],
     "number": 16,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ФОРМУЛА N-ГЛИКОЗИДА",
     "answers": [
       {
         "text": null,
-        "image": "379.png"
+        "image": "379.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "380.png"
+        "image": "380.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "c4_17_3.png"
+        "image": "c4_17_3.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "c4_17_4.png"
+        "image": "c4_17_4.png",
+        "number": 4
       }
     ],
     "number": 17,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ФОРМУЛА β-D-ГАЛАКТОФУРАНОЗЫ",
     "answers": [
       {
         "text": null,
-        "image": "c4_18_1.png"
+        "image": "c4_18_1.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "c4_18_2.png"
+        "image": "c4_18_2.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "383.png"
+        "image": "383.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "384.png"
+        "image": "384.png",
+        "number": 4
       }
     ],
     "number": 18,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПРОЕКЦИОННЫЕ ФОРМУЛЫ ФИШЕРА ЭПИМЕРА D-ГЛЮКОЗЫ",
     "answers": [
       {
         "text": null,
-        "image": "c4_19_1.png"
+        "image": "c4_19_1.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "c4_19_2.png"
+        "image": "c4_19_2.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "386.png"
+        "image": "386.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "387.png"
+        "image": "387.png",
+        "number": 4
       }
     ],
     "number": 19,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНЫЕ УТВЕРЖДЕНИЯ ДЛЯ АНОМЕРОВ",
     "answers": [
       {
         "text": "различаются конфигурацией атомов С-1 в альдозах и С-2 в кетозах",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "являются энантиомерами",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "имеют одинаковую величину удельного вращения",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "могут существовать в открытых формах",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 20,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "КАЧЕСТВЕННАЯ РЕАКЦИЯ ДЛЯ ГЛЮКОЗЫ В РАСТВОРЕ",
     "answers": [
       {
         "text": "взаимодействие с реактивом Фелинга",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "восстановление борогидридом натрия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "взаимодействие со спиртами в присутствии кислотного катализатора",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "взаимодействие с уксусным ангидридом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 21,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ СОЕДИНЕНИЯ: ",
     "answers": [
       {
         "text": "является гликозидом 1,3,4,6-тетра-О-метил-α-D-фруктофуранозы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "образуется при взаимодействии D-фруктозы с безводным метанолом в кислой среде",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "полностью гидролизуется в кислой среде",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "способен мутаротировать в водном растворе",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "388.png",
     "number": 22,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПРОДУКТ ВЗАИМОДЕЙСТВИЯ D-ГАЛАКТОПИРАНОЗЫ С ИЗБЫТКОМ МЕТАНОЛА В ПРИСУТСТВИИ ГАЗООБРАЗНОГО ХЛОРОВОДОРОДА",
     "answers": [
       {
         "text": null,
-        "image": "389.png"
+        "image": "389.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "390.png"
+        "image": "390.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "391.png"
+        "image": "391.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "392.png"
+        "image": "392.png",
+        "number": 4
       }
     ],
     "number": 23,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПОЛЯРИМЕТРИЧЕСКИ МОЖНО РАЗДЕЛИТЬ ПАРУ АЛЬДИТОВ, ПОЛУЧЕННЫХ ИЗ ПАРЫ МОНОСАХАРИДОВ",
     "answers": [
       {
         "text": "D-галактоза и D-глюкоза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "D-галактоза и L-галактоза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "D-ксилоза и D-рибоза",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "D-ксилоза и L-ксилоза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 24,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СОЕДИНЕНИЕ, ДАЮЩЕЕ ПОЛОЖИТЕЛЬНУЮ РЕАКЦИЮ С АММИАЧНЫМ РАСТВОРОМ ОКСИДА СЕРЕБРА",
     "answers": [
       {
         "text": "β-L-галактопираноза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "бензил-α-D-маннопиранозид",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сорбит (D-глюцит)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "D-глюконовая кислота",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 25,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ МЕТИЛ-α-D- ГАЛАКТОПИРАНОЗИДА",
     "answers": [
       {
         "text": "окисляется в метил-α-D-галактуронид кислоту кислородом в присутствии Pt",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "окисляется бромом в D-галактоновую кислоту",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "восстанавливается в полиол",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гидролизуется в кислой и щелочной средах",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 26,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "α-АНОМЕРОМ ЯВЛЯЕТСЯ",
     "answers": [
       {
         "text": null,
-        "image": "393.png"
+        "image": "393.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "394.png"
+        "image": "394.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "395.png"
+        "image": "395.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "396.png"
+        "image": "396.png",
+        "number": 4
       }
     ],
     "number": 27,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "КОНФОРМАЦИОННАЯ ФОРМУЛА α-D-ГЛЮКОПИРАНОЗЫ",
     "answers": [
       {
         "text": null,
-        "image": "397.png"
+        "image": "397.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "398.png"
+        "image": "398.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "399.png"
+        "image": "399.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "400.png"
+        "image": "400.png",
+        "number": 4
       }
     ],
     "number": 28,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "КОНФОРМАЦИОННАЯ ФОРМУЛА α-L-РАМНОПИРАНОЗЫ (6-ДЕЗОКСИ-α-L-МАННОПИРАНОЗЫ)",
     "answers": [
       {
         "text": null,
-        "image": "401.png"
+        "image": "401.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "402.png"
+        "image": "402.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "403.png"
+        "image": "403.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "404.png"
+        "image": "404.png",
+        "number": 4
       }
     ],
     "number": 29,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПРОДУКТ РЕАКЦИИ АЛЬДОЗЫ С БРОМНОЙ ВОДОЙ",
     "answers": [
       {
         "text": null,
-        "image": "405.png"
+        "image": "405.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "406.png"
+        "image": "406.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "407.png"
+        "image": "407.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "408.png"
+        "image": "408.png",
+        "number": 4
       }
     ],
     "number": 30,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПРОДУКТ РЕАКЦИИ АЛЬДОЗЫ С АЗОТНОЙ КИСЛОТОЙ ПРИ НАГРЕВАНИИ",
     "answers": [
       {
         "text": null,
-        "image": "409.png"
+        "image": "409.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "410.png"
+        "image": "410.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "411.png"
+        "image": "411.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "412.png"
+        "image": "412.png",
+        "number": 4
       }
     ],
     "number": 31,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СОЕДИНЕНИЕ, В КОТОРОЕ ПРЕВРАЩАЕТСЯ D-ГАЛАКТОЗА В ЩЕЛОЧНОЙ СРЕДЕ",
     "answers": [
       {
         "text": null,
-        "image": "c4_32_1.png"
+        "image": "c4_32_1.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "c4_32_2.png"
+        "image": "c4_32_2.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "c4_32_3.png"
+        "image": "c4_32_3.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "414.png"
+        "image": "414.png",
+        "number": 4
       }
     ],
     "number": 32,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
     "answers": [
       {
         "text": null,
-        "image": "416.png"
+        "image": "416.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "417.png"
+        "image": "417.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "418.png"
+        "image": "418.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "419.png"
+        "image": "419.png",
+        "number": 4
       }
     ],
     "image": "415.png",
     "number": 33,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
     "answers": [
       {
         "text": null,
-        "image": "421.png"
+        "image": "421.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "422.png"
+        "image": "422.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "423.png"
+        "image": "423.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "424.png"
+        "image": "424.png",
+        "number": 4
       }
     ],
     "image": "420.png",
     "number": 34,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВОССТАНАВЛИВАЮЩИЕ ДИСАХАРИДЫ",
     "answers": [
       {
         "text": null,
-        "image": "c4_35_1.png"
+        "image": "c4_35_1.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "c4_35_2.png"
+        "image": "c4_35_2.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "426.png"
+        "image": "426.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "427.png"
+        "image": "427.png",
+        "number": 4
       }
     ],
     "number": 35,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ ДИСАХАРИДА ВЕРНЫ, КРОМЕ",
     "answers": [
       {
         "text": "содержит α-гликозидную связь",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "является восстанавливающим дисахаридом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "окисляется бромной водой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "состоит из остатков D-глюкозы и D-галактозы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "428.png",
     "number": 36,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ ДИСАХАРИДА ВЕРНЫ, КРОМЕ",
     "answers": [
       {
         "text": "является восстанавливающим дисахаридом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "содержит остаток альдопентозы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "содержит остаток дезоксисахара",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гидролизуется в кислой среде",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "429.png",
     "number": 37,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ ДИСАХАРИДА ВЕРНЫ, КРОМЕ",
     "answers": [
       {
         "text": "является восстанавливающим дисахаридом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "содержит остатки альдогексоз",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гидролизуется в кислой среде",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ацилируется уксусным ангидридом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "430.png",
     "number": 38,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ ДИСАХАРИДА ВЕРНЫ, КРОМЕ",
     "answers": [
       {
         "text": "является невосстанавливающим дисахаридом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "ацилируется ацетилхлоридом в присутствии пиридина",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гидролизуется в кислой среде",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "реагирует с метанолом в присутствии газообразного хлороводорода",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "431.png",
     "number": 39,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "НЕВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ САХАРОЗЫ",
     "answers": [
       {
         "text": "способна к цикло-оксотаутомерии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "реагирует с метанолом в присутствии газообразного хлороводорода",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "ацилируется ацетилхлоридом в присутствии пиридина",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "состоит из остатков D-глюкозы и D-фруктозы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 40,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПРОДУКТ РЕАКЦИИ ЦЕЛЛОБИОЗЫ С РАЗБАВЛЕННОЙ АЗОТНОЙ КИСЛОТОЙ ПРИ НАГРЕВАНИИ",
     "answers": [
       {
         "text": null,
-        "image": "432.png"
+        "image": "432.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "433.png"
+        "image": "433.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "434.png"
+        "image": "434.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "435.png"
+        "image": "435.png",
+        "number": 4
       }
     ],
     "number": 41,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "В СВЕЖЕПРИГОТОВЛЕННОМ РАСТВОРЕ МУТАРОТИРУЮТ",
     "answers": [
       {
         "text": "β-мальтоза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "этил-β-целлобиозид",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сахароза",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "октаацетат лактозы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 42,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "В СВЕЖЕПРИГОТОВЛЕННОМ РАСТВОРЕ МУТАРОТИРУЮТ",
     "answers": [
       {
         "text": "β-лактоза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "этил-β-целлобиозид",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сахароза",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "октаацетат мальтозы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 43,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
     "answers": [
       {
         "text": null,
-        "image": "437.png"
+        "image": "437.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "438.png"
+        "image": "438.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "439.png"
+        "image": "439.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "440.png"
+        "image": "440.png",
+        "number": 4
       }
     ],
     "image": "436.png",
     "number": 44,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПРОДУКТ РЕАКЦИИ ПОЛНОГО АЦЕТИЛИРОВАНИЯ МАЛЬТОЗЫ С ПОСЛЕДУЮЩИМ ГИДРОЛИЗОМ В КИСЛОЙ СРЕДЕ",
     "answers": [
       {
         "text": null,
-        "image": "c4_45_1.png"
+        "image": "c4_45_1.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "c4_45_2.png"
+        "image": "c4_45_2.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "442.png"
+        "image": "442.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "443.png"
+        "image": "443.png",
+        "number": 4
       }
     ],
     "number": 45,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПРОДУКТ РЕАКЦИИ ПОЛНОГО АЦЕТИЛИРОВАНИЯ ЦЕЛЛОБИОЗЫ С ПОСЛЕДУЮЩИМ ГИДРОЛИЗОМ В КИСЛОЙ СРЕДЕ",
     "answers": [
       {
         "text": null,
-        "image": "c4_46_1.png"
+        "image": "c4_46_1.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "c4_46_2.png"
+        "image": "c4_46_2.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "445.png"
+        "image": "445.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "446.png"
+        "image": "446.png",
+        "number": 4
       }
     ],
     "number": 46,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЯ ОДНОВРЕМЕННО ДЛЯ МЕТИЛ-α-МАЛЬТОЗИДА И МЕТИЛ-β-МАЛЬТОЗИДА",
     "answers": [
       {
         "text": "взаимодействуют с уксусным ангидридом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дают положительную реакцию серебряного зеркала",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "являются энантиомерами",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "являются таутомерами",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 47,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЯ ОДНОВРЕМЕННО ДЛЯ МЕТИЛ-α-ЛАКТОЗИДА И МЕТИЛ-β-ЛАКТОЗИДА",
     "answers": [
       {
         "text": "взаимодействуют с уксусным ангидридом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "являются энантиомерами",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "дают положительную реакцию серебряного зеркала",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "являются таутомерами",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 48,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЯ ОДНОВРЕМЕННО ДЛЯ МЕТИЛ-α-ЦЕЛЛОБИОЗИДА И МЕТИЛ-β-ЦЕЛЛОБИОЗИДА",
     "answers": [
       {
         "text": "взаимодействуют с уксусным ангидридом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дают положительную реакцию серебряного зеркала",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "являются таутомерами",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "являются энантиомерами",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 49,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ЛАКТОЗЫ",
     "answers": [
       {
         "text": "образует сложные эфиры",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гидролизуется в щелочной среде",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "состоит из двух остатков D-галактопиранозы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "образует соли с раствором щёлочи",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 50,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ МАЛЬТОЗЫ",
     "answers": [
       {
         "text": "образует сложные эфиры",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гидролизуется в щелочной среде",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "состоит из двух остатков D-галактопиранозы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "образует соли с раствором щёлочи",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 51,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ЦЕЛЛОБИОЗЫ",
     "answers": [
       {
         "text": "образует сложные эфиры",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гидролизуется в щелочной среде",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "состоит из двух остатков D-галактопиранозы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "образует соли с раствором щёлочи",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 52,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ДИСАХАРИДА",
     "answers": [
       {
         "text": "окисляется бромной водой",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "содержит α-гликозидную связь",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "состоит из двух остатков D-глюкопиранозы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "относится к невосстанавливающим дисахаридам",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "447.png",
     "number": 53,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "НЕВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ДИСАХАРИДА",
     "answers": [
       {
         "text": "содержит β(1→3)-гликозидную связь",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "содержит амидную группу",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "содержит сложноэфирную группу",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "состоит из остатков уроновой кислоты и аминосахара",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "448.png",
     "number": 54,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ЦЕЛЛОБИОЗЫ",
     "answers": [
       {
         "text": "образует простые и сложные эфиры",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гидролизуется в щелочной среде",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "содержит α(1→4)-гликозидную связь",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "состоит из остатков D-глюкопиранозы и D-галактопиранозы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 55,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ОДНОВРЕМЕННО ДЛЯ МЕТИЛ-α-ЛАКТОЗИДА И МЕТИЛ-β-ЛАКТОЗИДА",
     "answers": [
       {
         "text": "взаимодействуют с уксусным ангидридом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дают положительную реакцию серебряного зеркала",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "являются энантиомерами",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "в водном растворе находятся в таутомерном равновесии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 56,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ИЗ ДВУХ ЗВЕНЬЕВ D-ГЛЮКОПИРАНОЗЫ МОЖНО ПОСТРОИТЬ ВОССТАНАВЛИВАЮЩИХ ДИСАХАРИДОВ (БЕЗ УЧЁТА ТАУТОМЕРНЫХ ФОРМ)",
     "answers": [
       {
         "text": "восемь",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "десять",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "шесть",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "восемь",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 57,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ИЗ ДВУХ ЗВЕНЬЕВ D-ГЛЮКОПИРАНОЗЫ МОЖНО ПОСТРОИТЬ НЕВОССТАНАВЛИВАЮЩИХ ДИСАХАРИДОВ (БЕЗ УЧЁТА ТАУТОМЕРНЫХ ФОРМ)",
     "answers": [
       {
         "text": "три",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "два",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "один",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 58,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ИЗ ДВУХ ЗВЕНЬЕВ D-ГАЛАКТОПИРАНОЗЫ МОЖНО ПОСТРОИТЬ НЕВОССТАНАВЛИВАЮЩИХ ДИСАХАРИДОВ (БЕЗ УЧЁТА ТАУТОМЕРНЫХ ФОРМ)",
     "answers": [
       {
         "text": "три",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "два",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "один",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 59,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ИЗ ДВУХ ЗВЕНЬЕВ D-МАННОПИРАНОЗЫ МОЖНО ПОСТРОИТЬ НЕВОССТАНАВЛИВАЮЩИХ ДИСАХАРИДОВ (БЕЗ УЧЁТА ТАУТОМЕРНЫХ ФОРМ)",
     "answers": [
       {
         "text": "три",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "два",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "один",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 60,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ИЗ ДВУХ ЗВЕНЬЕВ D-МАННОПИРАНОЗЫ МОЖНО ПОСТРОИТЬ ВОССТАНАВЛИВАЮЩИХ ДИСАХАРИДОВ (БЕЗ УЧЁТА ТАУТОМЕРНЫХ ФОРМ)",
     "answers": [
       {
         "text": "восемь",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "десять",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "шесть",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 61,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ИЗ ДВУХ ЗВЕНЬЕВ D-ГАЛАКТОПИРАНОЗЫ МОЖНО ПОСТРОИТЬ ВОССТАНАВЛИВАЮЩИХ ДИСАХАРИДОВ (БЕЗ УЧЁТА ТАУТОМЕРНЫХ ФОРМ)",
     "answers": [
       {
         "text": "восемь",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "десять",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "шесть",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 62,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ОДНОВРЕМЕННО ДЛЯ АМИЛОЗЫ И АМИЛОПЕКТИНА",
     "answers": [
       {
         "text": "подвергаются кислотному гидролизу",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "построены из остатков β-D-глюкопиранозы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "являются гетерополисахаридам",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "образуют окрашенный комплекс с иодом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 63,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ОДНОВРЕМЕННО ДЛЯ ГЛИКОГЕНА И АМИЛОПЕКТИНА",
     "answers": [
       {
         "text": "подвергаются кислотному гидролизу",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "построены из остатков β-D-глюкопиранозы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "являются гетерополисахаридам",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "являются линейными полисахаридами",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 64,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ОДНОВРЕМЕННО ДЛЯ АМИЛОЗЫ И ЦЕЛЛЮЛОЗЫ",
     "answers": [
       {
         "text": "подвергаются кислотному гидролизу",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "построены из остатков β-D-глюкопиранозы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "являются гетерополисахаридам",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "образуют окрашенный комплекс с иодом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 65,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ЛИНЕЙНЫМ ПОЛИСАХАРИДОМ ЯВЛЯЕТСЯ",
     "answers": [
       {
         "text": "амилоза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "амилопектин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гликоген",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "декстран",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 66,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ЛИНЕЙНЫМ ПОЛИСАХАРИДОМ ЯВЛЯЕТСЯ",
     "answers": [
       {
         "text": "целлюлоза",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "декстран",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гликоген",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "амилопектин",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 67,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "НЕ ЯВЛЯЕТСЯ ГОМОПОЛИСАХАРИДОМ",
     "answers": [
       {
         "text": "гиалуроновая кислота",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гликоген",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "декстран",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "целлюлоза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 68,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "НЕ ЯВЛЯЕТСЯ ГОМОПОЛИСАХАРИДОМ",
     "answers": [
       {
         "text": "хондроитин-сульфат",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "декстран",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гликоген",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "целлюлоза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 69,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "НЕ ЯВЛЯЕТСЯ ГОМОПОЛИСАХАРИДОМ",
     "answers": [
       {
         "text": "гепарин",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гликоген",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "декстран",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "целлюлоза",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 70,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ГЛИКОГЕНА",
     "answers": [
       {
         "text": "построен из остатков α-D-глюкопиранозы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "относится к неразветвлённым полисахаридам",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "построен из остатков как α-, так и β-D-глюкопиранозы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "является гетерополисахаридом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 71,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   }
 ]

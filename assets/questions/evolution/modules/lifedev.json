@@ -6,23 +6,28 @@
     "answers": [
       {
         "text": "архейской эре",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "протерозойской эре",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "палеозойской эре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мезозойской эре",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кайнозойской эре",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -36,23 +41,28 @@
     "answers": [
       {
         "text": "протерозойскую",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезозойскую",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "палеозойскую",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "кайнозойскую",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "архейскую",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -66,23 +76,28 @@
     "answers": [
       {
         "text": "палеозойскую",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезозойскую",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "кайнозойскую",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протерозойскую",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "архейскую",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -96,23 +111,28 @@
     "answers": [
       {
         "text": "примитивные членистоногие",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "плеченогие",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "древние брюхоногие",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "двустворчатые моллюски",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "губки",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -126,23 +146,28 @@
     "answers": [
       {
         "text": "ордовике",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "девоне",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "силуре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "карбоне",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кембрии",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -156,23 +181,28 @@
     "answers": [
       {
         "text": "псилофиты",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "семенные папоротники",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "трилобиты",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ликопсиды",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "цикадофиты",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -186,23 +216,28 @@
     "answers": [
       {
         "text": "паукообразные",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "насекомые",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "трилобиты",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "двоякодышащие",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кистеперые",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -216,23 +251,28 @@
     "answers": [
       {
         "text": "палеозойской эре",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "протерозойской эре",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архейской эре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мезозойской эре",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кайнозойской эре",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -246,23 +286,28 @@
     "answers": [
       {
         "text": "плауновидные , хвощевидные и псилотовидные",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "хвощевидные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "псилотовидные",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "голосеменные",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "плауновидные",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -276,23 +321,28 @@
     "answers": [
       {
         "text": "мезозойской эре",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "протерозойской эре",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "палеозойской эре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "архейской эре",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кайнозойской эре",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -306,23 +356,28 @@
     "answers": [
       {
         "text": "Э.Г. Геккелю",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "И.И. Мечникову",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "А.Н. Северцеву",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "И.И. Шмальгаузену",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "С.С. Четвериков",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -336,23 +391,28 @@
     "answers": [
       {
         "text": "из одноклеточных ,путем заползания части колонии одноклеточных во внутрь полости",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "из одноклеточных, путем впячивания части колонии одноклеточных во внутрь полости",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "из одноклеточных, путем многократного их деления митозом",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "путем божественного начала",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "путем заселения из космоса",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -366,23 +426,28 @@
     "answers": [
       {
         "text": "архейской эре",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "протерозойской эре",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "палеозойской эре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мезозойской эре",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кайнозойской эре",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -396,23 +461,28 @@
     "answers": [
       {
         "text": "протерозойскую",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезозойскую",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "палеозойскую",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "кайнозойскую",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "архейскую",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -426,23 +496,28 @@
     "answers": [
       {
         "text": "протерозойскую",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезозойскую",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "палеозойскую",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "кайнозойскую",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "архейскую",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -456,23 +531,28 @@
     "answers": [
       {
         "text": "палеозойскую",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезозойскую",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "кайнозойскую",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протерозойскую",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "архейскую",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -486,23 +566,28 @@
     "answers": [
       {
         "text": "ордовике",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "девоне",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "силуре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "карбоне",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кембрии",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -516,23 +601,28 @@
     "answers": [
       {
         "text": "древние плауны и хвощи",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "древние папоротники",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "примитивные членистоногие",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гигантские скорпионы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "сидячие животные с двустворчатой раковиной",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -546,23 +636,28 @@
     "answers": [
       {
         "text": "девоне",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "карбоне",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "силуре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ордовике",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кембрии",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -576,23 +671,28 @@
     "answers": [
       {
         "text": "карбона",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "девона",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "силура",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ордовика",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кембрия",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -606,23 +706,28 @@
     "answers": [
       {
         "text": "карбоне",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "девоне",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "силуре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ордовике",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кембрии",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -636,23 +741,28 @@
     "answers": [
       {
         "text": "кайнозойскую",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезозойскую",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "палеозойскую",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протерозойскую",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "архейскую",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -666,23 +776,28 @@
     "answers": [
       {
         "text": "И.И. Мечникову",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Э.Г. Геккелю",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "А.Н. Северцеву",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "И.И. Шмальгаузену",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "С.С. Четвериков",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -696,23 +811,28 @@
     "answers": [
       {
         "text": "из одноклеточных, путем впячивания части колонии одноклеточных во внутрь полости",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "из одноклеточных, путем заползания части колонии одноклеточных во внутрь полости",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "из одноклеточных, путем многократного их деления митозом",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "путем божественного начала",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "путем заселения из космоса",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -726,23 +846,28 @@
     "answers": [
       {
         "text": "мечехвосты, трилобиты, губки и брюхоногие",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "трилобиты",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "губки",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "брюхоногие",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "мечехвосты",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -756,23 +881,28 @@
     "answers": [
       {
         "text": "палеозойскую",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезозойскую",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "кайнозойскую",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протерозойскую",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "архейскую",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -786,23 +916,28 @@
     "answers": [
       {
         "text": "ордовике",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "девоне",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "силуре",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "карбоне",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кембрии",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -816,23 +951,28 @@
     "answers": [
       {
         "text": "силура",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "девона",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "карбона",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ордовика",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кембрия",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -846,23 +986,28 @@
     "answers": [
       {
         "text": "сидячие животные с двустворчатой раковиной",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "древние брюхоногие",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "примитивные членистоногие",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гигантские скорпионы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "древние губки",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -876,23 +1021,28 @@
     "answers": [
       {
         "text": "девона",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "карбона",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "силура",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ордовика",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "кембрия",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -906,23 +1056,28 @@
     "answers": [
       {
         "text": "палеозойской",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезозойской",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "кайнозойской",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протерозойской",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "архейской",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -936,23 +1091,28 @@
     "answers": [
       {
         "text": "голосеменным",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "плауновидным",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хвощевидным",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "моховидным",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "псилотовидным",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -966,23 +1126,28 @@
     "answers": [
       {
         "text": "кайнозойскую",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мезозойскую",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "палеозойскую",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "протерозойскую",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "архейскую",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -996,23 +1161,28 @@
     "answers": [
       {
         "text": "покрытосеменным",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "плауновидным",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хвощевидным",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "моховидным",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "псилотовидным",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1026,23 +1196,28 @@
     "answers": [
       {
         "text": "Э.Г. Геккелю и И.И. Мечникову",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "И.И. Мечникову и А.Н. Северцеву",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "А.Н. Северцеву и С.С. Четверикову",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "И.И. Шмальгаузену и А.Н. Северцеву",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "С.С. Четверикову и И.И. Шмальгаузену",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1056,23 +1231,28 @@
     "answers": [
       {
         "text": "анаэробные гетеротрофы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "анаэробные автотрофы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "аэробные автотрофы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "аэробные гетеротрофы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "автотрофные симбионты",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",

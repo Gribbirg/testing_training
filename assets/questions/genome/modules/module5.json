@@ -5,24 +5,29 @@
     "answers": [
       {
         "text": "пренатальной диагностики ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дерматоглифический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "генеалогический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "близнецовый",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 1,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Метод изучения узоров на ладонях и стопах называется: ",
@@ -30,24 +35,29 @@
     "answers": [
       {
         "text": "дерматоглифическим ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "генеалогическим",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "пренатальным",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "близнецовым",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 2,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Амниотическая жидкость используется при исследовании: ",
@@ -55,24 +65,29 @@
     "answers": [
       {
         "text": "все ответы верны ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "генных болезней",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "наследственных болезней обмена",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "хромосомных болезней",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 3,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Ультразвуковое исследование плода - метод:",
@@ -80,24 +95,29 @@
     "answers": [
       {
         "text": "пренатальной диагностики",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "генеалогии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "цитогенетики",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дерматоглифики",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 4,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Экспресс-диагностику определения телец Бара использует метод: ",
@@ -105,24 +125,29 @@
     "answers": [
       {
         "text": "цитогенетический ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "генеалогический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "биохимический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "близнецовый",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 5,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Кариотипирование использует метод: ",
@@ -130,24 +155,29 @@
     "answers": [
       {
         "text": "цитогенетический ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "генеалогический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "биохимический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "близнецовый",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 6,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Исследование мужского У - полового хроматина (F-тельце), под люминесцентным микроскопом, используется методом: ",
@@ -155,24 +185,29 @@
     "answers": [
       {
         "text": "цитогенетическим ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "генеалогическим",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "биохимическим",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "близнецовым",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 7,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Близнецовый метод впервые был предложен: ",
@@ -180,24 +215,29 @@
     "answers": [
       {
         "text": "Ф. Гальтоном ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Т. Касперсоном",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Г. Менделем",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Т. Морганом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 8,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Монозиготные близнецы идентичны по генотипу, так как: ",
@@ -205,24 +245,29 @@
     "answers": [
       {
         "text": "в основе дробления бластомеров – митоз, они образованы из бластомеров одной зиготы ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "они образованы из бластомеров одной зиготы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "в основе дробления бластомеров - митоз",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "у них общая мать",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 9,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Евгеника – наука, цель которой является: ",
@@ -230,24 +275,29 @@
     "answers": [
       {
         "text": "способствовать рождению здоровых, одаренных",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "диагностировать хромосомные болезни",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "выявления патологий",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "лечить болезни обмена",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 10,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Основоположником евгенического направления является: ",
@@ -255,24 +305,29 @@
     "answers": [
       {
         "text": "Ф. Гальтон ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Т. Касперсон",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Г. Мендель",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Т. Морган",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 11,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Первые медико-генетические кабинеты в России были открыты в: ",
@@ -280,24 +335,29 @@
     "answers": [
       {
         "text": "1967",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "1932",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "1989",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Новосибирске",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 12,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Фенилкетонурию на ранних стадиях лечат исключением фенилаланина из питания, такое лечение называется: ",
@@ -305,24 +365,29 @@
     "answers": [
       {
         "text": "патогенетическое ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "этиологическое",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "симптоматическое",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "терапевтическое",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 13,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Генные заболевания успешно можно вылечить, используя способ лечения: ",
@@ -330,24 +395,29 @@
     "answers": [
       {
         "text": "этиологический",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "симптоматический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "диетотерапию",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "патотерапию",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 14,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Методы лечения генетических больных: ",
@@ -355,24 +425,29 @@
     "answers": [
       {
         "text": "симптоматическое, патогенетическое, этиологическое",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "симптоматическое, патологоанатомическое, этиологическое",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "этиологическое",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "хирургическое, диетотерапия, заместительная терапия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 15,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Гетерозиготных носителей рецессивных генов можно выявить следующими методами: ",
@@ -380,24 +455,29 @@
     "answers": [
       {
         "text": "генеалогическим, биохимическим ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "генеалогическим; близнецовым",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "биохимическим, близнецовым",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "близнецовым, генеалогическим, цитогенетическим",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 16,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Принципы диагностики болезней обмена веществ: ",
@@ -405,24 +485,29 @@
     "answers": [
       {
         "text": "генный, молекулярный, организменный ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "клеточный, молекулярный, организменный",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "молекулярный",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "организменный",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 17,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Селективный скрининг используется при: ",
@@ -430,24 +515,29 @@
     "answers": [
       {
         "text": "проверке биохимических аномалий обмена у пациентов, а также при подозрении на генные наследственные болезни ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "подозрении на генные наследственные болезни",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "проверка цитогенетических болезней",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "проверке биохимических аномалий обмена у пациентов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 18,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Показания к применению кариотипирования: ",
@@ -455,24 +545,29 @@
     "answers": [
       {
         "text": "множественные пороки развития ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "непереносимость некоторых продуктов питания",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "нарушение пигментации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "нарушение пищеварения",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 19,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Показания к применению биохимического метода генетики человека: ",
@@ -480,23 +575,28 @@
     "answers": [
       {
         "text": "непереносимость некоторых продуктов питания",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "множественные пороки развития",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "привычные выкидыши",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "подозрения на семейную транслокацию",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 20,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   }
 ]

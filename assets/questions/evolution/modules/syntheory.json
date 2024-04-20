@@ -6,19 +6,23 @@
     "answers": [
       {
         "text": "изменчивость",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "наследственность",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "популяция",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "естественный отбор",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -32,19 +36,23 @@
     "answers": [
       {
         "text": "популяция",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "изменчивость",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "наследственность",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "естественный отбор",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -58,19 +66,23 @@
     "answers": [
       {
         "text": "изменение генетической структуры популяции",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "изменение генетической структуры вида",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "изменение генетической структуры особи",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "неизменность генетической структуры популяции",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -84,19 +96,23 @@
     "answers": [
       {
         "text": "дрейф генов, волны жизни, поток генов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "волны жизни",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "поток генов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дрейф генов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -110,19 +126,23 @@
     "answers": [
       {
         "text": "дрейф генов, волны жизни, поток генов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "волны жизни",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "поток генов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дрейф генов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -136,19 +156,23 @@
     "answers": [
       {
         "text": "естественный отбор",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "волны жизни",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "поток генов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дрейф генов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -162,19 +186,23 @@
     "answers": [
       {
         "text": "один таксон может дать начало нескольким новым таксонам",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "один таксон может дать начало только одному новому таксону",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "несколько таксонов могут дать начало только одному новому таксону",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "каждый вид имеет несколько предков",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -188,19 +216,23 @@
     "answers": [
       {
         "text": "постепенный и длительный характер",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "длительный характер",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "скачкообразный характер",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "постепенный характер",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -214,19 +246,23 @@
     "answers": [
       {
         "text": "макроэволюция и микроэволюция",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "микроэволюция",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "естественный отбор",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "макроэволюция",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -240,19 +276,23 @@
     "answers": [
       {
         "text": "ароморфозам, идиоадаптациям и общей дегенерации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "идиоадаптациям",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "общей дегенерации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ароморфозам",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -266,19 +306,23 @@
     "answers": [
       {
         "text": "Ч.Дарвином",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Р.Фишером",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Н.К. Кольцовым",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Дж.Б.С. Холдейном",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -292,19 +336,23 @@
     "answers": [
       {
         "text": "рекомбинация генов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дрейф генов",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "волны жизни",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "поток генов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -318,19 +366,23 @@
     "answers": [
       {
         "text": "Ж.Кювье",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Э.Геккелю",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Ж.Б.Ламарку",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Л.С.Бергу",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",

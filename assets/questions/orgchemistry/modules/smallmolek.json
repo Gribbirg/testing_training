@@ -4,824 +4,989 @@
     "answers": [
       {
         "text": "гексадекановая кислота",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "октадекановая кислота",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "(Е)-октадецен-9-овая кислота",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "(Z)-октадецен-9-овая кислота",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 1,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СИСТЕМАТИЧЕСКОЕ НАЗВАНИЕ ОЛЕИНОВОЙ КИСЛОТЫ",
     "answers": [
       {
         "text": "(Z)-октадецен-9-овая кислота",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "(Е)-октадецен-9-овая кислота",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "октадекановая кислота",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гексадекановая кислота",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 2,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СТРОЕНИЕ ОЛЕИНОВОЙ КИСЛОТЫ",
     "answers": [
       {
         "text": null,
-        "image": "491.png"
+        "image": "491.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "492.png"
+        "image": "492.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "c6_3_3.png"
+        "image": "c6_3_3.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "c6_3_4.png"
+        "image": "c6_3_4.png",
+        "number": 4
       }
     ],
     "number": 3,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "НЕВЕРНОЕ УТВЕРЖДЕНИЕ О НЕНАСЫЩЕННЫХ ЖИРНЫХ КИСЛОТАХ, ВХОДЯЩИХ В СОСТАВ ТРИАЦИЛГЛИЦЕРИНОВ",
     "answers": [
       {
         "text": "двойные связи находятся в сопряжении",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "имеют неразветвленную цепь атомов углерода",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "насыщенные участки углеводородного радикала обычно принимают зигзагообразную конформацию",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "двойные связи имеют, как правило, Z-конфигурацию",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 4,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "НАЗВАНИЕ СОЕДИНЕНИЯ",
     "answers": [
       {
         "text": "2-О-линолеоил-1-О-олеоил-3-О-пальмитоилглицерин",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "1-О-линоленоил-2-О-линолеоил-3-О-пальмитоилглицерин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "2-О-линоленоил-1-О-олеоил-3-О-пальмитоилглицерин",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "2-О-линолеоил-3-О-пальмитоил-1-О-стеароилглицерин",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "494.png",
     "number": 5,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "НАЗВАНИЕ СОЕДИНЕНИЯ",
     "answers": [
       {
         "text": "1-О-линоленоил-2-О-линолеоил-3-О-пальмитоилглицерин",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "2-О-линолеоил-1-О-олеоил-3-О-пальмитоилглицерин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "2-О-линоленоил-1-О-олеоил-3-О-пальмитоилглицерин",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "2-О-линолеоил-3-О-пальмитоил-1-О-стеароилглицерин",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "495.png",
     "number": 6,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ГИДРОПЕРОКСИД, ПРЕИМУЩЕСТВЕННО ОБРАЗУЮЩИЙСЯ В РЕЗУЛЬТАТЕ ПЕРОКСИДНОГО ОКИСЛЕНИЯ ОЛЕИНОВОЙ КИСЛОТЫ",
     "answers": [
       {
         "text": null,
-        "image": "496.png"
+        "image": "496.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "497.png"
+        "image": "497.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "498.png"
+        "image": "498.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "499.png"
+        "image": "499.png",
+        "number": 4
       }
     ],
     "number": 7,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПРОДУКТЫ ГИДРОЛИЗА 2-О-ОЛЕОИЛ-1-О-ПАЛЬМИТОИЛФОСФАТИДИЛЭТАНОЛАМ ИНА В КИСЛОЙ СРЕДЕ",
     "answers": [
       {
         "text": "C17H33COOH + C15H31COOH + H3PO4 + HOCH2CH2NH3+",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "C17H31COOH + C17H35COOH + H3PO4 + HOCH2CH(NH3+)COOH",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "C17H29COOH + C17H33COOH + H3PO4 + HOCH2CH(NH3+)COOH",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "C17H35COOH + C17H33COOH + H3PO4 + HOCH2CH2N+(CH3)3",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 8,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ПРОДУКТЫ ГИДРОЛИЗА 2-О-ЛИНОЛЕОИЛ-1-О-СТЕАРОИЛФОСФАТИДИЛСЕРИНА В КИСЛОЙ СРЕДЕ",
     "answers": [
       {
         "text": "C17H31COOH + C17H35COOH + H3PO4 + HOCH2CH(NH3+)COOH",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "C17H33COOH + C15H31COOH + H3PO4 + HOCH2CH2NH3+",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "C17H29COOH + C17H33COOH + H3PO4 + HOCH2CH(NH3+)COOH",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "C17H35COOH + C17H33COOH + H3PO4 + HOCH2CH2N+(CH3)3",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 9,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СОЕДИНЕНИЕ, НЕ СПОСОБНОЕ ГИДРОЛИЗОВАТЬСЯ В ЩЕЛОЧНОЙ СРЕДЕ",
     "answers": [
       {
         "text": null,
-        "image": "500.png"
+        "image": "500.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "501.png"
+        "image": "501.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "502.png"
+        "image": "502.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "503.png"
+        "image": "503.png",
+        "number": 4
       }
     ],
     "number": 10,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "РЕАКЦИЯ ОМЫЛЕНИЯ",
     "answers": [
       {
         "text": null,
-        "image": "504.png"
+        "image": "504.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "c6_11_2.png"
+        "image": "c6_11_2.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "c6_11_3.png"
+        "image": "c6_11_3.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "506.png"
+        "image": "506.png",
+        "number": 4
       }
     ],
     "number": 11,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ТРИАЦИЛГЛИЦЕРИН С ЖИДКОЙ КОНСИСТЕНЦИЕЙ",
     "answers": [
       {
         "text": "1,3-ди-О-линолеоил-3-О-пальмитоилглицерин",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "1,2,3-три-О-пальмитоилглицерин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "2-О-линолеоил-1-О-пальмитоил-3-О-стеароилглицерин",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "1-О-линолеоил-2-О-пальмитоил-3-О-стеароилглицерин",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 12,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ФОРМУЛА ФОСФАТИДИЛХОЛИНА",
     "answers": [
       {
         "text": null,
-        "image": "507.png"
+        "image": "507.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "508.png"
+        "image": "508.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "509.png"
+        "image": "509.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "510.png"
+        "image": "510.png",
+        "number": 4
       }
     ],
     "number": 13,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ТРИАЦИЛГЛИЦЕРИН, 1 МОЛЬ КОТОРОГО МОЖЕТ ПРИСОЕДИНИТЬ 3 МОЛЬ ВОДОРОДА",
     "answers": [
       {
         "text": "2-О-линолеоил-1-О-олеоил-3-О-стеароилглицерин",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "1,2,3-три-О-линолеоилглицерин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "1-О-линоленоил-2,3-ди-О-пальмитолиглицерин",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "1-О-линоленоил-2,3-ди-О-стеароилглицерин",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 14,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "НЕВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ ФОСФОЛИПИДОВ",
     "answers": [
       {
         "text": "остаток глицерина соединен сложноэфирными связями с двумя остатками фосфорной и одним остатком высшей жирной кислоты",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "остаток аминоспирта соединен сложноэфирной связью с остатком фосфорной кислоты",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "в состав фосфолипидов входят остатки серина, коламина или холина",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "молекула имеет строение внутренней соли (диполярного иона)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 15,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ИОДНОЕ ЧИСЛО, ДЛЯ ТРИАЦИЛГЛИЦЕРИНОВ УВЕЛИЧИВАЕТСЯ В РЯДУ:\n1)  1-О-ЛИНОЛЕНОИЛ-2,3-ДИ-О-ОЛЕОИЛГЛИЦЕРИН\n2)  1-О-ОЛЕОИЛ-2,3-ДИ-О-СТЕАРОИЛГЛИЦЕРИН\n3)  1-О-ЛИНОЛЕОИЛ-2-О-ОЛЕОИЛ-3-О- ПАЛЬМИТОИЛГЛИЦЕРИН\n4)  1,2,3-ТРИ-О-ПАЛЬМИТОИЛГЛИЦЕРИН",
     "answers": [
       {
         "text": "4→2→3→1",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "2→4→1→3",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "3→2→1→4",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "4→3→1→2",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 16,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "АМИНОСПИРТ, ВХОДЯЩИЙ В СОСТАВ ЛЕЦИТИНА",
     "answers": [
       {
         "text": "[HОСН2-СН2N(CH3)3]+OH−",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "HОСН2-СН2N(CH3)2",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "HОСН2-СН2NHCH3",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "HОСН2-СН2NH2",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 17,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "МОНОЦИКЛИЧЕСКИМ МОНОТЕРПЕНОИДОМ ЯВЛЯЕТСЯ",
     "answers": [
       {
         "text": "терпин",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "борнеол",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сквален",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "цитраль",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 18,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "БИЦИКЛИЧЕСКИМ МОНОТЕРПЕНОИДОМ ЯВЛЯЕТСЯ",
     "answers": [
       {
         "text": "борнеол",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "терпин",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "цитраль",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "сквален",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 19,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ТРИТЕРПЕНОИДОМ ЯВЛЯЕТСЯ",
     "answers": [
       {
         "text": "сквален",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "борнеол",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "цитраль",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ретинол",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 20,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ МЕНТОЛА",
     "answers": [
       {
         "text": "относится к моноциклическим монотерпеноидам",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "содержит два асимметрических атома углерода",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "окисляется дихроматом калия в кислой среде в соответствующий альдегид",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "обесцвечивает бромную воду",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 21,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВЕРНОЕ УТВЕРЖДЕНИЕ ДЛЯ α-ПИНЕНА",
     "answers": [
       {
         "text": "содержит два асимметрических атома углерода",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "относится к моноциклическим монотерпеноидам",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "образует соответствующий гидразон при взаимодействии с 2,4-динитрофенилгидразином",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "является исходным соединением в синтезе ментола",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 22,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "КОНЕЧНЫЙ ПРОДУКТ ЦЕПОЧКИ ПРЕВРАЩЕНИЙ:",
     "answers": [
       {
         "text": null,
-        "image": "511.png"
+        "image": "511.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "512.png"
+        "image": "512.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "513.png"
+        "image": "513.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "514.png"
+        "image": "514.png",
+        "number": 4
       }
     ],
     "image": "c6_23_0.png",
     "number": 23,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ КАМФОРЫ ВЕРНЫ, КРОМЕ",
     "answers": [
       {
         "text": "содержит один центр хиральности",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "существует в виде одной пары энантиомеров",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "относится к бициклическим монотерпеноидам",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "получается при окислении борнеола",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "515.png",
     "number": 24,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СИСТЕМАТИЧЕСКОЕ НАЗВАНИЕ ГИДРОКОРТИЗОНА",
     "answers": [
       {
         "text": "11β,17α,21-тригидроксипрегнен-4-дион-3,20",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "прегнен-4-триол-11β,17,21-дион-3,20",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "3,20-диоксипрегнен-4-триол-11β,17,21",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "11β,17,21-гидроксипрегнен-4-дион-3,20",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "516.png",
     "number": 25,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СИСТЕМАТИЧЕСКОЕ НАЗВАНИЕ СТЕРОИДА",
     "answers": [
       {
         "text": "3α-гидрокси-5α-андростанон-17",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "3α-гидроксиандростанон-17",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "3α-гидрокси-5β-андростанон-17",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "17-оксо-5α-андростанол-3α",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "517.png",
     "number": 26,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СИСТЕМАТИЧЕСКОЕ НАЗВАНИЕ СТЕРОИДА",
     "answers": [
       {
         "text": "17β-гидроксиандростен-4-он-3",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "17-гидроксиандростен-4-он-3",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "3-оксоандростен-4-ол-17β",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "3-оксоандростен-4-ол-17",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "518.png",
     "number": 27,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СИСТЕМАТИЧЕСКОЕ НАЗВАНИЕ СТЕРОИДА",
     "answers": [
       {
         "text": "эстратриен-1,3,5(10)-диол-3,17β",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "эстрадиол-3,17β",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "3,17β-дигидроксиэстратриен-1,3,5(10)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "3,17β-дигидроксиандростан",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "519.png",
     "number": 28,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СИСТЕМАТИЧЕСКОЕ НАЗВАНИЕ СТЕРОИДА",
     "answers": [
       {
         "text": "3β,5β,14β-тригидрокси-19-оксо-5β-карден-20(22)-олид",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "карден-20(22)-триол-3β,5β,14β-аль-19",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "3β,5β,14β-тригидроксипрегнаналь-19",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "3β,5β,14β-тригидрокси-19-оксопрегнан",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "520.png",
     "number": 29,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СИСТЕМАТИЧЕСКОЕ НАЗВАНИЕ ХОЛЕСТЕРИНА",
     "answers": [
       {
         "text": "холестен-5-ол-3β",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "3β-гидроксихолестен-5",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "холестан-5-ол-3β",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "3β-гидроксихолен-5",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "image": "521.png",
     "number": 30,
     "type": "oneselect",
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СТЕРОИД, В ОСНОВЕ КОТОРОГО ЛЕЖИТ ХОЛАН",
     "answers": [
       {
         "text": null,
-        "image": "522.png"
+        "image": "522.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "523.png"
+        "image": "523.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "524.png"
+        "image": "524.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "525.png"
+        "image": "525.png",
+        "number": 4
       }
     ],
     "number": 31,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СТЕРОИД, В ОСНОВЕ КОТОРОГО ЛЕЖИТ ПРЕГНАН",
     "answers": [
       {
         "text": null,
-        "image": "c6_32_1.png"
+        "image": "c6_32_1.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "c6_32_2.png"
+        "image": "c6_32_2.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "c6_32_3.png"
+        "image": "c6_32_3.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "c6_32_4.png"
+        "image": "c6_32_4.png",
+        "number": 4
       }
     ],
     "number": 32,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "СТЕРОИД, В ОСНОВЕ КОТОРОГО ЛЕЖИТ АНДРОСТАН",
     "answers": [
       {
         "text": null,
-        "image": "c6_33_1.png"
+        "image": "c6_33_1.png",
+        "number": 1
       },
       {
         "text": null,
-        "image": "c6_33_2.png"
+        "image": "c6_33_2.png",
+        "number": 2
       },
       {
         "text": null,
-        "image": "c6_33_3.png"
+        "image": "c6_33_3.png",
+        "number": 3
       },
       {
         "text": null,
-        "image": "c6_33_4.png"
+        "image": "c6_33_4.png",
+        "number": 4
       }
     ],
     "number": 33,
     "type": "oneselect",
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   }
 ]

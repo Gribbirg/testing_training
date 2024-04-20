@@ -6,19 +6,23 @@
     "answers": [
       {
         "text": "симинальная биологическая",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "стадиальная",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "трудовая (социальная)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мутационная",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -32,19 +36,23 @@
     "answers": [
       {
         "text": "стадиальная",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "симинальная биологическая",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "трудовая (социальная)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мутационная",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -58,19 +66,23 @@
     "answers": [
       {
         "text": "мутационная",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "симинальная биологическая",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "трудовая (социальная)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "стадиальная",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -84,19 +96,23 @@
     "answers": [
       {
         "text": "панспермия",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "симинальная биологическая",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "трудовая (социальная)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "стадиальная",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -110,19 +126,23 @@
     "answers": [
       {
         "text": "трудовая (социальная)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "симинальная биологическая",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационная",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "стадиальная",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -136,19 +156,23 @@
     "answers": [
       {
         "text": "креационизм",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "симинальная биологическая",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационная",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "стадиальная",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -162,19 +186,23 @@
     "answers": [
       {
         "text": "универсальность генетического кода",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "закон зародышевого сходства К. Бэра",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "общий план строения тела",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "биогенетический закон Геккеля-Мюллера",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -188,19 +216,23 @@
     "answers": [
       {
         "text": "принцип рекапитуляций",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "универсальность генетического кода",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "общий план строения тела",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "наличие рудиментов и атавизмов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -214,19 +246,23 @@
     "answers": [
       {
         "text": "410-550",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "900",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "1300",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "1400",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -240,19 +276,23 @@
     "answers": [
       {
         "text": "900",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "410-550",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "1300",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "1400",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -266,19 +306,23 @@
     "answers": [
       {
         "text": "1600",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "410-550",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "1300",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "1400",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -292,19 +336,23 @@
     "answers": [
       {
         "text": "1450",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "410-550",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "1300",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "1600",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -318,19 +366,23 @@
     "answers": [
       {
         "text": "архантропам",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "австралопитекам",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "палеоантропам",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "неоантропам",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -344,19 +396,23 @@
     "answers": [
       {
         "text": "палеоантропам",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "австралопитекам",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архантропам",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "неоантропам",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -370,19 +426,23 @@
     "answers": [
       {
         "text": "неоантропам",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "австралопитекам",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архантропам",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "палеоантропам",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -396,19 +456,23 @@
     "answers": [
       {
         "text": "архантропам",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "австралопитекам",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "палеоантропам",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "неоантропам",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -422,19 +486,23 @@
     "answers": [
       {
         "text": "австралопитеки",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "синантропы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "неандертальцы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "кроманьонцы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -448,19 +516,23 @@
     "answers": [
       {
         "text": "хабилисов к архантропам",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "архантропов к палеоантропам",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "палеоантропов к неоантропов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "австралопитеков к палеоантропам",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -474,19 +546,23 @@
     "answers": [
       {
         "text": "палеоантропов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "австралопитеков",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "архантропов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "неоантропов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -500,19 +576,23 @@
     "answers": [
       {
         "text": "сетевидная",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "стадиальная",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "симинальная биологическая",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мутационная",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -526,19 +606,23 @@
     "answers": [
       {
         "text": "сознание",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "естественный отбор",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационный процесс",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологическая изоляция",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -552,19 +636,23 @@
     "answers": [
       {
         "text": "мышление",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "естественный отбор",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационный процесс",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологическая изоляция",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -578,19 +666,23 @@
     "answers": [
       {
         "text": "Australopithecus afarensis (австралопитек афарский)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Australopithecus boisei (австралопитек бойса)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Australopithecus africanus (австралопитек африканский)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Australopithecus robustus (австралопитек могучий - робустус)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -604,19 +696,23 @@
     "answers": [
       {
         "text": "Australopithecus afarensis (австралопитек афарский)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Australopithecus boisei (австралопитек бойса)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Australopithecus africanus (австралопитек африканский)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Australopithecus robustus (австралопитек могучий - робустус)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -630,19 +726,23 @@
     "answers": [
       {
         "text": "Australopithecus robustus (австралопитек могучий - робустус)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Australopithecus boisei (австралопитек бойса)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Australopithecus afarensis (австралопитек афарский)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Australopithecus africanus (австралопитек африканский)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -656,19 +756,23 @@
     "answers": [
       {
         "text": "Австралопитек африканский и австралопитек могучий (робустус)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "австралопитек бойса и австралопитек африканский",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "австралопитек афарский и австралопитек могучий (робустус)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "австралопитек бойса и австралопитек могучий (робустус)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -682,19 +786,23 @@
     "answers": [
       {
         "text": "Australopithecus africanus (австралопитек африканский)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Australopithecus boisei (австралопитек бойса)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Australopithecus afarensis (австралопитек афарский)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Australopithecus robustus (австралопитек могучий - робустус)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -708,19 +816,23 @@
     "answers": [
       {
         "text": "Эфиопии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Танзании",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Кении",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Болгарии",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -734,19 +846,23 @@
     "answers": [
       {
         "text": "Australopithecus boisei (австралопитек бойса)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Australopithecus africanus (австралопитек африканский)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Australopithecus afarensis (австралопитек афарский)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Australopithecus robustus (австралопитек могучий - робустус)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -760,19 +876,23 @@
     "answers": [
       {
         "text": "Australopithecus robustus (австралопитек могучий - робустус)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Australopithecus africanus (австралопитек африканский)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Australopithecus afarensis (австралопитек афарский)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Australopithecus boisei (австралопитек бойса)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -786,19 +906,23 @@
     "answers": [
       {
         "text": "Australopithecus afarensis (австралопитек афарский)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Australopithecus boisei (австралопитек бойса)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Australopithecus africanus (австралопитек африканский)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Australopithecus robustus (австралопитек могучий - робустус)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -812,19 +936,23 @@
     "answers": [
       {
         "text": "Homo habilis (человек \"умелый\")",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Homo sapiens neanderthalensis (человек разумный неандертальский)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Homo sapiens sapiens (человек разумный)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Australopithecus africanus (австралопитек африканский)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -838,19 +966,23 @@
     "answers": [
       {
         "text": "4-3.5 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "от 2,5 млн.лет назад",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "от 2-0.1 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "от 1.5-0.05 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -864,19 +996,23 @@
     "answers": [
       {
         "text": "от 2,5 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "4-3.5 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "от 2-0.1 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "от 1.5-0.05 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -890,19 +1026,23 @@
     "answers": [
       {
         "text": "от 2-0.1 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "от 2,5 млн.лет назад",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "4-3.5 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "от 1.5-0.05 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -916,19 +1056,23 @@
     "answers": [
       {
         "text": "от 1.5-0.05 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "4-3.5 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "от 2-0.1 млн. лет назад",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "от 2,5 млн.лет назад",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -942,19 +1086,23 @@
     "answers": [
       {
         "text": "Homo habilis (человек умелый)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Homo sapiens neanderthalensis (человек разумный неандертальский)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Homo sapiens sapiens (человек разумный)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Homo erectus (человек прямоходящий)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -968,19 +1116,23 @@
     "answers": [
       {
         "text": "Homo erectus (человек прямоходящий)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Homo sapiens neanderthalensis (человек разумный неандертальский)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Homo sapiens sapiens (человек разумный)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Homo habilis (человек умелый)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -994,19 +1146,23 @@
     "answers": [
       {
         "text": "Homo sapiens neanderthalensis (человек разумный неандертальский)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Homo erectus (человек прямоходящий)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Homo sapiens sapiens (человек разумный)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Homo habilis (человек умелый)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1020,19 +1176,23 @@
     "answers": [
       {
         "text": "Homo sapiens sapiens (человек разумный)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Homo erectus (человек прямоходящий)",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Homo sapiens neanderthalensis (человек разумный неандертальский)",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Homo habilis (человек умелый)",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1046,19 +1206,23 @@
     "answers": [
       {
         "text": "объем мозга около 1400 см3",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "лопатообразные резцы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тонкий длинный нос",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "эпикантус",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1072,19 +1236,23 @@
     "answers": [
       {
         "text": "монголоидов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "негроидов",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "европеоидов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "общий для всех рас",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1098,19 +1266,23 @@
     "answers": [
       {
         "text": "серповидно - клеточная анемия",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "прямые волосы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тонкий длинный нос",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "эпикантус",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1124,19 +1296,23 @@
     "answers": [
       {
         "text": "лопатообразные резцы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "прямые волосы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тонкий длинный нос",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "серповидно - клеточная анемия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1150,19 +1326,23 @@
     "answers": [
       {
         "text": "прямохождение",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "увеличение объема мозга",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "увеличение размеров тела",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "всеядность",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1176,19 +1356,23 @@
     "answers": [
       {
         "text": "гориллы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "орангутаны",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "гиббоны",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мартышки",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1202,19 +1386,23 @@
     "answers": [
       {
         "text": "варикозное расширение вен",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "подагра",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "уменьшение размера головы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "изменение формы ключицы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1228,19 +1416,23 @@
     "answers": [
       {
         "text": "экологическая изоляция",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дрейф генов",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мутационный процесс",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "естественная изоляция",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1254,19 +1446,23 @@
     "answers": [
       {
         "text": "афарский",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "бойса",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "африканский",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "робустус",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1280,19 +1476,23 @@
     "answers": [
       {
         "text": "поясничный радикулит",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "подагра",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "уменьшение размера ключицы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "изменение формы ключицы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1306,19 +1506,23 @@
     "answers": [
       {
         "text": "австралопитеки",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "неандертальцы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "питекантропы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "синантропы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1332,19 +1536,23 @@
     "answers": [
       {
         "text": "плоскостопие",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "подагра",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "уменьшение размера лопатки",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "изменение формы ключицы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1358,19 +1566,23 @@
     "answers": [
       {
         "text": "прямохождение",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "прямосидение",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "прямостояние",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "увеличения количества шейных позвонков",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1384,19 +1596,23 @@
     "answers": [
       {
         "text": "афарский",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "бойса",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "африканский",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "робустус",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1410,19 +1626,23 @@
     "answers": [
       {
         "text": "афарский",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "бойса",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "африканский",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "робустус",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1436,19 +1656,23 @@
     "answers": [
       {
         "text": "паховая грыжа",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "подагра",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "уменьшение размера грудины",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "изменение формы ключицы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1462,19 +1686,23 @@
     "answers": [
       {
         "text": "австралопитек",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "синантроп",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "неандерталец",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "питекантроп",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1488,19 +1716,23 @@
     "answers": [
       {
         "text": "неандертальцы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "австралопитеки",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "питекантропы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "кроманьонцы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1514,19 +1746,23 @@
     "answers": [
       {
         "text": "Восточная Африка",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Южная Африка",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Северная Африка",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Западная Европа",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1540,19 +1776,23 @@
     "answers": [
       {
         "text": "наличие хорды, нервной трубки, лежащей над хордой, наличие жаберных щелей в стенках глотки, расположение сердца на брюшной стороне под пищеварительным фактом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "наличие нервной трубки, лежащей над хордой",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "присутствие жаберных щелей в стенках глотки",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "расположение сердца на брюшной стороне под пищеварительным фактом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1566,19 +1806,23 @@
     "answers": [
       {
         "text": "подкласса плацентарные",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "подтипа позвоночные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "типа Хордовые",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "класса млекопитающие",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1592,19 +1836,23 @@
     "answers": [
       {
         "text": "прямохождение",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "группа крови АВО",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "зубная система",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "резус фактор",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1618,19 +1866,23 @@
     "answers": [
       {
         "text": "S-образный изгиб позвоночника",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "ассоциативное мышление",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сознание",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "членораздельную речь",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1644,19 +1896,23 @@
     "answers": [
       {
         "text": "речь, мышление, сознание, орудия труда",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мышление",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сознание",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "орудия труда",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1670,19 +1926,23 @@
     "answers": [
       {
         "text": "труд, сознание, мышление, общественный образ жизни",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "сознание",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "мышление",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "общественный образ жизни",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1696,19 +1956,23 @@
     "answers": [
       {
         "text": "постоянным степным ветрам",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "инфракрасному излучению",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "ультрафиолетовому излучению",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "малой интенсивности солнечного освещения",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1722,19 +1986,23 @@
     "answers": [
       {
         "text": "формирование свода стопы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "пятипалая конечность",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "противопоставление большого пальца всем остальным",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "наличие плоских ногтей на пальцах",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1748,19 +2016,23 @@
     "answers": [
       {
         "text": "дрейф генов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "мутационный процесс",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "поток генов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "трудовая деятельность",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1774,19 +2046,23 @@
     "answers": [
       {
         "text": "неандертальского человека",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "кроманьонцев",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "австралопитеков",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "питекантропов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1800,19 +2076,23 @@
     "answers": [
       {
         "text": "хромосомной мутации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "геномной мутации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "генной мутации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дрейфа генов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1826,19 +2106,23 @@
     "answers": [
       {
         "text": "кроманьонцы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "австралопитеки",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "неандертальцы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "питекантроп",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1852,19 +2136,23 @@
     "answers": [
       {
         "text": "отряду приматы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "подтипу позвоночные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "подклассу плацентарные",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "классу млекопитающие",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1878,19 +2166,23 @@
     "answers": [
       {
         "text": "опорная сводчатая стопа с сильно развитым большим пальцем",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "группа крови АВО",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "резус фактор",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "расположение глазниц",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1904,19 +2196,23 @@
     "answers": [
       {
         "text": "возникновении современного вида человека сразу в нескольких районах земного шара от разных форм древнего или древнейшего человека",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "возникновении современного вида человека в одном месте на Земле от одной формы древнего или древнейшего человека",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "возникновении современного вида человека сразу в нескольких районах земного шара от одной формы древнего или древнейшего человека",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "возникновении современного вида человека в одном месте на Земле от разных форм древнего или древнейшего человека",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1930,19 +2226,23 @@
     "answers": [
       {
         "text": "прямохождение",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "ассоциативное мышление",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сознание",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "членораздельную речь",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1956,19 +2256,23 @@
     "answers": [
       {
         "text": "речь",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "прямохождение",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сводчатая стопа",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "S-образный изгиб позвоночника",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1982,19 +2286,23 @@
     "answers": [
       {
         "text": "народностью",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "нацией",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "расой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "народом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2008,19 +2316,23 @@
     "answers": [
       {
         "text": "австрало-негроидной расы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "европеоидной расы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "азиатско-американской расы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "монголоидной расы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2034,19 +2346,23 @@
     "answers": [
       {
         "text": "абстрактное мышление",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дрейф генов",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "естественный отбор",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мутагенез",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2060,19 +2376,23 @@
     "answers": [
       {
         "text": "зрительное восприятие",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "членораздельная речь",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "абстрактное мышление",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выразительная мимика",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2086,19 +2406,23 @@
     "answers": [
       {
         "text": "подбородочного выступа",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "объема головного мозга",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "тонкой моторики кисти",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выразительной мимики",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2112,19 +2436,23 @@
     "answers": [
       {
         "text": "Южная Африка",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Южная Азия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Северная Африка",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Западная Европа",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2138,19 +2466,23 @@
     "answers": [
       {
         "text": "древнетропические приматы-долгопяты",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "современные низшие приматы - тупаи",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "узконосые обезьяны",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "широконосые обезьяны",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2164,19 +2496,23 @@
     "answers": [
       {
         "text": "классу млекопитающие",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "подтипу позвоночные",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "подклассу плацентарные",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "типу хордовые",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2190,19 +2526,23 @@
     "answers": [
       {
         "text": "африканского происхождения человека",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "внетропического происхождения человека",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "азиатского происхождения человека",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "космического происхождения человека",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2216,19 +2556,23 @@
     "answers": [
       {
         "text": "изменение соотношения мозгового и лицевого отделов черепа",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "ассоциативное мышление",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сознание",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "членораздельную речь",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2242,19 +2586,23 @@
     "answers": [
       {
         "text": "борьба за существование, естественный отбор, наследственная изменчивость, популяционные волны",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "естественный отбор",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "наследственная изменчивость",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "популяционные волны",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2268,19 +2616,23 @@
     "answers": [
       {
         "text": "высокоразвитая центральная нервная система, разделение функций нижних и верхних конечностей, специализированная рука, объединение в коллективы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "разделение функций нижних и верхних конечностей",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "специализированная рука",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "объединение в коллективы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2294,19 +2646,23 @@
     "answers": [
       {
         "text": "биохимическим доказательством эволюции",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "генетическим доказательством эволюции",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сравнительно-анатомическим доказательством эволюции",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "палеонтологическим доказательством эволюции",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2320,19 +2676,23 @@
     "answers": [
       {
         "text": "европеоидная",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "австрало - негроидная",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "азиатско - американская",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "монголоидная",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -2346,19 +2706,23 @@
     "answers": [
       {
         "text": "способствуют быстрому испарению влаги с высокой теплоотдачей",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "способствуют синтезу витамина D",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "предохраняют организм от ярких солнечных лучей",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "согревают вдыхаемый воздух",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",

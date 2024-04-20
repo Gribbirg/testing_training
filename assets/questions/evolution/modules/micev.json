@@ -6,23 +6,28 @@
     "answers": [
       {
         "text": "морфологический",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "физиологический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетический(цитоморфологический)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -36,23 +41,28 @@
     "answers": [
       {
         "text": "морфологическому",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "физиологическому",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географическому",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологическому",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетическому(цитоморфологическому)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -66,23 +76,28 @@
     "answers": [
       {
         "text": "морфологическому",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "физиологическому",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географическому",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологическому",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетическому (цитоморфологическому)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -96,23 +111,28 @@
     "answers": [
       {
         "text": "морфологическому",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "физиологическому",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географическому",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологическому",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетическому (цитоморфологическому)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -126,23 +146,28 @@
     "answers": [
       {
         "text": "морфологическому",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "физиологическому",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географическому",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологическому",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетическому(цитоморфологическому)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -156,23 +181,28 @@
     "answers": [
       {
         "text": "физиологическому",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "морфологическому",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географическому",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологическому",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетическому (цитоморфологическому)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -186,23 +216,28 @@
     "answers": [
       {
         "text": "физиологическая",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "морфологическая",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географическая",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологическая",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетическая",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -216,23 +251,28 @@
     "answers": [
       {
         "text": "географический",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "морфологический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "физиологический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетический (цитоморфологический)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -246,23 +286,28 @@
     "answers": [
       {
         "text": "все перечисленное верно",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "существуют виды, не имеющие четких границ распространения",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "существуют виды-космополиты, обитающие на огромных пространствах суши или океана",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "существуют также виды, которые имеют разорванный ареал",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "огромное число видов имеет совпадающие (накладывающиеся) или перекрывающиеся ареалы",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -276,23 +321,28 @@
     "answers": [
       {
         "text": "экологический",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "морфологический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "физиологический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетический(цитоморфологический)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -306,23 +356,28 @@
     "answers": [
       {
         "text": "экологическому",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "морфологическому",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географическому",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "физиологическому",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетическому(цитоморфологическому)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -336,23 +391,28 @@
     "answers": [
       {
         "text": "существуют виды, которые не имеют строгой экологической приуроченности (синантропные виды)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "существуют также виды, которые имеют разорванный ареал",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "существуют виды, не имеющие четких границ распространения",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "огромное число видов имеет совпадающие (накладывающиеся) или перекрывающиеся ареалы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "существуют виды-космополиты, обитающие на огромных пространствах суши или океана",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -366,23 +426,28 @@
     "answers": [
       {
         "text": "существуют виды, которые находятся под опекой человека: комнатные и культурные растения, домашние животные",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "существуют также виды, которые имеют разорванный ареал",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "существуют виды, не имеющие четких границ распространения",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "огромное число видов имеет совпадающие (накладывающиеся) или перекрывающиеся ареалы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "существуют виды-космополиты, обитающие на огромных пространствах суши или океана",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -396,23 +461,28 @@
     "answers": [
       {
         "text": "генетический (цитоморфологический)",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "биохимический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "физиологический",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -426,23 +496,28 @@
     "answers": [
       {
         "text": "у многих разных видов число хромосом одинаково , в пределах одного и того же вида могут встречаться особи с разным числом хромосом, что является результатом геномных мутаций и у многих разных видов форма хромосом сходна",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "в пределах одного и того же вида могут встречаться особи с разным числом хромосом, что является результатом геномных мутаций",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "у многих разных видов форма хромосом сходна",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "у многих разных видов число хромосом одинаково и у многих разных видов форма хромосом сходна",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "у многих разных видов число хромосом одинаково",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -456,23 +531,28 @@
     "answers": [
       {
         "text": "биохимический",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "физиологический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетический (цитоморфологический)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -486,23 +566,28 @@
     "answers": [
       {
         "text": "биохимический",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "физиологический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетический (цитоморфологический)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -516,23 +601,28 @@
     "answers": [
       {
         "text": "биохимический",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "физиологический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "географический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "генетический (цитоморфологический)",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -546,19 +636,23 @@
     "answers": [
       {
         "text": "он трудоемкий , далеко не универсальный и существует значительная внутривидовая изменчивость практически всех биохимических показателей вплоть до последовательности аминокислот в молекулах белков и нуклеотидов в отдельных участках ДНК",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "далеко не универсальный",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "существует значительная внутривидовая изменчивость практически всех биохимических показателей вплоть до последовательности аминокислот в молекулах белков и нуклеотидов в отдельных участках ДНК",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "он трудоемкий",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -572,11 +666,13 @@
     "answers": [
       {
         "text": "аллопатрическое",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "симпатрическое",
-        "image": null
+        "image": null,
+        "number": 2
       }
     ],
     "type": "oneselect",
@@ -590,11 +686,13 @@
     "answers": [
       {
         "text": "аллопатрического",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "симпатрического",
-        "image": null
+        "image": null,
+        "number": 2
       }
     ],
     "type": "oneselect",
@@ -608,11 +706,13 @@
     "answers": [
       {
         "text": "аллопатрического",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "симпатрического",
-        "image": null
+        "image": null,
+        "number": 2
       }
     ],
     "type": "oneselect",
@@ -626,11 +726,13 @@
     "answers": [
       {
         "text": "симпатрическое",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аллопатрическое",
-        "image": null
+        "image": null,
+        "number": 2
       }
     ],
     "type": "oneselect",
@@ -644,11 +746,13 @@
     "answers": [
       {
         "text": "симпатрического",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аллопатрического",
-        "image": null
+        "image": null,
+        "number": 2
       }
     ],
     "type": "oneselect",
@@ -662,23 +766,28 @@
     "answers": [
       {
         "text": "полиплоидии и отдаленной гибридизации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "фрагментации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "отдаленной гибридизации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "межвидовой гибридизации",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "полиплоидии",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -692,23 +801,28 @@
     "answers": [
       {
         "text": "межвидовой гибридизации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "фрагментации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "отдаленной гибридизации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "полиплоидии",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "полиплоидии и отдаленной гибридизации",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -722,23 +836,28 @@
     "answers": [
       {
         "text": "фрагментации хромосом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "полиплоидии",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "отдаленной гибридизации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "межвидовой гибридизации",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "полиплоидии и отдаленной гибридизации",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -752,23 +871,28 @@
     "answers": [
       {
         "text": "полиплоидия , фрагментация , отдаленная гибридизация и межвидовая гибридизация",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "фрагментация",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "отдаленная гибридизация",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "межвидовая гибридизация",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "полиплоидия",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -782,23 +906,28 @@
     "answers": [
       {
         "text": "экологическая , биологическая , поведенческая и гаметическая изоляция",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "биологическая изоляция",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "поведенческая изоляция",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гаметическая изоляция",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "экологическая изоляция",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -812,23 +941,28 @@
     "answers": [
       {
         "text": "межвидовой гибридизации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "фрагментации хромосом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "отдаленной гибридизации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "полиплоидии",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "полиплоидии и отдаленной гибридизации",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -842,23 +976,28 @@
     "answers": [
       {
         "text": "стерильность гибридов первого поколения",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "биологическая изоляция",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "поведенческая изоляция",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "гаметическая изоляция",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "экологическая изоляция",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -872,23 +1011,28 @@
     "answers": [
       {
         "text": "абсолютная изоляция , панмиксия , отсутствие мутаций и отсутствие миграций",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "панмиксия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "отсутствие мутаций",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "отсутствие миграций",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "абсолютная изоляция",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -902,23 +1046,28 @@
     "answers": [
       {
         "text": "наследственная изменчивость",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "естественный отбор",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "волны жизни",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "дрейф генов",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "поток генов",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -932,23 +1081,28 @@
     "answers": [
       {
         "text": "дрейф генов, волны жизни и поток генов",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "естественный отбор",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "волны жизни",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "поток генов",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "дрейф генов",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -962,23 +1116,28 @@
     "answers": [
       {
         "text": "естественный отбор",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дрейф генов",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "волны жизни",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мутации",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "поток генов",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -992,19 +1151,23 @@
     "answers": [
       {
         "text": "стабилизирующим, движущим и дизруптивным",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "движущим",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "дизруптивным",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "стабилизирующим",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1018,23 +1181,28 @@
     "answers": [
       {
         "text": "микроэволюция и макроэволюция",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "движущий",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "микроэволюция",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "макроэволюция",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "стабилизирующий",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1048,19 +1216,23 @@
     "answers": [
       {
         "text": "ароморфозам, идиоадаптациям и общей дегенерации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "идиоадаптациям",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "общей дегенерации",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ароморфозам",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1074,23 +1246,28 @@
     "answers": [
       {
         "text": "популяция",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "вид",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "целостный организм",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "наследственная изменчивость",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "адаптивный признак особи",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1104,23 +1281,28 @@
     "answers": [
       {
         "text": "вид",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "популяция",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "род",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "семейство",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "класс",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1134,23 +1316,28 @@
     "answers": [
       {
         "text": "генетический",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "физиологический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "морфологический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "экологический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "географический",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1164,23 +1351,28 @@
     "answers": [
       {
         "text": "различные виды могут занимать одинаковые экологические ниши",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "родственные виды могут занимать различные экологические ниши",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "на планете не существует двух мест с одинаковыми условиями среды",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "окружающая среда сильно загрязнена",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "не существует четкой границы разделения между видами",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1194,23 +1386,28 @@
     "answers": [
       {
         "text": "обыкновенная и восточноевропейская полевки",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "серая и черная крыса",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "американская и европейская норки",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "рыжий и черный тараканы",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "европейский и дальневосточный ландыши",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1224,23 +1421,28 @@
     "answers": [
       {
         "text": "географическая изоляция и аллопатрическое видообразование",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "репродуктивная изоляция и симпатрическое видообразование",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "репродуктивная изоляция и аллопатрическое видообразование",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "репродуктивная изоляция и симпатрическое видообразование",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "только репродуктивная изоляция",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1254,23 +1456,28 @@
     "answers": [
       {
         "text": "морфологический",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "экологический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "генетический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "физиологический",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "географический",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1284,23 +1491,28 @@
     "answers": [
       {
         "text": "расширение ареала и возникновение физических преград между популяциями",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "питание популяций в различных местах, размножение в одном и том же месте",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "совместное питание популяций одного вида, размножение в различных местах",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "обитание популяций в разных экологических нишах",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "совместное питание популяций одного вида и размножение в одном месте",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1314,23 +1526,28 @@
     "answers": [
       {
         "text": "имеют неодинаковое число хромосом",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "занимают различные ареалы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "имеют разный цвет кожи",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "обитают в разных экологических нишах",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "имеют разные способы питания",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1344,23 +1561,28 @@
     "answers": [
       {
         "text": "микроэволюции и экологического видообразования",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "микроэволюции и географического видообразования",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "макроэволюции и географического видообразования",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "макроэволюции и экологического видообразования",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "только макроэволюции",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",
@@ -1374,23 +1596,28 @@
     "answers": [
       {
         "text": "обмен генами между популяциями",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "репродуктивная изоляция",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "бесполое размножение",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "географическая изоляция",
-        "image": null
+        "image": null,
+        "number": 4
       },
       {
         "text": "экологическая изоляция",
-        "image": null
+        "image": null,
+        "number": 5
       }
     ],
     "type": "oneselect",

@@ -5,24 +5,29 @@
     "answers": [
       {
         "text": "одно",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "два",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "три",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 1,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Количество телец Бара обнаруживается у организма 48, ХХХХ:",
@@ -30,24 +35,29 @@
     "answers": [
       {
         "text": "три ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "два",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "одно",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 2,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Количество флюоресцирующих телец обнаруживается у организма 48,ХХУУ: ",
@@ -55,24 +65,29 @@
     "answers": [
       {
         "text": "два ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "одно",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "три",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "четыре",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 3,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Механизм возникновения хромосомных болезней: ",
@@ -80,24 +95,29 @@
     "answers": [
       {
         "text": "геномные мутации",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "генные мутации",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "нарушения обмена веществ",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "выпадения нуклеотида",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 4,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Механизм хромосомной аберрации наблюдается при: ",
@@ -105,24 +125,29 @@
     "answers": [
       {
         "text": "синдроме кошачьего крика ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "трисомии по 21 хромосоме",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "синдроме Шерешевского-Тернера",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "синдроме Клайнфельтера",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 5,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Причина мозаицизма: ",
@@ -130,24 +155,29 @@
     "answers": [
       {
         "text": "нарушения мейоза ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "нарушения гаметогенеза",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "слияние гамет с нарушениями",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "развитие из одной гаметы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 6,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Мозаицизм около 5% клеток с нарушениями расхождения 21-ой пары хромосом приводит к:",
@@ -155,24 +185,29 @@
     "answers": [
       {
         "text": "слабо проявляются фенотипические картины заболевания ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "тяжелой формы синдрома Дауна",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "синдром Эдвардса",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "синдром Патау",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 7,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Одним из механизмов возникновения «мозаиков» является нарушение: ",
@@ -180,24 +215,29 @@
     "answers": [
       {
         "text": "дробления бластомеров",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "митотического деление соматических клеток",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "физиологии слияния гамет",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "комбинативной изменчивости",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 8,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Механизм возникновения синдрома Шерешевского-Тернера определяется: ",
@@ -205,24 +245,29 @@
     "answers": [
       {
         "text": "гетероплоидией ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "полиплоидными мутациями",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "хромосомными аберрациями",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "генными мутациями",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 9,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Делеция малого плеча пятой пары хромосом вызывает заболевание: ",
@@ -230,24 +275,29 @@
     "answers": [
       {
         "text": "хромосомное ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "геномное",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "обмена",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "генной",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 10,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Сидром трисомии 13 пары хромосом приводит к нарушению: ",
@@ -255,24 +305,29 @@
     "answers": [
       {
         "text": "в системе аутосом ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "дупликации хромосомы",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "делеции хромосомы 13 пары",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "синдрома Эдвардса",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 11,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Метод лечения, который изменяет причину наследственного заболевания и радикально его излечивает: ",
@@ -280,24 +335,29 @@
     "answers": [
       {
         "text": "этиологический ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "диетотерапия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "симптоматический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "патогенетический",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 12,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Ферментопатии относятся к группе наследственных заболеваний: ",
@@ -305,24 +365,29 @@
     "answers": [
       {
         "text": "обмена",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "хромосомных",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "геномных",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "транслокационным",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 13,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Альбинизм относятся к группе наследственных заболеваний: ",
@@ -330,24 +395,29 @@
     "answers": [
       {
         "text": "генных",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "хромосомных",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "геномных",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "транслокационных",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 14,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Фенилкетонурия наследуется по типу: ",
@@ -355,24 +425,29 @@
     "answers": [
       {
         "text": "аутосомно-рецессивному ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомно-доминантному",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сцепленному с Х-хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "голандрическому",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 15,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Синдром Леша-Нихана имеет дефект обмена: ",
@@ -380,24 +455,29 @@
     "answers": [
       {
         "text": "пуринов ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "жиров",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "углеводов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "минеральных",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 16,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Болезнь Вильсона-Коновалова имеет дефект обмена:",
@@ -405,24 +485,29 @@
     "answers": [
       {
         "text": "Минеральных веществ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "жиров",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "пуринов",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "углеводов",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 17,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Муковисцидоз вызван нарушениями: ",
@@ -430,24 +515,29 @@
     "answers": [
       {
         "text": "обмена углеводов ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "развития органов и тканей",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "обмена жиров",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "обмена минеральных веществ",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 18,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Больная восьми лет низкого роста, имеет «щитовидную» грудную клетку и широко расставленные соски, крыловидную складку на шеи, лицо «сфинкса» должна быть направлена к врачу – цитогенетику с подозрением на синдром: ",
@@ -455,24 +545,29 @@
     "answers": [
       {
         "text": "Шерешевского-Тернера ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Патау",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Эдвардса",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Клайнфельтера",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 19,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Больной мужчина тридцати лет со скудным оволосением в подмышечных впадинах и на лобке, страдающий первичным бесплодием должен быть направлен к врачу – цитогенетику с подозрением на синдром: ",
@@ -480,23 +575,28 @@
     "answers": [
       {
         "text": "Клайнфельтера",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Патау",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Эдвардса",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Шерешевского-Тернера.",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 20,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   }
 ]

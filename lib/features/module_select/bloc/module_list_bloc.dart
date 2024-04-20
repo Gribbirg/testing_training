@@ -1,19 +1,21 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:testing_training/repositories/module_list/abstract_module_list_repository.dart';
-import 'package:testing_training/repositories/module_list/models/models.dart';
-import 'package:testing_training/repositories/topic_list/models/models.dart';
+
+import '../../../repositories/questions/abstract_questions_repository.dart';
+import '../../../repositories/questions/models/module.dart';
+import '../../../repositories/questions/models/topic.dart';
+
 
 part 'module_list_event.dart';
 
 part 'module_list_state.dart';
 
 class ModuleListBloc extends Bloc<ModuleListEvent, ModuleListState> {
-  ModuleListBloc(this.topicListRepository) : super(ModuleListInitial()) {
+  ModuleListBloc(this.questionsRepository) : super(ModuleListInitial()) {
     on<LoadModuleList>(_load);
   }
 
-  final AbstractModuleListRepository topicListRepository;
+  final AbstractQuestionsRepository questionsRepository;
 
   Future<void> _load(
       LoadModuleList event, Emitter<ModuleListState> emit) async {
@@ -27,7 +29,7 @@ class ModuleListBloc extends Bloc<ModuleListEvent, ModuleListState> {
         return;
       }
 
-      final modelsList = await topicListRepository.getModules(event.topic!);
+      final modelsList = await questionsRepository.getModulesList(event.topic!);
 
       if (modelsList == null || modelsList.isEmpty) {
         emit(ModuleListError(message: "Темы не найдены"));

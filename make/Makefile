@@ -1,5 +1,8 @@
 # Push web app
 
+# flutter pub run build_runner build --delete-conflicting-outputs
+# dart fix --apply
+
 # cd C:\Users\gribk\AndroidStudioProjects\testing_training\make
 # make deploy M=""
 

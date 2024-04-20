@@ -5,24 +5,29 @@
     "answers": [
       {
         "text": "аутосомно-доминантного",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомно-рецессивного",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сцепленного с полом",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "голандрического",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 1,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Брахидактилия наследуется по типу: ",
@@ -30,24 +35,29 @@
     "answers": [
       {
         "text": "аутосомно-доминантному",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомно-рецессивному",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "доминантному, сцепленному с Х- хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "рецессивному, сцепленному с Х- хромосомой",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 2,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Основные методы изучения генетики человека: ",
@@ -55,24 +65,29 @@
     "answers": [
       {
         "text": "генеалогический ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "гибридологический",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "клинический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "пренатальный, морфологический",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 3,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Трудности изучения генетики человека, с которыми сталкиваются исследователи:",
@@ -80,24 +95,29 @@
     "answers": [
       {
         "text": "все ответы верны ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "маленькая плодовитость",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "невозможно формировать необходимую схему брака",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "большое количество хромосом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 4,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Витамино-независимый рахит наследуется по типу: ",
@@ -105,24 +125,29 @@
     "answers": [
       {
         "text": "доминантному, сцепленному с Х- хромосомой ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомно-рецессивному",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "аутосомно-доминантному",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "рецессивному, сцепленному с Х- хромосомой",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 5,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Дальтонизм наследуется по типу: ",
@@ -130,24 +155,29 @@
     "answers": [
       {
         "text": "рецессивному, сцепленному с Х- хромосомой ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомно-рецессивному",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "доминантному, сцепленному с Х- хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "аутосомно-доминантному",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 6,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Ихтиоз наследуется по типу: ",
@@ -155,24 +185,29 @@
     "answers": [
       {
         "text": "рецессивному, сцепленному с Х- хромосомой ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомно-рецессивному",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "доминантному, сцепленному с Х- хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "аутосомно-доминантному",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 7,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Гипертрихоз ушной раковины наследуется по типу: ",
@@ -180,24 +215,29 @@
     "answers": [
       {
         "text": "голандрическому",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомно-рецессивному",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "доминантному, сцепленному с Х- хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "рецессивному, сцепленному с Х- хромосомой",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 8,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Метод генетики, который не используется при определении наследственности и изменчивости человека: ",
@@ -205,24 +245,29 @@
     "answers": [
       {
         "text": "гибридологический ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "близнецовый",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "популяционно-статистический",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "цитогенетический",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 9,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Вероятность рождения ребенка, страдающего гемофилией А, в браке женщины – носительницы этого гена и здорового супруга составляет: ",
@@ -230,24 +275,29 @@
     "answers": [
       {
         "text": "0.25",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "0.5",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "0.75",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "1",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 10,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Менделирующие признаки у человека наследуются: ",
@@ -255,24 +305,29 @@
     "answers": [
       {
         "text": "аутосомно ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "голандрически",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сцеплено с полом",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "сцеплено с Х- хромосомой",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 11,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Темная эмаль зубов наследуется по типу:",
@@ -280,24 +335,29 @@
     "answers": [
       {
         "text": "аутосомно-доминантному ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомно-рецессивному",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "сцепленно с Х-хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "голандрически",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 12,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Гемофилия типа А наследуется по типу:",
@@ -305,24 +365,29 @@
     "answers": [
       {
         "text": "рецессивному, сцепленному с Х- хромосомой ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "аутосомно-рецессивному",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "доминантному, сцепленному с Х- хромосомой",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "аутосомно-доминантному",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 13,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Кариотип – совокупность признаков набора хромосом: ",
@@ -330,24 +395,29 @@
     "answers": [
       {
         "text": "метафазного ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "профазного",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "анафазного",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "телофазного",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 14,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Благодаря генеалогическому методу, были (о) установлены(о): ",
@@ -355,24 +425,29 @@
     "answers": [
       {
         "text": "сцепленное наследование признаков",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "строение генов",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "механизмы возникновения генных, геномных и хромосомных мутаций",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "морфология и количество хромосом в геноме",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 15,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "С помощью какого метода было показано, что продолжительность жизни, и творческие способности человека, в большей степени определяются наследственностью, а не влиянием воспитания и действием окружающей среды?",
@@ -380,24 +455,29 @@
     "answers": [
       {
         "text": "близнецового ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "генеалогического",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "цитогенетического",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "биохимического",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 16,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Дизиготные близнецы изначально отличаются друг от друга благодаря изменчивости: ",
@@ -405,24 +485,29 @@
     "answers": [
       {
         "text": "комбинативной ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "фенотипической",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "модификационной",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "мутационной",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 17,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Метафазные Х- и Y-хромосомы человека различаются по:",
@@ -430,24 +515,29 @@
     "answers": [
       {
         "text": "все ответы верны ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "размеру плеч",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "генному набору",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "длине",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 18,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Органоиды яйцеклетки человека, определяющие цитоплазматическую наследственность: ",
@@ -455,24 +545,29 @@
     "answers": [
       {
         "text": "митоходрии",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "пластиды",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "рибосомы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "ядро",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 19,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Субметацентрическая средняя хромосома кариотипа человека: ",
@@ -480,23 +575,28 @@
     "answers": [
       {
         "text": "Х-хромосома ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "У-хромосома",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "21-ая хромосома",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "1-ая хромосома",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 20,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   }
 ]

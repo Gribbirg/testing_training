@@ -1,7 +1,8 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'package:testing_training/repositories/topic_list/models/models.dart';
 import 'package:testing_training/router/router.dart';
+
+import '../../../repositories/questions/models/topic.dart';
 
 class TopicItem extends StatelessWidget {
   const TopicItem({super.key, required this.topic});

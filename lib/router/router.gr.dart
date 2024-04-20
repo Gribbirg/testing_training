@@ -32,6 +32,18 @@ abstract class _$AppRouter extends RootStackRouter {
         ),
       );
     },
+    QuestionsRoute.name: (routeData) {
+      final args = routeData.argsAs<QuestionsRouteArgs>(
+          orElse: () => const QuestionsRouteArgs());
+      return AutoRoutePage<dynamic>(
+        routeData: routeData,
+        child: QuestionsPage(
+          key: args.key,
+          topic: args.topic,
+          module: args.module,
+        ),
+      );
+    },
     SettingsRoute.name: (routeData) {
       return AutoRoutePage<dynamic>(
         routeData: routeData,
@@ -90,6 +102,49 @@ class ModuleSelectRouteArgs {
   @override
   String toString() {
     return 'ModuleSelectRouteArgs{key: $key, topic: $topic}';
+  }
+}
+
+/// generated route for
+/// [QuestionsPage]
+class QuestionsRoute extends PageRouteInfo<QuestionsRouteArgs> {
+  QuestionsRoute({
+    Key? key,
+    Topic? topic,
+    Module? module,
+    List<PageRouteInfo>? children,
+  }) : super(
+          QuestionsRoute.name,
+          args: QuestionsRouteArgs(
+            key: key,
+            topic: topic,
+            module: module,
+          ),
+          initialChildren: children,
+        );
+
+  static const String name = 'QuestionsRoute';
+
+  static const PageInfo<QuestionsRouteArgs> page =
+      PageInfo<QuestionsRouteArgs>(name);
+}
+
+class QuestionsRouteArgs {
+  const QuestionsRouteArgs({
+    this.key,
+    this.topic,
+    this.module,
+  });
+
+  final Key? key;
+
+  final Topic? topic;
+
+  final Module? module;
+
+  @override
+  String toString() {
+    return 'QuestionsRouteArgs{key: $key, topic: $topic, module: $module}';
   }
 }
 

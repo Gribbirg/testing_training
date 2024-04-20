@@ -5,24 +5,29 @@
     "answers": [
       {
         "text": "Митохондриальную ДНК ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "21-ую хромосому",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Х-хромосомы",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Y- хромосому",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 1,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Изменение числа хромосом, выражающееся в добавлении одного или нескольких наборов хромосом, называется...",
@@ -30,24 +35,29 @@
     "answers": [
       {
         "text": "Полиплоидия ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Инверсия",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Дупликация",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Гетероплоидия",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 2,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Самой большой хромосомой у человека является ...",
@@ -55,24 +65,29 @@
     "answers": [
       {
         "text": "1-я хромосома ",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "19-я хромосома",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "22-я хромосома",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "13-я хромосома",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 3,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "В состав генома человека входят ...",
@@ -80,24 +95,29 @@
     "answers": [
       {
         "text": "более 3 млрд. п.н.",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "около 2 млрд. п.н.",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "более 5 млрд. п.н.",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "менее 1 млрд. п.н.",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 4,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Нонсенс-мутация –это ...",
@@ -105,24 +125,29 @@
     "answers": [
       {
         "text": "Превращение обычного кодона в стоп-кодон",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Потеря отдельных участков хромосом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Поворот участка хромосом на 180 %",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Перемещения генов в пределах одной хромосомы",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 5,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Какой метод изучения генома человека является старейшим?",
@@ -130,24 +155,29 @@
     "answers": [
       {
         "text": "Генеалогический метод",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Близнецовый метод",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Биохимический метод",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Метод гибридизации соматических клеток",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 6,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Пенетрантность признака в 70 % означает ...",
@@ -155,24 +185,29 @@
     "answers": [
       {
         "text": "Что у 70 % носителей данного гена в конкретных условиях окружающей среды проявляется кодируемый этим геном признак",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Что признак выражен лишь на 70 % от теоретически возможного",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Что у 70 % носителей данного гена в конкретных условиях окружающей среды кодируемый этим геном признак не проявляется",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Что пределы вариабельности признака -70 % от среднего показателя",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 7,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Транспозиция –это... ",
@@ -180,24 +215,29 @@
     "answers": [
       {
         "text": "Перемещения генов в пределах одной хромосомы",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Потеря отдельных участков хромосом",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Поворот участка хромосом на 180 %",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Слияние двух негомологичных хромосом",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 8,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Синдром Вернера (при котором молодые люди выглядят как старики), связан с нарушениями гена, кодирующего ... ",
@@ -205,24 +245,29 @@
     "answers": [
       {
         "text": "Геликазу",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "Эндофины",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "Теломеразу",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "Полимеразу",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 9,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Использование генетически «исправленных» стволовых клеток для лечения наследственных заболеваний имеет следующий недостаток... ",
@@ -230,24 +275,29 @@
     "answers": [
       {
         "text": "этот метод не в состоянии исправить дефекты в половых клетках, что приводит к ухудшению генофонда",
-        "image": null
+        "image": null,
+        "number": 1
       },
       {
         "text": "метод не эффективен при лечении большинства наследственных заболеваний",
-        "image": null
+        "image": null,
+        "number": 2
       },
       {
         "text": "стволовые клетки провоцируют иммунный ответ и отторгаются",
-        "image": null
+        "image": null,
+        "number": 3
       },
       {
         "text": "эта процедура технически не выполнима",
-        "image": null
+        "image": null,
+        "number": 4
       }
     ],
     "number": 10,
     "image": null,
-    "right_ans_num": 0
+    "right_ans_num": 0,
+    "answers_count": 4
   },
   {
     "name": "Возникновение геномики стало возможным после разработки методов",

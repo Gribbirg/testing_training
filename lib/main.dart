@@ -2,20 +2,17 @@ import 'package:dynamic_color/dynamic_color.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
-import 'package:testing_training/repositories/module_list/module_list.dart';
-import 'package:testing_training/repositories/topic_list/topic_list.dart';
+import 'package:testing_training/repositories/questions/questions.dart';
 import 'package:testing_training/router/router.dart';
 import 'package:testing_training/theme/theme.dart';
 
 void main() {
-  GetIt.I.registerLazySingleton<AbstractTopicListRepository>(
+  GetIt.I.registerLazySingleton<AbstractQuestionsRepository>(
     () =>
-        TopicListRepository(topicsListJsonPath: path('questions/topics.json')),
-  );
-
-  GetIt.I.registerLazySingleton<AbstractModuleListRepository>(
-        () =>
-        ModuleListRepository(questionsPath: path('questions')),
+        QuestionsRepository(
+            topicsListJsonPath: path('questions/topics.json'),
+            questionsPath: path('questions'),
+        ),
   );
 
   runApp(const TestingTrainingApp());
