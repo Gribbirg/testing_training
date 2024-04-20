@@ -1,7 +1,6 @@
 import 'package:auto_route/annotations.dart';
 import 'package:flutter/material.dart';
 import 'package:testing_training/widgets/app_bar.dart';
-import 'package:testing_training/widgets/drawer.dart';
 
 @RoutePage()
 class SettingsPage extends StatefulWidget {

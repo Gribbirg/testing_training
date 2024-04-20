@@ -1,5 +1,7 @@
+import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'package:testing_training/repositories/topic_list/models/modules.dart';
+import 'package:testing_training/repositories/topic_list/models/models.dart';
+import 'package:testing_training/router/router.dart';
 
 class TopicItem extends StatelessWidget {
   const TopicItem({super.key, required this.topic});
@@ -10,7 +12,9 @@ class TopicItem extends StatelessWidget {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     return ElevatedButton(
-        onPressed: () {},
+        onPressed: () {
+          AutoRouter.of(context).push(ModuleSelectRoute(topic: topic));
+        },
         child: Container(
           padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 10),
           child: Row(

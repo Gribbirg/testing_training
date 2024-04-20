@@ -7,8 +7,13 @@ ThemeData getTheme({darkMode = false, colorTheme}) {
   return ThemeData(
     colorScheme: colorTheme,
     useMaterial3: true,
-    appBarTheme: const AppBarTheme(
+    appBarTheme: AppBarTheme(
       centerTitle: true,
+      shape: Border(
+          bottom: BorderSide(color: colorTheme.outlineVariant, width: 1)),
+      backgroundColor: colorTheme.background,
+      elevation: 10,
+      titleTextStyle: TextStyle(color: colorTheme.onBackground, fontSize: 25),
     ),
   );
 }

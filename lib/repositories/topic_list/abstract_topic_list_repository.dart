@@ -1,4 +1,4 @@
-import 'package:testing_training/repositories/topic_list/models/modules.dart';
+import 'package:testing_training/repositories/topic_list/models/models.dart';
 
 abstract class AbstractTopicListRepository {
   Future<List<Topic>?> getTopicList();

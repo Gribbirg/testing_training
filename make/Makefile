@@ -27,7 +27,7 @@ deploy:
 	git commit -m "$(M)" && \
 	git push
 
-	@echo "✅ Finished deploy: $(GITHUB_REPO)"
-	@echo "🚀 Flutter web URL: https://$(GITHUB_USER).github.io/"
+	@echo "Finished deploy: $(GITHUB_REPO)"
+	@echo "Flutter web URL: https://$(GITHUB_USER).github.io/"
 
 .PHONY: deploy

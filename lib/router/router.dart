@@ -1,8 +1,10 @@
-import 'package:auto_route/annotations.dart';
 import 'package:auto_route/auto_route.dart';
+import 'package:flutter/cupertino.dart';
 
 import '../features/home/view/home_page.dart';
+import '../features/module_select/view/module_select_page.dart';
 import '../features/settings/view/settings_page.dart';
+import '../repositories/topic_list/models/topic.dart';
 
 part 'router.gr.dart';
 
@@ -12,5 +14,6 @@ class AppRouter extends _$AppRouter {
   List<AutoRoute> get routes => [
     AutoRoute(page: HomeRoute.page, path: '/'),
     AutoRoute(page: SettingsRoute.page, path: '/settings'),
+    AutoRoute(page: ModuleSelectRoute.page, path: '/modules')
   ];
 }

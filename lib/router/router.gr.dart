@@ -21,6 +21,17 @@ abstract class _$AppRouter extends RootStackRouter {
         child: const HomePage(),
       );
     },
+    ModuleSelectRoute.name: (routeData) {
+      final args = routeData.argsAs<ModuleSelectRouteArgs>(
+          orElse: () => const ModuleSelectRouteArgs());
+      return AutoRoutePage<dynamic>(
+        routeData: routeData,
+        child: ModuleSelectPage(
+          key: args.key,
+          topic: args.topic,
+        ),
+      );
+    },
     SettingsRoute.name: (routeData) {
       return AutoRoutePage<dynamic>(
         routeData: routeData,
@@ -42,6 +53,44 @@ class HomeRoute extends PageRouteInfo<void> {
   static const String name = 'HomeRoute';
 
   static const PageInfo<void> page = PageInfo<void>(name);
+}
+
+/// generated route for
+/// [ModuleSelectPage]
+class ModuleSelectRoute extends PageRouteInfo<ModuleSelectRouteArgs> {
+  ModuleSelectRoute({
+    Key? key,
+    Topic? topic,
+    List<PageRouteInfo>? children,
+  }) : super(
+          ModuleSelectRoute.name,
+          args: ModuleSelectRouteArgs(
+            key: key,
+            topic: topic,
+          ),
+          initialChildren: children,
+        );
+
+  static const String name = 'ModuleSelectRoute';
+
+  static const PageInfo<ModuleSelectRouteArgs> page =
+      PageInfo<ModuleSelectRouteArgs>(name);
+}
+
+class ModuleSelectRouteArgs {
+  const ModuleSelectRouteArgs({
+    this.key,
+    this.topic,
+  });
+
+  final Key? key;
+
+  final Topic? topic;
+
+  @override
+  String toString() {
+    return 'ModuleSelectRouteArgs{key: $key, topic: $topic}';
+  }
 }
 
 /// generated route for
