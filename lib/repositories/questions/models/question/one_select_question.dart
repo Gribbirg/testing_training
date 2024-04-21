@@ -37,4 +37,10 @@ class OneSelectQuestion extends AbstractQuestion {
   @override
   List<Object?> get props =>
       [name, number, answersCount, image, rightAnswerNumber, answers];
+
+  @override
+  String? getImage() => image;
+
+  @override
+  String getName() => name;
 }

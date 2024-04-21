@@ -1,7 +1,10 @@
 import 'package:equatable/equatable.dart';
 import 'package:testing_training/repositories/questions/models/question/question.dart';
 
-abstract class AbstractQuestion extends Equatable {}
+abstract class AbstractQuestion extends Equatable {
+  String getName();
+  String? getImage();
+}
 
 class QuestionFactory {
   static AbstractQuestion getQuestionFromJson(Map<String, dynamic> json) {

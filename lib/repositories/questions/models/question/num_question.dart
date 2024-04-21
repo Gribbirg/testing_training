@@ -25,5 +25,11 @@ class NumQuestion extends AbstractQuestion {
   Map<String, dynamic> toJson() => _$NumQuestionToJson(this);
 
   @override
-  List<Object?> get props => [];
+  List<Object?> get props => [name, number, image, answer, delta, unit];
+
+  @override
+  String? getImage() => image;
+
+  @override
+  String getName() => name;
 }

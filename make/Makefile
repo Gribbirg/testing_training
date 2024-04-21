@@ -13,6 +13,7 @@ GITHUB_REPO = https://github.com/$(GITHUB_USER)/$(OUTPUT)
 
 deploy:
 	cd .. && \
+	dart fix --apply && \
 	flutter clean && \
 	flutter pub get && \
 	flutter create . --platform web && \

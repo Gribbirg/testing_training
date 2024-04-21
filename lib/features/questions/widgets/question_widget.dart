@@ -1,48 +1,33 @@
 import 'package:flutter/material.dart';
-import 'package:testing_training/repositories/questions/models/question/abstract_question.dart';
-import 'package:testing_training/repositories/questions/models/question/one_select_question.dart';
+import 'package:testing_training/main.dart';
+import 'package:testing_training/repositories/questions/models/question/question.dart';
 
-class QuestionWidget extends StatelessWidget {
+import '../../../repositories/questions/models/module.dart';
+import '../../../repositories/questions/models/topic.dart';
+import 'one_select_question_widget.dart';
+
+class QuestionWidget extends StatefulWidget {
   const QuestionWidget(
       {super.key,
       required this.question,
       required this.pageController,
       required this.isFirst,
-      required this.isLast});
+      required this.isLast,
+      required this.topic,
+      required this.module});
 
+  final Topic topic;
+  final Module module;
   final AbstractQuestion question;
   final PageController pageController;
   final bool isFirst;
   final bool isLast;
 
   @override
-  Widget build(BuildContext context) {
-    if (question is OneSelectQuestion) {
-      return OneSelectQuestionWidget(
-        question: question as OneSelectQuestion,
-        pageController: pageController,
-        isFirst: isFirst,
-        isLast: isLast,
-      );
-    }
-
-    return const CircularProgressIndicator();
-  }
+  State<QuestionWidget> createState() => _QuestionWidgetState();
 }
 
-class OneSelectQuestionWidget extends StatelessWidget {
-  const OneSelectQuestionWidget(
-      {super.key,
-      required this.question,
-      required this.pageController,
-      required this.isFirst,
-      required this.isLast});
-
-  final OneSelectQuestion question;
-  final PageController pageController;
-  final bool isFirst;
-  final bool isLast;
-
+class _QuestionWidgetState extends State<QuestionWidget> {
   @override
   Widget build(BuildContext context) {
     return SingleChildScrollView(
@@ -55,25 +40,61 @@ class OneSelectQuestionWidget extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 IconButton(
-                    onPressed: (isFirst) ? null : () {
-                      pageController.previousPage(
-                          duration: const Duration(milliseconds: 500),
-                          curve: Curves.easeInOut);
-                    },
+                    onPressed: (widget.isFirst)
+                        ? null
+                        : () {
+                            widget.pageController.previousPage(
+                                duration: const Duration(milliseconds: 300),
+                                curve: Curves.easeInOut);
+                          },
                     icon: const Icon(Icons.chevron_left)),
-                Expanded(child: Text(question.name)),
                 IconButton(
-                    onPressed: (isLast)? null : () {
-                      pageController.nextPage(
-                          duration: const Duration(milliseconds: 500),
-                          curve: Curves.easeInOut);
-                    },
+                    onPressed: (widget.isLast)
+                        ? null
+                        : () {
+                            widget.pageController.nextPage(
+                                duration: const Duration(milliseconds: 300),
+                                curve: Curves.easeInOut);
+                          },
                     icon: const Icon(Icons.chevron_right)),
               ],
             ),
+            const Padding(
+              padding: EdgeInsets.symmetric(horizontal: 8.0),
+              child: Divider(),
+            ),
+            Padding(
+              padding: const EdgeInsets.all(5),
+              child: ClipRRect(
+                borderRadius: BorderRadius.circular(8),
+                child: (widget.question.getImage() != null)
+                    ? Image.asset(path(
+                        'questions/${widget.topic.dirName}/images/${widget.question.getImage()}'))
+                    : const SizedBox(),
+              ),
+            ),
+            Container(
+                constraints: const BoxConstraints(maxWidth: 800),
+                padding: const EdgeInsets.all(10),
+                child: Text(
+                  widget.question.getName(),
+                  textAlign: TextAlign.center,
+                )),
+            _getQuestionAnswers(),
           ],
         ),
       ),
     );
+  }
+
+  Widget _getQuestionAnswers() {
+    if (widget.question is OneSelectQuestion) {
+      return OneSelectQuestionWidget(
+          question: widget.question as OneSelectQuestion,
+          topic: widget.topic,
+          module: widget.module);
+    }
+
+    return const CircularProgressIndicator();
   }
 }
