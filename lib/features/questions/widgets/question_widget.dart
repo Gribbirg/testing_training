@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:testing_training/main.dart';
 import 'package:testing_training/repositories/questions/models/question/question.dart';
+import 'package:testing_training/repositories/session_save/models/models.dart';
 
 import '../../../repositories/questions/models/module.dart';
 import '../../../repositories/questions/models/topic.dart';
@@ -14,11 +15,13 @@ class QuestionWidget extends StatefulWidget {
       required this.isFirst,
       required this.isLast,
       required this.topic,
-      required this.module});
+      required this.module,
+      required this.sessionQuestion});
 
   final Topic topic;
   final Module module;
   final AbstractQuestion question;
+  final SessionQuestion sessionQuestion;
   final PageController pageController;
   final bool isFirst;
   final bool isLast;
@@ -63,16 +66,14 @@ class _QuestionWidgetState extends State<QuestionWidget> {
               padding: EdgeInsets.symmetric(horizontal: 8.0),
               child: Divider(),
             ),
-            Padding(
-              padding: const EdgeInsets.all(5),
-              child: ClipRRect(
-                borderRadius: BorderRadius.circular(8),
-                child: (widget.question.getImage() != null)
-                    ? Image.asset(path(
-                        'questions/${widget.topic.dirName}/images/${widget.question.getImage()}'))
-                    : const SizedBox(),
+            if ((widget.question.getImage() != null))
+              Padding(
+                padding: const EdgeInsets.all(5),
+                child: ClipRRect(
+                    borderRadius: BorderRadius.circular(8),
+                    child: Image.asset(path(
+                        'questions/${widget.topic.dirName}/images/${widget.question.getImage()}'))),
               ),
-            ),
             Container(
                 constraints: const BoxConstraints(maxWidth: 800),
                 padding: const EdgeInsets.all(10),
@@ -91,6 +92,7 @@ class _QuestionWidgetState extends State<QuestionWidget> {
     if (widget.question is OneSelectQuestion) {
       return OneSelectQuestionWidget(
           question: widget.question as OneSelectQuestion,
+          sessionQuestion: widget.sessionQuestion,
           topic: widget.topic,
           module: widget.module);
     }

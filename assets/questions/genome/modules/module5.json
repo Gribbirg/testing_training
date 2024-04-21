@@ -6,25 +6,25 @@
       {
         "text": "пренатальной диагностики ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дерматоглифический",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "генеалогический",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "близнецовый",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 1,
+    "number": 0,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -36,25 +36,25 @@
       {
         "text": "дерматоглифическим ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "генеалогическим",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "пренатальным",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "близнецовым",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 2,
+    "number": 1,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -66,25 +66,25 @@
       {
         "text": "все ответы верны ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "генных болезней",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "наследственных болезней обмена",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "хромосомных болезней",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 3,
+    "number": 2,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -96,25 +96,25 @@
       {
         "text": "пренатальной диагностики",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "генеалогии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "цитогенетики",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дерматоглифики",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 4,
+    "number": 3,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -126,25 +126,25 @@
       {
         "text": "цитогенетический ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "генеалогический",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "биохимический",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "близнецовый",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 5,
+    "number": 4,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -156,25 +156,25 @@
       {
         "text": "цитогенетический ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "генеалогический",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "биохимический",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "близнецовый",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 6,
+    "number": 5,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -186,25 +186,25 @@
       {
         "text": "цитогенетическим ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "генеалогическим",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "биохимическим",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "близнецовым",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 7,
+    "number": 6,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -216,25 +216,25 @@
       {
         "text": "Ф. Гальтоном ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Т. Касперсоном",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Г. Менделем",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Т. Морганом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 8,
+    "number": 7,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -246,25 +246,25 @@
       {
         "text": "в основе дробления бластомеров – митоз, они образованы из бластомеров одной зиготы ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "они образованы из бластомеров одной зиготы",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "в основе дробления бластомеров - митоз",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "у них общая мать",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 9,
+    "number": 8,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -276,25 +276,25 @@
       {
         "text": "способствовать рождению здоровых, одаренных",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "диагностировать хромосомные болезни",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "выявления патологий",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "лечить болезни обмена",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 10,
+    "number": 9,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -306,25 +306,25 @@
       {
         "text": "Ф. Гальтон ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Т. Касперсон",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Г. Мендель",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Т. Морган",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 11,
+    "number": 10,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -336,25 +336,25 @@
       {
         "text": "1967",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "1932",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "1989",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Новосибирске",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 12,
+    "number": 11,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -366,25 +366,25 @@
       {
         "text": "патогенетическое ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "этиологическое",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "симптоматическое",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "терапевтическое",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 13,
+    "number": 12,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -396,25 +396,25 @@
       {
         "text": "этиологический",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "симптоматический",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "диетотерапию",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "патотерапию",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 14,
+    "number": 13,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -426,25 +426,25 @@
       {
         "text": "симптоматическое, патогенетическое, этиологическое",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "симптоматическое, патологоанатомическое, этиологическое",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "этиологическое",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "хирургическое, диетотерапия, заместительная терапия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 15,
+    "number": 14,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -456,25 +456,25 @@
       {
         "text": "генеалогическим, биохимическим ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "генеалогическим; близнецовым",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "биохимическим, близнецовым",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "близнецовым, генеалогическим, цитогенетическим",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 16,
+    "number": 15,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -486,25 +486,25 @@
       {
         "text": "генный, молекулярный, организменный ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "клеточный, молекулярный, организменный",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "молекулярный",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "организменный",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 17,
+    "number": 16,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -516,25 +516,25 @@
       {
         "text": "проверке биохимических аномалий обмена у пациентов, а также при подозрении на генные наследственные болезни ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "подозрении на генные наследственные болезни",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "проверка цитогенетических болезней",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "проверке биохимических аномалий обмена у пациентов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 18,
+    "number": 17,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -546,25 +546,25 @@
       {
         "text": "множественные пороки развития ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "непереносимость некоторых продуктов питания",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "нарушение пигментации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "нарушение пищеварения",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 19,
+    "number": 18,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -576,25 +576,25 @@
       {
         "text": "непереносимость некоторых продуктов питания",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "множественные пороки развития",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "привычные выкидыши",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "подозрения на семейную транслокацию",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 20,
+    "number": 19,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4

@@ -6,25 +6,25 @@
       {
         "text": "цитогенетический",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "биохимический",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "близнецовый",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дерматоглифический",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 1,
+    "number": 0,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -36,25 +36,25 @@
       {
         "text": "биохимическим ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "популяционно-статистическим",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "близнецовым",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "цитогенетическим",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 2,
+    "number": 1,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -66,25 +66,25 @@
       {
         "text": "аминокислотного обмена ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "геномным",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "хромосомным",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "жирового обмена",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 3,
+    "number": 2,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -96,25 +96,25 @@
       {
         "text": "генный",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "геномный",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "хромосомный",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "модификационный",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 4,
+    "number": 3,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -126,25 +126,25 @@
       {
         "text": "генным ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "мутационным",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "хромосомным",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "все ответы не верны",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 5,
+    "number": 4,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -156,25 +156,25 @@
       {
         "text": "аутосомно-рецессивному  типу",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "аутосомно-доминантному типу",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "сцепленному с полом типу",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Голандрическому типу",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 6,
+    "number": 5,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -186,25 +186,25 @@
       {
         "text": "хромосомным",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "мутационным",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "генным",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "все ответы не верны",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 7,
+    "number": 6,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -216,25 +216,25 @@
       {
         "text": "трисомия аутосом и транслокация ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "трисомия половых хромосом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "транслокация",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "только трисомия аутосом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 8,
+    "number": 7,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -246,25 +246,25 @@
       {
         "text": "обмена",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "цитогенетическим",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "хромосомным",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "все ответы верны",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 9,
+    "number": 8,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -276,25 +276,25 @@
       {
         "text": "Дауна",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Эдвардса",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Патау",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "«кошачьего крика»",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 10,
+    "number": 9,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -306,25 +306,25 @@
       {
         "text": "синдром Патау ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "синдром Эдвардса",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "синдром Дауна",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "синдром «кошачьего крика»",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 11,
+    "number": 10,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -336,25 +336,25 @@
       {
         "text": "синдром  Эдвардса ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "синдром  Дауна",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "синдром Патау",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "синдром «кошачьего крика».",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 12,
+    "number": 11,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -366,25 +366,25 @@
       {
         "text": "Патау ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Эдвардса",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Дауна",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "«кошачьего крика»",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 13,
+    "number": 12,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -396,25 +396,25 @@
       {
         "text": "все ответы не верны ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Эдвардса",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Патау",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Дауна",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 14,
+    "number": 13,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -426,25 +426,25 @@
       {
         "text": "21/21",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "15/15",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "18/18",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "20/20",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 15,
+    "number": 14,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -456,25 +456,25 @@
       {
         "text": "летальности ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "синдрому «кошачьего крика»",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "синдрому Клайнфельтера",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "синдрому Дауна",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 16,
+    "number": 15,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -486,25 +486,25 @@
       {
         "text": "все ответы верны ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "ХХУУ",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "ХХХУ",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "ХХУ",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 17,
+    "number": 16,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -516,25 +516,25 @@
       {
         "text": "45, ХО",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "47, ХО",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "47, ХХХ",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "47, ХО",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 18,
+    "number": 17,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -546,25 +546,25 @@
       {
         "text": "44АХХХ ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "45, ХО",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "47, ХХУ",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "45, ХХХ",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 19,
+    "number": 18,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -576,25 +576,25 @@
       {
         "text": "клонирования, цитологическим ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "цитогенетическим, гибридологическим",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "гибридологическим, генеалогическим, близнецовым",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "биохимическим, дерматоглифическим, анализирующем",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 20,
+    "number": 19,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4

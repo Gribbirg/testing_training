@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:testing_training/repositories/questions/models/question/answer.dart';
+import 'package:testing_training/repositories/session_save/models/models.dart';
 
 import '../../../main.dart';
 import '../../../repositories/questions/models/module.dart';
@@ -11,9 +12,11 @@ class OneSelectQuestionWidget extends StatefulWidget {
       {super.key,
       required this.question,
       required this.topic,
-      required this.module});
+      required this.module,
+      required this.sessionQuestion});
 
   final OneSelectQuestion question;
+  final SessionQuestion sessionQuestion;
   final Topic topic;
   final Module module;
 
@@ -23,8 +26,6 @@ class OneSelectQuestionWidget extends StatefulWidget {
 }
 
 class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
-  Answer? _selectedAnswer;
-
   @override
   Widget build(BuildContext context) {
     return IntrinsicWidth(
@@ -32,23 +33,24 @@ class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: widget.question.answers
             .map((answer) => Card(
-                  elevation: (_selectedAnswer == answer)? 8 : null,
+                  shadowColor: (widget.sessionQuestion.userAnswer == answer)
+                      ? null
+                      : Colors.transparent,
+                  elevation:
+                      (widget.sessionQuestion.userAnswer == answer) ? 8 : null,
                   child: RadioListTile<Answer>(
                     title: Column(
                       children: [
-                        (answer.text != null)
-                            ? Text(answer.text!)
-                            : const SizedBox(),
-                        (answer.image != null)
-                            ? Image.asset(path(
-                                'questions/${widget.topic.dirName}/images/${answer.image}'))
-                            : const SizedBox(),
+                        if (answer.text != null) Text(answer.text!),
+                        if (answer.image != null)
+                          Image.asset(path(
+                              'questions/${widget.topic.dirName}/images/${answer.image}')),
                       ],
                     ),
-                    groupValue: _selectedAnswer,
+                    groupValue: widget.sessionQuestion.userAnswer,
                     onChanged: (newAnswer) {
                       setState(() {
-                        _selectedAnswer = newAnswer;
+                        widget.sessionQuestion.userAnswer = newAnswer;
                       });
                     },
                     value: answer,

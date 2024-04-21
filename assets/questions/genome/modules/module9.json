@@ -4,7 +4,7 @@
     "type": "string",
     "answer": "генеалогический",
     "variants": [],
-    "number": 1,
+    "number": 0,
     "image": null
   },
   {
@@ -13,7 +13,7 @@
     "answer": "аутосомно-доминантный",
     "variants": [],
     "image": "0.png",
-    "number": 2
+    "number": 1
   },
   {
     "name": "Проанализируйте родословную. Установите характер наследования.",
@@ -21,7 +21,7 @@
     "answer": "аутосомно-рецессивный",
     "variants": [],
     "image": "1.png",
-    "number": 3
+    "number": 2
   },
   {
     "name": "Проанализируйте родословную. Установите характер наследования.",
@@ -29,7 +29,7 @@
     "answer": "аутосомно-доминантный",
     "variants": [],
     "image": "2.png",
-    "number": 4
+    "number": 3
   },
   {
     "name": "Проанализируйте родословную. Установите характер наследования.",
@@ -37,7 +37,7 @@
     "answer": "аутосомно-доминантный",
     "variants": [],
     "image": "3.png",
-    "number": 5
+    "number": 4
   },
   {
     "name": "Проанализируйте кариограмму. Установите диагноз.",
@@ -45,7 +45,7 @@
     "answer": "Синдром Клайнтфельтера",
     "variants": [],
     "image": "4.png",
-    "number": 6
+    "number": 5
   },
   {
     "name": "Проанализируйте кариограмму. Установите диагноз.",
@@ -53,7 +53,7 @@
     "answer": "синдром Патау",
     "variants": [],
     "image": "5.png",
-    "number": 7
+    "number": 6
   },
   {
     "name": "Проанализируйте кариограмму. Установите диагноз.",
@@ -61,7 +61,7 @@
     "answer": "синдром Шершевского-Тернера",
     "variants": [],
     "image": "6.png",
-    "number": 8
+    "number": 7
   },
   {
     "name": "Проанализируйте кариограмму. Установите диагноз.",
@@ -69,7 +69,7 @@
     "answer": "синдром кошачьего крика (синдром Лежена)",
     "variants": [],
     "image": "7.png",
-    "number": 9
+    "number": 8
   },
   {
     "name": "При расшифровке первичной структуры генома человека  было установлено, что средний размер гена составляет … п.н. (ответ запишите цифрой)",
@@ -77,7 +77,7 @@
     "unit": "",
     "delta": 0.0,
     "answer": 3000.0,
-    "number": 10,
+    "number": 9,
     "image": null
   },
   {
@@ -85,7 +85,7 @@
     "type": "string",
     "answer": "некодирующей",
     "variants": [],
-    "number": 11,
+    "number": 10,
     "image": null
   },
   {
@@ -93,7 +93,7 @@
     "type": "string",
     "answer": "в сперматозоидах",
     "variants": [],
-    "number": 12,
+    "number": 11,
     "image": null
   },
   {
@@ -101,7 +101,7 @@
     "type": "string",
     "answer": "структуры, функций",
     "variants": [],
-    "number": 13,
+    "number": 12,
     "image": null
   },
   {
@@ -109,7 +109,7 @@
     "type": "string",
     "answer": "картирование",
     "variants": [],
-    "number": 14,
+    "number": 13,
     "image": null
   },
   {
@@ -117,7 +117,7 @@
     "type": "string",
     "answer": "физическое",
     "variants": [],
-    "number": 15,
+    "number": 14,
     "image": null
   },
   {
@@ -125,7 +125,7 @@
     "type": "string",
     "answer": "генетическое",
     "variants": [],
-    "number": 16,
+    "number": 15,
     "image": null
   },
   {
@@ -133,7 +133,7 @@
     "type": "string",
     "answer": "цитогенетическом",
     "variants": [],
-    "number": 17,
+    "number": 16,
     "image": null
   },
   {
@@ -141,7 +141,7 @@
     "type": "string",
     "answer": "обоим",
     "variants": [],
-    "number": 18,
+    "number": 17,
     "image": null
   },
   {
@@ -149,7 +149,7 @@
     "type": "string",
     "answer": "аутосомно-рецессивному",
     "variants": [],
-    "number": 19,
+    "number": 18,
     "image": null
   },
   {
@@ -157,7 +157,7 @@
     "type": "string",
     "answer": "лимфоциты",
     "variants": [],
-    "number": 20,
+    "number": 19,
     "image": null
   }
 ]

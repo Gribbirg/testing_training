@@ -6,25 +6,25 @@
       {
         "text": "близнецами",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "монозиготами близнецами",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "дизиготами",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "братьями и сестрами",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 1,
+    "number": 0,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -36,25 +36,25 @@
       {
         "text": "акроцентрических",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "метацентрических",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "самые крупные",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "средние",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 2,
+    "number": 1,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -66,25 +66,25 @@
       {
         "text": "идиограмму",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "геном",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "кариотип",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "генотип",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 3,
+    "number": 2,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -96,25 +96,25 @@
       {
         "text": "Т. Касперсоном ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Т. Морганом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Г. Менделем",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Ф. Гальтоном",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 4,
+    "number": 3,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -126,25 +126,25 @@
       {
         "text": "близнецовый ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "биохимический",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "генеалогический",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "цитологический",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 5,
+    "number": 4,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -156,25 +156,25 @@
       {
         "text": "монозиготные ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дизиготные",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "двуяйцевыми",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "неидентичными",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 6,
+    "number": 5,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -186,25 +186,25 @@
       {
         "text": "дизиготные ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "идентичные",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "однояйцевыми",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "все ответы верны",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 7,
+    "number": 6,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -216,25 +216,25 @@
       {
         "text": "передается по линии матери ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "не наследуется",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "зависит от среды",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "нет верного ответа",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 8,
+    "number": 7,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -246,25 +246,25 @@
       {
         "text": "99",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "45",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "10",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "0",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 9,
+    "number": 8,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -276,25 +276,25 @@
       {
         "text": "отличие по многим признакам ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "сходность по многим признакам",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "разнояйцовость",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дизиготность",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 10,
+    "number": 9,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -306,25 +306,25 @@
       {
         "text": "тип наследования  признака",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "роль среды в формировании признака",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "роль генотипа в формировании признака",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "колебание частот аллелей",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 11,
+    "number": 10,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -336,25 +336,25 @@
       {
         "text": "метафазы ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "профазы",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "анафазы",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "телофазы",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 12,
+    "number": 11,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -366,25 +366,25 @@
       {
         "text": "размер",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "количество центромер",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "уровень спирализации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дифференциальное окрашивание",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 13,
+    "number": 12,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -396,25 +396,25 @@
       {
         "text": "анафазой",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "метафазой",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "телофазой",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "интерфазой",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 14,
+    "number": 13,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -426,25 +426,25 @@
       {
         "text": "нормальное цветовосприятие ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "катаракту",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "праворукость",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "ихтиоз",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 15,
+    "number": 14,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -456,25 +456,25 @@
       {
         "text": "2 хроматид",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "1 хроматиды",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "3 хроматид",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "4 хроматид",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 16,
+    "number": 15,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -486,25 +486,25 @@
       {
         "text": "0.5",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "0.25",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "0",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "1",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 17,
+    "number": 16,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -516,25 +516,25 @@
       {
         "text": "только от факторов внешней среды ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "только от генотипа",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "от генотипа и среды в равной степени",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "от родителей",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 18,
+    "number": 17,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -546,25 +546,25 @@
       {
         "text": "влиянием среды",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "генотипом матери",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "генотипом отца",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "предрасположенность по линии матери",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 19,
+    "number": 18,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -576,25 +576,25 @@
       {
         "text": "близнецовым ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "биохимическим",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "дерматоглифическим",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "цитогенетическим",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 20,
+    "number": 19,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4

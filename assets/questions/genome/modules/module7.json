@@ -6,25 +6,25 @@
       {
         "text": "Митохондриальную ДНК ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "21-ую хромосому",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Х-хромосомы",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Y- хромосому",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 1,
+    "number": 0,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -36,25 +36,25 @@
       {
         "text": "Полиплоидия ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Инверсия",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Дупликация",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Гетероплоидия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 2,
+    "number": 1,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -66,25 +66,25 @@
       {
         "text": "1-я хромосома ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "19-я хромосома",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "22-я хромосома",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "13-я хромосома",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 3,
+    "number": 2,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -96,25 +96,25 @@
       {
         "text": "более 3 млрд. п.н.",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "около 2 млрд. п.н.",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "более 5 млрд. п.н.",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "менее 1 млрд. п.н.",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 4,
+    "number": 3,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -126,25 +126,25 @@
       {
         "text": "Превращение обычного кодона в стоп-кодон",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Потеря отдельных участков хромосом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Поворот участка хромосом на 180 %",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Перемещения генов в пределах одной хромосомы",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 5,
+    "number": 4,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -156,25 +156,25 @@
       {
         "text": "Генеалогический метод",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Близнецовый метод",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Биохимический метод",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Метод гибридизации соматических клеток",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 6,
+    "number": 5,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -186,25 +186,25 @@
       {
         "text": "Что у 70 % носителей данного гена в конкретных условиях окружающей среды проявляется кодируемый этим геном признак",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Что признак выражен лишь на 70 % от теоретически возможного",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Что у 70 % носителей данного гена в конкретных условиях окружающей среды кодируемый этим геном признак не проявляется",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Что пределы вариабельности признака -70 % от среднего показателя",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 7,
+    "number": 6,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -216,25 +216,25 @@
       {
         "text": "Перемещения генов в пределах одной хромосомы",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Потеря отдельных участков хромосом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Поворот участка хромосом на 180 %",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Слияние двух негомологичных хромосом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 8,
+    "number": 7,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -246,25 +246,25 @@
       {
         "text": "Геликазу",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Эндофины",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Теломеразу",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Полимеразу",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 9,
+    "number": 8,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -276,25 +276,25 @@
       {
         "text": "этот метод не в состоянии исправить дефекты в половых клетках, что приводит к ухудшению генофонда",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "метод не эффективен при лечении большинства наследственных заболеваний",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "стволовые клетки провоцируют иммунный ответ и отторгаются",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "эта процедура технически не выполнима",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 10,
+    "number": 9,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -304,7 +304,7 @@
     "type": "string",
     "answer": "секвенирования",
     "variants": [],
-    "number": 11,
+    "number": 10,
     "image": null
   },
   {
@@ -312,7 +312,7 @@
     "type": "string",
     "answer": "экспрессию белков",
     "variants": [],
-    "number": 12,
+    "number": 11,
     "image": null
   },
   {
@@ -320,7 +320,7 @@
     "type": "string",
     "answer": "in vitro",
     "variants": [],
-    "number": 13,
+    "number": 12,
     "image": null
   },
   {
@@ -328,7 +328,7 @@
     "type": "string",
     "answer": "меньшая токсичность",
     "variants": [],
-    "number": 14,
+    "number": 13,
     "image": null
   },
   {
@@ -336,7 +336,7 @@
     "type": "string",
     "answer": "генеалогический",
     "variants": [],
-    "number": 15,
+    "number": 14,
     "image": null
   },
   {
@@ -344,7 +344,7 @@
     "type": "string",
     "answer": "близнецового",
     "variants": [],
-    "number": 16,
+    "number": 15,
     "image": null
   },
   {
@@ -352,7 +352,7 @@
     "type": "string",
     "answer": "биохимический",
     "variants": [],
-    "number": 17,
+    "number": 16,
     "image": null
   },
   {
@@ -360,7 +360,7 @@
     "type": "string",
     "answer": "биохимического",
     "variants": [],
-    "number": 18,
+    "number": 17,
     "image": null
   },
   {
@@ -368,7 +368,7 @@
     "type": "string",
     "answer": "цитогенетического",
     "variants": [],
-    "number": 19,
+    "number": 18,
     "image": null
   },
   {
@@ -376,7 +376,7 @@
     "type": "string",
     "answer": "цитогенетического",
     "variants": [],
-    "number": 20,
+    "number": 19,
     "image": null
   }
 ]

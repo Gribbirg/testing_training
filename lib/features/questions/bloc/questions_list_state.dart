@@ -13,17 +13,18 @@ class QuestionsListLoading extends QuestionsListState {
 }
 
 class QuestionsListLoaded extends QuestionsListState {
-
   final List<AbstractQuestion> questionsList;
 
-  QuestionsListLoaded({required this.questionsList});
+  final List<SessionQuestion> sessionQuestions;
+
+  QuestionsListLoaded(
+      {required this.questionsList, required this.sessionQuestions});
 
   @override
-  List<Object?> get props => [questionsList];
+  List<Object?> get props => [questionsList, sessionQuestions];
 }
 
 class QuestionsListError extends QuestionsListState {
-
   final String message;
 
   QuestionsListError({required this.message});

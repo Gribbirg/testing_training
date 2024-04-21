@@ -6,25 +6,25 @@
       {
         "text": "генеалогический ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гибридологический",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "исторический",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "морфологический",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 1,
+    "number": 0,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -36,25 +36,25 @@
       {
         "text": "Ф. Гальтоном ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Т. Морганом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Г. Менделем",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Н. Бочковым",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 2,
+    "number": 1,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -66,25 +66,25 @@
       {
         "text": "генеалогическим ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гибридологическим",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "клиническим",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "биохимическим",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 3,
+    "number": 2,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -96,25 +96,25 @@
       {
         "text": "аутосомно-доминантно ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "сцеплено с У-хромосомой",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "сцеплено с Х-хромосомой",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "аутосомно-рецессивно",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 4,
+    "number": 3,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -126,25 +126,25 @@
       {
         "text": "аутосомно-рецессивно ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "сцеплено с У-хромосомой",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "аутосомно-доминантно",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "сцеплено с Х-хромосомой",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 5,
+    "number": 4,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -156,25 +156,25 @@
       {
         "text": "аутосомными ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "сцепленными с полом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "голандрическими",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "доминантными",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 6,
+    "number": 5,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -186,25 +186,25 @@
       {
         "text": "сцепленными с полом ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "голандрическими",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "аутосомными",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "доминантными",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 7,
+    "number": 6,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -216,25 +216,25 @@
       {
         "text": "доминантным, сцепленным с Х-хромосомой ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "сцепленным с полом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "аутосомным",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "голандрическим",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 8,
+    "number": 7,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -246,25 +246,25 @@
       {
         "text": "рецессивным",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "сцепленным с полом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "голандрическим",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "доминантным",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 9,
+    "number": 8,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -276,25 +276,25 @@
       {
         "text": "рецессивным, сцепленным с Х-хромосомой ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "голандрическим",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "доминантным, сцепленным с Х-хромосомой",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "аутосомным",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 10,
+    "number": 9,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -306,25 +306,25 @@
       {
         "text": "голандрическими",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "рецессивными, сцепленным с Х-хромосомой",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "доминантными, сцепленным с Х-хромосомой",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "аутосомными",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 11,
+    "number": 10,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -336,25 +336,25 @@
       {
         "text": "все ответы верны ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "признак передается по материнской линии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "признак встречается с одинаковой частотой у обоих полов",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "признак проявляется при попадании плазмогенов от яйцеклетки",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 12,
+    "number": 11,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -366,25 +366,25 @@
       {
         "text": "человек, в отношении которого составляется родословная ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "исследователь, собирающий сведения",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "родственник больного",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "человек, изучающий родословную",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 13,
+    "number": 12,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -396,25 +396,25 @@
       {
         "text": "родные братья и сестры ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дяди и племянники",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "любые члены родословной",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "двоюродные бабушки",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 14,
+    "number": 13,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -426,25 +426,25 @@
       {
         "text": "имеет наследственную природу ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "аутосомный",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "сцеплен с полом",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "не имеет наследственной природы",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 15,
+    "number": 14,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -456,25 +456,25 @@
       {
         "text": "голандрическим",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "рецессивным, сцепленным с Х-хромосомой",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "доминантным, сцепленным с Х-хромосомой",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "аутосомным",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 16,
+    "number": 15,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -486,25 +486,25 @@
       {
         "text": "сцеплен с Х- или У- хромосомой ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "аутосомный",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "доминантный",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "рецессивный",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 17,
+    "number": 16,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -516,25 +516,25 @@
       {
         "text": "аутосомно-рецессивного ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "аутосомно-доминантного",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "сцепленного с полом",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "голандрического",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 18,
+    "number": 17,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -546,25 +546,25 @@
       {
         "text": "сцепленное наследование ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "строение генов",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "морфологию и количество хромосом в кариотипе",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "структуру хромосом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 19,
+    "number": 18,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -576,25 +576,25 @@
       {
         "text": "признак сцеплен с Y-хромосомой ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "признак аутосомно-рецессивный",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "рецессивный признак, сцепленный с Х-хромосомой",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "аутосомно-доминантный признак",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 20,
+    "number": 19,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4

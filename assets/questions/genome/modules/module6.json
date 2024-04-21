@@ -6,25 +6,25 @@
       {
         "text": "одно",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "два",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "три",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "четыре",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 1,
+    "number": 0,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -36,25 +36,25 @@
       {
         "text": "три ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "два",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "одно",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "четыре",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 2,
+    "number": 1,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -66,25 +66,25 @@
       {
         "text": "два ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "одно",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "три",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "четыре",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 3,
+    "number": 2,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -96,25 +96,25 @@
       {
         "text": "геномные мутации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "генные мутации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "нарушения обмена веществ",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "выпадения нуклеотида",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 4,
+    "number": 3,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -126,25 +126,25 @@
       {
         "text": "синдроме кошачьего крика ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "трисомии по 21 хромосоме",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "синдроме Шерешевского-Тернера",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "синдроме Клайнфельтера",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 5,
+    "number": 4,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -156,25 +156,25 @@
       {
         "text": "нарушения мейоза ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "нарушения гаметогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "слияние гамет с нарушениями",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "развитие из одной гаметы",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 6,
+    "number": 5,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -186,25 +186,25 @@
       {
         "text": "слабо проявляются фенотипические картины заболевания ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "тяжелой формы синдрома Дауна",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "синдром Эдвардса",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "синдром Патау",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 7,
+    "number": 6,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -216,25 +216,25 @@
       {
         "text": "дробления бластомеров",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "митотического деление соматических клеток",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "физиологии слияния гамет",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "комбинативной изменчивости",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 8,
+    "number": 7,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -246,25 +246,25 @@
       {
         "text": "гетероплоидией ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "полиплоидными мутациями",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "хромосомными аберрациями",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "генными мутациями",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 9,
+    "number": 8,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -276,25 +276,25 @@
       {
         "text": "хромосомное ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "геномное",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "обмена",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "генной",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 10,
+    "number": 9,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -306,25 +306,25 @@
       {
         "text": "в системе аутосом ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дупликации хромосомы",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "делеции хромосомы 13 пары",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "синдрома Эдвардса",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 11,
+    "number": 10,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -336,25 +336,25 @@
       {
         "text": "этиологический ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "диетотерапия",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "симптоматический",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "патогенетический",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 12,
+    "number": 11,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -366,25 +366,25 @@
       {
         "text": "обмена",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "хромосомных",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "геномных",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "транслокационным",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 13,
+    "number": 12,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -396,25 +396,25 @@
       {
         "text": "генных",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "хромосомных",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "геномных",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "транслокационных",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 14,
+    "number": 13,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -426,25 +426,25 @@
       {
         "text": "аутосомно-рецессивному ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "аутосомно-доминантному",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "сцепленному с Х-хромосомой",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "голандрическому",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 15,
+    "number": 14,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -456,25 +456,25 @@
       {
         "text": "пуринов ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "жиров",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "углеводов",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "минеральных",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 16,
+    "number": 15,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -486,25 +486,25 @@
       {
         "text": "Минеральных веществ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "жиров",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "пуринов",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "углеводов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 17,
+    "number": 16,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -516,25 +516,25 @@
       {
         "text": "обмена углеводов ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "развития органов и тканей",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "обмена жиров",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "обмена минеральных веществ",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 18,
+    "number": 17,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -546,25 +546,25 @@
       {
         "text": "Шерешевского-Тернера ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Патау",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Эдвардса",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Клайнфельтера",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 19,
+    "number": 18,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4
@@ -576,25 +576,25 @@
       {
         "text": "Клайнфельтера",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Патау",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Эдвардса",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Шерешевского-Тернера.",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 20,
+    "number": 19,
     "image": null,
     "right_ans_num": 0,
     "answers_count": 4

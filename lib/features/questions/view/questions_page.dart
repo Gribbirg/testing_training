@@ -26,7 +26,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
   late final Topic? _topic;
   late final Module? _module;
   final _questionsListBloc =
-  QuestionsListBloc(GetIt.I<AbstractQuestionsRepository>());
+      QuestionsListBloc(GetIt.I<AbstractQuestionsRepository>());
   final PageController pageController = PageController();
 
   @override
@@ -38,7 +38,8 @@ class _QuestionsPageState extends State<QuestionsPage> {
     } else {
       _topic = widget.topic!;
       _module = widget.module!;
-      _questionsListBloc.add(LoadQuestionsList(topic: _topic!, module: _module!));
+      _questionsListBloc
+          .add(LoadQuestionsList(topic: _topic!, module: _module!));
     }
 
     super.initState();
@@ -46,7 +47,6 @@ class _QuestionsPageState extends State<QuestionsPage> {
 
   @override
   Widget build(BuildContext context) {
-
     if (_topic == null || _module == null) {
       return const Center(
         child: CircularProgressIndicator(),
@@ -78,17 +78,19 @@ class _QuestionsPageState extends State<QuestionsPage> {
                 return PageView(
                   scrollDirection: Axis.horizontal,
                   controller: pageController,
-                  children: state.questionsList
-                      .map((question) =>
-                      QuestionWidget(
-                        topic: _topic,
-                        module: _module,
-                        question: question,
-                        pageController: pageController,
-                        isFirst: state.questionsList.first == question,
-                        isLast: state.questionsList.last == question,
-                      ))
-                      .toList(),
+                  children: state.sessionQuestions.map((sessionQuestion) {
+                    final question =
+                        state.questionsList[sessionQuestion.questionNum];
+                    return QuestionWidget(
+                      topic: _topic,
+                      module: _module,
+                      question: question,
+                      sessionQuestion: sessionQuestion,
+                      pageController: pageController,
+                      isFirst: state.questionsList.first == question,
+                      isLast: state.questionsList.last == question,
+                    );
+                  }).toList(),
                 );
               }
 
