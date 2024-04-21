@@ -41,7 +41,11 @@ class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
                   child: RadioListTile<Answer>(
                     title: Column(
                       children: [
-                        if (answer.text != null) Text(answer.text!),
+                        if (answer.text != null)
+                          Text(
+                            answer.text!,
+                            textAlign: TextAlign.center,
+                          ),
                         if (answer.image != null)
                           Image.asset(path(
                               'questions/${widget.topic.dirName}/images/${answer.image}')),

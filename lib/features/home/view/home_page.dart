@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:testing_training/features/home/bloc/topic_list_bloc.dart';
 import 'package:testing_training/features/home/widgets/topic_item.dart';
-import 'package:testing_training/main.dart';
 import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
 import 'package:get_it/get_it.dart';
 import 'package:testing_training/widgets/app_bar.dart';
@@ -35,7 +34,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: getAppBar(context,
           text: "Подготовка к ЦТ",
-          actions: [Image.asset(path('images/logo.png'))]),
+          actions: [const Icon(Icons.home), const SizedBox(width: 15,)],),
       drawer: getDrawer(context),
       body: Column(children: [
         const SizedBox(
