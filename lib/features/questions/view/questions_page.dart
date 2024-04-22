@@ -28,7 +28,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
   final _questionsListBloc = QuestionsListBloc(
       questionsRepository: GetIt.I<AbstractQuestionsRepository>(),
       sessionSaveRepository: GetIt.I<AbstractSessionSaveRepository>());
-  late final PageController pageController;
+  late PageController pageController;
 
   @override
   void initState() {
@@ -67,6 +67,22 @@ class _QuestionsPageState extends State<QuestionsPage> {
               return Scaffold(
                 appBar: AppBar(
                   title: Text(state.module.name),
+                  actions: [
+                    IconButton(
+                        onPressed: () {
+                          _questionsListBloc.add(RestartSession());
+                          pageController.jumpToPage(0);
+                        },
+                        icon: const Icon(Icons.refresh_sharp)),
+                    IconButton(
+                        onPressed: () {
+                          AutoRouter.of(context).push(const HomeRoute());
+                        },
+                        icon: const Icon(Icons.home)),
+                    const SizedBox(
+                      width: 10,
+                    ),
+                  ],
                 ),
                 body: PageView(
                   scrollDirection: Axis.horizontal,

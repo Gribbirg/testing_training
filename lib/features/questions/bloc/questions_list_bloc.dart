@@ -21,6 +21,7 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
     on<LoadQuestionsList>(_load);
     on<SaveSessionData>(_save);
     on<DeleteSessionData>(_delete);
+    on<RestartSession>(_restart);
   }
 
   final AbstractQuestionsRepository questionsRepository;
@@ -112,7 +113,8 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
     }
   }
 
-  Future<void> _delete(DeleteSessionData event, Emitter<QuestionsListState> emit) async {
+  Future<void> _delete(
+      DeleteSessionData event, Emitter<QuestionsListState> emit) async {
     try {
       if (state is! QuestionsListLoaded) {
         emit(QuestionsListError(message: "Nothing to save"));
@@ -120,6 +122,33 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
       }
       sessionSaveRepository
           .removeSessionData((state as QuestionsListLoaded).sessionData);
+    } catch (e) {
+      emit(QuestionsListError(message: e.toString()));
+    }
+  }
+
+  Future<void> _restart(
+      RestartSession event, Emitter<QuestionsListState> emit) async {
+    try {
+      if (state is! QuestionsListLoaded) {
+        emit(QuestionsListError(message: "Nothing to restart"));
+        return;
+      }
+      final saveState = state as QuestionsListLoaded;
+      emit(QuestionsListLoading());
+      sessionSaveRepository.removeSessionData(saveState.sessionData);
+
+      final session = SessionData(
+        topicId: saveState.topic.dirName,
+        moduleId: saveState.module.dirName,
+      )..sessionsQuestions = _getShuffledQuestions(saveState.questionsList);
+      emit(QuestionsListLoaded(
+          topic: saveState.topic,
+          module: saveState.module,
+          questionsList: saveState.questionsList,
+          sessionData: session));
+      sessionSaveRepository
+          .addSessionData(session);
     } catch (e) {
       emit(QuestionsListError(message: e.toString()));
     }

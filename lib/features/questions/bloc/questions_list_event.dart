@@ -24,3 +24,8 @@ class DeleteSessionData extends QuestionsListEvent {
   @override
   List<Object?> get props => [];
 }
+
+class RestartSession extends QuestionsListEvent {
+  @override
+  List<Object?> get props => [];
+}

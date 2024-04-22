@@ -9,6 +9,8 @@ import 'package:get_it/get_it.dart';
 import 'package:testing_training/widgets/app_bar.dart';
 import 'package:testing_training/features/home/widgets/drawer.dart';
 
+import '../../../main.dart';
+
 @RoutePage()
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -34,7 +36,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: getAppBar(context,
           text: "Подготовка к ЦТ",
-          actions: [const Icon(Icons.home), const SizedBox(width: 15,)],),
+          actions: [Image.asset(path('images/logo.png')), const SizedBox(width: 15,)],),
       drawer: const HomeDrawer(),
       body: Column(children: [
         const SizedBox(

@@ -43,7 +43,19 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
           if (state is ModuleListLoaded) {
             final modulesList = state.modules;
             return Scaffold(
-                appBar: AppBar(title: Text(state.topic.name)),
+                appBar: AppBar(
+                  title: Text(state.topic.name),
+                  actions: [
+                    IconButton(
+                        onPressed: () {
+                          AutoRouter.of(context).push(const HomeRoute());
+                        },
+                        icon: const Icon(Icons.home)),
+                    const SizedBox(
+                      width: 10,
+                    ),
+                  ],
+                ),
                 body: Column(children: [
                   const SizedBox(
                     height: 20,
@@ -86,7 +98,9 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
           }
 
           return Scaffold(
-            appBar: AppBar(title: const Text("Загрузка..."),),
+            appBar: AppBar(
+              title: const Text("Загрузка..."),
+            ),
             body: const Center(
               child: CircularProgressIndicator(),
             ),
