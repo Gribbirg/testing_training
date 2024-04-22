@@ -6,7 +6,7 @@ abstract class AbstractQuestion extends Equatable {
   int getNumber();
   String getName();
   String? getImage();
-  void setAnswer(SessionQuestion sessionQuestion);
+  void setAnswerRight(SessionQuestion sessionQuestion);
   void shuffleAnswersNum(SessionQuestion sessionQuestion);
 }
 

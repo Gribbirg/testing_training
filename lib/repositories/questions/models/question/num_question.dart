@@ -6,7 +6,6 @@ part 'num_question.g.dart';
 
 @JsonSerializable()
 class NumQuestion extends AbstractQuestion {
-
   final String name;
 
   final int number;
@@ -19,9 +18,16 @@ class NumQuestion extends AbstractQuestion {
 
   final String unit;
 
-  NumQuestion({required this.name, required this.number, required this.image, required this.answer, required this.delta, required this.unit});
+  NumQuestion(
+      {required this.name,
+      required this.number,
+      required this.image,
+      required this.answer,
+      required this.delta,
+      required this.unit});
 
-  factory NumQuestion.fromJson(Map<String, dynamic> json) => _$NumQuestionFromJson(json);
+  factory NumQuestion.fromJson(Map<String, dynamic> json) =>
+      _$NumQuestionFromJson(json);
 
   Map<String, dynamic> toJson() => _$NumQuestionToJson(this);
 
@@ -35,13 +41,15 @@ class NumQuestion extends AbstractQuestion {
   String getName() => name;
 
   @override
-  void setAnswer(SessionQuestion sessionQuestion) {
-    // TODO: implement setAnswer
+  void setAnswerRight(SessionQuestion sessionQuestion) {
+    final userAnswer = double.parse((sessionQuestion.userAnswer as String).replaceAll(',', '.'));
+    sessionQuestion.isRight =
+        userAnswer >= answer - delta && userAnswer <= answer + delta;
   }
 
   @override
   void shuffleAnswersNum(SessionQuestion sessionQuestion) {
-    // TODO: implement shuffleAnswersNum
+    return;
   }
 
   @override

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:testing_training/features/questions/widgets/num_question_widget.dart';
 import 'package:testing_training/main.dart';
 import 'package:testing_training/repositories/questions/models/question/question.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';
@@ -108,7 +109,7 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                             ? () {
                                 setState(() {
                                   widget.question
-                                      .setAnswer(widget.sessionQuestion);
+                                      .setAnswerRight(widget.sessionQuestion);
                                 });
                               }
                             : null,
@@ -132,6 +133,16 @@ class _QuestionWidgetState extends State<QuestionWidget> {
     if (widget.question is OneSelectQuestion) {
       return OneSelectQuestionWidget(
         question: widget.question as OneSelectQuestion,
+        sessionQuestion: widget.sessionQuestion,
+        topic: widget.topic,
+        module: widget.module,
+        setParentState: setState,
+      );
+    }
+
+    if (widget.question is NumQuestion) {
+      return NumQuestionWidget(
+        question: widget.question as NumQuestion,
         sessionQuestion: widget.sessionQuestion,
         topic: widget.topic,
         module: widget.module,

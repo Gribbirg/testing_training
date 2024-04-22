@@ -15,9 +15,11 @@ class StringQuestion extends AbstractQuestion {
 
   final String answer;
 
-  final List<String> variants;
+  late final Set<String> variants;
 
-  StringQuestion({required this.name, required this.number, required this.image, required this.answer, required this.variants});
+  StringQuestion({required this.name, required this.number, required this.image, required this.answer, required List<String> variants}) {
+    this.variants = variants.toSet();
+  }
 
   factory StringQuestion.fromJson(Map<String, dynamic> json) => _$StringQuestionFromJson(json);
 
@@ -33,13 +35,14 @@ class StringQuestion extends AbstractQuestion {
   String getName() => name;
 
   @override
-  void setAnswer(SessionQuestion sessionQuestion) {
-    // TODO: implement setAnswer
+  void setAnswerRight(SessionQuestion sessionQuestion) {
+    final userAnswer = sessionQuestion.userAnswer as String;
+    sessionQuestion.isRight = userAnswer == answer || variants.contains(userAnswer);
   }
 
   @override
   void shuffleAnswersNum(SessionQuestion sessionQuestion) {
-    // TODO: implement shuffleAnswersNum
+    return;
   }
 
   @override
