@@ -15,7 +15,7 @@
 	<key>CFBundleName</key>
 	<string>testing_training</string>
 	<key>CFBundlePackageType</key>
-	<string>APPL</string>
+	<string>Подготовка к ЦТ</string>
 	<key>CFBundleShortVersionString</key>
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>

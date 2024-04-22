@@ -22,5 +22,5 @@ Map<String, dynamic> _$StringQuestionToJson(StringQuestion instance) =>
       'number': instance.number,
       'image': instance.image,
       'answer': instance.answer,
-      'variants': instance.variants,
+      'variants': instance.variants.toList(),
     };
