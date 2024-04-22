@@ -26,18 +26,31 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
       final questionsList =
           await questionsRepository.getQuestionsList(event.topic, event.module);
       if (questionsList == null || questionsList.isEmpty) {
-        emit(QuestionsListError(message: "Темы не найдены"));
+        emit(QuestionsListError(message: "Вопросы не найдены"));
       } else {
         emit(QuestionsListLoaded(
           questionsList: questionsList,
-          sessionQuestions: [
-            for (int i = 0; i < questionsList.length; i++)
-              SessionQuestion(questionNum: i)
-          ],
+          sessionQuestions: _getShuffledQuestions(questionsList),
         ));
       }
     } catch (e) {
       emit(QuestionsListError(message: e.toString()));
     }
+  }
+
+  List<SessionQuestion> _getShuffledQuestions(
+      List<AbstractQuestion> questionsList) {
+    final sessionsQuestions = questionsList
+        .map((e) => SessionQuestion(questionNum: e.getNumber()))
+        .toList();
+
+    for (var sessionQuestion in sessionsQuestions) {
+      questionsList[sessionQuestion.questionNum]
+          .shuffleAnswersNum(sessionQuestion);
+    }
+
+    sessionsQuestions.shuffle();
+
+    return sessionsQuestions;
   }
 }

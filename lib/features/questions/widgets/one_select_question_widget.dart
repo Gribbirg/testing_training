@@ -35,7 +35,8 @@ class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
     return IntrinsicWidth(
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
-        children: widget.question.answers.map((answer) {
+        children: (widget.sessionQuestion.saveAnswersNum as List<int>).map((answerNum) {
+          final answer = widget.question.answers[answerNum];
           final isRightAnswer = (widget.sessionQuestion.isRight != null)
               ? widget.question.rightAnswerNumber == answer.number
               : false;

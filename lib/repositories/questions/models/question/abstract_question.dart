@@ -3,9 +3,11 @@ import 'package:testing_training/repositories/questions/models/question/question
 import 'package:testing_training/repositories/session_save/models/models.dart';
 
 abstract class AbstractQuestion extends Equatable {
+  int getNumber();
   String getName();
   String? getImage();
   void setAnswer(SessionQuestion sessionQuestion);
+  void shuffleAnswersNum(SessionQuestion sessionQuestion);
 }
 
 class QuestionFactory {

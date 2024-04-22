@@ -87,8 +87,12 @@ class _QuestionsPageState extends State<QuestionsPage> {
                       question: question,
                       sessionQuestion: sessionQuestion,
                       pageController: pageController,
-                      isFirst: state.questionsList.first == question,
-                      isLast: state.questionsList.last == question,
+                      isFirst: state.questionsList[
+                              state.sessionQuestions.first.questionNum] ==
+                          question,
+                      isLast: state.questionsList[
+                              state.sessionQuestions.last.questionNum] ==
+                          question,
                     );
                   }).toList(),
                 );

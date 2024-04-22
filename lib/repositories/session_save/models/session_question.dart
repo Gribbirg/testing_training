@@ -3,6 +3,8 @@ class SessionQuestion {
 
   dynamic userAnswer;
 
+  dynamic saveAnswersNum;
+
   bool? isRight;
 
   SessionQuestion({required this.questionNum});

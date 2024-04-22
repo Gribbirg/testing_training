@@ -50,4 +50,14 @@ class OneSelectQuestion extends AbstractQuestion {
     final answer = sessionQuestion.userAnswer as Answer;
     sessionQuestion.isRight = answer.number == rightAnswerNumber;
   }
+
+  @override
+  void shuffleAnswersNum(SessionQuestion sessionQuestion) {
+    final answersNum = [for (int i = 0; i < answersCount; i++) i];
+    answersNum.shuffle();
+    sessionQuestion.saveAnswersNum = answersNum;
+  }
+
+  @override
+  int getNumber() => number;
 }

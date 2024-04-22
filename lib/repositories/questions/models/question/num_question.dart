@@ -38,4 +38,12 @@ class NumQuestion extends AbstractQuestion {
   void setAnswer(SessionQuestion sessionQuestion) {
     // TODO: implement setAnswer
   }
+
+  @override
+  void shuffleAnswersNum(SessionQuestion sessionQuestion) {
+    // TODO: implement shuffleAnswersNum
+  }
+
+  @override
+  int getNumber() => number;
 }
