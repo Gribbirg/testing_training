@@ -37,7 +37,7 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
   @override
   Widget build(BuildContext context) {
 
-    final theme = Theme.of(context);
+    // final theme = Theme.of(context);
 
     return Scaffold(
       appBar: AppBar(title: Text(widget.topic?.name ?? "Загрузка...")),
