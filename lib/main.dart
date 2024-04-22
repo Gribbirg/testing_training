@@ -1,4 +1,5 @@
 import 'package:dynamic_color/dynamic_color.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
@@ -8,6 +9,8 @@ import 'package:testing_training/repositories/session_save/abstract_session_save
 import 'package:testing_training/repositories/session_save/session_save.dart';
 import 'package:testing_training/router/router.dart';
 import 'package:testing_training/theme/theme.dart';
+
+import 'firebase_options.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -26,7 +29,9 @@ Future<void> main() async {
     () => SessionSaveRepository(box: sessionsSaveBox),
   );
 
-  // usePathUrlStrategy();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
 
   runApp(const TestingTrainingApp());
 }

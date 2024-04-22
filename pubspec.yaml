@@ -45,6 +45,10 @@ dependencies:
   json_annotation: ^4.8.1
   dynamic_color: ^1.7.0
   hive: ^2.2.3
+  firebase_core: ^2.30.0
+  firebase_analytics: ^10.10.2
+  firebase_performance: ^0.9.4+2
+  firebase_remote_config: ^4.4.2
 
 dev_dependencies:
   flutter_test:

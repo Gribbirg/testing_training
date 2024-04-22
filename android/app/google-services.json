@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937555690164",
+    "project_id": "testing-training-e498b",
+    "storage_bucket": "testing-training-e498b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937555690164:android:a9311b378d3e8d03488de1",
+        "android_client_info": {
+          "package_name": "ru.gribtestingtraining.testing_training"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA84mOUn8sQa7_0fldng3JlZsgvYB83fXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
