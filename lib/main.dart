@@ -8,7 +8,6 @@ import 'package:testing_training/repositories/session_save/abstract_session_save
 import 'package:testing_training/repositories/session_save/session_save.dart';
 import 'package:testing_training/router/router.dart';
 import 'package:testing_training/theme/theme.dart';
-import 'package:flutter_web_plugins/url_strategy.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -27,7 +26,7 @@ Future<void> main() async {
     () => SessionSaveRepository(box: sessionsSaveBox),
   );
 
-  usePathUrlStrategy();
+  // usePathUrlStrategy();
 
   runApp(const TestingTrainingApp());
 }
