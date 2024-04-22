@@ -28,7 +28,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
   final _questionsListBloc = QuestionsListBloc(
       questionsRepository: GetIt.I<AbstractQuestionsRepository>(),
       sessionSaveRepository: GetIt.I<AbstractSessionSaveRepository>());
-  final PageController pageController = PageController();
+  late final PageController pageController;
 
   @override
   void initState() {
@@ -62,6 +62,8 @@ class _QuestionsPageState extends State<QuestionsPage> {
           bloc: _questionsListBloc,
           builder: (BuildContext context, QuestionsListState state) {
             if (state is QuestionsListLoaded) {
+              pageController = PageController(
+                  initialPage: state.sessionData.getFirstOpenedIndex());
               return Scaffold(
                 appBar: AppBar(
                   title: Text(state.module.name),
@@ -89,8 +91,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
                         _questionsListBloc.add(SaveSessionData());
                       },
                       scrollToNextOpenedQuestion: () {
-                        if (state.sessionData.sessionsQuestions
-                            .any((element) => element.isRight == null)) {
+                        if (!state.sessionData.allQuestionsAreClosed()) {
                           final sessionsQuestions =
                               state.sessionData.sessionsQuestions;
                           int page = pageController.page!.toInt();
@@ -101,8 +102,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
                           }
 
                           if (page == sessionsQuestions.length) {
-                            page = sessionsQuestions.indexWhere(
-                                (element) => element.isRight == null);
+                            page = state.sessionData.getFirstOpenedIndex();
                           }
 
                           pageController.animateToPage(page,

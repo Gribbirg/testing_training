@@ -106,8 +106,12 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                   textAlign: TextAlign.center,
                 )),
             _getQuestionAnswers(),
-            Padding(
-                padding: const EdgeInsets.all(10),
+            Container(
+                constraints: const BoxConstraints(
+                  minWidth: 200,
+                  minHeight: 100
+                ),
+                padding: const EdgeInsets.all(20),
                 child: (widget.sessionQuestion.isRight == null)
                     ? FilledButton(
                         onPressed: (widget.sessionQuestion.userAnswer != null)
@@ -121,7 +125,7 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                             : null,
                         child: const Text("Ответить"),
                       )
-                    : FilledButton(
+                    : OutlinedButton(
                         onPressed: widget.scrollToNextOpenedQuestion,
                         child: const Text("Следующий"),
                       )),

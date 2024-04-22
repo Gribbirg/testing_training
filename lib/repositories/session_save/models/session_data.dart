@@ -18,4 +18,10 @@ class SessionData extends HiveObject {
       {required this.topicId, required this.moduleId, sessionsQuestions}) {
     this.sessionsQuestions = sessionsQuestions ?? [];
   }
+
+  bool allQuestionsAreClosed() =>
+      !sessionsQuestions.any((element) => element.isRight == null);
+
+  int getFirstOpenedIndex() =>
+      sessionsQuestions.indexWhere((element) => element.isRight == null);
 }
