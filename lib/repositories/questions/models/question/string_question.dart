@@ -18,7 +18,7 @@ class StringQuestion extends AbstractQuestion {
   late final Set<String> variants;
 
   StringQuestion({required this.name, required this.number, required this.image, required this.answer, required List<String> variants}) {
-    this.variants = variants.toSet();
+    this.variants = variants.map((e) => e.toLowerCase()).toSet();
   }
 
   factory StringQuestion.fromJson(Map<String, dynamic> json) => _$StringQuestionFromJson(json);
@@ -36,8 +36,8 @@ class StringQuestion extends AbstractQuestion {
 
   @override
   void setAnswerRight(SessionQuestion sessionQuestion) {
-    final userAnswer = sessionQuestion.userAnswer as String;
-    sessionQuestion.isRight = userAnswer == answer || variants.contains(userAnswer);
+    final userAnswer = (sessionQuestion.userAnswer as String).toLowerCase();
+    sessionQuestion.isRight = userAnswer == answer.toLowerCase() || variants.contains(userAnswer);
   }
 
   @override

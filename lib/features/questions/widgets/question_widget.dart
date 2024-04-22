@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:testing_training/features/questions/widgets/num_question_widget.dart';
+import 'package:testing_training/features/questions/widgets/string_question_widget.dart';
 import 'package:testing_training/main.dart';
 import 'package:testing_training/repositories/questions/models/question/question.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';
@@ -143,6 +144,16 @@ class _QuestionWidgetState extends State<QuestionWidget> {
     if (widget.question is NumQuestion) {
       return NumQuestionWidget(
         question: widget.question as NumQuestion,
+        sessionQuestion: widget.sessionQuestion,
+        topic: widget.topic,
+        module: widget.module,
+        setParentState: setState,
+      );
+    }
+
+    if (widget.question is StringQuestion) {
+      return StringQuestionWidget(
+        question: widget.question as StringQuestion,
         sessionQuestion: widget.sessionQuestion,
         topic: widget.topic,
         module: widget.module,
