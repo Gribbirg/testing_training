@@ -1,33 +1,33 @@
 [
   {
     "name": "\"Первые живые существа возникли из четырех вечных и неизменных элементов мировой материи: огонь, воздух, вода и земля из сочетания которых в различных пропорциях образуются все вещи\" - сказал",
-    "number": 1,
+    "number": 0,
     "answers_count": 5,
     "answers": [
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Платон",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Лукреций Кар",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -36,33 +36,33 @@
   },
   {
     "name": "Растения и животные возникают из неживого материала предположил",
-    "number": 2,
+    "number": 1,
     "answers_count": 5,
     "answers": [
       {
         "text": "Аристотель",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Платон",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Лукреций Кар",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -71,33 +71,33 @@
   },
   {
     "name": "\"Живые существа образуются в результате соединения пассивной материи с активным началом (формой), представляющим собой душу, которая затем движет организмом\"- сказал",
-    "number": 3,
+    "number": 2,
     "answers_count": 5,
     "answers": [
       {
         "text": "Платон",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Лукреций Кар",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -106,33 +106,33 @@
   },
   {
     "name": "\"Мир состоит из множества мельчайших частиц, которые находятся в движении\" принадлежит",
-    "number": 4,
+    "number": 3,
     "answers_count": 5,
     "answers": [
       {
         "text": "Демокриту",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Эмпедоклу",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Платону",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотел.",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Лукрецию Кару",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -141,33 +141,33 @@
   },
   {
     "name": "\"Для природы характерно закономерное развитие, выживание тех организмов, которые наиболее гармонично (целесообразно) устроены\" - сказал",
-    "number": 5,
+    "number": 4,
     "answers_count": 5,
     "answers": [
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Платон",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Лукреций Кар",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -176,33 +176,33 @@
   },
   {
     "name": "Французский монах Роджер Бэкон",
-    "number": 6,
+    "number": 5,
     "answers_count": 5,
     "answers": [
       {
         "text": "заложил основы опытного естествознания",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "создал рецепт \"изготовления\" гомункулуса",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "создал труд \"Канон врачебной науки\"",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "представил доказательства невозможности самозарождения",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -211,33 +211,33 @@
   },
   {
     "name": "Осуществил ряд экспериментов с мясом и мухами и пришел к заключению, что личинки, возникающие в гниющем мясе, являются личинками насекомых - это",
-    "number": 7,
+    "number": 6,
     "answers_count": 5,
     "answers": [
       {
         "text": "Ф. Реди",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Авиценна",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -246,33 +246,33 @@
   },
   {
     "name": "\"Жизнь существует во вселенной и переносится в простейших формах с одного небесного тела на другое под давлением световых лучей\" утверждает",
-    "number": 8,
+    "number": 7,
     "answers_count": 5,
     "answers": [
       {
         "text": "Аррениус",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Авиценна",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -281,33 +281,33 @@
   },
   {
     "name": "\"Канон врачебной науки\" труд философа средневековья",
-    "number": 9,
+    "number": 8,
     "answers_count": 5,
     "answers": [
       {
         "text": "Авиценны",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрита",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Эмпедокла",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотеля",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Роджера Бэкона",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -316,33 +316,33 @@
   },
   {
     "name": "Аристотелевскую\"лестницу природы\"создали",
-    "number": 10,
+    "number": 9,
     "answers_count": 5,
     "answers": [
       {
         "text": "Г. Лейбниц и Ш. Бонне",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Эмпедокл и Авиценна",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Аристотель и Аррениус",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Г. Лейбниц и Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Аррениус и Авиценна",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -351,33 +351,33 @@
   },
   {
     "name": "Древнегреческие философы:",
-    "number": 11,
+    "number": 10,
     "answers_count": 5,
     "answers": [
       {
         "text": "Эмпедокл , Демокрит и Платон",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Платон",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -386,33 +386,33 @@
   },
   {
     "name": "Философы Древнего Рима:",
-    "number": 12,
+    "number": 11,
     "answers_count": 5,
     "answers": [
       {
         "text": "Лукреций Кар",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Платон",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -421,33 +421,33 @@
   },
   {
     "name": "Идея о естественном происхождении живых существ принадлежит древнегреческому философу",
-    "number": 13,
+    "number": 12,
     "answers_count": 5,
     "answers": [
       {
         "text": "Эмпедоклу и Демокриту",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокриту",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Платону",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотелю",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Эмпедоклу",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -456,33 +456,33 @@
   },
   {
     "name": "Знаменитый врач средневековья Парацельс",
-    "number": 14,
+    "number": 13,
     "answers_count": 5,
     "answers": [
       {
         "text": "создал рецепт \"изготовления\" гомункулуса",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "заложил основы опытного естествознания",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "создал труд \"Канон врачебной науки\"",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "представил доказательства невозможности самозарождения",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -491,33 +491,33 @@
   },
   {
     "name": "Римский поэт и философ-материалист написавший поэму «О природе вещей»",
-    "number": 15,
+    "number": 14,
     "answers_count": 5,
     "answers": [
       {
         "text": "Лукреций Кар",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Платон",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -526,33 +526,33 @@
   },
   {
     "name": "Согласно взглядам креационистов, жизнь",
-    "number": 16,
+    "number": 15,
     "answers_count": 5,
     "answers": [
       {
         "text": "была создана сверхъестественным образом",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "возникала неоднократно из вещества неживой природы",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "вечна, возникла одновременно со Вселенной",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "самозародилась и продолжает самозарождаться",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "занесена на нашу планету извне",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -561,33 +561,33 @@
   },
   {
     "name": "Философы средневековья:",
-    "number": 17,
+    "number": 16,
     "answers_count": 5,
     "answers": [
       {
         "text": "Авиценна и Роджер Бэкон",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Авиценна",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Роджер Бэкон",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -596,33 +596,33 @@
   },
   {
     "name": "Гипотезу панспермии сформулировал в начале нашего века ученый",
-    "number": 18,
+    "number": 17,
     "answers_count": 5,
     "answers": [
       {
         "text": "Аррениус",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Авиценна",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -631,33 +631,33 @@
   },
   {
     "name": "Ф. Реди",
-    "number": 19,
+    "number": 18,
     "answers_count": 5,
     "answers": [
       {
         "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "заложил основы опытного естествознания",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "создал труд \"Канон врачебной науки\"",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "создал рецепт \"изготовления\" гомункулуса",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "представил доказательства невозможности самозарождения",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -666,33 +666,33 @@
   },
   {
     "name": "Философ средневековья арабского Востока",
-    "number": 20,
+    "number": 19,
     "answers_count": 5,
     "answers": [
       {
         "text": "Авиценна",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Роджер Бэкон",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -701,33 +701,33 @@
   },
   {
     "name": "Л. Пастер",
-    "number": 21,
+    "number": 20,
     "answers_count": 5,
     "answers": [
       {
         "text": "представил доказательства невозможности самозарождения",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "заложил основы опытного естествознания",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "создал труд \"Канон врачебной науки\"",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "опроверг доктрину самозарождения высших организмов из неживого материала",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "создал рецепт \"изготовления\" гомункулуса",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -736,33 +736,33 @@
   },
   {
     "name": "Древнегреческий философ - материалист, один из основателей античной атомистики",
-    "number": 22,
+    "number": 21,
     "answers_count": 5,
     "answers": [
       {
         "text": "Демокрит",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Платон",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Лукреций Кар",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -771,33 +771,33 @@
   },
   {
     "name": "Экспериментально доказал, что источником загрязнений всех растворов являются бактерии",
-    "number": 23,
+    "number": 22,
     "answers_count": 5,
     "answers": [
       {
         "text": "Л. Пастер",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Авиценна",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Родже Бэкон",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -806,33 +806,33 @@
   },
   {
     "name": "Согласно гипотезе панспермии, жизнь ...",
-    "number": 24,
+    "number": 23,
     "answers_count": 5,
     "answers": [
       {
         "text": "занесена на нашу планету извне",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "была создана сверхъестественным образом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "вечна, возникла одновременно со Вселенной",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "самозародилась и продолжает самозарождаться",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "возникала неоднократно из вещества неживой природы",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -841,33 +841,33 @@
   },
   {
     "name": "Для средневековья характерно господство идеологии ...",
-    "number": 25,
+    "number": 24,
     "answers_count": 5,
     "answers": [
       {
         "text": "религиозной",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "материалистической",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "метафизической",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "мистической",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "идолопоклонческой",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -876,33 +876,33 @@
   },
   {
     "name": "Осуществил ряд экспериментов с мясом и мухами и пришел к заключению, что личинки, возникающие в гниющем мясе, являются личинками насекомых",
-    "number": 26,
+    "number": 25,
     "answers_count": 5,
     "answers": [
       {
         "text": "Ф. Реди",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Авиценна",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -911,33 +911,33 @@
   },
   {
     "name": "Первые живые существа возникли из четырех вечных и неизменных элементов мировой материи: огонь, воздух, вода и земля из сочетания которых в различных пропорциях образуются все вещи",
-    "number": 27,
+    "number": 26,
     "answers_count": 5,
     "answers": [
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Платон",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Лукреций Кар",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",
@@ -946,33 +946,33 @@
   },
   {
     "name": "\"Жизнь существует во вселенной и переносится в простейших формах с одного небесного тела на другое под давлением световых лучей\" утверждает",
-    "number": 28,
+    "number": 27,
     "answers_count": 5,
     "answers": [
       {
         "text": "Аррениус",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Демокрит",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Авиценна",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Аристотель",
         "image": null,
-        "number": 4
+        "number": 3
       },
       {
         "text": "Эмпедокл",
         "image": null,
-        "number": 5
+        "number": 4
       }
     ],
     "type": "oneselect",

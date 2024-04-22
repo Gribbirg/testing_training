@@ -1,28 +1,28 @@
 [
   {
     "name": "Биологический прогресс, достигнутый приобретением ароморфозов",
-    "number": 1,
+    "number": 0,
     "answers_count": 4,
     "answers": [
       {
         "text": "арогенез",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "аллогенез",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "катагенез",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "ценогенез",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -31,28 +31,28 @@
   },
   {
     "name": "Биологический прогресс, достигнутый приобретением частных приспособлений к среде обитания",
-    "number": 2,
+    "number": 1,
     "answers_count": 4,
     "answers": [
       {
         "text": "аллогенез",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "арогенез",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "катагенез",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "ценогенез",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -61,28 +61,28 @@
   },
   {
     "name": "Биологический прогресс, достигнутый упрощением организации организмов",
-    "number": 3,
+    "number": 2,
     "answers_count": 4,
     "answers": [
       {
         "text": "катагенез",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "арогенез",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "аллогенез",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "ценогенез",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -91,28 +91,28 @@
   },
   {
     "name": "Биологический прогресс, достигнутый приобретением зародышевых приспособлений",
-    "number": 4,
+    "number": 3,
     "answers_count": 4,
     "answers": [
       {
         "text": "ценогенез",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "арогенез",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "аллогенез",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "катагенез",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -121,28 +121,28 @@
   },
   {
     "name": "Разделение органа на специализированные отделы - это морфофункциональный принцип",
-    "number": 5,
+    "number": 4,
     "answers_count": 4,
     "answers": [
       {
         "text": "дифференциации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -151,28 +151,28 @@
   },
   {
     "name": "Увеличение числа структурных элементов органа - это морфофункциональный принцип",
-    "number": 6,
+    "number": 5,
     "answers_count": 4,
     "answers": [
       {
         "text": "полимеризации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дифференциации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -181,28 +181,28 @@
   },
   {
     "name": "Уменьшение числа структурных элементов органа - это морфофункциональный принцип",
-    "number": 7,
+    "number": 6,
     "answers_count": 4,
     "answers": [
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дифференциации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -211,28 +211,28 @@
   },
   {
     "name": "Изменение времени закладки органа - это морфофункциональный принцип",
-    "number": 8,
+    "number": 7,
     "answers_count": 4,
     "answers": [
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дифференциации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -241,28 +241,28 @@
   },
   {
     "name": "Изменение места закладки органа или структуры у зародыша - это морфофункциональный принцип",
-    "number": 9,
+    "number": 8,
     "answers_count": 4,
     "answers": [
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -271,28 +271,28 @@
   },
   {
     "name": "Замещение одного органа другим (аналогичным) - это морфофункциональный принцип",
-    "number": 10,
+    "number": 9,
     "answers_count": 4,
     "answers": [
       {
         "text": "субституции",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -301,28 +301,28 @@
   },
   {
     "name": "Усиление взаимосвязи, взаимозависимости и взаимодействия частей или органов целого организма - это морфофункциональный принцип",
-    "number": 11,
+    "number": 10,
     "answers_count": 4,
     "answers": [
       {
         "text": "интеграции",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -331,28 +331,28 @@
   },
   {
     "name": "Увеличение количества отделов позвоночника в процессе эволюции в типе хордовые - это морфофункциональный принцип",
-    "number": 12,
+    "number": 11,
     "answers_count": 4,
     "answers": [
       {
         "text": "дифференциации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -361,28 +361,28 @@
   },
   {
     "name": "Гетеродонтная зубная система, появившаяся в процессе эволюции у хордовых - это морфофункциональный принцип",
-    "number": 13,
+    "number": 12,
     "answers_count": 4,
     "answers": [
       {
         "text": "расширения функций",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -391,28 +391,28 @@
   },
   {
     "name": "Плавательный пузырь становится легкими в процессе эволюции у хордовых - это морфофункциональный принцип",
-    "number": 14,
+    "number": 13,
     "answers_count": 4,
     "answers": [
       {
         "text": "смена функций",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -421,28 +421,28 @@
   },
   {
     "name": "Усиление главной функции органа - это морфофункциональный принцип",
-    "number": 15,
+    "number": 14,
     "answers_count": 4,
     "answers": [
       {
         "text": "активации и интенсификации функции",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -451,28 +451,28 @@
   },
   {
     "name": "Замена жаберной дуги челюстью в процессе эволюции у хордовых - это морфофункциональный принцип",
-    "number": 16,
+    "number": 15,
     "answers_count": 4,
     "answers": [
       {
         "text": "смена функций",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -481,28 +481,28 @@
   },
   {
     "name": "Увеличение числа позвонков в поясничном отделе в процессе эволюции у хордовых - это морфофункциональный принцип",
-    "number": 17,
+    "number": 16,
     "answers_count": 4,
     "answers": [
       {
         "text": "полимеризации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дифференциации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -511,28 +511,28 @@
   },
   {
     "name": "Увеличение числа нефронов в почке в процессе эволюции у хордовых - это морфофункциональный принцип",
-    "number": 18,
+    "number": 17,
     "answers_count": 4,
     "answers": [
       {
         "text": "полимеризации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дифференциации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -541,28 +541,28 @@
   },
   {
     "name": "Уменьшение числа дуг аорты в процессе эволюции у хордовых - это морфофункциональный принцип",
-    "number": 19,
+    "number": 18,
     "answers_count": 4,
     "answers": [
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дифференциации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -571,28 +571,28 @@
   },
   {
     "name": "Уменьшение количества числа сосков в процессе эволюции у хордовых - это морфофункциональный принцип",
-    "number": 20,
+    "number": 19,
     "answers_count": 4,
     "answers": [
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дифференциации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -601,28 +601,28 @@
   },
   {
     "name": "Уменьшение количества числа пальцев в процессе эволюции у хордовых - это морфофункциональный принцип",
-    "number": 21,
+    "number": 20,
     "answers_count": 4,
     "answers": [
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дифференциации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -631,28 +631,28 @@
   },
   {
     "name": "Более ранняя закладка амниона у плацентарных млекопитающих по сравнению с яйцекладущими амниотами - это морфофункциональный принцип",
-    "number": 22,
+    "number": 21,
     "answers_count": 4,
     "answers": [
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дифференциации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -661,28 +661,28 @@
   },
   {
     "name": "Плечевой пояс у человека закладывается на уровне 3-4 шейных позвонков, а затем мигрирует в область 1-2 грудных позвонков - это морфофункциональный принцип",
-    "number": 23,
+    "number": 22,
     "answers_count": 4,
     "answers": [
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -691,28 +691,28 @@
   },
   {
     "name": "Неодинаковый темп эволюции органов и систем - это морфофункциональный принцип",
-    "number": 24,
+    "number": 23,
     "answers_count": 4,
     "answers": [
       {
         "text": "гетеробатмии",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -721,28 +721,28 @@
   },
   {
     "name": "Появление легких и конечностей у амфибий сочетается с примитивной системой размножения это морфофункциональный принцип",
-    "number": 25,
+    "number": 24,
     "answers_count": 4,
     "answers": [
       {
         "text": "гетеробатмии",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -751,28 +751,28 @@
   },
   {
     "name": "Наличие хвоста и жабр у головастика амфибий - это",
-    "number": 26,
+    "number": 25,
     "answers_count": 4,
     "answers": [
       {
         "text": "ценогенез",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "арогенез",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "аллогенез",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "катагенез",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -781,28 +781,28 @@
   },
   {
     "name": "Увеличение слоев эпидермиса кожи в процессе эволюции у хордовых - это морфофункциональный принцип",
-    "number": 27,
+    "number": 26,
     "answers_count": 4,
     "answers": [
       {
         "text": "полимеризации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дифференциации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -811,28 +811,28 @@
   },
   {
     "name": "Тип филэмбриогенеза, при котором происходит добавление к программе развития дополнительных стадий",
-    "number": 28,
+    "number": 27,
     "answers_count": 4,
     "answers": [
       {
         "text": "анаболия",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "девиация",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "архаллаксис",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -841,28 +841,28 @@
   },
   {
     "name": "Тип филэмбриогенеза, при котором происходит отклонение от программы развития в средней части онтогенеза",
-    "number": 29,
+    "number": 28,
     "answers_count": 4,
     "answers": [
       {
         "text": "девиация",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "анаболия",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "архаллаксис",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -871,28 +871,28 @@
   },
   {
     "name": "Тип филэмбриогенеза, при котором происходит отклонение от программы развития в самом начале онтогенеза",
-    "number": 30,
+    "number": 29,
     "answers_count": 4,
     "answers": [
       {
         "text": "архаллаксис",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "анаболия",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "девиация",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -901,28 +901,28 @@
   },
   {
     "name": "Биогенетический закон выполняется при типе филэмбриогенеза",
-    "number": 31,
+    "number": 30,
     "answers_count": 4,
     "answers": [
       {
         "text": "анаболии",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "девиации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "архаллаксисе",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -931,28 +931,28 @@
   },
   {
     "name": "Биогенетический закон выполняется лишь частично при типе филэмбриогенеза",
-    "number": 32,
+    "number": 31,
     "answers_count": 4,
     "answers": [
       {
         "text": "девиации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "анаболии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "архаллаксисе",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -961,28 +961,28 @@
   },
   {
     "name": "Биогенетический закон не выполняется при типе филэмбриогенеза",
-    "number": 33,
+    "number": 32,
     "answers_count": 4,
     "answers": [
       {
         "text": "архаллаксисе",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "анаболии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "девиации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -991,28 +991,28 @@
   },
   {
     "name": "Преобразование костной чешуи целиком за счет кориума - это тип филэмбриогенеза",
-    "number": 34,
+    "number": 33,
     "answers_count": 4,
     "answers": [
       {
         "text": "анаболия",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "девиация",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "архаллаксис",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1021,28 +1021,28 @@
   },
   {
     "name": "Формирование роговой чешуи у пресмыкающихся связано с типом филэмбриогенеза",
-    "number": 35,
+    "number": 34,
     "answers_count": 4,
     "answers": [
       {
         "text": "девиацией",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "анаболией",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "архаллаксисом",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопией",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1051,28 +1051,28 @@
   },
   {
     "name": "Перо птиц образуется на основе роговой чешуи рептилий - это тип филэмбриогенеза",
-    "number": 36,
+    "number": 35,
     "answers_count": 4,
     "answers": [
       {
         "text": "анаболия",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "девиация",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "архаллаксис",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1081,28 +1081,28 @@
   },
   {
     "name": "Развитие волос у млекопитающих связано с типом филэмбриогенеза",
-    "number": 37,
+    "number": 36,
     "answers_count": 4,
     "answers": [
       {
         "text": "архаллаксисом",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "анаболией",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "девиацией",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопией",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1111,28 +1111,28 @@
   },
   {
     "name": "Порок развития кожных покровов у человека, связанный с наличием многососковости",
-    "number": 38,
+    "number": 37,
     "answers_count": 4,
     "answers": [
       {
         "text": "полителия",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "полимастия",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "гипертрихоз",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "полидактилия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1141,28 +1141,28 @@
   },
   {
     "name": "Порок развития кожных покровов у человека, связанный с увеличением количества молочных желез у женщин в нетипичных местах",
-    "number": 39,
+    "number": 38,
     "answers_count": 4,
     "answers": [
       {
         "text": "полимастия",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "полителия",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "гипертрихоз",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "полидактилия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1171,28 +1171,28 @@
   },
   {
     "name": "Порок развития кожных покровов у человека, связанный с избыточным ростом волос на теле и на лице",
-    "number": 40,
+    "number": 39,
     "answers_count": 4,
     "answers": [
       {
         "text": "гипертрихоз",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "полителия",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полимастия",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "полидактилия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1201,28 +1201,28 @@
   },
   {
     "name": "Онтогенетическая предпосылка полимастии у человека",
-    "number": 41,
+    "number": 40,
     "answers_count": 4,
     "answers": [
       {
         "text": "в эмбриогенезе человека закладывается вначале пять пар сосков, а впоследствии остается лишь одна",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "в эмбриогенезе человека закладывается вначале четыре пары сосков, а впоследствии остается лишь одна",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "в эмбриогенезе человека закладывается вначале две пары сосков, а впоследствии остается лишь одна",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "количество млечных желез и сосков коррелируется с плодовитостью",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1231,28 +1231,28 @@
   },
   {
     "name": "Добавочные ребра в шейном или поясничном отделах у человека - это порок развития",
-    "number": 42,
+    "number": 41,
     "answers_count": 4,
     "answers": [
       {
         "text": "осевого скелета",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "висцерального скелета",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "скелета конечностей",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "черепа",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1261,28 +1261,28 @@
   },
   {
     "name": "Филогенетической предпосылкой недоразвития и несращения верхних дужек позвонков у человека является",
-    "number": 43,
+    "number": 42,
     "answers_count": 4,
     "answers": [
       {
         "text": "появление несрастающихся дужек позвонков у круглоротых",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "появление несрастающихся дужек позвонков у хрящевых рыб",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "появление несрастающихся дужек позвонков у костных рыб",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "появление несрастающихся дужек позвонков у амфибий",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1291,28 +1291,28 @@
   },
   {
     "name": "Онтогенетической предпосылкой персистирования хвоста у человека является",
-    "number": 44,
+    "number": 43,
     "answers_count": 4,
     "answers": [
       {
         "text": "нарушение редукции позвонков в хвостовом отделе",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "наличие хвостового отдела",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "нарушение механизмов редукции хвостового отдела целиком",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "нарушение механизмов закладки хвостового отдела",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1321,28 +1321,28 @@
   },
   {
     "name": "Онтогенетической предпосылкой наличия одной слуховой косточки в среднем ухе у человека является",
-    "number": 45,
+    "number": 44,
     "answers_count": 4,
     "answers": [
       {
         "text": "нарушение дифференцировки элементов челюстной жаберной дуги",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "нарушение дифференцировки гиомандибулярного хряща",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "нарушение дифференцировки элементов нижней челюстной жаберной дуги",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "нарушение дифференцировки элементов верхней челюстной жаберной дуги",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1351,28 +1351,28 @@
   },
   {
     "name": "Плечевой пояс с одной либо с двух сторон находится выше нормального положения на несколько сантиметров - это порок развития у человека, связанный",
-    "number": 46,
+    "number": 45,
     "answers_count": 4,
     "answers": [
       {
         "text": "со скелетом конечностей",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "с висцеральным скелетом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "с осевым скелетом",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "с черепом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1381,28 +1381,28 @@
   },
   {
     "name": "Болезнь Шпренгеля - это порок развития у человека, связанный",
-    "number": 47,
+    "number": 46,
     "answers_count": 4,
     "answers": [
       {
         "text": "со скелетом конечностей",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "с висцеральным скелетом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "с осевым скелетом",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "с черепом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1411,28 +1411,28 @@
   },
   {
     "name": "Порок развития у человека, связанный с пищеварительной и дыхательной системами",
-    "number": 48,
+    "number": 47,
     "answers_count": 4,
     "answers": [
       {
         "text": "\"Волчья пасть\"",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "болезнь Шпренгеля",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полидактилия",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "полимастия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1441,28 +1441,28 @@
   },
   {
     "name": "Онтогенетической предпосылкой кистозной гипоплазии легких у человека является",
-    "number": 49,
+    "number": 48,
     "answers_count": 4,
     "answers": [
       {
         "text": "недоразвитие целых долей легкого",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "недоразвитие полностью легкого",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "разрастание долей легкого",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "недоразвитие только бронхов легкого",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1471,28 +1471,28 @@
   },
   {
     "name": "Появление слепой кишки у рептилий - это тип филэмбриогенеза",
-    "number": 50,
+    "number": 49,
     "answers_count": 4,
     "answers": [
       {
         "text": "анаболия",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "девиация",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "архаллаксис",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1501,28 +1501,28 @@
   },
   {
     "name": "Альвеолярное строение легких у млекопитающих - это тип филэмбриогенеза",
-    "number": 51,
+    "number": 50,
     "answers_count": 4,
     "answers": [
       {
         "text": "девиация",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "анаболия",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "архаллаксис",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гетеротопия",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1531,28 +1531,28 @@
   },
   {
     "name": "Изменение местоположения сердца: в глоточной области у рыб, в грудной полости у наземных позвоночных - это морфофункциональный принцип",
-    "number": 52,
+    "number": 51,
     "answers_count": 4,
     "answers": [
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полимеризации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1561,28 +1561,28 @@
   },
   {
     "name": "У земноводных задние кардиальные вены функционально замещаются задней полой веной - это морфофункциональный принцип",
-    "number": 53,
+    "number": 52,
     "answers_count": 4,
     "answers": [
       {
         "text": "субституции",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гетерохронии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "гетеротопии",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "олигомеризации",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",

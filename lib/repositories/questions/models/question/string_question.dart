@@ -1,5 +1,6 @@
 import 'package:json_annotation/json_annotation.dart';
 import 'package:testing_training/repositories/questions/models/question/abstract_question.dart';
+import 'package:testing_training/repositories/session_save/models/session_question.dart';
 
 part 'string_question.g.dart';
 
@@ -30,4 +31,9 @@ class StringQuestion extends AbstractQuestion {
 
   @override
   String getName() => name;
+
+  @override
+  void setAnswer(SessionQuestion sessionQuestion) {
+    // TODO: implement setAnswer
+  }
 }

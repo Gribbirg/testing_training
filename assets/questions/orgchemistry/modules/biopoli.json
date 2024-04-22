@@ -5,25 +5,25 @@
       {
         "text": null,
         "image": "c4_1_1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "350.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "351.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "352.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 1,
+    "number": 0,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -35,25 +35,25 @@
       {
         "text": "цистеин (2-амино-3-меркаптопропановая кислота)",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "валин (2-амино-3-метилбутановая кислота)",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "треонин (2-амино-3-гидроксибутановая кислота)",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "фенилаланин (2-амино-3-фенилпропановая кислота)",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 2,
+    "number": 1,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -65,25 +65,25 @@
       {
         "text": "треонин (2-амино-3-гидроксибутановая кислота)",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "цистеин (2-амино-3-меркаптопропановая кислота)",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "лизин (2,6-диаминогексановая кислота)",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "тирозин (2-амино-3-(4-гидроксифенил)пропановая кислота)",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 3,
+    "number": 2,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -95,25 +95,25 @@
       {
         "text": null,
         "image": "353.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "354.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "355.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "356.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 4,
+    "number": 3,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -125,25 +125,25 @@
       {
         "text": null,
         "image": "357.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "358.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "359.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "360.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 5,
+    "number": 4,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -155,25 +155,25 @@
       {
         "text": "RCH(NH2)COOH  +  PCl5  →  RCH(NH2)COCl  +  POCl3  +  HCl",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "RCH(NH2)COOH  +  CH3OH  +  HCl  → [RCH(NH3+)COOCH3]Cl–  +  H2O",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "RCH(NH2)COOH  +  HCl  →  [RCH(NH3+)COOH]Cl–",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "361.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 6,
+    "number": 5,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -185,25 +185,25 @@
       {
         "text": "3-аминопропановая кислота",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "3-аминобутановая кислота",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "2-аминобутановая кислота",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "2-аминопропановая кислота",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 7,
+    "number": 6,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -215,26 +215,26 @@
       {
         "text": "Ala-Cys-Val",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Val-Cys-Ala",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Ala-Ser-Val",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Val-Ser-Ala",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "362.png",
-    "number": 8,
+    "number": 7,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -245,25 +245,25 @@
       {
         "text": null,
         "image": "363.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "364.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "365.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "366.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 9,
+    "number": 8,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -275,25 +275,25 @@
       {
         "text": null,
         "image": "367.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "368.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "369.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "370.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 10,
+    "number": 9,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -305,25 +305,25 @@
       {
         "text": "серин",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "лизин",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "аспарагин",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "лейцин",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 11,
+    "number": 10,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -335,25 +335,25 @@
       {
         "text": "аспарагиновая кислота",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "лизин",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "серин",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "валин",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 12,
+    "number": 11,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -365,25 +365,25 @@
       {
         "text": "лизин",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "серин",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "аспарагин",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "валин",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 13,
+    "number": 12,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -395,25 +395,25 @@
       {
         "text": null,
         "image": "c4_14_1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "c4_14_2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "c4_14_3.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "c4_14_4.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 14,
+    "number": 13,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -425,25 +425,25 @@
       {
         "text": null,
         "image": "372.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "373.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "374.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "375.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 15,
+    "number": 14,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -455,25 +455,25 @@
       {
         "text": null,
         "image": "376.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "c4_16_2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "c4_16_3.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "378.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 16,
+    "number": 15,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -485,25 +485,25 @@
       {
         "text": null,
         "image": "379.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "380.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "c4_17_3.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "c4_17_4.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 17,
+    "number": 16,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -515,25 +515,25 @@
       {
         "text": null,
         "image": "c4_18_1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "c4_18_2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "383.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "384.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 18,
+    "number": 17,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -545,25 +545,25 @@
       {
         "text": null,
         "image": "c4_19_1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "c4_19_2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "386.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "387.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 19,
+    "number": 18,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -575,25 +575,25 @@
       {
         "text": "различаются конфигурацией атомов С-1 в альдозах и С-2 в кетозах",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "являются энантиомерами",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "имеют одинаковую величину удельного вращения",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "могут существовать в открытых формах",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 20,
+    "number": 19,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -605,25 +605,25 @@
       {
         "text": "взаимодействие с реактивом Фелинга",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "восстановление борогидридом натрия",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "взаимодействие со спиртами в присутствии кислотного катализатора",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "взаимодействие с уксусным ангидридом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 21,
+    "number": 20,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -635,26 +635,26 @@
       {
         "text": "является гликозидом 1,3,4,6-тетра-О-метил-α-D-фруктофуранозы",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "образуется при взаимодействии D-фруктозы с безводным метанолом в кислой среде",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полностью гидролизуется в кислой среде",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "способен мутаротировать в водном растворе",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "388.png",
-    "number": 22,
+    "number": 21,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -665,25 +665,25 @@
       {
         "text": null,
         "image": "389.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "390.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "391.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "392.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 23,
+    "number": 22,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -695,25 +695,25 @@
       {
         "text": "D-галактоза и D-глюкоза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "D-галактоза и L-галактоза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "D-ксилоза и D-рибоза",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "D-ксилоза и L-ксилоза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 24,
+    "number": 23,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -725,25 +725,25 @@
       {
         "text": "β-L-галактопираноза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "бензил-α-D-маннопиранозид",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "сорбит (D-глюцит)",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "D-глюконовая кислота",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 25,
+    "number": 24,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -755,25 +755,25 @@
       {
         "text": "окисляется в метил-α-D-галактуронид кислоту кислородом в присутствии Pt",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "окисляется бромом в D-галактоновую кислоту",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "восстанавливается в полиол",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гидролизуется в кислой и щелочной средах",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 26,
+    "number": 25,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -785,25 +785,25 @@
       {
         "text": null,
         "image": "393.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "394.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "395.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "396.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 27,
+    "number": 26,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -815,25 +815,25 @@
       {
         "text": null,
         "image": "397.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "398.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "399.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "400.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 28,
+    "number": 27,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -845,25 +845,25 @@
       {
         "text": null,
         "image": "401.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "402.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "403.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "404.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 29,
+    "number": 28,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -875,25 +875,25 @@
       {
         "text": null,
         "image": "405.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "406.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "407.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "408.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 30,
+    "number": 29,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -905,25 +905,25 @@
       {
         "text": null,
         "image": "409.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "410.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "411.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "412.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 31,
+    "number": 30,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -935,25 +935,25 @@
       {
         "text": null,
         "image": "c4_32_1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "c4_32_2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "c4_32_3.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "414.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 32,
+    "number": 31,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -965,26 +965,26 @@
       {
         "text": null,
         "image": "416.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "417.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "418.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "419.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "415.png",
-    "number": 33,
+    "number": 32,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -995,26 +995,26 @@
       {
         "text": null,
         "image": "421.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "422.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "423.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "424.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "420.png",
-    "number": 34,
+    "number": 33,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -1025,25 +1025,25 @@
       {
         "text": null,
         "image": "c4_35_1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "c4_35_2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "426.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "427.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 35,
+    "number": 34,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1055,25 +1055,55 @@
       {
         "text": "содержит α-гликозидную связь",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "является восстанавливающим дисахаридом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "окисляется бромной водой",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "состоит из остатков D-глюкозы и D-галактозы",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "428.png",
+    "number": 35,
+    "type": "oneselect",
+    "right_ans_num": 0,
+    "answers_count": 4
+  },
+  {
+    "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ ДИСАХАРИДА ВЕРНЫ, КРОМЕ",
+    "answers": [
+      {
+        "text": "является восстанавливающим дисахаридом",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "содержит остаток альдопентозы",
+        "image": null,
+        "number": 1
+      },
+      {
+        "text": "содержит остаток дезоксисахара",
+        "image": null,
+        "number": 2
+      },
+      {
+        "text": "гидролизуется в кислой среде",
+        "image": null,
+        "number": 3
+      }
+    ],
+    "image": "429.png",
     "number": 36,
     "type": "oneselect",
     "right_ans_num": 0,
@@ -1085,56 +1115,26 @@
       {
         "text": "является восстанавливающим дисахаридом",
         "image": null,
-        "number": 1
-      },
-      {
-        "text": "содержит остаток альдопентозы",
-        "image": null,
-        "number": 2
-      },
-      {
-        "text": "содержит остаток дезоксисахара",
-        "image": null,
-        "number": 3
-      },
-      {
-        "text": "гидролизуется в кислой среде",
-        "image": null,
-        "number": 4
-      }
-    ],
-    "image": "429.png",
-    "number": 37,
-    "type": "oneselect",
-    "right_ans_num": 0,
-    "answers_count": 4
-  },
-  {
-    "name": "ВСЕ УТВЕРЖДЕНИЯ ДЛЯ ДИСАХАРИДА ВЕРНЫ, КРОМЕ",
-    "answers": [
-      {
-        "text": "является восстанавливающим дисахаридом",
-        "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "содержит остатки альдогексоз",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "гидролизуется в кислой среде",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "ацилируется уксусным ангидридом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "430.png",
-    "number": 38,
+    "number": 37,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -1145,26 +1145,26 @@
       {
         "text": "является невосстанавливающим дисахаридом",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "ацилируется ацетилхлоридом в присутствии пиридина",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "гидролизуется в кислой среде",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "реагирует с метанолом в присутствии газообразного хлороводорода",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "431.png",
-    "number": 39,
+    "number": 38,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -1175,25 +1175,25 @@
       {
         "text": "способна к цикло-оксотаутомерии",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "реагирует с метанолом в присутствии газообразного хлороводорода",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "ацилируется ацетилхлоридом в присутствии пиридина",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "состоит из остатков D-глюкозы и D-фруктозы",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 40,
+    "number": 39,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1205,22 +1205,52 @@
       {
         "text": null,
         "image": "432.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "433.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "434.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "435.png",
-        "number": 4
+        "number": 3
+      }
+    ],
+    "number": 40,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0,
+    "answers_count": 4
+  },
+  {
+    "name": "В СВЕЖЕПРИГОТОВЛЕННОМ РАСТВОРЕ МУТАРОТИРУЮТ",
+    "answers": [
+      {
+        "text": "β-мальтоза",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "этил-β-целлобиозид",
+        "image": null,
+        "number": 1
+      },
+      {
+        "text": "сахароза",
+        "image": null,
+        "number": 2
+      },
+      {
+        "text": "октаацетат лактозы",
+        "image": null,
+        "number": 3
       }
     ],
     "number": 41,
@@ -1233,57 +1263,27 @@
     "name": "В СВЕЖЕПРИГОТОВЛЕННОМ РАСТВОРЕ МУТАРОТИРУЮТ",
     "answers": [
       {
-        "text": "β-мальтоза",
-        "image": null,
-        "number": 1
-      },
-      {
-        "text": "этил-β-целлобиозид",
-        "image": null,
-        "number": 2
-      },
-      {
-        "text": "сахароза",
-        "image": null,
-        "number": 3
-      },
-      {
-        "text": "октаацетат лактозы",
-        "image": null,
-        "number": 4
-      }
-    ],
-    "number": 42,
-    "type": "oneselect",
-    "image": null,
-    "right_ans_num": 0,
-    "answers_count": 4
-  },
-  {
-    "name": "В СВЕЖЕПРИГОТОВЛЕННОМ РАСТВОРЕ МУТАРОТИРУЮТ",
-    "answers": [
-      {
         "text": "β-лактоза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "этил-β-целлобиозид",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "сахароза",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "октаацетат мальтозы",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 43,
+    "number": 42,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1295,26 +1295,26 @@
       {
         "text": null,
         "image": "437.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "438.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "439.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "440.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "436.png",
-    "number": 44,
+    "number": 43,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -1325,25 +1325,25 @@
       {
         "text": null,
         "image": "c4_45_1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "c4_45_2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "442.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "443.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 45,
+    "number": 44,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1355,25 +1355,25 @@
       {
         "text": null,
         "image": "c4_46_1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "c4_46_2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "445.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "446.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 46,
+    "number": 45,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1385,25 +1385,25 @@
       {
         "text": "взаимодействуют с уксусным ангидридом",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дают положительную реакцию серебряного зеркала",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "являются энантиомерами",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "являются таутомерами",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 47,
+    "number": 46,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1415,25 +1415,25 @@
       {
         "text": "взаимодействуют с уксусным ангидридом",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "являются энантиомерами",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "дают положительную реакцию серебряного зеркала",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "являются таутомерами",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 48,
+    "number": 47,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1445,25 +1445,25 @@
       {
         "text": "взаимодействуют с уксусным ангидридом",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дают положительную реакцию серебряного зеркала",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "являются таутомерами",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "являются энантиомерами",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 49,
+    "number": 48,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1475,25 +1475,25 @@
       {
         "text": "образует сложные эфиры",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гидролизуется в щелочной среде",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "состоит из двух остатков D-галактопиранозы",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "образует соли с раствором щёлочи",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 50,
+    "number": 49,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1505,25 +1505,25 @@
       {
         "text": "образует сложные эфиры",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гидролизуется в щелочной среде",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "состоит из двух остатков D-галактопиранозы",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "образует соли с раствором щёлочи",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 51,
+    "number": 50,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1535,25 +1535,25 @@
       {
         "text": "образует сложные эфиры",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гидролизуется в щелочной среде",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "состоит из двух остатков D-галактопиранозы",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "образует соли с раствором щёлочи",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 52,
+    "number": 51,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1565,26 +1565,26 @@
       {
         "text": "окисляется бромной водой",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "содержит α-гликозидную связь",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "состоит из двух остатков D-глюкопиранозы",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "относится к невосстанавливающим дисахаридам",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "447.png",
-    "number": 53,
+    "number": 52,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -1595,26 +1595,26 @@
       {
         "text": "содержит β(1→3)-гликозидную связь",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "содержит амидную группу",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "содержит сложноэфирную группу",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "состоит из остатков уроновой кислоты и аминосахара",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "448.png",
-    "number": 54,
+    "number": 53,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -1625,25 +1625,25 @@
       {
         "text": "образует простые и сложные эфиры",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "гидролизуется в щелочной среде",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "содержит α(1→4)-гликозидную связь",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "состоит из остатков D-глюкопиранозы и D-галактопиранозы",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 55,
+    "number": 54,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1655,25 +1655,25 @@
       {
         "text": "взаимодействуют с уксусным ангидридом",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дают положительную реакцию серебряного зеркала",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "являются энантиомерами",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "в водном растворе находятся в таутомерном равновесии",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 56,
+    "number": 55,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1685,25 +1685,25 @@
       {
         "text": "восемь",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "десять",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "шесть",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "восемь",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 57,
+    "number": 56,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1715,25 +1715,25 @@
       {
         "text": "три",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "два",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "четыре",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "один",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 58,
+    "number": 57,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1745,25 +1745,25 @@
       {
         "text": "три",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "два",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "четыре",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "один",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 59,
+    "number": 58,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1775,25 +1775,25 @@
       {
         "text": "три",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "два",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "четыре",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "один",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 60,
+    "number": 59,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1805,25 +1805,25 @@
       {
         "text": "восемь",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "десять",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "шесть",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "четыре",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 61,
+    "number": 60,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1835,25 +1835,25 @@
       {
         "text": "восемь",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "десять",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "шесть",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "четыре",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 62,
+    "number": 61,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1865,25 +1865,25 @@
       {
         "text": "подвергаются кислотному гидролизу",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "построены из остатков β-D-глюкопиранозы",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "являются гетерополисахаридам",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "образуют окрашенный комплекс с иодом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 63,
+    "number": 62,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1895,25 +1895,25 @@
       {
         "text": "подвергаются кислотному гидролизу",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "построены из остатков β-D-глюкопиранозы",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "являются гетерополисахаридам",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "являются линейными полисахаридами",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 64,
+    "number": 63,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1925,22 +1925,52 @@
       {
         "text": "подвергаются кислотному гидролизу",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "построены из остатков β-D-глюкопиранозы",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "являются гетерополисахаридам",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "образуют окрашенный комплекс с иодом",
         "image": null,
-        "number": 4
+        "number": 3
+      }
+    ],
+    "number": 64,
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0,
+    "answers_count": 4
+  },
+  {
+    "name": "ЛИНЕЙНЫМ ПОЛИСАХАРИДОМ ЯВЛЯЕТСЯ",
+    "answers": [
+      {
+        "text": "амилоза",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "амилопектин",
+        "image": null,
+        "number": 1
+      },
+      {
+        "text": "гликоген",
+        "image": null,
+        "number": 2
+      },
+      {
+        "text": "декстран",
+        "image": null,
+        "number": 3
       }
     ],
     "number": 65,
@@ -1953,24 +1983,24 @@
     "name": "ЛИНЕЙНЫМ ПОЛИСАХАРИДОМ ЯВЛЯЕТСЯ",
     "answers": [
       {
-        "text": "амилоза",
+        "text": "целлюлоза",
         "image": null,
-        "number": 1
-      },
-      {
-        "text": "амилопектин",
-        "image": null,
-        "number": 2
-      },
-      {
-        "text": "гликоген",
-        "image": null,
-        "number": 3
+        "number": 0
       },
       {
         "text": "декстран",
         "image": null,
-        "number": 4
+        "number": 1
+      },
+      {
+        "text": "гликоген",
+        "image": null,
+        "number": 2
+      },
+      {
+        "text": "амилопектин",
+        "image": null,
+        "number": 3
       }
     ],
     "number": 66,
@@ -1980,10 +2010,15 @@
     "answers_count": 4
   },
   {
-    "name": "ЛИНЕЙНЫМ ПОЛИСАХАРИДОМ ЯВЛЯЕТСЯ",
+    "name": "НЕ ЯВЛЯЕТСЯ ГОМОПОЛИСАХАРИДОМ",
     "answers": [
       {
-        "text": "целлюлоза",
+        "text": "гиалуроновая кислота",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "гликоген",
         "image": null,
         "number": 1
       },
@@ -1993,14 +2028,9 @@
         "number": 2
       },
       {
-        "text": "гликоген",
+        "text": "целлюлоза",
         "image": null,
         "number": 3
-      },
-      {
-        "text": "амилопектин",
-        "image": null,
-        "number": 4
       }
     ],
     "number": 67,
@@ -2013,7 +2043,12 @@
     "name": "НЕ ЯВЛЯЕТСЯ ГОМОПОЛИСАХАРИДОМ",
     "answers": [
       {
-        "text": "гиалуроновая кислота",
+        "text": "хондроитин-сульфат",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "декстран",
         "image": null,
         "number": 1
       },
@@ -2023,14 +2058,9 @@
         "number": 2
       },
       {
-        "text": "декстран",
-        "image": null,
-        "number": 3
-      },
-      {
         "text": "целлюлоза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "number": 68,
@@ -2043,7 +2073,12 @@
     "name": "НЕ ЯВЛЯЕТСЯ ГОМОПОЛИСАХАРИДОМ",
     "answers": [
       {
-        "text": "хондроитин-сульфат",
+        "text": "гепарин",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "гликоген",
         "image": null,
         "number": 1
       },
@@ -2053,47 +2088,12 @@
         "number": 2
       },
       {
-        "text": "гликоген",
-        "image": null,
-        "number": 3
-      },
-      {
         "text": "целлюлоза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "number": 69,
-    "type": "oneselect",
-    "image": null,
-    "right_ans_num": 0,
-    "answers_count": 4
-  },
-  {
-    "name": "НЕ ЯВЛЯЕТСЯ ГОМОПОЛИСАХАРИДОМ",
-    "answers": [
-      {
-        "text": "гепарин",
-        "image": null,
-        "number": 1
-      },
-      {
-        "text": "гликоген",
-        "image": null,
-        "number": 2
-      },
-      {
-        "text": "декстран",
-        "image": null,
-        "number": 3
-      },
-      {
-        "text": "целлюлоза",
-        "image": null,
-        "number": 4
-      }
-    ],
-    "number": 70,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -2105,25 +2105,25 @@
       {
         "text": "построен из остатков α-D-глюкопиранозы",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "относится к неразветвлённым полисахаридам",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "построен из остатков как α-, так и β-D-глюкопиранозы",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "является гетерополисахаридом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 71,
+    "number": 70,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,

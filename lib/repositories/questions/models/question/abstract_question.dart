@@ -1,9 +1,11 @@
 import 'package:equatable/equatable.dart';
 import 'package:testing_training/repositories/questions/models/question/question.dart';
+import 'package:testing_training/repositories/session_save/models/models.dart';
 
 abstract class AbstractQuestion extends Equatable {
   String getName();
   String? getImage();
+  void setAnswer(SessionQuestion sessionQuestion);
 }
 
 class QuestionFactory {

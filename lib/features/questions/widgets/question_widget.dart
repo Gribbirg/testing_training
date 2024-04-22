@@ -33,38 +33,56 @@ class QuestionWidget extends StatefulWidget {
 class _QuestionWidgetState extends State<QuestionWidget> {
   @override
   Widget build(BuildContext context) {
+    final theme = Theme.of(context);
     return SingleChildScrollView(
       padding: const EdgeInsets.all(10),
       child: Card(
         child: Column(
           children: [
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                IconButton(
-                    onPressed: (widget.isFirst)
-                        ? null
-                        : () {
-                            widget.pageController.previousPage(
-                                duration: const Duration(milliseconds: 300),
-                                curve: Curves.easeInOut);
-                          },
-                    icon: const Icon(Icons.chevron_left)),
-                IconButton(
-                    onPressed: (widget.isLast)
-                        ? null
-                        : () {
-                            widget.pageController.nextPage(
-                                duration: const Duration(milliseconds: 300),
-                                curve: Curves.easeInOut);
-                          },
-                    icon: const Icon(Icons.chevron_right)),
-              ],
-            ),
-            const Padding(
-              padding: EdgeInsets.symmetric(horizontal: 8.0),
-              child: Divider(),
+            Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                crossAxisAlignment: CrossAxisAlignment.center,
+                children: [
+                  IconButton(
+                      onPressed: (widget.isFirst)
+                          ? null
+                          : () {
+                              widget.pageController.previousPage(
+                                  duration: const Duration(milliseconds: 300),
+                                  curve: Curves.easeInOut);
+                            },
+                      icon: const Icon(Icons.chevron_left)),
+                  Expanded(
+                    child: Text(
+                      (widget.sessionQuestion.isRight == null)
+                          ? "Ответьте на вопрос:"
+                          : (widget.sessionQuestion.isRight!)
+                              ? "Правильно!"
+                              : "Неправильно!",
+                      style: TextStyle(
+                        color: (widget.sessionQuestion.isRight == null)
+                            ? null
+                            : (widget.sessionQuestion.isRight!)
+                                ? theme.colorScheme.primary
+                                : theme.colorScheme.error,
+                        fontSize: 25,
+                      ),
+                      textAlign: TextAlign.center,
+                    ),
+                  ),
+                  IconButton(
+                      onPressed: (widget.isLast)
+                          ? null
+                          : () {
+                              widget.pageController.nextPage(
+                                  duration: const Duration(milliseconds: 300),
+                                  curve: Curves.easeInOut);
+                            },
+                      icon: const Icon(Icons.chevron_right)),
+                ],
+              ),
             ),
             if ((widget.question.getImage() != null))
               Padding(
@@ -82,6 +100,28 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                   textAlign: TextAlign.center,
                 )),
             _getQuestionAnswers(),
+            Padding(
+                padding: const EdgeInsets.all(10),
+                child: (widget.sessionQuestion.isRight == null)
+                    ? FilledButton(
+                        onPressed: (widget.sessionQuestion.userAnswer != null)
+                            ? () {
+                                setState(() {
+                                  widget.question
+                                      .setAnswer(widget.sessionQuestion);
+                                });
+                              }
+                            : null,
+                        child: const Text("Ответить"),
+                      )
+                    : FilledButton(
+                        onPressed: () {
+                          widget.pageController.nextPage(
+                              duration: const Duration(milliseconds: 300),
+                              curve: Curves.easeInOut);
+                        },
+                        child: const Text("Следующий"),
+                      )),
           ],
         ),
       ),
@@ -91,10 +131,12 @@ class _QuestionWidgetState extends State<QuestionWidget> {
   Widget _getQuestionAnswers() {
     if (widget.question is OneSelectQuestion) {
       return OneSelectQuestionWidget(
-          question: widget.question as OneSelectQuestion,
-          sessionQuestion: widget.sessionQuestion,
-          topic: widget.topic,
-          module: widget.module);
+        question: widget.question as OneSelectQuestion,
+        sessionQuestion: widget.sessionQuestion,
+        topic: widget.topic,
+        module: widget.module,
+        setParentState: setState,
+      );
     }
 
     return const CircularProgressIndicator();

@@ -1,28 +1,28 @@
 [
   {
     "name": "Идеи ламаркизма и дарвинизма в геккелевской интерпретации присущи концепции:",
-    "number": 1,
+    "number": 0,
     "answers_count": 4,
     "answers": [
       {
         "text": "эктогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "автогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "мутационизма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дарвинизма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -31,28 +31,28 @@
   },
   {
     "name": "Эволюция, основанная на стремлении организмов к самосовершенству, - это концепция:",
-    "number": 2,
+    "number": 1,
     "answers_count": 4,
     "answers": [
       {
         "text": "автогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "эктогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "мутационизма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дарвинизма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -61,28 +61,28 @@
   },
   {
     "name": "Развитие эволюции идет по твердым законам, а не путем случайностей - это концепция",
-    "number": 3,
+    "number": 2,
     "answers_count": 4,
     "answers": [
       {
         "text": "номогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "эктогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "мутационизма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дарвинизма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -91,28 +91,28 @@
   },
   {
     "name": "Эволюция происходит путем возникновения мутаций ,в результате которых сразу создается новый биологический вид - это концепция:",
-    "number": 4,
+    "number": 3,
     "answers_count": 4,
     "answers": [
       {
         "text": "мутационизма",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "номогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "эктогенеза",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дарвинизма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -121,28 +121,28 @@
   },
   {
     "name": "\"Популяция впитывает мутации, как губка впитывает воду\" - говорил:",
-    "number": 5,
+    "number": 4,
     "answers_count": 4,
     "answers": [
       {
         "text": "С.С. Четвериков",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Дубинин",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Дж.Хаксли",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Добжанский",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -151,28 +151,28 @@
   },
   {
     "name": "Развитие целиком определяется внешними факторами - это концепция:",
-    "number": 6,
+    "number": 5,
     "answers_count": 4,
     "answers": [
       {
         "text": "эктогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "автогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "мутационизма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дарвинизма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -181,28 +181,28 @@
   },
   {
     "name": "\"Единица эволюции - это чреда поколений\"; присуща концепции:",
-    "number": 7,
+    "number": 6,
     "answers_count": 4,
     "answers": [
       {
         "text": "автогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "неодарвинизма",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "мутационизма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дарвинизма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -211,28 +211,28 @@
   },
   {
     "name": "Российский ученый, предшественник мутационной теории Хуго де Фриза:",
-    "number": 8,
+    "number": 7,
     "answers_count": 4,
     "answers": [
       {
         "text": "С.И. Коржинский",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "А. Вейсман",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Жоффруа Сент-Илер",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Л.С. Берг",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -241,28 +241,28 @@
   },
   {
     "name": "Основные положения мутационной теории были открыты:",
-    "number": 9,
+    "number": 8,
     "answers_count": 4,
     "answers": [
       {
         "text": "Хуго де Фризом",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "А. Вейсманом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Жоффруа Сент-Илером",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Л.С. Бергом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -271,28 +271,28 @@
   },
   {
     "name": "\"Волны жизни\" могут влиять на направление и интенсивность давления естественного отбора принадлежит:",
-    "number": 10,
+    "number": 9,
     "answers_count": 4,
     "answers": [
       {
         "text": "С.С. Четверикову",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Дубинину",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Дж. Хаксли",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Добжанскому",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -301,28 +301,28 @@
   },
   {
     "name": "Эволюция - это адаптивный процесс, основанный на всеобщем свойстве живых существ \"наследование благоприобретенных свойств\" - принадлежит концепции:",
-    "number": 11,
+    "number": 10,
     "answers_count": 4,
     "answers": [
       {
         "text": "эктогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "автогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "мутационизма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дарвинизма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -331,28 +331,28 @@
   },
   {
     "name": "Позиции автогенеза придерживался:",
-    "number": 12,
+    "number": 11,
     "answers_count": 4,
     "answers": [
       {
         "text": "Л.С. Берг",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "А. Вейсман",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Жоффруа Сент-Илер",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Хуго де Фриз",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -361,28 +361,28 @@
   },
   {
     "name": "Не зависящая от внешних условий изменчивость \"остается обыкновенно в скрытом состоянии, но время от времени проявляется в виде внезапных отклонений\" - этот тезис принадлежит:",
-    "number": 13,
+    "number": 12,
     "answers_count": 4,
     "answers": [
       {
         "text": "С.И. Коржинскому",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "А. Вейсману",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Жоффруа Сент-Илеру",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Л.С. Бергу",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -391,28 +391,28 @@
   },
   {
     "name": "Закон сцепленного наследования генов был сформулировал:",
-    "number": 14,
+    "number": 13,
     "answers_count": 4,
     "answers": [
       {
         "text": "Т. Морганом",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "А. Вейсманом",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Жоффруа Сент-Илером",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Л.С. Бергом",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -421,28 +421,28 @@
   },
   {
     "name": "Работа \"О некоторых моментах эволюционного процесса с точки зрения современной генетики\" - принадлежит:",
-    "number": 15,
+    "number": 14,
     "answers_count": 4,
     "answers": [
       {
         "text": "С.С. Четверикову",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Дубинину",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Дж. Хаксли",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Добжанскому",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -451,28 +451,28 @@
   },
   {
     "name": "Позиции эктогенеза придерживался:",
-    "number": 16,
+    "number": 15,
     "answers_count": 4,
     "answers": [
       {
         "text": "Жоффруа Сент-Илер",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "А. Вейсман",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Л.С. Берг",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Хуго де Фриз",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -481,28 +481,28 @@
   },
   {
     "name": "\"Эволюция организмов - это результат некоторых закономерных процессов, протекающих в них\" - это концепция:",
-    "number": 17,
+    "number": 16,
     "answers_count": 4,
     "answers": [
       {
         "text": "номогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "эктогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "мутационизма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дарвинизм",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -511,28 +511,28 @@
   },
   {
     "name": "Прогресс в организации не зависит от борьбы за существование - это концепция:",
-    "number": 18,
+    "number": 17,
     "answers_count": 4,
     "answers": [
       {
         "text": "Л.С. Берга",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "А. Вейсмана",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Жоффруа Сент-Илера",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Хуго де Фриза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -541,28 +541,28 @@
   },
   {
     "name": "\"Мутации - это аномалии, полученные в эксперименте и не встречающиеся в природе\"- считал:",
-    "number": 19,
+    "number": 18,
     "answers_count": 4,
     "answers": [
       {
         "text": "Т. Морган",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "А. Вейсман",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Жоффруа Сент-Илер",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Л.С. Берг",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -571,28 +571,28 @@
   },
   {
     "name": "Огромный вклад в развитие генетики популяций внес ...",
-    "number": 20,
+    "number": 19,
     "answers_count": 4,
     "answers": [
       {
         "text": "С.С. Четвериков",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Дубинин",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Дж. Хаксли",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Добжанский",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -601,28 +601,28 @@
   },
   {
     "name": "\"Единица эволюции - это чреда поколений\" - утверждали представители концепции...",
-    "number": 21,
+    "number": 20,
     "answers_count": 4,
     "answers": [
       {
         "text": "эктогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "неодарвинизма",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "мутационизма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дарвинизма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -631,28 +631,28 @@
   },
   {
     "name": "\"Эволюция происходит только благодаря саморазвитию организмов и не зависит от внешней среды\" - это концепция:",
-    "number": 22,
+    "number": 21,
     "answers_count": 4,
     "answers": [
       {
         "text": "автогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "эктогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "мутационизма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дарвинизма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -661,28 +661,28 @@
   },
   {
     "name": "Влияние естественного отбора в борьбе за существование в эволюции имеет второстепенное значение - это концепция:",
-    "number": 23,
+    "number": 22,
     "answers_count": 4,
     "answers": [
       {
         "text": "номогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "эктогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "мутационизма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дарвинизма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -691,28 +691,28 @@
   },
   {
     "name": "Учение о \"Зародышевой плазме\" и \"Зародышевом пути\" лежит в основе концепции:",
-    "number": 24,
+    "number": 23,
     "answers_count": 4,
     "answers": [
       {
         "text": "неодарвинизма",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "эктогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "мутационизма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "автогенеза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -721,28 +721,28 @@
   },
   {
     "name": "При определении концентрации аллелей какого-либо гена в изучаемой популяции используется уравнение Харди-Вайнберга в том случае, если:",
-    "number": 25,
+    "number": 24,
     "answers_count": 4,
     "answers": [
       {
         "text": "популяция достаточно большая, скрещивание более - менее случайно, интенсивность отбора низкая)",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "скрещивание более - менее случайно",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "интенсивность отбора низкая",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "популяция достаточно большая",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",

@@ -1,28 +1,28 @@
 [
   {
     "name": "Элементарным материалом эволюции в синтетической теории эволюции является:",
-    "number": 1,
+    "number": 0,
     "answers_count": 4,
     "answers": [
       {
         "text": "изменчивость",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "наследственность",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "популяция",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "естественный отбор",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -31,28 +31,28 @@
   },
   {
     "name": "Элементарной единицей эволюции в синтетической теории эволюции является:",
-    "number": 2,
+    "number": 1,
     "answers_count": 4,
     "answers": [
       {
         "text": "популяция",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "изменчивость",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "наследственность",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "естественный отбор",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -61,28 +61,28 @@
   },
   {
     "name": "Элементарное эволюционное явление в синтетической теории эволюции -это:",
-    "number": 3,
+    "number": 2,
     "answers_count": 4,
     "answers": [
       {
         "text": "изменение генетической структуры популяции",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "изменение генетической структуры вида",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "изменение генетической структуры особи",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "неизменность генетической структуры популяции",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -91,28 +91,28 @@
   },
   {
     "name": "К элементарным факторам эволюции, согласно синтетической теории эволюции относятся:",
-    "number": 4,
+    "number": 3,
     "answers_count": 4,
     "answers": [
       {
         "text": "дрейф генов, волны жизни, поток генов",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "волны жизни",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "поток генов",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дрейф генов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -121,28 +121,28 @@
   },
   {
     "name": "Элементарные факторы эволюции, имеющие ненаправленный, случайный характер - это",
-    "number": 5,
+    "number": 4,
     "answers_count": 4,
     "answers": [
       {
         "text": "дрейф генов, волны жизни, поток генов",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "волны жизни",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "поток генов",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дрейф генов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -151,28 +151,28 @@
   },
   {
     "name": "Основным и единственным направленным фактором эволюции, согласно синтетической теории эволюции, является:",
-    "number": 6,
+    "number": 5,
     "answers_count": 4,
     "answers": [
       {
         "text": "естественный отбор",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "волны жизни",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "поток генов",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "дрейф генов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -181,28 +181,28 @@
   },
   {
     "name": "Эволюция имеет дивергентный характер, так как",
-    "number": 7,
+    "number": 6,
     "answers_count": 4,
     "answers": [
       {
         "text": "один таксон может дать начало нескольким новым таксонам",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "один таксон может дать начало только одному новому таксону",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "несколько таксонов могут дать начало только одному новому таксону",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "каждый вид имеет несколько предков",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -211,28 +211,28 @@
   },
   {
     "name": "Эволюция, согласно синтетической теории эволюции, носит:",
-    "number": 8,
+    "number": 7,
     "answers_count": 4,
     "answers": [
       {
         "text": "постепенный и длительный характер",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "длительный характер",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "скачкообразный характер",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "постепенный характер",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -241,28 +241,28 @@
   },
   {
     "name": "Виды эволюционного процесса, согласно синтетической теории эволюции:",
-    "number": 9,
+    "number": 8,
     "answers_count": 4,
     "answers": [
       {
         "text": "макроэволюция и микроэволюция",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "микроэволюция",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "естественный отбор",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "макроэволюция",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -271,28 +271,28 @@
   },
   {
     "name": "Биологический прогресс, согласно синтетической теории эволюции, достигается благодаря:",
-    "number": 10,
+    "number": 9,
     "answers_count": 4,
     "answers": [
       {
         "text": "ароморфозам, идиоадаптациям и общей дегенерации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "идиоадаптациям",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "общей дегенерации",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "ароморфозам",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -301,28 +301,28 @@
   },
   {
     "name": "Основные идеи и направления, отраженные в синтетической теории эволюции, были заложены:",
-    "number": 11,
+    "number": 10,
     "answers_count": 4,
     "answers": [
       {
         "text": "Ч.Дарвином",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Р.Фишером",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Н.К. Кольцовым",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Дж.Б.С. Холдейном",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -331,28 +331,28 @@
   },
   {
     "name": "Главным источником генетического разнообразия, согласно синтетической теории эволюции, является",
-    "number": 12,
+    "number": 11,
     "answers_count": 4,
     "answers": [
       {
         "text": "рекомбинация генов",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "дрейф генов",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "волны жизни",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "поток генов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -361,28 +361,28 @@
   },
   {
     "name": "Серия планетарных катастроф способствует разнообразию живых организмов- эта эволюционная идея принадлежит",
-    "number": 13,
+    "number": 12,
     "answers_count": 4,
     "answers": [
       {
         "text": "Ж.Кювье",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Э.Геккелю",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Ж.Б.Ламарку",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Л.С.Бергу",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",

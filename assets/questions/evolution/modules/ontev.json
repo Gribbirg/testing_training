@@ -1,28 +1,28 @@
 [
   {
     "name": "В ходе онтогенеза происходят:",
-    "number": 1,
+    "number": 0,
     "answers_count": 4,
     "answers": [
       {
         "text": "рост, дифференцировка и интеграция частей организма",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "рост и иинтеграция частей организма",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "дифференцировка и иинтеграция частей организма",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "рост и дифференцировка частей организма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -31,28 +31,28 @@
   },
   {
     "name": "Впервые на взаимосвязь онтогенеза и филогенеза указал",
-    "number": 2,
+    "number": 1,
     "answers_count": 4,
     "answers": [
       {
         "text": "Карл Бэр",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Ф. Мюллер",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Э. Геккель",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "А.Н. Северцев",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -61,28 +61,28 @@
   },
   {
     "name": "Учение о зародышевых листках (эктодерме, мезодерме, энтодерме) создал",
-    "number": 3,
+    "number": 2,
     "answers_count": 4,
     "answers": [
       {
         "text": "Карл Бэр",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Ф. Мюллер",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Э. Геккель",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "А.Н. Северцев",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -91,28 +91,28 @@
   },
   {
     "name": "«Онтогенез есть краткое и быстрое повторение филогенеза» - биогенетический закон, который сформулировал",
-    "number": 4,
+    "number": 3,
     "answers_count": 4,
     "answers": [
       {
         "text": "Э. Геккель",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Ф. Мюллер",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Карл Бэр",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "А.Н. Северцев",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -121,28 +121,28 @@
   },
   {
     "name": "«Онтогенез не повторяет филогенез, а творит его» это высказывание",
-    "number": 5,
+    "number": 4,
     "answers_count": 4,
     "answers": [
       {
         "text": "В. Гарстанга",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Ф. Мюллера",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Карл Бэра",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "А.Н. Северцева",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -151,28 +151,28 @@
   },
   {
     "name": "\"Эволюция происходит путем отбора целых онтогенезов\" - это высказывание принадлежит",
-    "number": 6,
+    "number": 5,
     "answers_count": 4,
     "answers": [
       {
         "text": "И.И. Шмальгаузену",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Ф. Мюллеру",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "В. Гарстангу",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "А.Н. Северцеву",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -181,28 +181,28 @@
   },
   {
     "name": "\"Эволюция осуществляется путем изменения онтогенеза, а филогенез является функцией онтогенеза\" - это высказывание принадлежит",
-    "number": 7,
+    "number": 6,
     "answers_count": 4,
     "answers": [
       {
         "text": "А.Н. Северцеву",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Ф. Мюллеру",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "В. Гарстангу",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "И.И. Шмальгаузену",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -211,28 +211,28 @@
   },
   {
     "name": "\"Посредником важнейших эволюционных процессов служат перестройки онтогенеза\"- это высказывание принадлежит",
-    "number": 8,
+    "number": 7,
     "answers_count": 4,
     "answers": [
       {
         "text": "С. Гулду",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "А.Н. Северцеву",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "В. Гарстангу",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "И.И. Шмальгаузену",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -241,28 +241,28 @@
   },
   {
     "name": "«Закон зародышевого сходства» сформулировал",
-    "number": 9,
+    "number": 8,
     "answers_count": 4,
     "answers": [
       {
         "text": "Карл Бэр",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Ф. Мюллер",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Э. Геккель",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "А.Н. Северцев",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -271,28 +271,28 @@
   },
   {
     "name": "Согласно «Закону зародышевого сходства» в процессе эмбрионального развития на ранних стадиях онтогенеза проявляются самые общие признаки",
-    "number": 10,
+    "number": 9,
     "answers_count": 4,
     "answers": [
       {
         "text": "типа",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "класса",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "рода",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "вида",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -301,28 +301,28 @@
   },
   {
     "name": "Пути эволюции онтогенеза",
-    "number": 11,
+    "number": 10,
     "answers_count": 4,
     "answers": [
       {
         "text": "усложнение, упрощение и перестройка стадий онтогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "возникновение новых стадий в онтогенезе",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "исключение определенных стадий из онтогенеза",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "перестройка онтогенеза без изменения отдельных его стадий",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -331,28 +331,28 @@
   },
   {
     "name": "Эмбриональная индукция была открыта",
-    "number": 12,
+    "number": 11,
     "answers_count": 4,
     "answers": [
       {
         "text": "Г. Шпеманом",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "А.Н. Северцевым",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "В. Гарстангом",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "И.И. Шмальгаузеном",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -361,28 +361,28 @@
   },
   {
     "name": "В эмбриональной индукции важную роль играет",
-    "number": 13,
+    "number": 12,
     "answers_count": 4,
     "answers": [
       {
         "text": "индуктор, компетентная ткань и взаимодействие между ними",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "индуктор",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "компетентная ткань",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "гормоны эмбриональной индукции",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -391,28 +391,28 @@
   },
   {
     "name": "В эмбриональной индукции индуктор представляет собой",
-    "number": 14,
+    "number": 13,
     "answers_count": 4,
     "answers": [
       {
         "text": "тканевую закладку, которая выделяет низкомолекулярные белки, воздействующие на ткань - мишень",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "тканевую закладку, которая выделяет гормоны, воздействующие на ткань - мишень",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "тканевую закладку, которая выделяет ферменты, воздействующие на ткань - мишень",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "тканевую закладку, которая выделяет полисахариды, воздействующие на ткань - мишень",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -421,28 +421,28 @@
   },
   {
     "name": "Индуцирующие агенты в эмбриональной индукции участвуют в",
-    "number": 15,
+    "number": 14,
     "answers_count": 4,
     "answers": [
       {
         "text": "активации синтеза специфических информационных РНК",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "активации синтеза специфических рибосомальных РНК",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "активации синтеза специфических белков",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "активации синтеза специфических гормонов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -451,28 +451,28 @@
   },
   {
     "name": "Мезодермальный индуктор, который индуцирует в онтогенезе дорсальную мезодермальную ткань",
-    "number": 16,
+    "number": 15,
     "answers_count": 4,
     "answers": [
       {
         "text": "белок активин",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "агент Noggin",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "ген Notch",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "ген Dorsalin",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -481,28 +481,28 @@
   },
   {
     "name": "Основной нейроиндуцирующий агент в эмбриональной индукции",
-    "number": 17,
+    "number": 16,
     "answers_count": 4,
     "answers": [
       {
         "text": "Noggin",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "активин",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Notch",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Dorsalin",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -511,28 +511,28 @@
   },
   {
     "name": "Ген, транскрипты которого обнаруживаются при замыкании нервной пластинки в нервную трубку в ходе эмбриогенеза",
-    "number": 18,
+    "number": 17,
     "answers_count": 4,
     "answers": [
       {
         "text": "Dorsalin",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "активин",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Notch",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Noggin",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -541,28 +541,28 @@
   },
   {
     "name": "Ген, который кодирует трансмембранный белок в эмбриогенезе, участвующий в определении судьбы клеток нейроэктодермы",
-    "number": 19,
+    "number": 18,
     "answers_count": 4,
     "answers": [
       {
         "text": "Notch",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "активин",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Dorsalin",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Noggin",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -571,28 +571,28 @@
   },
   {
     "name": "Первый клонированный специфический ген организатора, который кодирует транскрипционный фактор и вызывает развитие вторичного зародыша",
-    "number": 20,
+    "number": 19,
     "answers_count": 4,
     "answers": [
       {
         "text": "goosecoid (gsc)",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Notch",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Dorsalin",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Noggin",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -601,28 +601,58 @@
   },
   {
     "name": "Специфический ген организатора goosecoid экспрессируется на стадии гаструлы у",
-    "number": 21,
+    "number": 20,
     "answers_count": 4,
     "answers": [
       {
         "text": "амфибий, рыб, птиц и млекопитающих",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "рыб и птиц",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "птиц и млекопитающих",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "амфибий и рыб",
         "image": null,
-        "number": 4
+        "number": 3
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "В результате архенцефалической первичной эмбриональной индукции у эмбриона образуется",
+    "number": 21,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "передний мозг",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "средний мозг",
+        "image": null,
+        "number": 1
+      },
+      {
+        "text": "задний мозг",
+        "image": null,
+        "number": 2
+      },
+      {
+        "text": "продолговатый мозг",
+        "image": null,
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -635,24 +665,24 @@
     "answers_count": 4,
     "answers": [
       {
-        "text": "передний мозг",
+        "text": "хрусталик глаза",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "слуховые пузырьки",
         "image": null,
         "number": 1
       },
       {
-        "text": "средний мозг",
+        "text": "глотка",
         "image": null,
         "number": 2
       },
       {
-        "text": "задний мозг",
+        "text": "пищевод",
         "image": null,
         "number": 3
-      },
-      {
-        "text": "продолговатый мозг",
-        "image": null,
-        "number": 4
       }
     ],
     "type": "oneselect",
@@ -660,29 +690,29 @@
     "right_ans_num": 0
   },
   {
-    "name": "В результате архенцефалической первичной эмбриональной индукции у эмбриона образуется",
+    "name": "В результате дейтеренцефалической первичной эмбриональной индукции у эмбриона образуется",
     "number": 23,
     "answers_count": 4,
     "answers": [
       {
-        "text": "хрусталик глаза",
+        "text": "средний мозг",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "передний мозг",
         "image": null,
         "number": 1
       },
       {
-        "text": "слуховые пузырьки",
+        "text": "промежуточный мозг",
         "image": null,
         "number": 2
       },
       {
-        "text": "глотка",
+        "text": "продолговатый мозг",
         "image": null,
         "number": 3
-      },
-      {
-        "text": "пищевод",
-        "image": null,
-        "number": 4
       }
     ],
     "type": "oneselect",
@@ -695,54 +725,24 @@
     "answers_count": 4,
     "answers": [
       {
-        "text": "средний мозг",
-        "image": null,
-        "number": 1
-      },
-      {
-        "text": "передний мозг",
-        "image": null,
-        "number": 2
-      },
-      {
-        "text": "промежуточный мозг",
-        "image": null,
-        "number": 3
-      },
-      {
-        "text": "продолговатый мозг",
-        "image": null,
-        "number": 4
-      }
-    ],
-    "type": "oneselect",
-    "image": null,
-    "right_ans_num": 0
-  },
-  {
-    "name": "В результате дейтеренцефалической первичной эмбриональной индукции у эмбриона образуется",
-    "number": 25,
-    "answers_count": 4,
-    "answers": [
-      {
         "text": "слуховой пузырек",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "хрусталик глаза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "глотка",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "пищевод",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -751,28 +751,28 @@
   },
   {
     "name": "В результате мезодермально - энтодермальной первичной эмбриональной индукции у эмбриона образуется",
-    "number": 26,
+    "number": 25,
     "answers_count": 4,
     "answers": [
       {
         "text": "спинной мозг",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "передний мозг",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "промежуточный мозг",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "продолговатый мозг",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -781,28 +781,28 @@
   },
   {
     "name": "В результате спино - каудальной мезодермально - энтодермальной первичной эмбриональной индукции у эмбриона образуется",
-    "number": 27,
+    "number": 26,
     "answers_count": 4,
     "answers": [
       {
         "text": "хвостовая хорда",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "почечные канальцы",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "глотка",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "пищевод",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -811,28 +811,28 @@
   },
   {
     "name": "В результате туловищно - мезодермальной мезодермально - энтодермальной первичной эмбриональной индукции у эмбриона образуется",
-    "number": 28,
+    "number": 27,
     "answers_count": 4,
     "answers": [
       {
         "text": "почечные канальцы",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "хвостовая хорда",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "глотка",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "пищевод",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -841,28 +841,28 @@
   },
   {
     "name": "В результате энтодермальной мезодермально - энтодермальной первичной эмбриональной индукции у эмбриона образуется",
-    "number": 29,
+    "number": 28,
     "answers_count": 4,
     "answers": [
       {
         "text": "глотка",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "хвостовая хорда",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "почечные канальцы",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "хвостовая хорда",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -871,28 +871,28 @@
   },
   {
     "name": "«Генетический путь развития» онтогенеза определяют ключевые гены:",
-    "number": 30,
+    "number": 29,
     "answers_count": 4,
     "answers": [
       {
         "text": "НОХ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Notch",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Dorsalin",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Noggin",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -901,28 +901,28 @@
   },
   {
     "name": "Этапы развития онтогенеза определяются активностью «ключевого» гена",
-    "number": 31,
+    "number": 30,
     "answers_count": 4,
     "answers": [
       {
         "text": "НОХ",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Notch",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Dorsalin",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "Noggin",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -931,28 +931,28 @@
   },
   {
     "name": "Ключевые гены в онтогенезе кодируют",
-    "number": 32,
+    "number": 31,
     "answers_count": 4,
     "answers": [
       {
         "text": "полипептид, являющийся транскрипционным фактором, способным связываться с ДНК",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "полипептид, являющийся транскрипционным фактором, способным связываться с РНК",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "полипептид, являющийся транскрипционным фактором, способным связываться с энхансером",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "полипептид, являющийся транскрипционным фактором, способным связываться с сайленсером",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -961,28 +961,28 @@
   },
   {
     "name": "Ключевые гены в онтогенезе",
-    "number": 33,
+    "number": 32,
     "answers_count": 4,
     "answers": [
       {
         "text": "регулируют активность других генов",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "включают активность других генов",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "подавляют активность других генов",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "усиливают активность других генов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -991,28 +991,28 @@
   },
   {
     "name": "На уровне одного организма ключевые гены в онтогенезе",
-    "number": 34,
+    "number": 33,
     "answers_count": 4,
     "answers": [
       {
         "text": "плейотропные и консервативные",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "неконсервативные и монотропные",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "консервативные и монотропные",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "малоактивные и плейотропные",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1021,28 +1021,28 @@
   },
   {
     "name": "Эволюция онтогенеза в первую очередь связана с",
-    "number": 35,
+    "number": 34,
     "answers_count": 4,
     "answers": [
       {
         "text": "изменением конструкции регуляторных сетей и изменением набора ключевых генов",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "изменением активности ключевых генов и появлением новых генетических путей развития",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "изменением конструкции регуляторных сетей при неизменности активности ключевых генов",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "изменением конструкции регуляторных сетей при изменении активности ключевых генов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1051,28 +1051,28 @@
   },
   {
     "name": "Регуляторные генетические сети в онтогенезе",
-    "number": 36,
+    "number": 35,
     "answers_count": 4,
     "answers": [
       {
         "text": "сложные, многосетевые и \"избыточные\"",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "простые и многосетевые",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "\"избыточные\" и сложные",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "многосетевые и \"избыточные\"",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1081,28 +1081,28 @@
   },
   {
     "name": "Консервативность компонентов регуляторных генетических сетей в онтогенезе обеспечивается",
-    "number": 37,
+    "number": 36,
     "answers_count": 4,
     "answers": [
       {
         "text": "множеством обратных связей",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "\"избыточностью\" сетей",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "сложным строением сетей",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "постоянством набора ключевых генов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1111,28 +1111,28 @@
   },
   {
     "name": "Филотипическая стадия онтогенеза характеризуется тем, что",
-    "number": 38,
+    "number": 37,
     "answers_count": 4,
     "answers": [
       {
         "text": "эмбрионы хордовых животных сильнее всего похожи друг на друга на средних стадиях эмбрионального развития",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "эмбрионы хордовых животных сильнее всего похожи друг на друга на ранних стадиях эмбрионального развития",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "эмбрионы хордовых животных сильнее всего похожи друг на друга на поздних стадиях эмбрионального развития",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "эмбрионы хордовых животных сильнее всего похожи друг на друга на ранних и средних стадиях эмбрионального развития",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1141,28 +1141,28 @@
   },
   {
     "name": "Филотипическая стадия обладает",
-    "number": 39,
+    "number": 38,
     "answers_count": 4,
     "answers": [
       {
         "text": "повышенной эволюционной консервативностью на средних стадиях онтогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "повышенной эволюционной консервативностью на ранних стадиях онтогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "повышенной эволюционной консервативностью на поздних стадиях онтогенеза",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "повышенной эволюционной консервативностью на ранних и поздних стадиях онтогенеза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1171,28 +1171,28 @@
   },
   {
     "name": "В ходе эволюции мало меняются стадии онтогенеза",
-    "number": 40,
+    "number": 39,
     "answers_count": 4,
     "answers": [
       {
         "text": "только средние",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "только ранние",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "только поздние",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "ранние и поздние",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1201,28 +1201,28 @@
   },
   {
     "name": "В модели «песочных часов развития» онтогенеза показана",
-    "number": 41,
+    "number": 40,
     "answers_count": 4,
     "answers": [
       {
         "text": "повышенная многофункциональная активность генов, работающих на средних стадиях развития",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "повышенная многофункциональная активность генов, работающих на ранних стадиях развития",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "повышенная многофункциональная активность генов, работающих на поздних стадиях развития",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "повышенная монофункциональная активность генов, работающих на средних стадиях развития",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1231,28 +1231,28 @@
   },
   {
     "name": "Гены, выполняющие разнообразные функции на разных стадиях развития и в разных частях зародыша расположены на",
-    "number": 42,
+    "number": 41,
     "answers_count": 4,
     "answers": [
       {
         "text": "средних стадиях онтогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "поздних стадиях онтогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "ранних стадиях онтогенеза",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "ранних и поздних стадиях онтогенеза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1261,28 +1261,28 @@
   },
   {
     "name": "Морфогенетические корреляции основаны на",
-    "number": 43,
+    "number": 42,
     "answers_count": 4,
     "answers": [
       {
         "text": "функционировании генов",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "сцеплении генов и плейотропии",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "коррелятивных изменениях органов",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "комбинативной изменчивости",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1291,28 +1291,28 @@
   },
   {
     "name": "Геномные корреляции основаны на",
-    "number": 44,
+    "number": 43,
     "answers_count": 4,
     "answers": [
       {
         "text": "сцеплении генов и плейотропии",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "функционировании генов",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "коррелятивных изменениях органов",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "комбинативной изменчивости",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1321,28 +1321,28 @@
   },
   {
     "name": "Эргонтические корреляции основаны на",
-    "number": 45,
+    "number": 44,
     "answers_count": 4,
     "answers": [
       {
         "text": "коррелятивных изменениях органов",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "функционировании генов",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "сцеплении генов и плейотропии",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "комбинативной изменчивости",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1351,28 +1351,28 @@
   },
   {
     "name": "Биологические координации представляют собой",
-    "number": 46,
+    "number": 45,
     "answers_count": 4,
     "answers": [
       {
         "text": "адаптивный ответ на изменения среды через функциональную деятельность организма ведущий к прогрессирующей специализации",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "координации между взаимосвязанными органами, повышающие степень канализации онтогенеза и филогенеза",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "изменения пространственных соотношений между органами, не связанными непосредственной функциональной зависимостью",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "координации между невзаимосвязанными органами, понижающие степень канализации онтогенеза и филогенеза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1381,28 +1381,28 @@
   },
   {
     "name": "Динамические координации представляют собой",
-    "number": 47,
+    "number": 46,
     "answers_count": 4,
     "answers": [
       {
         "text": "координации между взаимосвязанными органами, повышающие степень канализации онтогенеза и филогенеза",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "адаптивный ответ на изменения среды через функциональную деятельность организма ведущий к прогрессирующей специализации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "изменения пространственных соотношений между органами, не связанными непосредственной функциональной зависимостью",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "координации между невзаимосвязанными органами, понижающие степень канализации онтогенеза и филогенеза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1411,28 +1411,28 @@
   },
   {
     "name": "Топографические координации представляют собой",
-    "number": 48,
+    "number": 47,
     "answers_count": 4,
     "answers": [
       {
         "text": "изменения пространственных соотношений между органами, не связанными непосредственной функциональной зависимостью",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "адаптивный ответ на изменения среды через функциональную деятельность организма ведущий к прогрессирующей специализации",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "координации между взаимосвязанными органами, повышающие степень канализации онтогенеза и филогенеза",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "координации между невзаимосвязанными органами, понижающие степень канализации онтогенеза и филогенеза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1441,28 +1441,28 @@
   },
   {
     "name": "Термин ценогенез впервые ввел",
-    "number": 49,
+    "number": 48,
     "answers_count": 4,
     "answers": [
       {
         "text": "Э. Геккель",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Ф. Мюллер",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Карл Бэр",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "А.Н. Северцев",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1471,28 +1471,28 @@
   },
   {
     "name": "Ценогенез у амфибий",
-    "number": 50,
+    "number": 49,
     "answers_count": 4,
     "answers": [
       {
         "text": "хвост",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "аллантоис",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "амнион",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "желточный мешок",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1501,28 +1501,28 @@
   },
   {
     "name": "Ценогенез - амнион впервые появился в каменноугольном периоде палеозойской эры у......",
-    "number": 51,
+    "number": 50,
     "answers_count": 4,
     "answers": [
       {
         "text": "пресмыкающихся",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "земноводных",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "птиц",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "млекопитающих",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1531,28 +1531,28 @@
   },
   {
     "name": "Ценогенез у личинки трематоды - церкария - это.....",
-    "number": 52,
+    "number": 51,
     "answers_count": 4,
     "answers": [
       {
         "text": "плавательный хвост",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "аллантоис",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "амнион",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "желточный мешок",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1561,28 +1561,28 @@
   },
   {
     "name": "Ценогенез у млекопитающих...",
-    "number": 53,
+    "number": 52,
     "answers_count": 4,
     "answers": [
       {
         "text": "хорион",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "аллантоис",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "амнион",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "желточный мешок",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1591,28 +1591,28 @@
   },
   {
     "name": "Основатели теории филэмбриогенеза",
-    "number": 54,
+    "number": 53,
     "answers_count": 4,
     "answers": [
       {
         "text": "А.Н. Северцев и И.И. Шмальгаузен",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "Э. Геккель и Ф. Мюллер",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "Г. Шпеман и В. Гарстанг",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "А.Н. Северцев и Г. Шпеман",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1621,28 +1621,28 @@
   },
   {
     "name": "Анаболии филэмбриогенеза представляют собой",
-    "number": 55,
+    "number": 54,
     "answers_count": 4,
     "answers": [
       {
         "text": "эволюционные изменения формообразования на поздних стадиях развития зародыша",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "эволюционные изменения формообразования на средних стадиях развития зародыша",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "эволюционные изменения формообразования на начальных стадиях развития зародыша",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "эволюционные изменения формообразования на всех стадиях развития зародыша",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1651,28 +1651,28 @@
   },
   {
     "name": "Девиации филэмбриогенеза представляют собой",
-    "number": 56,
+    "number": 55,
     "answers_count": 4,
     "answers": [
       {
         "text": "эволюционные изменения формообразования на средних стадиях развития зародыша",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "эволюционные изменения формообразования на поздних стадиях развития зародыша",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "эволюционные изменения формообразования на начальных стадиях развития зародыша",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "эволюционные изменения формообразования на всех стадиях развития зародыша",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1681,28 +1681,28 @@
   },
   {
     "name": "Архаллаксисы филэмбриогенеза представляют собой",
-    "number": 57,
+    "number": 56,
     "answers_count": 4,
     "answers": [
       {
         "text": "эволюционные изменения формообразования на начальных стадиях развития зародыша",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "эволюционные изменения формообразования на поздних стадиях развития зародыша",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "эволюционные изменения формообразования на средних стадиях развития зародыша",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "эволюционные изменения формообразования на всех стадиях развития зародыша",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1711,28 +1711,28 @@
   },
   {
     "name": "Ретардации в филэмбриогенезе представляют собой",
-    "number": 58,
+    "number": 57,
     "answers_count": 4,
     "answers": [
       {
         "text": "замедления развития эмбриона",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "изменение времени закладки зачатков эмбриона",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "изменение мест закладки эмбриона",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "изменение стадий онтогенеза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1741,28 +1741,28 @@
   },
   {
     "name": "Гетерохронии в филэмбриогенезе представляют собой",
-    "number": 59,
+    "number": 58,
     "answers_count": 4,
     "answers": [
       {
         "text": "изменение времени закладки зачатков эмбриона",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "замедления развития эмбриона",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "изменение мест закладки эмбриона",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "изменение стадий онтогенеза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1771,28 +1771,28 @@
   },
   {
     "name": "Гетеротопии в филэмбриогенезе представляют собой",
-    "number": 60,
+    "number": 59,
     "answers_count": 4,
     "answers": [
       {
         "text": "изменение мест закладки эмбриона",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "замедления развития эмбриона",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "изменение времени закладки зачатков эмбриона",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "изменение стадий онтогенеза",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1801,28 +1801,58 @@
   },
   {
     "name": "К анаболиям филэмбриогенеза относятся",
+    "number": 60,
+    "answers_count": 4,
+    "answers": [
+      {
+        "text": "крыловидные выросты у семян многих растений",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "развитие чешуи у акуловых и рептилий",
+        "image": null,
+        "number": 1
+      },
+      {
+        "text": "клубни и луковицы у растений",
+        "image": null,
+        "number": 2
+      },
+      {
+        "text": "колючки у растений",
+        "image": null,
+        "number": 3
+      }
+    ],
+    "type": "oneselect",
+    "image": null,
+    "right_ans_num": 0
+  },
+  {
+    "name": "К девиациям филэмбриогенеза относятся:",
     "number": 61,
     "answers_count": 4,
     "answers": [
+      {
+        "text": "клубни и луковицы у растений",
+        "image": null,
+        "number": 0
+      },
       {
         "text": "крыловидные выросты у семян многих растений",
         "image": null,
         "number": 1
       },
       {
-        "text": "развитие чешуи у акуловых и рептилий",
+        "text": "срастание костей и хрящей в скелете взрослых особей",
         "image": null,
         "number": 2
       },
       {
-        "text": "клубни и луковицы у растений",
+        "text": "плодовые тела у грибов",
         "image": null,
         "number": 3
-      },
-      {
-        "text": "колючки у растений",
-        "image": null,
-        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1835,24 +1865,24 @@
     "answers_count": 4,
     "answers": [
       {
-        "text": "клубни и луковицы у растений",
+        "text": "ороговение чешуи",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "крыловидные выросты у семян многих растений",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "срастание костей и хрящей в скелете взрослых особей",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "плодовые тела у грибов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1860,29 +1890,29 @@
     "right_ans_num": 0
   },
   {
-    "name": "К девиациям филэмбриогенеза относятся:",
+    "name": "К архаллаксисам филэмбриогенеза относятся",
     "number": 63,
     "answers_count": 4,
     "answers": [
       {
-        "text": "ороговение чешуи",
+        "text": "увеличение числа позвонков у змей",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "крыловидные выросты у семян многих растений",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "срастание костей и хрящей в скелете взрослых особей",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "плодовые тела у грибов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1895,24 +1925,24 @@
     "answers_count": 4,
     "answers": [
       {
-        "text": "увеличение числа позвонков у змей",
+        "text": "увеличение лучей плавников у рыб",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "крыловидные выросты у семян многих растений",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "срастание костей и хрящей в скелете взрослых особей",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "плодовые тела у грибов",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -1925,24 +1955,24 @@
     "answers_count": 4,
     "answers": [
       {
-        "text": "увеличение лучей плавников у рыб",
+        "text": "удвоение числа тычинок у растений",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "развитие чешуи у акуловых и рептилий",
         "image": null,
         "number": 1
       },
       {
-        "text": "крыловидные выросты у семян многих растений",
+        "text": "клубни и луковицы у растений",
         "image": null,
         "number": 2
       },
       {
-        "text": "срастание костей и хрящей в скелете взрослых особей",
+        "text": "колючки у растений",
         "image": null,
         "number": 3
-      },
-      {
-        "text": "плодовые тела у грибов",
-        "image": null,
-        "number": 4
       }
     ],
     "type": "oneselect",
@@ -1955,54 +1985,24 @@
     "answers_count": 4,
     "answers": [
       {
-        "text": "удвоение числа тычинок у растений",
-        "image": null,
-        "number": 1
-      },
-      {
-        "text": "развитие чешуи у акуловых и рептилий",
-        "image": null,
-        "number": 2
-      },
-      {
-        "text": "клубни и луковицы у растений",
-        "image": null,
-        "number": 3
-      },
-      {
-        "text": "колючки у растений",
-        "image": null,
-        "number": 4
-      }
-    ],
-    "type": "oneselect",
-    "image": null,
-    "right_ans_num": 0
-  },
-  {
-    "name": "К архаллаксисам филэмбриогенеза относятся",
-    "number": 67,
-    "answers_count": 4,
-    "answers": [
-      {
         "text": "происхождение однодольности у растений",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "развитие чешуи у акуловых и рептилий",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "клубни и луковицы у растений",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "колючки у растений",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2011,28 +2011,28 @@
   },
   {
     "name": "Эволюционные усложнения процессов онтогенеза происходят (теория филэмбриогенеза И.И. Шмальгаузена) за счет",
-    "number": 68,
+    "number": 67,
     "answers_count": 4,
     "answers": [
       {
         "text": "удлинения, усложнения и увеличения эффективности функционирования отдельных систем",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "его удлинения в результате возрастания количества стадий",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "усложнения каждой из стадий",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "увеличения эффективности функционирования отдельных систем развивающегося организма",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2041,28 +2041,28 @@
   },
   {
     "name": "Алломорфоз - это форма адаптивных преобразований, при которой",
-    "number": 69,
+    "number": 68,
     "answers_count": 4,
     "answers": [
       {
         "text": "одни связи организма со средой заменяются другими",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "происходит переразвитие организма вследствие быстрого изменения среды и нарушения координации с ней",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2071,28 +2071,28 @@
   },
   {
     "name": "Теломорфоз - это форма адаптивных преобразований, при которой",
-    "number": 70,
+    "number": 69,
     "answers_count": 4,
     "answers": [
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "одни связи организма со средой заменяются другими",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "происходит переразвитие организма вследствие быстрого изменения среды и нарушения координации с ней",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2101,28 +2101,28 @@
   },
   {
     "name": "Гиперморфоз - это форма адаптивных преобразований, при которой",
-    "number": 71,
+    "number": 70,
     "answers_count": 4,
     "answers": [
       {
         "text": "происходит переразвитие организма вследствие быстрого изменения среды и нарушения координации с ней",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "одни связи организма со средой заменяются другими",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2131,28 +2131,28 @@
   },
   {
     "name": "Катаморфоз - это форма адаптивных преобразований, при которой",
-    "number": 72,
+    "number": 71,
     "answers_count": 4,
     "answers": [
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "одни связи организма со средой заменяются другими",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "происходит переразвитие организма вследствие быстрого изменения среды и нарушения координации с ней",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2161,28 +2161,28 @@
   },
   {
     "name": "Ароморфоз - это форма адаптивных преобразований, при которой",
-    "number": 73,
+    "number": 72,
     "answers_count": 4,
     "answers": [
       {
         "text": "происходит расширение среды, связанное с повышением уровня организации и жизнедеятельности",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "одни связи организма со средой заменяются другими",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",
@@ -2191,28 +2191,28 @@
   },
   {
     "name": "Эпиморфоз - это форма адаптивных преобразований, при которой",
-    "number": 74,
+    "number": 73,
     "answers_count": 4,
     "answers": [
       {
         "text": "овладение средой, ее подчинение потребностям организма достигается лишь на высших ступенях развития",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "одни связи организма со средой заменяются другими",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "связи организма со средой становятся более ограниченными, а организм более специализированным",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "происходит недоразвитие организма вследствие перехода к более простым соотношениям со средой",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "type": "oneselect",

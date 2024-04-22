@@ -5,26 +5,26 @@
       {
         "text": "2,3,6-триметил-4-этилгептан",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "2,5,6-триметил-4-этилгептан",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "2-изопропил-5-метил-3-этилгексан",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "2-изопропил-3-этил-5-метилгексан",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "73.png",
-    "number": 1,
+    "number": 0,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -35,25 +35,25 @@
       {
         "text": null,
         "image": "74.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "75.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "76.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "77.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 2,
+    "number": 1,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -65,25 +65,25 @@
       {
         "text": null,
         "image": "78.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "79.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "80.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "81.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 3,
+    "number": 2,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -95,25 +95,25 @@
       {
         "text": null,
         "image": "82.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "83.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "84.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "85.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 4,
+    "number": 3,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -125,25 +125,25 @@
       {
         "text": null,
         "image": "86.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "87.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "88.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "89.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 5,
+    "number": 4,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -155,25 +155,25 @@
       {
         "text": "3->4->1->2",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "3->2->1->4",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "4->3->1->2",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "2->4->3->1",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 6,
+    "number": 5,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -185,25 +185,25 @@
       {
         "text": null,
         "image": "90.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "91.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "92.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "93.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 7,
+    "number": 6,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -215,25 +215,25 @@
       {
         "text": null,
         "image": "94.1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "94.2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "95.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "96.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 8,
+    "number": 7,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -245,25 +245,25 @@
       {
         "text": "втор-бутил (CH3)2CHCH2-",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "бутил СH3СН2СН2СН2-",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "трет-бутил (СH3)3С-",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "изопропил (СH3)2СН-",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 9,
+    "number": 8,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -275,25 +275,25 @@
       {
         "text": null,
         "image": "97.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "98.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "99.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "99.2.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 10,
+    "number": 9,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -305,25 +305,25 @@
       {
         "text": null,
         "image": "2.11.1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "2.11.2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "100.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "101.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 11,
+    "number": 10,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -335,26 +335,26 @@
       {
         "text": "(CH3)2C+CH2CH2CH3",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "H2C+CH(CH3)CH2CH2CH3",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "CH3C+HCH2CH(CH3)2",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "(H3C)2C+CH=CHCH3",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "102.png",
-    "number": 12,
+    "number": 11,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -365,26 +365,26 @@
       {
         "text": "(H3C)2C+CH=CHCH3",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "CH2=C(CH3)CH2C+HCH3",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "(CH3)2C+CH2CH2CH3",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "H2C+CH(CH3)CH2CH2CH3",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "103.png",
-    "number": 13,
+    "number": 12,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -395,25 +395,25 @@
       {
         "text": "CH3C+HCH2CH(CH3)2",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "(CH3)2C+CH2CH2CH3",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "(H3C)2C+CH=CHCH3",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "CH2=C(CH3)CH2C+HCH3",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 14,
+    "number": 13,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -425,6 +425,41 @@
       {
         "text": "CH2=C(CH3)CH2CH2CH3",
         "image": null,
+        "number": 0
+      },
+      {
+        "text": "(CH3)2CHCH=CHCH3",
+        "image": null,
+        "number": 1
+      },
+      {
+        "text": "CH3CH=C(CH3)CH2CH3",
+        "image": null,
+        "number": 2
+      },
+      {
+        "text": "CH2=CHCH(CH3)CH2CH3",
+        "image": null,
+        "number": 3
+      }
+    ],
+    "image": "104.png",
+    "number": 14,
+    "type": "oneselect",
+    "right_ans_num": 0,
+    "answers_count": 4
+  },
+  {
+    "name": "АЛКЕН, ИЗ КОТОРОГО В РЕЗУЛЬТАТЕ ПРИСОЕДИНЕНИЯ HCl ПОЛУЧИЛСЯ ХЛОРОАЛКАН",
+    "answers": [
+      {
+        "text": "CH2=CHCH(CH3)CH2CH3",
+        "image": null,
+        "number": 0
+      },
+      {
+        "text": "CH3CH=C(CH3)CH2CH3",
+        "image": null,
         "number": 1
       },
       {
@@ -433,17 +468,12 @@
         "number": 2
       },
       {
-        "text": "CH3CH=C(CH3)CH2CH3",
+        "text": "CH2=C(CH3)CH2CH2CH3",
         "image": null,
         "number": 3
-      },
-      {
-        "text": "CH2=CHCH(CH3)CH2CH3",
-        "image": null,
-        "number": 4
       }
     ],
-    "image": "104.png",
+    "image": "105.png",
     "number": 15,
     "type": "oneselect",
     "right_ans_num": 0,
@@ -453,58 +483,28 @@
     "name": "АЛКЕН, ИЗ КОТОРОГО В РЕЗУЛЬТАТЕ ПРИСОЕДИНЕНИЯ HCl ПОЛУЧИЛСЯ ХЛОРОАЛКАН",
     "answers": [
       {
+        "text": "CH3CH=C(CH3)CH2CH3",
+        "image": null,
+        "number": 0
+      },
+      {
         "text": "CH2=CHCH(CH3)CH2CH3",
         "image": null,
         "number": 1
       },
       {
-        "text": "CH3CH=C(CH3)CH2CH3",
+        "text": "(CH3)2CHCH=CHCH3",
         "image": null,
         "number": 2
       },
       {
-        "text": "(CH3)2CHCH=CHCH3",
-        "image": null,
-        "number": 3
-      },
-      {
         "text": "CH2=C(CH3)CH2CH2CH3",
         "image": null,
-        "number": 4
-      }
-    ],
-    "image": "105.png",
-    "number": 16,
-    "type": "oneselect",
-    "right_ans_num": 0,
-    "answers_count": 4
-  },
-  {
-    "name": "АЛКЕН, ИЗ КОТОРОГО В РЕЗУЛЬТАТЕ ПРИСОЕДИНЕНИЯ HCl ПОЛУЧИЛСЯ ХЛОРОАЛКАН",
-    "answers": [
-      {
-        "text": "CH3CH=C(CH3)CH2CH3",
-        "image": null,
-        "number": 1
-      },
-      {
-        "text": "CH2=CHCH(CH3)CH2CH3",
-        "image": null,
-        "number": 2
-      },
-      {
-        "text": "(CH3)2CHCH=CHCH3",
-        "image": null,
         "number": 3
-      },
-      {
-        "text": "CH2=C(CH3)CH2CH2CH3",
-        "image": null,
-        "number": 4
       }
     ],
     "image": "106.png",
-    "number": 17,
+    "number": 16,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -515,25 +515,25 @@
       {
         "text": "CH3C(O)CH2CH2CH3",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "CH3CH2CH2CH2CH=O",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "CH2=C(OH)CH2CH2CH3",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "CH3C(OH)2CH2CH2CH3",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 18,
+    "number": 17,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -545,25 +545,25 @@
       {
         "text": "СН3СН=С(СН3)СН2СН2СН3",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "СН3СН2СН(СН3)-СН=СН-СН3",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "СH3СН2СН2СН2СН=СНСН3",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "СH2=СН-СН(СН3)СН2СН2СН3",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 19,
+    "number": 18,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -575,25 +575,25 @@
       {
         "text": "СH3-СН=СН-СН=СН-СН3",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "СН2=СН-СН2-СН=СН-СН3",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "СН2=СН-СН=СН-СН2СН3",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "СН2=СН-СН2СН2-СН=СН2",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 20,
+    "number": 19,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -605,26 +605,26 @@
       {
         "text": null,
         "image": "107.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "108.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "109.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "110.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "107.1.png",
-    "number": 21,
+    "number": 20,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -635,25 +635,25 @@
       {
         "text": null,
         "image": "111.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "112.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "113.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "114.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 22,
+    "number": 21,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -665,25 +665,25 @@
       {
         "text": "2->1->4->3",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "3->2->1->4",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "2->4->1->3",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "4->3->1->2",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 23,
+    "number": 22,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -695,25 +695,25 @@
       {
         "text": null,
         "image": "115.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "116.1.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "116.2.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "117.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 24,
+    "number": 23,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -725,26 +725,26 @@
       {
         "text": null,
         "image": "119.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "120.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "121.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": "CH3C(O)CH3 + CH3CH2CH=O",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "118.png",
-    "number": 25,
+    "number": 24,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -755,26 +755,26 @@
       {
         "text": "CH3C(O)CH3 + CH3CH2CH=O",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "C2H5C(O)CH3 + CH3COOH",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "123.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "124.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "122.png",
-    "number": 26,
+    "number": 25,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -785,26 +785,26 @@
       {
         "text": null,
         "image": "126.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "127.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "128.1.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "128.2.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "125.png",
-    "number": 27,
+    "number": 26,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -815,26 +815,26 @@
       {
         "text": null,
         "image": "130.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "131.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "132.1.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "132.2.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "129.png",
-    "number": 28,
+    "number": 27,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -845,25 +845,25 @@
       {
         "text": "аммиачный раствор оксида серебра",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "бромная вода",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "перманганат калия в щелочной среде без нагревания",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "водород в присутствии платинового катализатора",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 29,
+    "number": 28,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -875,26 +875,26 @@
       {
         "text": null,
         "image": "133.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "134.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "135.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": "CH3COCH3 + CH3COOH",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
     "image": "133.1.png",
-    "number": 30,
+    "number": 29,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -905,26 +905,26 @@
       {
         "text": "CH3COCH3 + CH3COOH",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "137.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "138.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "139.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "136.png",
-    "number": 31,
+    "number": 30,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -935,25 +935,25 @@
       {
         "text": "4->3->2->1->5",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "5->3->4->1->2",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "3->2->1->4->5",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "2->1->5->4->3",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 32,
+    "number": 31,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -965,25 +965,25 @@
       {
         "text": "бромная вода",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "хромовая смесь при нагревании",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "бром в присутствии бромида железа(III)",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "раствор перманганата калия при нагревании",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 33,
+    "number": 32,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -995,25 +995,25 @@
       {
         "text": null,
         "image": "140.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "141.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "142.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "143.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 34,
+    "number": 33,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1025,25 +1025,25 @@
       {
         "text": null,
         "image": "144.1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "144.2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "145.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "146.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 35,
+    "number": 34,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1055,26 +1055,26 @@
       {
         "text": null,
         "image": "148.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "149.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "150.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "151.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "147.png",
-    "number": 36,
+    "number": 35,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -1085,25 +1085,25 @@
       {
         "text": "–Cl",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "–СОOH",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "–NO2",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "–N+(CH3)3",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 37,
+    "number": 36,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1115,25 +1115,25 @@
       {
         "text": "–SO3H",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "–Cl",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "–CH3",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "–OCH3",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 38,
+    "number": 37,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1145,25 +1145,25 @@
       {
         "text": null,
         "image": "152.1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "152.2.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "153.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "154.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 39,
+    "number": 38,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1175,15 +1175,15 @@
       {
         "text": null,
         "image": "155.1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "155.2.png",
-        "number": 2
+        "number": 1
       }
     ],
-    "number": 40,
+    "number": 39,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1195,15 +1195,15 @@
       {
         "text": null,
         "image": "156.1.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "156.2.png",
-        "number": 2
+        "number": 1
       }
     ],
-    "number": 41,
+    "number": 40,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1215,25 +1215,25 @@
       {
         "text": "СH3CH2CH3, AlCl3",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "CH3CH2CH2Br, АlBr3",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "CH2=CH-CH3, HF",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "(CH3)2CHCl, AlCl3",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 42,
+    "number": 41,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1245,25 +1245,25 @@
       {
         "text": null,
         "image": "157.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "158.1.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "158.2.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "158.3.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 43,
+    "number": 42,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1275,26 +1275,26 @@
       {
         "text": null,
         "image": "160.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "161.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "162.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "163.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "159.png",
-    "number": 44,
+    "number": 43,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -1305,25 +1305,25 @@
       {
         "text": null,
         "image": "164.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "165.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "166.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "167.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 45,
+    "number": 44,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1335,25 +1335,25 @@
       {
         "text": null,
         "image": "168.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "169.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "170.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "171.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 46,
+    "number": 45,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1365,25 +1365,25 @@
       {
         "text": null,
         "image": "172.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "173.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "174.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "175.png",
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 47,
+    "number": 46,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,
@@ -1395,26 +1395,26 @@
       {
         "text": null,
         "image": "176.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "177.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "178.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "179.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "176.1.png",
-    "number": 48,
+    "number": 47,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -1425,26 +1425,26 @@
       {
         "text": null,
         "image": "180.png",
-        "number": 1
+        "number": 0
       },
       {
         "text": null,
         "image": "181.png",
-        "number": 2
+        "number": 1
       },
       {
         "text": null,
         "image": "182.png",
-        "number": 3
+        "number": 2
       },
       {
         "text": null,
         "image": "183.png",
-        "number": 4
+        "number": 3
       }
     ],
     "image": "180.1.png",
-    "number": 49,
+    "number": 48,
     "type": "oneselect",
     "right_ans_num": 0,
     "answers_count": 4
@@ -1455,25 +1455,25 @@
       {
         "text": "4->3->1->2",
         "image": null,
-        "number": 1
+        "number": 0
       },
       {
         "text": "3->4->1->2",
         "image": null,
-        "number": 2
+        "number": 1
       },
       {
         "text": "2->1->4->3",
         "image": null,
-        "number": 3
+        "number": 2
       },
       {
         "text": "3->2->1->4",
         "image": null,
-        "number": 4
+        "number": 3
       }
     ],
-    "number": 50,
+    "number": 49,
     "type": "oneselect",
     "image": null,
     "right_ans_num": 0,

@@ -1,5 +1,6 @@
 import 'package:json_annotation/json_annotation.dart';
 import 'package:testing_training/repositories/questions/models/question/abstract_question.dart';
+import 'package:testing_training/repositories/session_save/models/session_question.dart';
 
 import 'answer.dart';
 
@@ -43,4 +44,10 @@ class OneSelectQuestion extends AbstractQuestion {
 
   @override
   String getName() => name;
+
+  @override
+  void setAnswer(SessionQuestion sessionQuestion) {
+    final answer = sessionQuestion.userAnswer as Answer;
+    sessionQuestion.isRight = answer.number == rightAnswerNumber;
+  }
 }
