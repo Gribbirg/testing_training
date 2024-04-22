@@ -14,7 +14,7 @@ class TopicItem extends StatelessWidget {
     final theme = Theme.of(context);
     return ElevatedButton(
         onPressed: () {
-          AutoRouter.of(context).push(ModuleSelectRoute(topic: topic));
+          AutoRouter.of(context).push(ModuleSelectRoute(topicId: topic.dirName));
         },
         child: Container(
           padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 10),

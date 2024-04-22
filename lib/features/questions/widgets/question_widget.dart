@@ -18,7 +18,9 @@ class QuestionWidget extends StatefulWidget {
       required this.isLast,
       required this.topic,
       required this.module,
-      required this.sessionQuestion});
+      required this.sessionQuestion,
+      required this.onAnswer,
+      required this.scrollToNextOpenedQuestion});
 
   final Topic topic;
   final Module module;
@@ -27,6 +29,8 @@ class QuestionWidget extends StatefulWidget {
   final PageController pageController;
   final bool isFirst;
   final bool isLast;
+  final void Function() onAnswer;
+  final void Function() scrollToNextOpenedQuestion;
 
   @override
   State<QuestionWidget> createState() => _QuestionWidgetState();
@@ -111,17 +115,14 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                                 setState(() {
                                   widget.question
                                       .setAnswerRight(widget.sessionQuestion);
+                                  widget.onAnswer();
                                 });
                               }
                             : null,
                         child: const Text("Ответить"),
                       )
                     : FilledButton(
-                        onPressed: () {
-                          widget.pageController.nextPage(
-                              duration: const Duration(milliseconds: 300),
-                              curve: Curves.easeInOut);
-                        },
+                        onPressed: widget.scrollToNextOpenedQuestion,
                         child: const Text("Следующий"),
                       )),
           ],

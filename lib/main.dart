@@ -2,18 +2,32 @@ import 'package:dynamic_color/dynamic_color.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
+import 'package:hive_flutter/adapters.dart';
 import 'package:testing_training/repositories/questions/questions.dart';
+import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
+import 'package:testing_training/repositories/session_save/session_save.dart';
 import 'package:testing_training/router/router.dart';
 import 'package:testing_training/theme/theme.dart';
+import 'package:flutter_web_plugins/url_strategy.dart';
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Hive.initFlutter();
+  Hive.registerAdapter(SessionQuestionAdapter());
+  Hive.registerAdapter(SessionDataAdapter());
+  final sessionsSaveBox = await Hive.openLazyBox("sessions");
+
   GetIt.I.registerLazySingleton<AbstractQuestionsRepository>(
-    () =>
-        QuestionsRepository(
-            topicsListJsonPath: path('questions/topics.json'),
-            questionsPath: path('questions'),
-        ),
+    () => QuestionsRepository(
+      topicsListJsonPath: path('questions/topics.json'),
+      questionsPath: path('questions'),
+    ),
   );
+  GetIt.I.registerLazySingleton<AbstractSessionSaveRepository>(
+    () => SessionSaveRepository(box: sessionsSaveBox),
+  );
+
+  usePathUrlStrategy();
 
   runApp(const TestingTrainingApp());
 }

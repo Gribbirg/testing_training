@@ -5,7 +5,6 @@ import '../../../repositories/questions/abstract_questions_repository.dart';
 import '../../../repositories/questions/models/module.dart';
 import '../../../repositories/questions/models/topic.dart';
 
-
 part 'module_list_event.dart';
 
 part 'module_list_state.dart';
@@ -24,17 +23,25 @@ class ModuleListBloc extends Bloc<ModuleListEvent, ModuleListState> {
         emit(ModuleListLoading());
       }
 
-      if (event.topic == null) {
-        emit(ModuleListLoading());
+      if (event.topicId == null) {
+        emit(ModuleListNotFound());
         return;
       }
 
-      final modelsList = await questionsRepository.getModulesList(event.topic!);
+      final topic = (await questionsRepository.getTopicList())
+          ?.firstWhere((element) => element.dirName == event.topicId);
+      if (topic == null) {
+        emit(ModuleListNotFound());
+        return;
+      }
+
+      final modelsList =
+          await questionsRepository.getModulesList(topic);
 
       if (modelsList == null || modelsList.isEmpty) {
         emit(ModuleListError(message: "Темы не найдены"));
       } else {
-        emit(ModuleListLoaded(modules: modelsList));
+        emit(ModuleListLoaded(topic: topic, modules: modelsList));
       }
     } catch (e) {
       emit(ModuleListError(message: e.toString()));

@@ -13,12 +13,13 @@ class ModuleListLoading extends ModuleListState {
 }
 
 class ModuleListLoaded extends ModuleListState {
+  final Topic topic;
   final List<Module> modules;
 
-  ModuleListLoaded({required this.modules});
+  ModuleListLoaded({required this.modules, required this.topic});
 
   @override
-  List<Object?> get props => [modules];
+  List<Object?> get props => [modules, topic];
 }
 
 class ModuleListError extends ModuleListState {
@@ -26,6 +27,11 @@ class ModuleListError extends ModuleListState {
 
   ModuleListError({required this.message});
 
+  @override
+  List<Object?> get props => [message];
+}
+
+class ModuleListNotFound extends ModuleListState {
   @override
   List<Object?> get props => [];
 }

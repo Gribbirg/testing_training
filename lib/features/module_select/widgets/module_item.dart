@@ -16,7 +16,8 @@ class ModuleItem extends StatelessWidget {
     final theme = Theme.of(context);
     return ElevatedButton(
         onPressed: () {
-          AutoRouter.of(context).popAndPush(QuestionsRoute(topic: topic, module: module));
+          AutoRouter.of(context).push(
+              QuestionsRoute(topicId: topic.dirName, moduleId: module.dirName));
         },
         child: Container(
           padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 10),
@@ -30,7 +31,9 @@ class ModuleItem extends StatelessWidget {
                   style: const TextStyle(fontSize: 20),
                 ),
               ),
-              const SizedBox(width: 5,),
+              const SizedBox(
+                width: 5,
+              ),
               Expanded(
                 flex: 4,
                 child: Text(

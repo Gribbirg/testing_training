@@ -22,25 +22,31 @@ abstract class _$AppRouter extends RootStackRouter {
       );
     },
     ModuleSelectRoute.name: (routeData) {
+      final pathParams = routeData.inheritedPathParams;
       final args = routeData.argsAs<ModuleSelectRouteArgs>(
-          orElse: () => const ModuleSelectRouteArgs());
+          orElse: () =>
+              ModuleSelectRouteArgs(topicId: pathParams.optString('topic')));
       return AutoRoutePage<dynamic>(
         routeData: routeData,
         child: ModuleSelectPage(
           key: args.key,
-          topic: args.topic,
+          topicId: args.topicId,
         ),
       );
     },
     QuestionsRoute.name: (routeData) {
+      final pathParams = routeData.inheritedPathParams;
       final args = routeData.argsAs<QuestionsRouteArgs>(
-          orElse: () => const QuestionsRouteArgs());
+          orElse: () => QuestionsRouteArgs(
+                topicId: pathParams.optString('topic'),
+                moduleId: pathParams.optString('module'),
+              ));
       return AutoRoutePage<dynamic>(
         routeData: routeData,
         child: QuestionsPage(
           key: args.key,
-          topic: args.topic,
-          module: args.module,
+          topicId: args.topicId,
+          moduleId: args.moduleId,
         ),
       );
     },
@@ -72,14 +78,15 @@ class HomeRoute extends PageRouteInfo<void> {
 class ModuleSelectRoute extends PageRouteInfo<ModuleSelectRouteArgs> {
   ModuleSelectRoute({
     Key? key,
-    Topic? topic,
+    required String? topicId,
     List<PageRouteInfo>? children,
   }) : super(
           ModuleSelectRoute.name,
           args: ModuleSelectRouteArgs(
             key: key,
-            topic: topic,
+            topicId: topicId,
           ),
+          rawPathParams: {'topic': topicId},
           initialChildren: children,
         );
 
@@ -92,16 +99,16 @@ class ModuleSelectRoute extends PageRouteInfo<ModuleSelectRouteArgs> {
 class ModuleSelectRouteArgs {
   const ModuleSelectRouteArgs({
     this.key,
-    this.topic,
+    required this.topicId,
   });
 
   final Key? key;
 
-  final Topic? topic;
+  final String? topicId;
 
   @override
   String toString() {
-    return 'ModuleSelectRouteArgs{key: $key, topic: $topic}';
+    return 'ModuleSelectRouteArgs{key: $key, topicId: $topicId}';
   }
 }
 
@@ -110,16 +117,20 @@ class ModuleSelectRouteArgs {
 class QuestionsRoute extends PageRouteInfo<QuestionsRouteArgs> {
   QuestionsRoute({
     Key? key,
-    Topic? topic,
-    Module? module,
+    required String? topicId,
+    required String? moduleId,
     List<PageRouteInfo>? children,
   }) : super(
           QuestionsRoute.name,
           args: QuestionsRouteArgs(
             key: key,
-            topic: topic,
-            module: module,
+            topicId: topicId,
+            moduleId: moduleId,
           ),
+          rawPathParams: {
+            'topic': topicId,
+            'module': moduleId,
+          },
           initialChildren: children,
         );
 
@@ -132,19 +143,19 @@ class QuestionsRoute extends PageRouteInfo<QuestionsRouteArgs> {
 class QuestionsRouteArgs {
   const QuestionsRouteArgs({
     this.key,
-    this.topic,
-    this.module,
+    required this.topicId,
+    required this.moduleId,
   });
 
   final Key? key;
 
-  final Topic? topic;
+  final String? topicId;
 
-  final Module? module;
+  final String? moduleId;
 
   @override
   String toString() {
-    return 'QuestionsRouteArgs{key: $key, topic: $topic, module: $module}';
+    return 'QuestionsRouteArgs{key: $key, topicId: $topicId, moduleId: $moduleId}';
   }
 }
 

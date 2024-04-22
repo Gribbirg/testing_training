@@ -13,15 +13,22 @@ class QuestionsListLoading extends QuestionsListState {
 }
 
 class QuestionsListLoaded extends QuestionsListState {
+  final Topic topic;
+
+  final Module module;
+
   final List<AbstractQuestion> questionsList;
 
-  final List<SessionQuestion> sessionQuestions;
+  final SessionData sessionData;
 
   QuestionsListLoaded(
-      {required this.questionsList, required this.sessionQuestions});
+      {required this.topic,
+      required this.module,
+      required this.questionsList,
+      required this.sessionData});
 
   @override
-  List<Object?> get props => [questionsList, sessionQuestions];
+  List<Object?> get props => [topic, module, questionsList, sessionData];
 }
 
 class QuestionsListError extends QuestionsListState {
@@ -31,4 +38,9 @@ class QuestionsListError extends QuestionsListState {
 
   @override
   List<Object?> get props => [message];
+}
+
+class QuestionsListNotFound extends QuestionsListState {
+  @override
+  List<Object?> get props => [];
 }

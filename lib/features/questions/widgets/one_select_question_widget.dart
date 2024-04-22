@@ -35,12 +35,14 @@ class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
     return IntrinsicWidth(
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
-        children: (widget.sessionQuestion.saveAnswersNum as List<int>).map((answerNum) {
+        children: (widget.sessionQuestion.saveAnswersNum as List<int>)
+            .map((answerNum) {
           final answer = widget.question.answers[answerNum];
           final isRightAnswer = (widget.sessionQuestion.isRight != null)
               ? widget.question.rightAnswerNumber == answer.number
               : false;
-          final isUserAnswer = widget.sessionQuestion.userAnswer == answer;
+          final isUserAnswer =
+              widget.sessionQuestion.userAnswer == answer.number;
           final isResult = widget.sessionQuestion.isRight != null;
           return Card(
             shadowColor:
@@ -73,12 +75,14 @@ class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
                         'questions/${widget.topic.dirName}/images/${answer.image}')),
                 ],
               ),
-              groupValue: widget.sessionQuestion.userAnswer,
+              groupValue: (widget.sessionQuestion.userAnswer == null)
+                  ? widget.sessionQuestion.userAnswer
+                  : widget.question.answers[widget.sessionQuestion.userAnswer],
               onChanged: (!isResult)
                   ? (newAnswer) {
                       setState(() {
                         widget.setParentState(() {
-                          widget.sessionQuestion.userAnswer = newAnswer;
+                          widget.sessionQuestion.userAnswer = newAnswer!.number;
                         });
                       });
                     }

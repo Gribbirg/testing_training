@@ -47,8 +47,8 @@ class OneSelectQuestion extends AbstractQuestion {
 
   @override
   void setAnswerRight(SessionQuestion sessionQuestion) {
-    final answer = sessionQuestion.userAnswer as Answer;
-    sessionQuestion.isRight = answer.number == rightAnswerNumber;
+    final answer = sessionQuestion.userAnswer as int;
+    sessionQuestion.isRight = answer == rightAnswerNumber;
   }
 
   @override

@@ -4,10 +4,10 @@ abstract class ModuleListEvent extends Equatable {}
 
 class LoadModuleList extends ModuleListEvent {
 
-  final Topic? topic;
+  final String? topicId;
 
-  LoadModuleList({required this.topic});
+  LoadModuleList({required this.topicId});
 
   @override
-  List<Object?> get props => [topic];
+  List<Object?> get props => [topicId];
 }

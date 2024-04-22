@@ -4,12 +4,23 @@ abstract class QuestionsListEvent extends Equatable {}
 
 class LoadQuestionsList extends QuestionsListEvent {
 
-  final Topic topic;
+  final String? topicId;
 
-  final Module module;
+  final String? moduleId;
 
-  LoadQuestionsList({required this.topic, required this.module});
+  LoadQuestionsList({required this.topicId, required this.moduleId});
 
   @override
-  List<Object?> get props => [topic, module];
+  List<Object?> get props => [topicId, moduleId];
+}
+
+class SaveSessionData extends QuestionsListEvent {
+  @override
+  List<Object?> get props => [];
+}
+
+
+class DeleteSessionData extends QuestionsListEvent {
+  @override
+  List<Object?> get props => [];
 }
