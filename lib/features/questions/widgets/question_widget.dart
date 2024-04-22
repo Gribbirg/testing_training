@@ -88,7 +88,7 @@ class _QuestionWidgetState extends State<QuestionWidget> {
             ),
             if ((widget.question.getImage() != null))
               Padding(
-                padding: const EdgeInsets.all(5),
+                padding: const EdgeInsets.all(8),
                 child: ClipRRect(
                     borderRadius: BorderRadius.circular(8),
                     child: Image.asset(path(

@@ -42,7 +42,8 @@ class NumQuestion extends AbstractQuestion {
 
   @override
   void setAnswerRight(SessionQuestion sessionQuestion) {
-    final userAnswer = double.parse((sessionQuestion.userAnswer as String).replaceAll(',', '.'));
+    final userAnswer = double.parse(
+        (sessionQuestion.userAnswer as String).replaceAll(',', '.'));
     sessionQuestion.isRight =
         userAnswer >= answer - delta && userAnswer <= answer + delta;
   }
@@ -54,4 +55,8 @@ class NumQuestion extends AbstractQuestion {
 
   @override
   int getNumber() => number;
+
+  String getAnswerString() => (answer == answer.roundToDouble())
+      ? answer.toInt().toString()
+      : answer.toString();
 }

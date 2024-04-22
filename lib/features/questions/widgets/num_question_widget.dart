@@ -111,7 +111,7 @@ class _NumQuestionWidgetState extends State<NumQuestionWidget> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Text(
-              'Правильный ответ: ${widget.question.answer}',
+              'Правильный ответ: ${widget.question.getAnswerString()} ${widget.question.unit}',
               style: TextStyle(
                   color: (widget.sessionQuestion.isRight!)
                       ? theme.colorScheme.primary
