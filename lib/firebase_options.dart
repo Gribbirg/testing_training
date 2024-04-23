@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'testing-training-e498b.appspot.com',
     measurementId: 'G-H85LFZ5GTG',
   );
+
 }

@@ -14,6 +14,11 @@ import 'firebase_options.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+
   await Hive.initFlutter();
   Hive.registerAdapter(SessionQuestionAdapter());
   Hive.registerAdapter(SessionDataAdapter());
@@ -27,10 +32,6 @@ Future<void> main() async {
   );
   GetIt.I.registerLazySingleton<AbstractSessionSaveRepository>(
     () => SessionSaveRepository(box: sessionsSaveBox),
-  );
-
-  await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform,
   );
 
   runApp(const TestingTrainingApp());
