@@ -16,7 +16,6 @@ jobs:
           channel: 'stable'
       - run: flutter pub get
       - run: flutter build web
-#      - run: cp -r assets build/web/assets
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
