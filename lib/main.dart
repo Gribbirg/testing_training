@@ -63,5 +63,5 @@ class _TestingTrainingAppState extends State<TestingTrainingApp> {
 }
 
 String path(String str) {
-  return (!kIsWeb) ? 'assets/$str' : str;
+  return (kIsWeb) ? 'assets/$str' : str;
 }
