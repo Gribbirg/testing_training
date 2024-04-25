@@ -9,8 +9,8 @@ ThemeData getTheme({darkMode = false, colorTheme}) {
     useMaterial3: true,
     appBarTheme: AppBarTheme(
       centerTitle: true,
-      shape: Border(
-          bottom: BorderSide(color: colorTheme.outlineVariant, width: 1)),
+      // shape: Border(
+      //     bottom: BorderSide(color: colorTheme.outlineVariant, width: 1)),
       backgroundColor: colorTheme.background,
       elevation: 10,
       titleTextStyle: TextStyle(color: colorTheme.onBackground, fontSize: 25),

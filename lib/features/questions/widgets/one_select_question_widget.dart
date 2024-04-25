@@ -47,7 +47,7 @@ class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
           return Card(
             shadowColor:
                 (isUserAnswer || isRightAnswer) ? null : Colors.transparent,
-            elevation: (isUserAnswer || isRightAnswer) ? 8 : null,
+            elevation: (isUserAnswer || isRightAnswer) ? 5 : null,
             color: (isResult && !isRightAnswer && isUserAnswer)
                 ? theme.colorScheme.errorContainer
                 : (isRightAnswer)
