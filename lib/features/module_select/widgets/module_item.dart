@@ -14,36 +14,37 @@ class ModuleItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    return ElevatedButton(
-        onPressed: () {
-          AutoRouter.of(context).push(
-              QuestionsRoute(topicId: topic.dirName, moduleId: module.dirName));
-        },
-        child: Container(
-          padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 10),
-          child: Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              Expanded(
-                flex: 10,
-                child: Text(
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 8),
+      child: ElevatedButton(
+          onPressed: () {
+            AutoRouter.of(context).push(
+                QuestionsRoute(topicId: topic.dirName, moduleId: module.dirName));
+          },
+          style: ElevatedButton.styleFrom(
+            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(10),)
+          ),
+          child: Container(
+            padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 10),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                Text(
                   module.name,
                   style: const TextStyle(fontSize: 20),
+                  textAlign: TextAlign.center,
                 ),
-              ),
-              const SizedBox(
-                width: 5,
-              ),
-              Expanded(
-                flex: 4,
-                child: Text(
+                const SizedBox(
+                  height: 5,
+                ),
+                Text(
                   "Кол-во: ${module.questionsCount}",
                   style: TextStyle(color: theme.colorScheme.onSurfaceVariant),
                   textAlign: TextAlign.right,
                 ),
-              ),
-            ],
-          ),
-        ));
+              ],
+            ),
+          )),
+    );
   }
 }
