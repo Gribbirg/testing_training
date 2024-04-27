@@ -5,3 +5,4 @@ export 'num_question.dart';
 export 'string_question.dart';
 export 'questions_factory.dart';
 export 'multi_select_question.dart';
+export 'order_question.dart';

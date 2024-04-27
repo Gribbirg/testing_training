@@ -11,6 +11,7 @@ import 'package:testing_training/repositories/session_save/models/models.dart';
 import '../../../repositories/questions/models/module.dart';
 import '../../../repositories/questions/models/topic.dart';
 import 'one_select_question_widget.dart';
+import 'order_question_widget.dart';
 
 class QuestionWidget extends StatefulWidget {
   const QuestionWidget(
@@ -182,6 +183,16 @@ class _QuestionWidgetState extends State<QuestionWidget> {
     if (widget.question is CategoriesQuestion) {
       return CategoriesQuestionWidget(
         question: widget.question as CategoriesQuestion,
+        sessionQuestion: widget.sessionQuestion,
+        topic: widget.topic,
+        module: widget.module,
+        setParentState: setState,
+      );
+    }
+
+    if (widget.question is OrderQuestion) {
+      return OrderQuestionWidget(
+        question: widget.question as OrderQuestion,
         sessionQuestion: widget.sessionQuestion,
         topic: widget.topic,
         module: widget.module,

@@ -1,10 +1,6 @@
+import 'package:testing_training/repositories/questions/models/models.dart';
 import 'package:testing_training/repositories/questions/models/question/categories_question.dart';
-import 'package:testing_training/repositories/questions/models/question/string_question.dart';
 
-import 'abstract_question.dart';
-import 'multi_select_question.dart';
-import 'num_question.dart';
-import 'one_select_question.dart';
 
 class QuestionFactory {
   static AbstractQuestion getQuestionFromJson(Map<String, dynamic> json) {
@@ -21,6 +17,8 @@ class QuestionFactory {
         return MultiSelectQuestion.fromJson(json);
       case QuestionType.categoriesQuestion:
         return CategoriesQuestion.fromJson(json);
+      case QuestionType.orderQuestion:
+        return OrderQuestion.fromJson(json);
     }
   }
 }
@@ -31,6 +29,7 @@ enum QuestionType {
   numQuestion(jsonName: "num"),
   multiSelectQuestion(jsonName: "multselect"),
   categoriesQuestion(jsonName: "categories"),
+  orderQuestion(jsonName: "order"),
   ;
 
   final String jsonName;

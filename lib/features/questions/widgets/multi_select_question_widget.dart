@@ -24,10 +24,10 @@ class MultiSelectQuestionWidget extends StatefulWidget {
 
   @override
   State<MultiSelectQuestionWidget> createState() =>
-      _OneSelectQuestionWidgetState();
+      _MultiSelectQuestionWidgetState();
 }
 
-class _OneSelectQuestionWidgetState extends State<MultiSelectQuestionWidget> {
+class _MultiSelectQuestionWidgetState extends State<MultiSelectQuestionWidget> {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
