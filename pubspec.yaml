@@ -734,6 +734,8 @@ flutter:
     - assets/questions/pcc/images/2.png
     - assets/questions/pcc/images/3.png
     - assets/questions/pcc/images/img.png
+    - assets/questions/test/modules/order.json
+    - assets/questions/test/modules.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

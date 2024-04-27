@@ -18,5 +18,10 @@
     "name": "Органическая химия",
     "questions_count": 382,
     "dir_name": "orgchemistry"
+  },
+  {
+    "name": "Тест",
+    "questions_count": 0,
+    "dir_name": "test"
   }
 ]

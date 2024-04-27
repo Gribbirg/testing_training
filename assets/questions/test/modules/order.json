@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Question",
+    "number": 0,
+    "type": "order",
+    "image": null,
+    "right_answers_nums": [
+      0,
+      1
+    ],
+    "answers_count": 2,
+    "answers": [
+      {
+        "number": 0,
+        "image": null,
+        "text": "Answer 1"
+      },
+      {
+        "number": 1,
+        "image": null,
+        "text": "Answer 2"
+      }
+    ]
+  }
+]
