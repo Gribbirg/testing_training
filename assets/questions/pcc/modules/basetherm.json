@@ -1290,7 +1290,7 @@
         "type": "oneselect",
         "image": "1.png",
         "right_ans_num": 3,
-        "answers_count": 5,
+        "answers_count": 4,
         "answers": [
             {
                 "number": 0,
