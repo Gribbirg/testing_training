@@ -108,7 +108,7 @@ class _OrderQuestionWidgetState extends State<OrderQuestionWidget> {
                       scale: scale,
                       child: Card(
                         elevation: elevation,
-                        color: cards[index].color,
+                        color: theme.colorScheme.secondaryContainer,
                         child: cards[index].child,
                       ),
                     );
@@ -118,8 +118,8 @@ class _OrderQuestionWidgetState extends State<OrderQuestionWidget> {
               },
               children: cards),
         ),
-        if (widget.sessionQuestion.isRight != null)
-          const Text("Правильный ответ:"),
+        const SizedBox(height: 20,),
+        Text((widget.sessionQuestion.isRight != null)? "Правильный ответ:": "(удерживайте для перемещения)"),
         if (widget.sessionQuestion.isRight != null)
           ListView.builder(
               shrinkWrap: true,
