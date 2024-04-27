@@ -8,7 +8,7 @@ part of 'num_question.dart';
 
 NumQuestion _$NumQuestionFromJson(Map<String, dynamic> json) => NumQuestion(
       name: json['name'] as String,
-      number: json['number'] as int,
+      number: (json['number'] as num).toInt(),
       image: json['image'] as String?,
       answer: (json['answer'] as num).toDouble(),
       delta: (json['delta'] as num).toDouble(),

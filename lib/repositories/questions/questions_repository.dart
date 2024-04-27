@@ -5,6 +5,7 @@ import 'package:testing_training/repositories/questions/models/question/abstract
 
 import 'abstract_questions_repository.dart';
 import 'models/models.dart';
+import 'models/question/questions_factory.dart';
 
 class QuestionsRepository extends AbstractQuestionsRepository {
   final String topicsListJsonPath;
@@ -46,7 +47,10 @@ class QuestionsRepository extends AbstractQuestionsRepository {
     final data = await json.decode(response);
 
     final list = (data as List<dynamic>)
-        .map((e) => QuestionFactory.getQuestionFromJson(e))
+        .map((e) {
+          print(e);
+          return QuestionFactory.getQuestionFromJson(e);
+        })
         .toList();
 
     return list;

@@ -9,7 +9,7 @@ part of 'answer.dart';
 Answer _$AnswerFromJson(Map<String, dynamic> json) => Answer(
       text: json['text'] as String?,
       image: json['image'] as String?,
-      number: json['number'] as int,
+      number: (json['number'] as num).toInt(),
     );
 
 Map<String, dynamic> _$AnswerToJson(Answer instance) => <String, dynamic>{

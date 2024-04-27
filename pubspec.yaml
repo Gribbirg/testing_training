@@ -728,6 +728,12 @@ flutter:
     - assets/questions/orgchemistry/images/c6_3_3.png
     - assets/questions/orgchemistry/images/c6_3_4.png
     - assets/questions/orgchemistry/images/c72.png
+    - assets/questions/pcc/modules.json
+    - assets/questions/pcc/modules/basetherm.json
+    - assets/questions/pcc/images/1.png
+    - assets/questions/pcc/images/2.png
+    - assets/questions/pcc/images/3.png
+    - assets/questions/pcc/images/img.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

@@ -19,5 +19,5 @@ class Answer extends Equatable {
   Map<String, dynamic> toJson() => _$AnswerToJson(this);
 
   @override
-  List<Object?> get props => [text, image];
+  List<Object?> get props => [text, image, number];
 }

@@ -9,7 +9,7 @@ part of 'string_question.dart';
 StringQuestion _$StringQuestionFromJson(Map<String, dynamic> json) =>
     StringQuestion(
       name: json['name'] as String,
-      number: json['number'] as int,
+      number: (json['number'] as num).toInt(),
       image: json['image'] as String?,
       answer: json['answer'] as String,
       variants:

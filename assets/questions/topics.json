@@ -1,5 +1,10 @@
 [
   {
+    "name": "Физическая и коллоидная химия",
+    "questions_count": 110,
+    "dir_name": "pcc"
+  },
+  {
     "name": "Геном человека",
     "questions_count": 180,
     "dir_name": "genome"

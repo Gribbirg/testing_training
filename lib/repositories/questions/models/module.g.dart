@@ -8,7 +8,7 @@ part of 'module.dart';
 
 Module _$ModuleFromJson(Map<String, dynamic> json) => Module(
       name: json['name'] as String,
-      questionsCount: json['questions_count'] as int,
+      questionsCount: (json['questions_count'] as num).toInt(),
       dirName: json['dir_name'] as String,
     );
 

@@ -9,10 +9,10 @@ part of 'one_select_question.dart';
 OneSelectQuestion _$OneSelectQuestionFromJson(Map<String, dynamic> json) =>
     OneSelectQuestion(
       name: json['name'] as String,
-      number: json['number'] as int,
-      answersCount: json['answers_count'] as int,
+      number: (json['number'] as num).toInt(),
+      answersCount: (json['answers_count'] as num).toInt(),
       image: json['image'] as String?,
-      rightAnswerNumber: json['right_ans_num'] as int,
+      rightAnswerNumber: (json['right_ans_num'] as num).toInt(),
       answers: (json['answers'] as List<dynamic>)
           .map((e) => Answer.fromJson(e as Map<String, dynamic>))
           .toList(),

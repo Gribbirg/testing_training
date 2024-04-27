@@ -1,0 +1,3701 @@
+[
+    {
+        "name": "Нулевое начало термодинамики утверждает: ",
+        "number": 0,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            1,
+            2
+        ],
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Внутренняя энергия системы при 0 К равна нулю"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Если система А находится в тепловом равновесии с системой В, а система В находится в равновесии с системой С, то системы А и С также находятся в тепловом равновесии"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Существует интенсивная функция состояния равновесной системы – температура, при этом равенство температур двух или нескольких систем является необходимым условием их равновесия между собой"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Температура – внешний параметр равновесной системы"
+            }
+        ]
+    },
+    {
+        "name": "Первое начало термодинамики имеет вид: ",
+        "number": 1,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            1,
+            3
+        ],
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Q = ΔU – W"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Q = ΔU + W"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "ΔU = Q + W"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "ΔU = Q – W"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "W = ΔU + Q"
+            }
+        ]
+    },
+    {
+        "name": "Первому началу термодинамики соответствует уравнение: ",
+        "number": 2,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "ΔU = ΔH - W"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "ΔG = ΔH - TΔS"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "lnK = ΔH/(RT)"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "lnK = - ΔG0/(RT)"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "ΔG = RTln(Пc) / Kc"
+            }
+        ]
+    },
+    {
+        "name": "Термодинамическая система – это ",
+        "number": 3,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Микроскопический объект, выделенный из внешней среды"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Макроскопический материальный объект, который обменивается с внешней средой теплотой"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Материальный объект, который обменивается с внешней средой веществом"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Любой макроскопический материальный объект, выделенный из внешней среды с помощью реально существующей или воображаемой граничной поверхности"
+            }
+        ]
+    },
+    {
+        "name": "Какие  контакты  с  внешней  средой  может  иметь  изолированная термодинамическая система: ",
+        "number": 4,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Любые контакты невозможны"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Только механические контакты"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Только диффузионные контакты"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Только термические контакты"
+            }
+        ]
+    },
+    {
+        "name": "В изолированной системе могут самопроизвольно протекать только процессы: ",
+        "number": 5,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Сопровождающиеся увеличением внутренней энергии системы"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "При которых энтропия системы не изменяется"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Сопровождающиеся увеличением энтропии системы"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Процессы, сопровождающиеся уменьшением энергии Гиббса системы"
+            }
+        ]
+    },
+    {
+        "name": "Какие контакты с внешней средой может иметь закрытая термодинамическая система: ",
+        "number": 6,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Любые контакты невозможны"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Термические и механические контакты"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Только диффузионные контакты"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Диффузионные и термические контакты"
+            }
+        ]
+    },
+    {
+        "name": "К какому типу термодинамических систем относится живой организм: ",
+        "number": 7,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Открытая"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Закрытая"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Изолированная"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Гомогенная"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "гетерогенная"
+            }
+        ]
+    },
+    {
+        "name": "На что расходуется теплота, подведенная к термодинамической системе: ",
+        "number": 8,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "На изменение внутренней энергии системы"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "На совершение работы против действия внешних сил"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "На совершение работы и изменение внутренней энергии системы"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "На поддержание постоянства внутреннего состояния системы"
+            }
+        ]
+    },
+    {
+        "name": "Математическое выражение второго начала термодинамики: ",
+        "number": 9,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆S > 0"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "S = ∆H/T"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆S = Q/T"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "dS ≥ δ Q/T"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "dS = δ Q/T"
+            }
+        ]
+    },
+    {
+        "name": "Третьему закону термодинамики подчиняются: ",
+        "number": 10,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Газы"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Жидкости"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Растворы"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Твердые тела"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Стеклообразные фазы"
+            }
+        ]
+    },
+    {
+        "name": "Энтропия это: ",
+        "number": 11,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            3
+        ],
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Количественная мера неупорядоченности системы"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Вероятность состояния системы"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Теплосодержание системы"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Функция состояния термодинамической системы"
+            }
+        ]
+    },
+    {
+        "name": "При смешивании двух объемов одного и того же газа энтропия ",
+        "number": 12,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "уменьшается"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "не изменяется"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "увеличивается"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "становится отрицательной"
+            }
+        ]
+    },
+    {
+        "name": "При самопроизвольном приближении к равновесию энтропия изолированной системы ",
+        "number": 13,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Стремится к нулю"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Стремится к бесконечности"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Достигает минимума"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Достигает максимума"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Линейно убывает"
+            }
+        ]
+    },
+    {
+        "name": "Постулат Планка (III-е начало термодинамики): ",
+        "number": 14,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 3,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "при увеличении температуры энтропия растет"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "энтропия  возрастает  при  переходе  вещества из более конденсированного состояния в менее конденсированное"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "энтропия совершенного (бездефектного, идеального) кристалла при 0 К равна 0"
+            }
+        ]
+    },
+    {
+        "name": "Какая  термодинамическая  функция  является  критерием  достижения равновесия  (критерием  самопроизвольного  протекания  процесса)  в изолированной системе? ",
+        "number": 15,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Внутренняя энергия"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Энергия Гиббса"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Энтальпия"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Энтропия"
+            }
+        ]
+    },
+    {
+        "name": "При охлаждении, конденсации, полимеризации энтропия системы: ",
+        "number": 16,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Уменьшается"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Увеличивается"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Не изменяется"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Сначала увеличивается, потом уменьшается"
+            }
+        ]
+    },
+    {
+        "name": "В ходе процессов возгонки, испарения, растворения энтропия ",
+        "number": 17,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Уменьшается"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Увеличивается"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Не изменяется"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Сначала увеличивается, потом уменьшается"
+            }
+        ]
+    },
+    {
+        "name": "Термодинамически обратимый процесс – это ",
+        "number": 18,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Процесс, для осуществления которого не надо затрачивать энергию"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Процесс, происходящий только при затрате энергии системы"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Равновесный процесс, после которого система и окружающая среда могут возвратиться в начальное состояние"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Процесс, протекающий при конечных разностях действующих и противодействующих сил"
+            }
+        ]
+    },
+    {
+        "name": "Процесс, проходящий в прямом, а затем в обратном направлении так, что не только система, но и окружающая среда возвращается в исходное состояние, называется ",
+        "number": 19,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 6,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "положительным"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "отрицательным"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "равновесным"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "неравновесным"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "самопроизвольным"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "стационарным"
+            }
+        ]
+    },
+    {
+        "name": "Какое состояние термодинамической системы называется равновесным? ",
+        "number": 20,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Состояние изолированной системы"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Состояние закрытой системы при постоянном давлении"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Состояние открытой системы при постоянном объеме"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Состояние, в которое переходит система при постоянных внешних условиях при не изменении во времени термодинамических параметров и отсутствии в системе потоков вещества и энергии"
+            }
+        ]
+    },
+    {
+        "name": "Какой процесс называют адиабатическим? ",
+        "number": 21,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Процесс, при котором система не получает теплоты из вне и не отдает ее"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Любой равновесный процесс"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Процесс  в  идеальном  газе,  характеризующийся постоянной теплоемкостью"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Процесс, при котором система имеет тепловой контакт с окружающей средой"
+            }
+        ]
+    },
+    {
+        "name": "Термодинамически обратимый процесс - это процесс, в котором: ",
+        "number": 22,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "все промежуточные состояния неравновесны"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "хотя бы одно из состояний равновесно"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "все промежуточные состояния равновесны"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "хотя бы одно из состояний неравновесно"
+            }
+        ]
+    },
+    {
+        "name": "Что в термодинамике называют термодинамическим процессом: ",
+        "number": 23,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Неравновесное состояние системы"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Стационарное состояние системы"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Последовательность неравновесных состояний системы"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Изменение состояния системы, характеризующееся изменением ее термодинамических параметров"
+            }
+        ]
+    },
+    {
+        "name": "Выберите правильное определение стационарного состояния системы ",
+        "number": 24,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Это равновесное состояние изолированной системы"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Это  состояние,  при  котором  термодинамические переменные постоянны во времени, но в системе имеются потоки"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Равновесное состояние закрытой системы"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Равновесное состояние открытой системы"
+            }
+        ]
+    },
+    {
+        "name": " Какие термодинамические характеристики из перечисленных ниже являются функциями состояния: ",
+        "number": 25,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            1,
+            4
+        ],
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "энтальпия,"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "энергия Гиббса,"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "теплота,"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "работа,"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "энтропия."
+            }
+        ]
+    },
+    {
+        "name": "Какие из данных термодинамических величин не являются функциями состояния системы? ",
+        "number": 26,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            4
+        ],
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Теплота"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Внутренняя энергия"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Энтропия"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Энергия Гиббса"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Работа"
+            }
+        ]
+    },
+    {
+        "name": "Какие  из  перечисленных  величин  являются  интенсивными термодинамическими переменными? ",
+        "number": 27,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Температура, химическое количество вещества, плотность, удельный объем"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Энергия, давление, плотность, концентрация,"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Плотность, концентрация, объем, температура"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Энтропия, давление, плотность, энергия"
+            }
+        ]
+    },
+    {
+        "name": "Какая из данных термодинамических величин является интенсивным параметром состояния системы? ",
+        "number": 28,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Внутренняя энергия"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Энтропия"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Давление"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Объем"
+            }
+        ]
+    },
+    {
+        "name": "Укажите интенсивные величины (свойства) термодинамической системы: ",
+        "number": 29,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            4
+        ],
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "давление"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "объем"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "работа"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "энтропия"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "температура"
+            }
+        ]
+    },
+    {
+        "name": "Экстенсивными величинами являются: ",
+        "number": 30,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            2
+        ],
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "энтропия"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "плотность вещества"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "энтальпия"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "температура плавления"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "давление"
+            }
+        ]
+    },
+    {
+        "name": "Какая из данных термодинамических величин является экстенсивным параметром состояния системы? ",
+        "number": 31,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Энтропия"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Температура"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Давление"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Плотность вещества"
+            }
+        ]
+    },
+    {
+        "name": "Какая из данных термодинамических величин является параметром процесса, а не параметром состояния? ",
+        "number": 32,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Температура"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Энтропия"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Энтальпия"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Теплота"
+            }
+        ]
+    },
+    {
+        "name": "Работа какого из процессов с участием идеального газа равна нулю: ",
+        "number": 33,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Изобарного"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Изохорного"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Изотермического"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "адиабатического"
+            }
+        ]
+    },
+    {
+        "name": "В каком из процессов с участием идеального газа внутренняя энергия не изменяется: ",
+        "number": 34,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "изобарный"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "изохорный"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "изотермический"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "адиабатический"
+            }
+        ]
+    },
+    {
+        "name": "Теплота какого из процессов с участием идеального газа равна работе этого процесса? ",
+        "number": 35,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "изобарный"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "изохорный"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "изотермический"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "адиабатический"
+            }
+        ]
+    },
+    {
+        "name": "Какой из процессов с участием идеального газа протекает без теплообмена с окружающей средой? ",
+        "number": 36,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "изобарный"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "изохорный"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "изотермический"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "адиабатический"
+            }
+        ]
+    },
+    {
+        "name": "В соответствии с 1 началом термодинамики для изотермического процесса справедливо выражение:                                              ",
+        "number": 37,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            1,
+            2
+        ],
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆U = Qv"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Qт = Wт"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Wт = nRTlnP₁/P₂"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "∆U = W"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "∆H = ∆U + W"
+            }
+        ]
+    },
+    {
+        "name": "По уравнению W = nRTln V₂/V1₁ рассчитывается: ",
+        "number": 38,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "работа необратимого расширения идеального газа при T = const"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "работа обратимого расширения идеального газа при Р = const"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "работа обратимого расширения реального газа"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "работа обратимого расширения идеального газа при T = const"
+            }
+        ]
+    },
+    {
+        "name": "Зависимость теплоты процесса (химической реакции) от температуры дается уравнениями: ",
+        "number": 39,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Кирхгофа"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Гиббса - Гельмгольца"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Вант - Гоффа"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Клапейрона - Клаузиуса"
+            }
+        ]
+    },
+    {
+        "name": "Приведенное уравнение соответствует:",
+        "number": 40,
+        "type": "oneselect",
+        "image": "1.png",
+        "right_ans_num": 3,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": ""
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Интегральной форме уравнения Клапейрона-Клаузиуса"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Интегральной форме изобары Вант-Гоффа"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Интегральной форме изохоры Вант-Гоффа"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Интегральной форме уравнения Кирхгофа."
+            }
+        ]
+    },
+    {
+        "name": "Произведение PV называется: ",
+        "number": 41,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "свободная энергия"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "связанная энергия"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "внутренняя энергия"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "внешняя энергия"
+            }
+        ]
+    },
+    {
+        "name": "Как соотносятся величины ∆Н и ∆U для следующей химической реакции: 4NO(г) + 6Н₂О(ж) = 4 NH₃(г) + 5О₂(г)",
+        "number": 42,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆Н > ∆U"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆Н < ∆U"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆Н = ∆U"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "∆Н = ∆U = 0"
+            }
+        ]
+    },
+    {
+        "name": "Как соотносятся величины ∆Н и ∆U для следующей химической реакции:\n2 NO₂ (г) = N₂O₄ (г)  ",
+        "number": 43,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆Н > ∆U"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆Н < ∆U"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆Н = ∆U"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "∆Н = ∆U = 0"
+            }
+        ]
+    },
+    {
+        "name": "Правильным является утверждение: внутренняя энергия - функция состояния, приращение которой равно теплоте",
+        "number": 44,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "изобарного процесса"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "изохорного процесса"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "изотермического процесса,"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "в условиях равновесия"
+            }
+        ]
+    },
+    {
+        "name": "Правильным  является  утверждение:  энтальпия  - функция состояния, приращение которой равно теплоте",
+        "number": 45,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "изохорного процесса,"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "изобарного процесса"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "изотермического процесса,"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "в условиях равновесия"
+            }
+        ]
+    },
+    {
+        "name": "Функция состояния энтальпия была введена для описания процессов: ",
+        "number": 46,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "изобарный"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "изохорный"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "изотермический"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "адиабатический"
+            }
+        ]
+    },
+    {
+        "name": "Выберите уравнение реакции, соответствующее стандартной энтальпии образования соединения\nCa(H₂PO₄)₂∙H₂O",
+        "number": 47,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Ca(H₂PO₄)₂(кр) + H₂O(ж) = Ca(H₂PO₄)₂∙H₂O(кр)"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Ca(тв) + 6 H(г) + 2 P(красный) + 9 O(г) = Ca(H₂PO₄)₂∙H₂O(кр)"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Ca(тв) + 2 P(белый) + 4,5 O₂(г) = Ca(H₂PO₄)₂∙H₂O(кр)"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Ca(тв) + 3 H₂(г) + 2 P(красный) + 4,5 O₂(г) = Ca(H₂PO₄)₂∙H₂O(кр)"
+            }
+        ]
+    },
+    {
+        "name": "Физический смысл удельной теплоемкости заключается в следующем: ",
+        "number": 48,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "теплота, выделяющаяся в результате химической реакции и приходящаяся на 1 моль вещества;"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "количество энергии, которое необходимо затратить на нагревание на один градус одного грамма вещества;"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "количество тепловой энергии, которое необходимо для того, чтобы один грамм вещества вступил в реакцию;"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "количество тепловой энергии, которое необходимо для того, чтобы реакция полностью завершилась."
+            }
+        ]
+    },
+    {
+        "name": "Каково соотношение между изобарной и изохорной теплоемкостями для идеального газа? ",
+        "number": 49,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Сp + Сv = R"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Сp = Сv + R"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Сp / Сv = R"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Сv / Сp = R"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Сv – Cp = R"
+            }
+        ]
+    },
+    {
+        "name": "В соответствии с уравнением Кирхгофа и на основании графика можно утверждать, что для исследуемой реакции изменение теплоемкости:",
+        "number": 50,
+        "type": "oneselect",
+        "image": "2.png",
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆Ср < 0"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆Ср > 0"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆Ср = 0"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "∆Ср → ∞"
+            }
+        ]
+    },
+    {
+        "name": "В соответствии с уравнением Кирхгофа и на основании графика можно утверждать, что для исследуемой реакции изменение теплоемкости: ",
+        "number": 51,
+        "type": "oneselect",
+        "image": "3.png",
+        "right_ans_num": 1,
+        "answers_count": 7,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆Cр < 0"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆Cp > 0"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆Cp = 0"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "∆Cp = ∞"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "∆Ср → ∞"
+            }
+        ]
+    },
+    {
+        "name": "В соответствии с уравнением Кирхгофа и на основании графика можно утверждать, что для исследуемой реакции изменение теплоемкости: ",
+        "number": 52,
+        "type": "oneselect",
+        "image": "img.png",
+        "right_ans_num": 0,
+        "answers_count": 8,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆Cр < 0"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆Cp > 0"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆Cp = 0"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "∆Cp = ∞"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "∆Ср ≤ ∞"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "∆Ср → ∞"
+            }
+        ]
+    },
+    {
+        "name": "В системе, находящейся в состоянии термодинамического равновесия энтропия: ",
+        "number": 53,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Стремится к нулю"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Достигает максимального значения"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Становится больше нуля"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Принимает отрицательное значение"
+            }
+        ]
+    },
+    {
+        "name": "Теплоты сгорания графита и алмаза при стандартных условиях составляют 393,5 кДж/моль и 395,4 кДж/моль соответственно. Чему равна энтальпия перехода графита в алмаз?  ",
+        "number": 54,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "-1,9 кДж/моль"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "1,9 кДж/моль"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "0 кДж/ моль"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "788,9 кДж/моль"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "- 788,9 кДж/моль"
+            }
+        ]
+    },
+    {
+        "name": "Свойства внутренней энергии системы в общем случае: ",
+        "number": 55,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            2,
+            4,
+            6
+        ],
+        "answers_count": 7,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Функция состояния системы"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Функция процесса"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Экстенсивная функция"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Интенсивная функция"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Функция, равная теплоте процесса"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "Функция равная работе процесса"
+            },
+            {
+                "number": 6,
+                "image": null,
+                "text": "Абсолютное значение функции неизвестно"
+            }
+        ]
+    },
+    {
+        "name": "Свойства энтальпии системы в общем случае: ",
+        "number": 56,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            2,
+            5
+        ],
+        "answers_count": 8,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Функция состояния системы"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Функция процесса"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Экстенсивная функция"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Интенсивная функция"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Функция, равная теплоте изохорного процесса"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "Функция, равная теплоте изобарного процесса"
+            },
+            {
+                "number": 6,
+                "image": null,
+                "text": "Функция равная работе процесса"
+            },
+            {
+                "number": 7,
+                "image": null,
+                "text": "Абсолютное значение функции неизвестно"
+            }
+        ]
+    },
+    {
+        "name": "Термохимическое уравнение Кирхгофа может выражать зависимость: ",
+        "number": 57,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 4,
+        "answers_count": 6,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Энтальпии вещества от температуры при постоянном давлении"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Теплоемкости вещества от температуры при постоянном давлении"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Энтальпии вещества от давления при постоянной температуре"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Теплоемкости вещества от давления при постоянной температуре"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Изменения энтальпии в процессе от температуры при постоянном давлении"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "Изменения энтальпии в процессе от давления при постоянной температуре"
+            }
+        ]
+    },
+    {
+        "name": "Возможность вычислить абсолютное значение энтропии индивидуального вещества дает: ",
+        "number": 58,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "тепловой закон Нернста"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "уравнение изобары (изохоры) Вант-Гоффа"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "постулат Планка"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "правило фаз Гиббса"
+            }
+        ]
+    },
+    {
+        "name": "Рассчитайте температуру, при которой станет возможным проведение данного процесса:\nСО₂(г)  + С (тв) ↔ 2 СО(г),  ΔН⁰рц = 173 кДж/моль, ΔS⁰рц = 176 Дж/моль К ",
+        "number": 59,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "983 К"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "1983 К"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "830 К"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "1017 К"
+            }
+        ]
+    },
+    {
+        "name": "В соответствии с фундаментальным равенством термодинамики можно утверждать:",
+        "number": 60,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "(∂G/∂P)т,ni = P"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "(∂G/∂T)р,ni = P"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "(∂G/∂T)р,ni = - S"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "(∂G/∂n)р,т,∟ni = S"
+            }
+        ]
+    },
+    {
+        "name": "Укажите экстенсивные величины (свойства) термодинамической системы:",
+        "number": 61,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            1
+        ],
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "S"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "U"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "P"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "ρ"
+            }
+        ]
+    },
+    {
+        "name": "При каких значениях ∆H и ∆S изменение температуры может обратить направление самопроизвольного процесса: ",
+        "number": 62,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "-∆H, +∆S"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "-∆H, -∆S"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "+∆H, +∆S"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "+∆H, -∆S"
+            }
+        ]
+    },
+    {
+        "name": "Какое утверждение правильно? ",
+        "number": 63,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "цельная кровь - это гетерогенная система"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "плазма крови - это гетерогенная система"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "кровь и плазма - это гетерогенные системы"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "кровь и плазма - это гомогенные системы"
+            }
+        ]
+    },
+    {
+        "name": "Для реакции А(тв) + В(ж)  = А(раствор).   ∆Hрц > 0; ∆Sрц > 0\nКакой из факторов способствует самопроизвольному растворению вещества?",
+        "number": 64,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "энтальпийный"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "энтропийный"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "оба способствуют"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "оба препятствуют"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "не влияют на прохождение процесса"
+            }
+        ]
+    },
+    {
+        "name": "Укажите интенсивные величины (свойства) термодинамической системы:",
+        "number": 65,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            4
+        ],
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Т"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "V"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "А"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "S"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Р"
+            }
+        ]
+    },
+    {
+        "name": "Энтропия -  это функция состояния, приращение которой в обратимом процессе при постоянной температуре определяется:     ",
+        "number": 66,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "энергией Гиббса"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "теплотой"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "энтальпией"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "внутренней энергией"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "работой"
+            }
+        ]
+    },
+    {
+        "name": "Какие термодинамические характеристики из перечисленных ниже являются функциями состояния: ",
+        "number": 67,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            2,
+            3,
+            5
+        ],
+        "answers_count": 7,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "химический потенциал"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "работа"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "внутренняя энергия"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "энтропия"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "теплота"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "энтальпия"
+            },
+            {
+                "number": 6,
+                "image": null,
+                "text": "температура"
+            }
+        ]
+    },
+    {
+        "name": "Состояние системы, при котором ее свойства постоянны во времени при наличии потоков энергии и вещества, называется:",
+        "number": 68,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 7,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "начальным"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "стационарным"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "переходным"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "стандартным"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "конечным"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "обратимым"
+            },
+            {
+                "number": 6,
+                "image": null,
+                "text": "равновесным"
+            }
+        ]
+    },
+    {
+        "name": "В каком случае правильно рассчитана стандартная энтальпия образования СО из простых веществ:  ",
+        "number": 69,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆Н01 – ∆Н02"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆Н02 – ∆Н01"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆Н01 + ∆Н02"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "∆Н01 + 2 ∆Н02"
+            }
+        ]
+    },
+    {
+        "name": "Равновесное состояние - это состояние, при котором все свойства системы не меняются во времени и: ",
+        "number": 70,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "в системе отсутствуют потоки вещества и энергии"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "имеются только потоки энергии"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "имеются потоки энергии и вещества"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "система переходит из одного стационарного состояния в другое"
+            }
+        ]
+    },
+    {
+        "name": "Свойства энтропии системы в общем случае: ",
+        "number": 71,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            2
+        ],
+        "answers_count": 8,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Функция состояния системы"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Функция процесса"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Экстенсивная функция"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Интенсивная функция"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Функция, равная теплоте изохорного процесса"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "Функция, равная теплоте изобарного процесса"
+            },
+            {
+                "number": 6,
+                "image": null,
+                "text": "Функция равная работе процесса"
+            },
+            {
+                "number": 7,
+                "image": null,
+                "text": "Абсолютное значение функции неизвестно"
+            }
+        ]
+    },
+    {
+        "name": "Какими термодинамическими функциями характеризуются изобарно-изотермические процессы?",
+        "number": 72,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Свободная энергия Гиббса"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Свободная энергия Гельмгольца"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Энтропия"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Внутренняя энергия"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Энтальпия"
+            }
+        ]
+    },
+    {
+        "name": "Свободная энергия Гельмгольца это:",
+        "number": 73,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Внутренняя энергия"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Изохорно-изотермический потенциал"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Изобарно-изотермический потенциал"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Связанная энергия"
+            }
+        ]
+    },
+    {
+        "name": "Свободная энергия Гиббса это:",
+        "number": 74,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Внутренняя энергия"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Изохорно-изотермический потенциал"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Изобарно-изотермический потенциал"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Связанная энергия"
+            }
+        ]
+    },
+    {
+        "name": "Изохорно-изотермическим потенциалом является:",
+        "number": 75,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Энергия Гиббса"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Энергия Гельмгольца"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Энтальпия"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Внутренняя энергия"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Энтропия"
+            }
+        ]
+    },
+    {
+        "name": "Какое из данных выражений, определяющих энергию Гиббса, является неправильным? ",
+        "number": 76,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "G = U – TS"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "G = H – TS"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "G = А + PV"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "G = U – TS + PV"
+            }
+        ]
+    },
+    {
+        "name": "Какая  термодинамическая  функция  является  критерием  достижения равновесия (критерием самопроизвольного протекания процесса) в условиях постоянства давления и температуры? ",
+        "number": 77,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Внутренняя энергия"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Энтальпия"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Энтропия"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Энергия Гиббса"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Энергия Гельмгольца"
+            }
+        ]
+    },
+    {
+        "name": "Какая  термодинамическая  функция  является  критерием  достижения равновесия (критерием самопроизвольного протекания процесса) в условиях постоянства объема и температуры? ",
+        "number": 78,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Внутренняя энергия"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Энтропия"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Энергия Гиббса"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Энергия Гельмгольца"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Энтальпия"
+            }
+        ]
+    },
+    {
+        "name": "Произведение TS называется: ",
+        "number": 79,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Связанная энергия"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Свободная энергия"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Внутренняя энергия"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Внешняя энергия"
+            }
+        ]
+    },
+    {
+        "name": "Знание каких термодинамических функций является необходимым для оценки возможности самопроизвольного протекания химических реакций в прямом направлении: ",
+        "number": 80,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            2,
+            3
+        ],
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Энтальпия"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Энтропия"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Свободная энергия Гиббса"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Изохорно-изотермический потенциал"
+            }
+        ]
+    },
+    {
+        "name": "В изохорно-изотермических условиях в системе самопроизвольно могут осуществляться только процессы, в результате которых:   ",
+        "number": 81,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 6,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆A > 0"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆A < 0"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆A = 0"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "∆G > 0"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "∆G < 0"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "∆G = 0"
+            }
+        ]
+    },
+    {
+        "name": "В закрытой системе протекает самопроизвольный процесс. Как изменяется энергия Гиббса системы? ",
+        "number": 82,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆G > 0"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆G < 0"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆G = 0"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "G = const"
+            }
+        ]
+    },
+    {
+        "name": "Будет ли протекать самопроизвольно химическая реакция при T и V = const, если ∆U < 0 и ∆S > 0 ",
+        "number": 83,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "реакция будет протекать самопроизвольно"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "реакция невозможна"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "реакция будет идти только при высоких температурах"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "реакция будет идти только при очень низких температурах"
+            }
+        ]
+    },
+    {
+        "name": "В изобарно-изотермических условиях в системе самопроизвольно могут осуществляться только процессы, в результате которых:   ",
+        "number": 84,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 6,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆G < 0"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆G > 0"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "G = const"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "∆A < 0"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "∆A > 0"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "∆A = 0"
+            }
+        ]
+    },
+    {
+        "name": "Энергия Гиббса определяется соотношением: ",
+        "number": 85,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "G = U + pV"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "G = H - TS"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "G = TS"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "G = H+А"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "G = U - pV"
+            }
+        ]
+    },
+    {
+        "name": "Энергия Гельмгольца определяется соотношением: ",
+        "number": 86,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "А = U + pV"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "A = H – TS"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "A = U – TS"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "A = PV"
+            }
+        ]
+    },
+    {
+        "name": "В изобарно-изотермическом обратимом процессе изменение энергии Гиббса системы: ",
+        "number": 87,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "- ∆G > Wполез"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "- ∆G < Wполез"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "- ∆G = Wполез"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "∆G > Wполез"
+            }
+        ]
+    },
+    {
+        "name": "В изобарно-изотермическом необратимом процессе изменение энергии Гиббса системы: ",
+        "number": 88,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "- ∆G > Wполез"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "- ∆G < Wполез"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "- ∆G = Wполез"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "∆G > Wполез"
+            }
+        ]
+    },
+    {
+        "name": "В изохорно-изотермическом обратимом процессе изменение энергии Гельмгольца системы: ",
+        "number": 89,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "- ∆А > Wмакс"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "- ∆А < Wмакс"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆А > Wмакс"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "- ∆А = Wмакс"
+            }
+        ]
+    },
+    {
+        "name": "В изохорно-изотермическом необратимом процессе изменение энергии Гельмгольца системы: ",
+        "number": 90,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "- ∆А > Wмакс"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "- ∆А < Wмакс"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆А > Wмакс"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "- ∆А = Wмакс"
+            }
+        ]
+    },
+    {
+        "name": "Химический потенциал i-го компонента раствора: ",
+        "number": 91,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "μi = μ⁰ i (T) + RT lnfi"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "μi,ж = μ⁰i (P) + RT lnPi + RT lnγi"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "μi = μ⁰i (T, P) + RT lnNi"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "μi,ж= μ⁰i,ж(T, P) + RT lnαi"
+            }
+        ]
+    },
+    {
+        "name": "Химический потенциал компонента смеси идеальных газов равен: ",
+        "number": 92,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "μi = μ⁰i (T, Р) + RT lnαi"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "μi = μ⁰i (T, Р) + RT lnfi"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "μi = μ⁰i (T, Р) + RTlnPi + RT lnγi"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "μi = μ⁰i (T, P) + RT lnNi"
+            }
+        ]
+    },
+    {
+        "name": "Выражение для химического потенциала компонента реального жидкого раствора имеет вид:    ",
+        "number": 93,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "μi  = μ⁰i (T,Р)  +  RT ln ai"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "μi  =  Gi (T,P)  +  RT ln Ni"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "μi  =  μi (T)  +  RT ln fi"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "μi  = μ⁰i (T)  +  RT ln Ni"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "μi  = μ⁰i (T,Р)  +  RT ln Сi"
+            }
+        ]
+    },
+    {
+        "name": "Изобарный потенциал системы, приходящийся на 1 моль компонента (на 1 частицу) называется: ",
+        "number": 94,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Химический потенциал"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Химическая переменная"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Криоскопическая постоянная"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Изотонический коэффициент"
+            }
+        ]
+    },
+    {
+        "name": "Уравнению изотермы химической реакции соответствует:  ",
+        "number": 95,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            3,
+            4
+        ],
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆U = Q - W"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆G = ∆H - T∆S"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "lnK = ∆H/(RT)"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "lnK = ∆G⁰/(RT)"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "∆G = RTln(Пc)/Кc"
+            }
+        ]
+    },
+    {
+        "name": "Уравнению изобары химической реакции соответствует:  ",
+        "number": 96,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆U = Q -W"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆G = ∆H - T∆S"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "lnK = -∆H/(RT) + const"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "ln K = -∆G⁰/(RT)"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "∆G = RTln(Пc)/Кc"
+            }
+        ]
+    },
+    {
+        "name": "Из уравнения изобары химической реакции следует, что в экзотермическом процессе с ростом температуры константа равновесия: ",
+        "number": 97,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "уменьшается"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "увеличивается"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "не изменяется"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "константа равновесия химической реакции не зависит от теплового эффекта реакции"
+            }
+        ]
+    },
+    {
+        "name": "Из уравнения изобары химической реакции следует, что для эндотермической реакции с ростом температуры константа равновесия: ",
+        "number": 98,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "уменьшается"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "растет"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "не изменяется"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "константа равновесия химической реакции не зависит от теплового эффекта реакции"
+            }
+        ]
+    },
+    {
+        "name": "Уравнение  изобары  химической  реакции демонстрирует  зависимость константы равновесия от: ",
+        "number": 99,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 3,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "изменения энергии Гиббса"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "изменения энтальпии реакции"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "давления в системе"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "температуры"
+            }
+        ]
+    },
+    {
+        "name": "Уравнение изотермы химической реакции имеет вид: ",
+        "number": 100,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            1,
+            2
+        ],
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "∆Gрц = -RTlnПа + RТlnKa,"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "∆Gрц = -RTlnKa + RTlnПа,"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "∆Gрц = - RTln(Ка/Па),"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "RTln(Па/Ка) = 0"
+            }
+        ]
+    },
+    {
+        "name": "Константа равновесия для реакции H₃PO₄ ↔ H⁺ + H₂PO₄- имеет следующую оценку измерения:",
+        "number": 101,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 5,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "моль/л"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "моль²/л²"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "моль³/л³"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "моль⁴/л⁴"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "л⁴/ моль⁴"
+            }
+        ]
+    },
+    {
+        "name": "Константа равновесия для реакции Cu²⁺ + 4 NH₃ ↔ [Cu(NH₃)₄]²⁺ имеет следующую оценку измерения:",
+        "number": 102,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 4,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "моль/л"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "моль²/л²"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "моль³/л³"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "моль⁴/л⁴"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "л⁴/ моль⁴"
+            }
+        ]
+    },
+    {
+        "name": "Зависимость константы равновесия химической реакции от температуры дается уравнениями:",
+        "number": 103,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 0,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Вант-Гоффа"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Кирхгофа"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Гиббса-Гельмгольца"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Клапейрона-Клаузиуса"
+            }
+        ]
+    },
+    {
+        "name": "К изменению значения термодинамической константы равновесия химической реакции приведет: ",
+        "number": 104,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 1,
+        "answers_count": 4,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "введение катализатора"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "изменение температуры"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "изменение концентрации реагирующих веществ"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "отвод продуктов реакции"
+            }
+        ]
+    },
+    {
+        "name": "Реакции, химическое равновесие в которых смещается вправо при увеличении давления: ",
+        "number": 105,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            1
+        ],
+        "answers_count": 6,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Ca(OH)₂(р-р) + CO₂ = CaCO₃(тв) + H₂O(ж)"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "CaO(тв) + CO₂(г) = CaCO₃(тв)"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "2 AsH₃(г)  = 2 As(тв) + 3 H₂(г)"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Pb(тв) + PbO₂(тв) = 2 PbO(тв)"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Sb₂O₄(тв) + 4 C(тв) = 2Sb(тв) + 4 CO(г)"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "Si(тв) + 2 Li₂O(тв)  = SiO₂(тв) + 4 Li(тв)"
+            }
+        ]
+    },
+    {
+        "name": "Реакции, химическое равновесие в которых при добавлении инертного газа смещается вправо:",
+        "number": 106,
+        "type": "multselect",
+        "image": null,
+        "right_answers_nums": [
+            2,
+            4
+        ],
+        "answers_count": 6,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Ca(OH)₂(р-р) + CO₂ = CaCO₃(тв) + H₂O(ж)"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "CaO(тв) + CO₂(г) = CaCO₃(тв)"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "2 AsH₃(г)  = 2 As(тв) + 3 H₂(г)"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Pb(тв) + PbO₂(тв) = 2 PbO(тв)"
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Sb₂O₄(тв) + 4 C(тв) = 2Sb(тв) + 4 CO(г)"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "Si(тв) + 2 Li₂O(тв)  = SiO₂(тв) + 4 Li(тв)"
+            }
+        ]
+    },
+    {
+        "name": "Как повлияет на смещение равновесия CO(газ) + H₂O ↔ CO₂(газ) + H₂(газ), ∆Н = -43 кДж ?",
+        "number": 107,
+        "type": "categories",
+        "image": null,
+        "right_answers_nums": [
+            1,
+            2,
+            1
+        ],
+        "statements_count": 3,
+        "statements": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Уменьшение парциального давления H₂O"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Увеличение давления в системе"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Увеличение температуры в системе"
+            }
+        ],
+        "answers_count": 3,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Равновесие сместится вправо"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Равновесие сместится влево"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Равновесие НЕ сместится"
+            }
+        ]
+    },
+    {
+        "name": "Как повлияет на смещение равновесия CO(газ) + H₂O ↔ CO₂(газ) + H₂(газ), ∆Н = -43 кДж ?",
+        "number": 108,
+        "type": "categories",
+        "image": null,
+        "right_answers_nums": [
+            0,
+            1,
+            2,
+            1,
+            2,
+            0
+        ],
+        "statements_count": 6,
+        "statements": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Разбавление раствора водой"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Прибавление к раствору соляной кислоты"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Прибавление к раствору натрий хлорида"
+            },
+            {
+                "number": 3,
+                "image": null,
+                "text": "Прибавление к раствору натрий водородфосфата."
+            },
+            {
+                "number": 4,
+                "image": null,
+                "text": "Прибавление к раствору катализатора"
+            },
+            {
+                "number": 5,
+                "image": null,
+                "text": "Прибавление к раствору КОН"
+            }
+        ],
+        "answers_count": 3,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "Равновесие сместится вправо"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "Равновесие сместится влево"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "Равновесие НЕ сместится"
+            }
+        ]
+    },
+    {
+        "name": "В соответствии с определением, химический потенциал i-го компонента многокомпонентной системы равен: ",
+        "number": 109,
+        "type": "oneselect",
+        "image": null,
+        "right_ans_num": 2,
+        "answers_count": 3,
+        "answers": [
+            {
+                "number": 0,
+                "image": null,
+                "text": "(∂G/∂P)p, т,ni = μi"
+            },
+            {
+                "number": 1,
+                "image": null,
+                "text": "(∂G/∂T)р,ni = μi"
+            },
+            {
+                "number": 2,
+                "image": null,
+                "text": "(∂G/∂ni)р,т,ni = μi"
+            }
+        ]
+    }
+]
