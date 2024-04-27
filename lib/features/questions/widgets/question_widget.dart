@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:testing_training/features/questions/widgets/multi_select_question_widget.dart';
 import 'package:testing_training/features/questions/widgets/num_question_widget.dart';
 import 'package:testing_training/features/questions/widgets/string_question_widget.dart';
 import 'package:testing_training/main.dart';
@@ -159,6 +160,16 @@ class _QuestionWidgetState extends State<QuestionWidget> {
     if (widget.question is StringQuestion) {
       return StringQuestionWidget(
         question: widget.question as StringQuestion,
+        sessionQuestion: widget.sessionQuestion,
+        topic: widget.topic,
+        module: widget.module,
+        setParentState: setState,
+      );
+    }
+
+    if (widget.question is MultiSelectQuestion) {
+      return MultiSelectQuestionWidget(
+        question: widget.question as MultiSelectQuestion,
         sessionQuestion: widget.sessionQuestion,
         topic: widget.topic,
         module: widget.module,

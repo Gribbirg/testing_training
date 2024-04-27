@@ -46,12 +46,9 @@ class QuestionsRepository extends AbstractQuestionsRepository {
 
     final data = await json.decode(response);
 
-    final list = (data as List<dynamic>)
-        .map((e) {
-          print(e);
-          return QuestionFactory.getQuestionFromJson(e);
-        })
-        .toList();
+    final list = (data as List<dynamic>).map((e) {
+      return QuestionFactory.getQuestionFromJson(e);
+    }).toList();
 
     return list;
   }

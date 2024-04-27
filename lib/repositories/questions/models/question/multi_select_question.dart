@@ -47,9 +47,14 @@ class MultiSelectQuestion extends AbstractQuestion {
 
   @override
   void setAnswerRight(SessionQuestion sessionQuestion) {
-    final answer = sessionQuestion.userAnswer as Set<int>;
-    sessionQuestion.isRight = answer.length == rightAnswersNumbers.length &&
-        answer.containsAll(rightAnswersNumbers);
+    final answer = sessionQuestion.userAnswer as List<bool>;
+    for (int i = 0; i < answersCount; i++) {
+      if (answer[i] != rightAnswersNumbers.contains(i)) {
+        sessionQuestion.isRight = false;
+        return;
+      }
+    }
+    sessionQuestion.isRight = true;
   }
 
   @override
@@ -57,6 +62,7 @@ class MultiSelectQuestion extends AbstractQuestion {
     final answersNum = [for (int i = 0; i < answersCount; i++) i];
     answersNum.shuffle();
     sessionQuestion.saveAnswersNum = answersNum;
+    sessionQuestion.userAnswer = [for (int i = 0; i < answersCount; i++) false];
   }
 
   @override

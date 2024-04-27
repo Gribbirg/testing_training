@@ -1630,7 +1630,7 @@
         "type": "oneselect",
         "image": "3.png",
         "right_ans_num": 1,
-        "answers_count": 7,
+        "answers_count": 5,
         "answers": [
             {
                 "number": 0,

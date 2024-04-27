@@ -1,5 +1,10 @@
 [
   {
+    "name": "Тест",
+    "questions_count": 5,
+    "dir_name": "test"
+  },
+  {
     "name": "Физическая и коллоидная химия",
     "questions_count": 110,
     "dir_name": "pcc"
