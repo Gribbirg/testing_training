@@ -87,6 +87,7 @@ class _CategoriesQuestionWidgetState extends State<CategoriesQuestionWidget> {
                     Container(
                       constraints: const BoxConstraints(maxWidth: 150),
                       child: DropdownButtonFormField<int>(
+                        focusNode: FocusNode(),
                         focusColor: Colors.transparent,
                         value: (userAnswer[statementNum] != null)
                             ? order[1].indexOf(userAnswer[statementNum]!)
