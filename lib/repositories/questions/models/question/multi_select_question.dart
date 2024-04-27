@@ -67,4 +67,8 @@ class MultiSelectQuestion extends AbstractQuestion {
 
   @override
   int getNumber() => number;
+
+  @override
+  bool isAnswerFilled(userAnswer) =>
+      (userAnswer as List<bool>).any((element) => element);
 }

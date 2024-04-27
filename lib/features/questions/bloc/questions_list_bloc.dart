@@ -8,7 +8,6 @@ import 'package:testing_training/repositories/session_save/models/models.dart';
 import 'package:testing_training/repositories/session_save/session_save.dart';
 
 import '../../../repositories/questions/abstract_questions_repository.dart';
-import '../../../repositories/questions/models/question/abstract_question.dart';
 
 part 'questions_list_event.dart';
 

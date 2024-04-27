@@ -1,11 +1,9 @@
 import 'dart:convert';
 
 import 'package:flutter/services.dart';
-import 'package:testing_training/repositories/questions/models/question/abstract_question.dart';
 
 import 'abstract_questions_repository.dart';
 import 'models/models.dart';
-import 'models/question/questions_factory.dart';
 
 class QuestionsRepository extends AbstractQuestionsRepository {
   final String topicsListJsonPath;

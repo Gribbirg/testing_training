@@ -59,4 +59,7 @@ class NumQuestion extends AbstractQuestion {
   String getAnswerString() => (answer == answer.roundToDouble())
       ? answer.toInt().toString()
       : answer.toString();
+
+  @override
+  bool isAnswerFilled(userAnswer) => userAnswer != null;
 }

@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Как повлияет на смещение равновесия CO(газ) + H₂O ↔ CO₂(газ) + H₂(газ), ∆Н = -43 кДж ?",
+    "number": 0,
+    "type": "categories",
+    "image": null,
+    "right_answers_nums": [
+      0,
+      1,
+      2,
+      1,
+      2,
+      0
+    ],
+    "statements_count": 6,
+    "statements": [
+      {
+        "number": 0,
+        "image": null,
+        "text": "Разбавление раствора водой"
+      },
+      {
+        "number": 1,
+        "image": null,
+        "text": "Прибавление к раствору соляной кислоты"
+      },
+      {
+        "number": 2,
+        "image": null,
+        "text": "Прибавление к раствору натрий хлорида"
+      },
+      {
+        "number": 3,
+        "image": null,
+        "text": "Прибавление к раствору натрий водородфосфата"
+      },
+      {
+        "number": 4,
+        "image": null,
+        "text": "Прибавление к раствору катализатора"
+      },
+      {
+        "number": 5,
+        "image": null,
+        "text": "Прибавление к раствору КОН"
+      }
+    ],
+    "answers_count": 3,
+    "answers": [
+      {
+        "number": 0,
+        "image": null,
+        "text": "Равновесие сместится вправо"
+      },
+      {
+        "number": 1,
+        "image": null,
+        "text": "Равновесие сместится влево"
+      },
+      {
+        "number": 2,
+        "image": null,
+        "text": "Равновесие НЕ сместится"
+      }
+    ]
+  }
+]

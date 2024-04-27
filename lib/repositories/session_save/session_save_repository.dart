@@ -16,8 +16,8 @@ class SessionSaveRepository extends AbstractSessionSaveRepository {
 
   @override
   Future<SessionData?> getSessionData(Topic topic, Module module) async {
-    // return (await box.get(_getKeyByTopicAndModule(topic, module))) as SessionData?;
-    return null;
+    return (await box.get(_getKeyByTopicAndModule(topic, module))) as SessionData?;
+    // return null;
   }
 
   @override

@@ -1665,7 +1665,7 @@
         "type": "oneselect",
         "image": "img.png",
         "right_ans_num": 0,
-        "answers_count": 8,
+        "answers_count": 6,
         "answers": [
             {
                 "number": 0,

@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:testing_training/features/questions/widgets/categories_question_widget.dart';
 import 'package:testing_training/features/questions/widgets/multi_select_question_widget.dart';
 import 'package:testing_training/features/questions/widgets/num_question_widget.dart';
 import 'package:testing_training/features/questions/widgets/string_question_widget.dart';
 import 'package:testing_training/main.dart';
+import 'package:testing_training/repositories/questions/models/question/categories_question.dart';
 import 'package:testing_training/repositories/questions/models/question/question.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';
 
@@ -115,7 +117,7 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                 padding: const EdgeInsets.all(20),
                 child: (widget.sessionQuestion.isRight == null)
                     ? FilledButton(
-                        onPressed: (widget.sessionQuestion.userAnswer != null)
+                        onPressed: (widget.question.isAnswerFilled(widget.sessionQuestion.userAnswer))
                             ? () {
                                 setState(() {
                                   widget.question
@@ -170,6 +172,16 @@ class _QuestionWidgetState extends State<QuestionWidget> {
     if (widget.question is MultiSelectQuestion) {
       return MultiSelectQuestionWidget(
         question: widget.question as MultiSelectQuestion,
+        sessionQuestion: widget.sessionQuestion,
+        topic: widget.topic,
+        module: widget.module,
+        setParentState: setState,
+      );
+    }
+
+    if (widget.question is CategoriesQuestion) {
+      return CategoriesQuestionWidget(
+        question: widget.question as CategoriesQuestion,
         sessionQuestion: widget.sessionQuestion,
         topic: widget.topic,
         module: widget.module,

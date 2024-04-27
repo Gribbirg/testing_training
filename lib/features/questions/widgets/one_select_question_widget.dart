@@ -51,13 +51,17 @@ class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
             color: (isResult && !isRightAnswer && isUserAnswer)
                 ? theme.colorScheme.errorContainer
                 : (isRightAnswer)
-                    ? theme.colorScheme.primaryContainer
+                    ? (isUserAnswer)
+                        ? theme.colorScheme.primaryContainer
+                        : theme.colorScheme.secondaryContainer
                     : theme.cardColor,
             child: RadioListTile<Answer>(
               activeColor: (isResult && !isRightAnswer && isUserAnswer)
                   ? theme.colorScheme.error
                   : (isRightAnswer)
-                      ? theme.colorScheme.onPrimaryContainer
+                      ? (isUserAnswer)
+                          ? theme.colorScheme.onPrimaryContainer
+                          : theme.colorScheme.onSecondaryContainer
                       : null,
               title: Column(
                 children: [

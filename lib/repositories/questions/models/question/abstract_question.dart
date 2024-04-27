@@ -11,4 +11,6 @@ abstract class AbstractQuestion extends Equatable {
   void setAnswerRight(SessionQuestion sessionQuestion);
 
   void shuffleAnswersNum(SessionQuestion sessionQuestion);
+
+  bool isAnswerFilled(dynamic userAnswer);
 }

@@ -44,15 +44,19 @@ class CategoriesQuestion extends AbstractQuestion {
 
   @override
   void setAnswerRight(SessionQuestion sessionQuestion) {
-    final answer = sessionQuestion.userAnswer as List<int>;
+    final answer = (sessionQuestion.userAnswer as List).cast<int?>();
     sessionQuestion.isRight = listEquals(answer, rightAnswersNumbers);
   }
 
   @override
   void shuffleAnswersNum(SessionQuestion sessionQuestion) {
-    final answersNum = [for (int i = 0; i < answersCount; i++) i];
-    answersNum.shuffle();
-    sessionQuestion.saveAnswersNum = answersNum;
+    sessionQuestion.saveAnswersNum = [
+      [for (int i = 0; i < statementsCount; i++) i]..shuffle(),
+      [for (int i = 0; i < answersCount; i++) i]..shuffle()
+    ];
+    sessionQuestion.userAnswer = <int?>[
+      for (int i = 0; i < statementsCount; i++) null
+    ];
   }
 
   Map<String, dynamic> toJson() => _$CategoriesQuestionToJson(this);
@@ -77,4 +81,8 @@ class CategoriesQuestion extends AbstractQuestion {
 
   @override
   int getNumber() => number;
+
+  @override
+  bool isAnswerFilled(userAnswer) =>
+      !(userAnswer as List).any((element) => element == null);
 }

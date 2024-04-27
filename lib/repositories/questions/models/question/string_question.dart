@@ -6,7 +6,6 @@ part 'string_question.g.dart';
 
 @JsonSerializable()
 class StringQuestion extends AbstractQuestion {
-
   final String name;
 
   final int number;
@@ -17,11 +16,17 @@ class StringQuestion extends AbstractQuestion {
 
   late final Set<String> variants;
 
-  StringQuestion({required this.name, required this.number, required this.image, required this.answer, required List<String> variants}) {
+  StringQuestion(
+      {required this.name,
+      required this.number,
+      required this.image,
+      required this.answer,
+      required List<String> variants}) {
     this.variants = variants.map((e) => e.toLowerCase()).toSet();
   }
 
-  factory StringQuestion.fromJson(Map<String, dynamic> json) => _$StringQuestionFromJson(json);
+  factory StringQuestion.fromJson(Map<String, dynamic> json) =>
+      _$StringQuestionFromJson(json);
 
   Map<String, dynamic> toJson() => _$StringQuestionToJson(this);
 
@@ -37,7 +42,8 @@ class StringQuestion extends AbstractQuestion {
   @override
   void setAnswerRight(SessionQuestion sessionQuestion) {
     final userAnswer = (sessionQuestion.userAnswer as String).toLowerCase();
-    sessionQuestion.isRight = userAnswer == answer.toLowerCase() || variants.contains(userAnswer);
+    sessionQuestion.isRight =
+        userAnswer == answer.toLowerCase() || variants.contains(userAnswer);
   }
 
   @override
@@ -47,4 +53,7 @@ class StringQuestion extends AbstractQuestion {
 
   @override
   int getNumber() => number;
+
+  @override
+  bool isAnswerFilled(userAnswer) => userAnswer != null;
 }
