@@ -28,14 +28,14 @@ Future<void> main() async {
     await FirebaseAppCheck.instance.activate(
       androidProvider: AndroidProvider.playIntegrity,
       appleProvider: AppleProvider.appAttest,
-      webProvider: ReCaptchaEnterpriseProvider(
+      webProvider: ReCaptchaV3Provider(
           '6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
     );
   } else {
     await FirebaseAppCheck.instance.activate(
       androidProvider: AndroidProvider.debug,
       appleProvider: AppleProvider.debug,
-      webProvider: ReCaptchaEnterpriseProvider(
+      webProvider: ReCaptchaV3Provider(
           '6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
     );
   }
