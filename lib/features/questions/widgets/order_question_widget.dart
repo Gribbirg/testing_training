@@ -7,6 +7,7 @@ import '../../../main.dart';
 import '../../../repositories/questions/models/module.dart';
 import '../../../repositories/questions/models/question/order_question.dart';
 import '../../../repositories/questions/models/topic.dart';
+import '../../../widgets/cloud_image_widget.dart';
 
 class OrderQuestionWidget extends StatefulWidget {
   const OrderQuestionWidget({
@@ -69,8 +70,10 @@ class _OrderQuestionWidgetState extends State<OrderQuestionWidget> {
                             : null),
                   ),
                 if (answer.image != null)
-                  Image.asset(path(
-                      'questions/${widget.topic.dirName}/images/${answer.image}')),
+                  CloudImageWidget(
+                    topicDir: widget.topic.dirName,
+                    imageName: widget.question.getImage()!,
+                  ),
               ],
             ),
           ),
@@ -139,8 +142,10 @@ class _OrderQuestionWidgetState extends State<OrderQuestionWidget> {
                       textAlign: TextAlign.center,
                     ),
                     if (answer.image != null)
-                      Image.asset(path(
-                          'questions/${widget.topic.dirName}/images/${answer.image}')),
+                      CloudImageWidget(
+                        topicDir: widget.topic.dirName,
+                        imageName: widget.question.getImage()!,
+                      ),
                   ],
                 );
               })

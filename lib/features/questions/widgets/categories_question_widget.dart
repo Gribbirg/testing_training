@@ -5,6 +5,7 @@ import '../../../main.dart';
 import '../../../repositories/questions/models/module.dart';
 import '../../../repositories/questions/models/question/categories_question.dart';
 import '../../../repositories/questions/models/topic.dart';
+import '../../../widgets/cloud_image_widget.dart';
 
 class CategoriesQuestionWidget extends StatefulWidget {
   const CategoriesQuestionWidget({
@@ -49,8 +50,10 @@ class _CategoriesQuestionWidgetState extends State<CategoriesQuestionWidget> {
                 children: [
                   Text('${_getLetter(index)}. ${answer.text ?? ""}'),
                   if (answer.image != null)
-                    Image.asset(path(
-                        'questions/${widget.topic.dirName}/images/${answer.image}')),
+                    CloudImageWidget(
+                      topicDir: widget.topic.dirName,
+                      imageName: widget.question.getImage()!,
+                    ),
                 ],
               );
             }).toList(),
@@ -78,8 +81,10 @@ class _CategoriesQuestionWidgetState extends State<CategoriesQuestionWidget> {
                             if (statement.text != null)
                             Text(statement.text!),
                             if (statement.image != null)
-                              Image.asset(path(
-                                  'questions/${widget.topic.dirName}/images/${statement.image}')),
+                              CloudImageWidget(
+                                topicDir: widget.topic.dirName,
+                                imageName: widget.question.getImage()!,
+                              ),
                           ],
                         ),
                       ),

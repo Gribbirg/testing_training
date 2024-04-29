@@ -1,5 +1,8 @@
 import 'package:dynamic_color/dynamic_color.dart';
+import 'package:firebase_app_check/firebase_app_check.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:hive_flutter/adapters.dart';
@@ -18,17 +21,28 @@ Future<void> main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
 
+  FirebaseAppCheck.instance.activate();
+  if(!kDebugMode) {
+    await FirebaseAppCheck.instance.activate(
+      androidProvider: AndroidProvider.playIntegrity,
+      appleProvider: AppleProvider.appAttest,
+      webProvider: ReCaptchaEnterpriseProvider('6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
+    );
+  } else {
+    await FirebaseAppCheck.instance.activate(
+      androidProvider: AndroidProvider.debug,
+      appleProvider: AppleProvider.debug,
+      webProvider: ReCaptchaEnterpriseProvider('6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
+    );
+  }
+  await FirebaseAuth.instance.signInAnonymously();
   await Hive.initFlutter();
   Hive.registerAdapter(SessionQuestionAdapter());
   Hive.registerAdapter(SessionDataAdapter());
   final sessionsSaveBox = await Hive.openLazyBox("sessions");
 
   GetIt.I.registerLazySingleton<AbstractQuestionsRepository>(
-    () => QuestionsRepository(
-      topicsListJsonPath: path('questions/topics.json'),
-      questionsPath: path('questions'),
-    ),
-  );
+    () => QuestionsCloudRepository());
   GetIt.I.registerLazySingleton<AbstractSessionSaveRepository>(
     () => SessionSaveRepository(box: sessionsSaveBox),
   );

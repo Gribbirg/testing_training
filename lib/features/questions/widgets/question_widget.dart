@@ -7,6 +7,7 @@ import 'package:testing_training/main.dart';
 import 'package:testing_training/repositories/questions/models/question/categories_question.dart';
 import 'package:testing_training/repositories/questions/models/question/question.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';
+import 'package:testing_training/widgets/cloud_image_widget.dart';
 
 import '../../../repositories/questions/models/module.dart';
 import '../../../repositories/questions/models/topic.dart';
@@ -99,8 +100,10 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                 padding: const EdgeInsets.all(8),
                 child: ClipRRect(
                     borderRadius: BorderRadius.circular(8),
-                    child: Image.asset(path(
-                        'questions/${widget.topic.dirName}/images/${widget.question.getImage()}'))),
+                    child: CloudImageWidget(
+                      topicDir: widget.topic.dirName,
+                      imageName: widget.question.getImage()!,
+                    )),
               ),
             Container(
                 constraints: const BoxConstraints(maxWidth: 800),
@@ -111,14 +114,13 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                 )),
             _getQuestionAnswers(),
             Container(
-                constraints: const BoxConstraints(
-                  minWidth: 200,
-                  minHeight: 100
-                ),
+                constraints:
+                    const BoxConstraints(minWidth: 200, minHeight: 100),
                 padding: const EdgeInsets.all(20),
                 child: (widget.sessionQuestion.isRight == null)
                     ? FilledButton(
-                        onPressed: (widget.question.isAnswerFilled(widget.sessionQuestion.userAnswer))
+                        onPressed: (widget.question.isAnswerFilled(
+                                widget.sessionQuestion.userAnswer))
                             ? () {
                                 setState(() {
                                   widget.question

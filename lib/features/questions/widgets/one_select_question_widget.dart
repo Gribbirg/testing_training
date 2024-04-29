@@ -6,6 +6,7 @@ import '../../../main.dart';
 import '../../../repositories/questions/models/module.dart';
 import '../../../repositories/questions/models/question/one_select_question.dart';
 import '../../../repositories/questions/models/topic.dart';
+import '../../../widgets/cloud_image_widget.dart';
 
 class OneSelectQuestionWidget extends StatefulWidget {
   const OneSelectQuestionWidget({
@@ -75,8 +76,10 @@ class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
                               : null),
                     ),
                   if (answer.image != null)
-                    Image.asset(path(
-                        'questions/${widget.topic.dirName}/images/${answer.image}')),
+                    CloudImageWidget(
+                      topicDir: widget.topic.dirName,
+                      imageName: widget.question.getImage()!,
+                    ),
                 ],
               ),
               groupValue: (widget.sessionQuestion.userAnswer == null)
