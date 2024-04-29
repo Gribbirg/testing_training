@@ -24,7 +24,6 @@ Future<void> main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
 
-  FirebaseAppCheck.instance.activate();
   if (!kDebugMode) {
     await FirebaseAppCheck.instance.activate(
       androidProvider: AndroidProvider.playIntegrity,
@@ -66,9 +65,9 @@ Future<void> main() async {
   GetIt.I.registerSingleton<AbstractQuestionsCacheRepository>(
     QuestionsCacheRepository(box: questionsCacheBox),
   );
-  if (await InternetConnectionChecker().hasConnection) {
+  if (kIsWeb || await InternetConnectionChecker().hasConnection) {
     if (await GetIt.I<AbstractQuestionsCacheRepository>().checkUpdates()) {
-      await GetIt.I<SessionSaveRepository>().removeAll();
+      await GetIt.I<AbstractSessionSaveRepository>().removeAll();
     }
   }
 
