@@ -1,6 +1,7 @@
+import 'dart:convert';
+
 import 'package:testing_training/repositories/questions/models/models.dart';
 import 'package:testing_training/repositories/questions/models/question/categories_question.dart';
-
 
 class QuestionFactory {
   static AbstractQuestion getQuestionFromJson(Map<String, dynamic> json) {
@@ -20,6 +21,10 @@ class QuestionFactory {
       case QuestionType.orderQuestion:
         return OrderQuestion.fromJson(json);
     }
+  }
+
+  static List<String> getJsonFromQuestions(List<AbstractQuestion> questions) {
+    return questions.map((e) => jsonEncode(e)).toList();
   }
 }
 

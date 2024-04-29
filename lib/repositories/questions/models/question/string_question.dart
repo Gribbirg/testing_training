@@ -1,19 +1,26 @@
+import 'package:hive/hive.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'package:testing_training/repositories/questions/models/question/abstract_question.dart';
 import 'package:testing_training/repositories/session_save/models/session_question.dart';
 
 part 'string_question.g.dart';
 
+@HiveType(typeId: 11)
 @JsonSerializable()
 class StringQuestion extends AbstractQuestion {
+  @HiveField(0)
   final String name;
 
+  @HiveField(1)
   final int number;
 
+  @HiveField(2)
   final String? image;
 
+  @HiveField(3)
   final String answer;
 
+  @HiveField(4)
   late final Set<String> variants;
 
   StringQuestion(
@@ -28,6 +35,7 @@ class StringQuestion extends AbstractQuestion {
   factory StringQuestion.fromJson(Map<String, dynamic> json) =>
       _$StringQuestionFromJson(json);
 
+  @override
   Map<String, dynamic> toJson() => _$StringQuestionToJson(this);
 
   @override

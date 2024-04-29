@@ -3,7 +3,6 @@ import 'package:testing_training/features/questions/widgets/categories_question_
 import 'package:testing_training/features/questions/widgets/multi_select_question_widget.dart';
 import 'package:testing_training/features/questions/widgets/num_question_widget.dart';
 import 'package:testing_training/features/questions/widgets/string_question_widget.dart';
-import 'package:testing_training/main.dart';
 import 'package:testing_training/repositories/questions/models/question/categories_question.dart';
 import 'package:testing_training/repositories/questions/models/question/question.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';

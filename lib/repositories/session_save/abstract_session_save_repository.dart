@@ -6,4 +6,5 @@ abstract class AbstractSessionSaveRepository {
   Future<void> saveSessionData(SessionData sessionData);
   Future<SessionData?> getSessionData(Topic topic, Module module);
   Future<void> removeSessionData(SessionData sessionData);
+  Future<void> removeAll();
 }

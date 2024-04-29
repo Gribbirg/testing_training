@@ -5,6 +5,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';
 import 'package:testing_training/features/questions/bloc/questions_list_bloc.dart';
 import 'package:testing_training/features/questions/widgets/question_widget.dart';
+import 'package:testing_training/repositories/questions_cache/abstract_questions_cache_repository.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/router/router.dart';
 
@@ -12,10 +13,9 @@ import '../../../repositories/questions/abstract_questions_repository.dart';
 
 @RoutePage()
 class QuestionsPage extends StatefulWidget {
-  const QuestionsPage(
-      {super.key,
-      @PathParam("topic") required this.topicId,
-      @PathParam("module") required this.moduleId});
+  const QuestionsPage({super.key,
+    @PathParam("topic") required this.topicId,
+    @PathParam("module") required this.moduleId});
 
   final String? topicId;
   final String? moduleId;
@@ -27,7 +27,11 @@ class QuestionsPage extends StatefulWidget {
 class _QuestionsPageState extends State<QuestionsPage> {
   final _questionsListBloc = QuestionsListBloc(
       questionsRepository: GetIt.I<AbstractQuestionsRepository>(),
-      sessionSaveRepository: GetIt.I<AbstractSessionSaveRepository>());
+      sessionSaveRepository: GetIt.I<AbstractSessionSaveRepository>(),
+      questionsCacheRepository: GetIt.I<AbstractQuestionsCacheRepository>(),
+
+  );
+
   late PageController pageController;
 
   @override
@@ -90,7 +94,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
                   children: state.sessionData.sessionsQuestions
                       .map((sessionQuestion) {
                     final question =
-                        state.questionsList[sessionQuestion.questionNum];
+                    state.questionsList[sessionQuestion.questionNum];
                     return QuestionWidget(
                       topic: state.topic,
                       module: state.module,
@@ -98,10 +102,10 @@ class _QuestionsPageState extends State<QuestionsPage> {
                       sessionQuestion: sessionQuestion,
                       pageController: pageController,
                       isFirst: state.questionsList[state.sessionData
-                              .sessionsQuestions.first.questionNum] ==
+                          .sessionsQuestions.first.questionNum] ==
                           question,
                       isLast: state.questionsList[state.sessionData
-                              .sessionsQuestions.last.questionNum] ==
+                          .sessionsQuestions.last.questionNum] ==
                           question,
                       onAnswer: () {
                         _questionsListBloc.add(SaveSessionData());

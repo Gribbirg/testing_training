@@ -4,6 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';
 import 'package:testing_training/features/module_select/bloc/module_list_bloc.dart';
 import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
+import 'package:testing_training/repositories/questions_cache/abstract_questions_cache_repository.dart';
 import 'package:testing_training/router/router.dart';
 
 import '../widgets/module_item.dart';
@@ -20,8 +21,8 @@ class ModuleSelectPage extends StatefulWidget {
 }
 
 class _ModuleSelectPageState extends State<ModuleSelectPage> {
-  final _moduleListBloc =
-      ModuleListBloc(GetIt.I<AbstractQuestionsRepository>());
+  final _moduleListBloc = ModuleListBloc(GetIt.I<AbstractQuestionsRepository>(),
+      GetIt.I<AbstractQuestionsCacheRepository>());
 
   @override
   void initState() {

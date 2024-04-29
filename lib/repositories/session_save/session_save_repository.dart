@@ -35,4 +35,9 @@ class SessionSaveRepository extends AbstractSessionSaveRepository {
   Future<void> removeSessionData(SessionData sessionData) async {
     sessionData.delete();
   }
+
+  @override
+  Future<void> removeAll() async {
+    await box.clear();
+  }
 }

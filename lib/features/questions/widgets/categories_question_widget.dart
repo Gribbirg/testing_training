@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';
 
-import '../../../main.dart';
 import '../../../repositories/questions/models/module.dart';
 import '../../../repositories/questions/models/question/categories_question.dart';
 import '../../../repositories/questions/models/topic.dart';

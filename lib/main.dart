@@ -6,7 +6,10 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:hive_flutter/adapters.dart';
+import 'package:internet_connection_checker/internet_connection_checker.dart';
+import 'package:testing_training/repositories/questions/models/question/categories_question.dart';
 import 'package:testing_training/repositories/questions/questions.dart';
+import 'package:testing_training/repositories/questions_cache/questions_cache.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/repositories/session_save/session_save.dart';
 import 'package:testing_training/router/router.dart';
@@ -22,30 +25,52 @@ Future<void> main() async {
   );
 
   FirebaseAppCheck.instance.activate();
-  if(!kDebugMode) {
+  if (!kDebugMode) {
     await FirebaseAppCheck.instance.activate(
       androidProvider: AndroidProvider.playIntegrity,
       appleProvider: AppleProvider.appAttest,
-      webProvider: ReCaptchaEnterpriseProvider('6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
+      webProvider: ReCaptchaEnterpriseProvider(
+          '6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
     );
   } else {
     await FirebaseAppCheck.instance.activate(
       androidProvider: AndroidProvider.debug,
       appleProvider: AppleProvider.debug,
-      webProvider: ReCaptchaEnterpriseProvider('6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
+      webProvider: ReCaptchaEnterpriseProvider(
+          '6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
     );
   }
   await FirebaseAuth.instance.signInAnonymously();
+
   await Hive.initFlutter();
   Hive.registerAdapter(SessionQuestionAdapter());
   Hive.registerAdapter(SessionDataAdapter());
-  final sessionsSaveBox = await Hive.openLazyBox("sessions");
+  Hive.registerAdapter(TopicAdapter());
+  Hive.registerAdapter(ModuleAdapter());
+  Hive.registerAdapter(AnswerAdapter());
+  Hive.registerAdapter(OneSelectQuestionAdapter());
+  Hive.registerAdapter(CategoriesQuestionAdapter());
+  Hive.registerAdapter(MultiSelectQuestionAdapter());
+  Hive.registerAdapter(NumQuestionAdapter());
+  Hive.registerAdapter(OrderQuestionAdapter());
+  Hive.registerAdapter(StringQuestionAdapter());
+  final sessionsSaveBox = await Hive.openLazyBox('sessions');
+  final questionsCacheBox = await Hive.openLazyBox('cache');
+  // await questionsCacheBox.clear();
 
-  GetIt.I.registerLazySingleton<AbstractQuestionsRepository>(
-    () => QuestionsCloudRepository());
-  GetIt.I.registerLazySingleton<AbstractSessionSaveRepository>(
-    () => SessionSaveRepository(box: sessionsSaveBox),
+  GetIt.I.registerSingleton<AbstractQuestionsRepository>(
+      QuestionsCloudRepository());
+  GetIt.I.registerSingleton<AbstractSessionSaveRepository>(
+    SessionSaveRepository(box: sessionsSaveBox),
   );
+  GetIt.I.registerSingleton<AbstractQuestionsCacheRepository>(
+    QuestionsCacheRepository(box: questionsCacheBox),
+  );
+  if (await InternetConnectionChecker().hasConnection) {
+    if (await GetIt.I<AbstractQuestionsCacheRepository>().checkUpdates()) {
+      await GetIt.I<SessionSaveRepository>().removeAll();
+    }
+  }
 
   runApp(const TestingTrainingApp());
 }

@@ -1,4 +1,5 @@
 import 'package:flutter/foundation.dart';
+import 'package:hive/hive.dart';
 import 'package:json_annotation/json_annotation.dart';
 import 'package:testing_training/repositories/questions/models/question/abstract_question.dart';
 import 'package:testing_training/repositories/session_save/models/session_question.dart';
@@ -7,20 +8,27 @@ import 'answer.dart';
 
 part 'order_question.g.dart';
 
+@HiveType(typeId: 10)
 @JsonSerializable()
 class OrderQuestion extends AbstractQuestion {
+  @HiveField(0)
   final String name;
 
+  @HiveField(1)
   final int number;
 
+  @HiveField(2)
   @JsonKey(name: "answers_count")
   final int answersCount;
 
+  @HiveField(3)
   final String? image;
 
+  @HiveField(4)
   @JsonKey(name: "right_answers_nums")
   final List<int> rightAnswersNumbersOrder;
 
+  @HiveField(5)
   final List<Answer> answers;
 
   factory OrderQuestion.fromJson(Map<String, dynamic> json) =>
@@ -34,6 +42,7 @@ class OrderQuestion extends AbstractQuestion {
       required this.rightAnswersNumbersOrder,
       required this.answers});
 
+  @override
   Map<String, dynamic> toJson() => _$OrderQuestionToJson(this);
 
   @override

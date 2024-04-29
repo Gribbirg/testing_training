@@ -13,4 +13,6 @@ abstract class AbstractQuestion extends Equatable {
   void shuffleAnswersNum(SessionQuestion sessionQuestion);
 
   bool isAnswerFilled(dynamic userAnswer);
+
+  Map<String, dynamic> toJson();
 }

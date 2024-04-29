@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:testing_training/repositories/questions/models/models.dart';
+import 'package:testing_training/repositories/questions_cache/questions_cache.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';
 import 'package:testing_training/repositories/session_save/session_save.dart';
@@ -15,7 +16,9 @@ part 'questions_list_state.dart';
 
 class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
   QuestionsListBloc(
-      {required this.questionsRepository, required this.sessionSaveRepository})
+      {required this.questionsCacheRepository,
+      required this.questionsRepository,
+      required this.sessionSaveRepository})
       : super(QuestionsListInitial()) {
     on<LoadQuestionsList>(_load);
     on<SaveSessionData>(_save);
@@ -25,6 +28,7 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
 
   final AbstractQuestionsRepository questionsRepository;
   final AbstractSessionSaveRepository sessionSaveRepository;
+  final AbstractQuestionsCacheRepository questionsCacheRepository;
 
   Future<void> _load(
       LoadQuestionsList event, Emitter<QuestionsListState> emit) async {
@@ -33,24 +37,55 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
         emit(QuestionsListLoading());
       }
 
-      final topic = (await questionsRepository.getTopicList())
-          ?.firstWhere((element) => element.dirName == event.topicId);
+      List<Topic>? topicList;
+      if (await questionsCacheRepository.hasTopicsData()) {
+        topicList = await questionsCacheRepository.getTopicsData();
+      } else {
+        topicList = await questionsRepository.getTopicList();
+        if (topicList != null) {
+          questionsCacheRepository.saveTopicsData(topicList);
+        }
+      }
 
+      final topic =
+          topicList?.firstWhere((element) => element.dirName == event.topicId);
       if (topic == null) {
         emit(QuestionsListNotFound());
         return;
       }
 
-      final module = (await questionsRepository.getModulesList(topic))
-          ?.firstWhere((element) => element.dirName == event.moduleId);
+      List<Module>? modelsList;
+      if (await questionsCacheRepository.hasModulesData(event.topicId!)) {
+        modelsList =
+            await questionsCacheRepository.getModulesData(event.topicId!);
+      } else {
+        modelsList = await questionsRepository.getModulesList(topic);
+        if (modelsList != null) {
+          questionsCacheRepository.saveModulesData(event.topicId!, modelsList);
+        }
+      }
 
+      final module = modelsList
+          ?.firstWhere((element) => element.dirName == event.moduleId);
       if (module == null) {
         emit(QuestionsListNotFound());
         return;
       }
 
-      final questionsList =
-          await questionsRepository.getQuestionsList(topic, module);
+      List<AbstractQuestion>? questionsList;
+
+      if (await questionsCacheRepository.hasQuestionsData(
+          event.topicId!, event.moduleId!)) {
+        questionsList = await questionsCacheRepository.getQuestionsData(
+            event.topicId!, event.moduleId!);
+      } else {
+        questionsList =
+            await questionsRepository.getQuestionsList(topic, module);
+        if (questionsList != null) {
+          questionsCacheRepository.saveQuestionsData(
+              event.topicId!, event.moduleId!, questionsList);
+        }
+      }
 
       if (questionsList == null || questionsList.isEmpty) {
         emit(QuestionsListNotFound());
@@ -146,8 +181,7 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
           module: saveState.module,
           questionsList: saveState.questionsList,
           sessionData: session));
-      sessionSaveRepository
-          .addSessionData(session);
+      sessionSaveRepository.addSessionData(session);
     } catch (e) {
       emit(QuestionsListError(message: e.toString()));
     }
