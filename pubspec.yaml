@@ -88,6 +88,7 @@ flutter:
     - assets/images/logo.png
     - assets/images/logo_shadow.png
     - assets/images/logo960.png
+    - assets/images/logo_shadow_more_background.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
