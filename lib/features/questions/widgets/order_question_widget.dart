@@ -53,7 +53,7 @@ class _OrderQuestionWidgetState extends State<OrderQuestionWidget> {
             ? theme.colorScheme.errorContainer
             : (isRightAnswer)
                 ? theme.colorScheme.primaryContainer
-                : theme.colorScheme.tertiaryContainer,
+                : theme.colorScheme.surfaceVariant,
         child: Center(
           child: Padding(
             padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 40),
@@ -110,7 +110,7 @@ class _OrderQuestionWidgetState extends State<OrderQuestionWidget> {
                       scale: scale,
                       child: Card(
                         elevation: elevation,
-                        color: theme.colorScheme.secondaryContainer,
+                        color: theme.colorScheme.primaryContainer,
                         child: cards[index].child,
                       ),
                     );
