@@ -130,7 +130,16 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                       )
                     : OutlinedButton(
                         onPressed: widget.scrollToNextOpenedQuestion,
-                        child: const Text("Следующий"),
+                        child: Text(
+                          "Следующий",
+                          style: TextStyle(
+                            color: (widget.sessionQuestion.isRight == null)
+                                ? null
+                                : (widget.sessionQuestion.isRight!)
+                                    ? theme.colorScheme.primary
+                                    : theme.colorScheme.error,
+                          ),
+                        ),
                       )),
           ],
         ),
