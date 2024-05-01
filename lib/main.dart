@@ -58,10 +58,16 @@ Future<void> main() async {
   GetIt.I.registerLazySingleton<AbstractSessionSaveRepository>(
         () => SessionSaveRepository(box: sessionsSaveBox),
   );
-  GetIt.I.registerLazySingleton<AbstractQuestionsRepository>(
-        () => QuestionsCloudWithCacheRepository(cacheBox: questionsCacheBox)
-            ..checkUpdates(),
+  GetIt.I.registerSingletonAsync<AbstractQuestionsRepository>(
+        () async {
+          final rep = QuestionsCloudWithCacheRepository(cacheBox: questionsCacheBox);
+          await rep.checkUpdates();
+          return rep;
+        },
+    signalsReady: false,
   );
+
+  await GetIt.instance.allReady();
 
   runApp(const TestingTrainingApp());
 }
