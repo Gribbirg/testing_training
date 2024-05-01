@@ -6,7 +6,6 @@ import 'package:testing_training/features/home/bloc/topic_list_bloc.dart';
 import 'package:testing_training/features/home/widgets/topic_item.dart';
 import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
 import 'package:get_it/get_it.dart';
-import 'package:testing_training/repositories/questions_cache/abstract_questions_cache_repository.dart';
 import 'package:testing_training/widgets/app_bar.dart';
 import 'package:testing_training/features/home/widgets/drawer.dart';
 
@@ -21,8 +20,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  final _topicListBloc = TopicListBloc(GetIt.I<AbstractQuestionsRepository>(),
-      GetIt.I<AbstractQuestionsCacheRepository>());
+  final _topicListBloc = TopicListBloc(GetIt.I<AbstractQuestionsRepository>());
 
   @override
   void initState() {

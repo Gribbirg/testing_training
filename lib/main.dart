@@ -6,10 +6,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:internet_connection_checker/internet_connection_checker.dart';
 import 'package:testing_training/repositories/questions/models/question/categories_question.dart';
 import 'package:testing_training/repositories/questions/questions.dart';
-import 'package:testing_training/repositories/questions_cache/questions_cache.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/repositories/session_save/session_save.dart';
 import 'package:testing_training/router/router.dart';
@@ -57,19 +55,13 @@ Future<void> main() async {
   final questionsCacheBox = await Hive.openLazyBox('cache');
   // await questionsCacheBox.clear();
 
-  GetIt.I.registerSingleton<AbstractQuestionsRepository>(
-      QuestionsCloudRepository());
-  GetIt.I.registerSingleton<AbstractSessionSaveRepository>(
-    SessionSaveRepository(box: sessionsSaveBox),
+  GetIt.I.registerLazySingleton<AbstractSessionSaveRepository>(
+        () => SessionSaveRepository(box: sessionsSaveBox),
   );
-  GetIt.I.registerSingleton<AbstractQuestionsCacheRepository>(
-    QuestionsCacheRepository(box: questionsCacheBox),
+  GetIt.I.registerLazySingleton<AbstractQuestionsRepository>(
+        () => QuestionsCloudWithCacheRepository(cacheBox: questionsCacheBox)
+            ..checkUpdates(),
   );
-  if (kIsWeb || await InternetConnectionChecker().hasConnection) {
-    if (await GetIt.I<AbstractQuestionsCacheRepository>().checkUpdates()) {
-      await GetIt.I<AbstractSessionSaveRepository>().removeAll();
-    }
-  }
 
   runApp(const TestingTrainingApp());
 }

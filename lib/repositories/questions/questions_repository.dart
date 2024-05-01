@@ -24,9 +24,9 @@ class QuestionsRepository extends AbstractQuestionsRepository {
   }
 
   @override
-  Future<List<Module>?> getModulesList(Topic topic) async {
+  Future<List<Module>?> getModulesList(String topicId) async {
     final String response = await rootBundle
-        .loadString("$questionsPath/${topic.dirName}/modules.json");
+        .loadString("$questionsPath/$topicId/modules.json");
 
     final data = await json.decode(response);
 
@@ -38,9 +38,9 @@ class QuestionsRepository extends AbstractQuestionsRepository {
 
   @override
   Future<List<AbstractQuestion>?> getQuestionsList(
-      Topic topic, Module module) async {
+      String topicId, String moduleId) async {
     final String response = await rootBundle.loadString(
-        "$questionsPath/${topic.dirName}/modules/${module.dirName}.json");
+        "$questionsPath/$topicId/modules/$moduleId.json");
 
     final data = await json.decode(response);
 

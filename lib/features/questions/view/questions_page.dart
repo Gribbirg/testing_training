@@ -5,7 +5,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';
 import 'package:testing_training/features/questions/bloc/questions_list_bloc.dart';
 import 'package:testing_training/features/questions/widgets/question_widget.dart';
-import 'package:testing_training/repositories/questions_cache/abstract_questions_cache_repository.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/router/router.dart';
 
@@ -28,8 +27,6 @@ class _QuestionsPageState extends State<QuestionsPage> {
   final _questionsListBloc = QuestionsListBloc(
       questionsRepository: GetIt.I<AbstractQuestionsRepository>(),
       sessionSaveRepository: GetIt.I<AbstractSessionSaveRepository>(),
-      questionsCacheRepository: GetIt.I<AbstractQuestionsCacheRepository>(),
-
   );
 
   late PageController pageController;

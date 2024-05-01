@@ -13,11 +13,11 @@ class QuestionsCloudRepository extends AbstractQuestionsRepository {
   QuestionsCloudRepository();
 
   @override
-  Future<List<Module>?> getModulesList(Topic topic) async {
+  Future<List<Module>?> getModulesList(String topicId) async {
     final moduleRef = FirebaseStorage.instance
         .ref()
         .child('questions')
-        .child(topic.dirName)
+        .child(topicId)
         .child('/modules.json');
     Uint8List? downloadedData = await moduleRef.getData();
     final dataString = utf8.decode(downloadedData!);
@@ -32,13 +32,13 @@ class QuestionsCloudRepository extends AbstractQuestionsRepository {
 
   @override
   Future<List<AbstractQuestion>?> getQuestionsList(
-      Topic topic, Module module) async {
+      String topicId, String moduleId) async {
     final questionsRef = FirebaseStorage.instance
         .ref()
         .child('questions')
-        .child(topic.dirName)
+        .child(topicId)
         .child('modules')
-        .child('/${module.dirName}.json');
+        .child('/$moduleId.json');
     Uint8List? downloadedData = await questionsRef.getData();
     final dataString = utf8.decode(downloadedData!);
 
