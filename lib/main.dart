@@ -26,15 +26,15 @@ Future<void> main() async {
     await FirebaseAppCheck.instance.activate(
       androidProvider: AndroidProvider.playIntegrity,
       appleProvider: AppleProvider.appAttest,
-      webProvider: ReCaptchaV3Provider(
-          '6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
+      webProvider:
+          ReCaptchaV3Provider('6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
     );
   } else {
     await FirebaseAppCheck.instance.activate(
       androidProvider: AndroidProvider.debug,
       appleProvider: AppleProvider.debug,
-      webProvider: ReCaptchaV3Provider(
-          '6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
+      webProvider:
+          ReCaptchaV3Provider('6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
     );
   }
   await FirebaseAuth.instance.signInAnonymously();
@@ -56,15 +56,15 @@ Future<void> main() async {
   // await questionsCacheBox.clear();
 
   GetIt.I.registerLazySingleton<AbstractSessionSaveRepository>(
-        () => SessionSaveRepository(box: sessionsSaveBox),
+    () => SessionSaveRepository(box: sessionsSaveBox),
   );
   GetIt.I.registerSingletonAsync<AbstractQuestionsRepository>(
-        () async {
-          final rep = QuestionsCloudWithCacheRepository(cacheBox: questionsCacheBox);
-          await rep.checkUpdates();
-          return rep;
-        },
-    signalsReady: false,
+    () async {
+      final rep =
+          QuestionsCloudWithCacheRepository(cacheBox: questionsCacheBox);
+      rep.checkUpdates();
+      return rep;
+    },
   );
 
   await GetIt.instance.allReady();
