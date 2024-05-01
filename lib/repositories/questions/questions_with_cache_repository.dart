@@ -97,7 +97,7 @@ class QuestionsCloudWithCacheRepository extends QuestionsCloudRepository {
     final lastUploadDate = DateTime.parse(
         ((await cacheBox.get("update_date")) as String?) ??
             "1974-03-20 00:00:00.000");
-    if (lastUploadDate.isAfter(updateData)) {
+    if (lastUploadDate.isBefore(updateData)) {
       await removeAll();
       await cacheBox.put("update_date", DateTime.now().toIso8601String());
       await GetIt.I<AbstractSessionSaveRepository>().removeAll();
