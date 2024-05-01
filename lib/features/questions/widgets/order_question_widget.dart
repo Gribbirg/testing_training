@@ -143,7 +143,7 @@ class _OrderQuestionWidgetState extends State<OrderQuestionWidget> {
                     if (answer.image != null)
                       CloudImageWidget(
                         topicDir: widget.topic.dirName,
-                        imageName: widget.question.getImage()!,
+                        imageName: answer.image!,
                       ),
                   ],
                 );

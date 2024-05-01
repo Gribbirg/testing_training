@@ -77,7 +77,7 @@ class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
                   if (answer.image != null)
                     CloudImageWidget(
                       topicDir: widget.topic.dirName,
-                      imageName: widget.question.getImage()!,
+                      imageName: answer.image!,
                     ),
                 ],
               ),

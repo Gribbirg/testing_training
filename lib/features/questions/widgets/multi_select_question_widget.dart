@@ -75,7 +75,7 @@ class _MultiSelectQuestionWidgetState extends State<MultiSelectQuestionWidget> {
                   if (answer.image != null)
                     CloudImageWidget(
                       topicDir: widget.topic.dirName,
-                      imageName: widget.question.getImage()!,
+                      imageName: answer.image!,
                     ),
                 ],
               ),

@@ -97,12 +97,10 @@ class _QuestionWidgetState extends State<QuestionWidget> {
             if ((widget.question.getImage() != null))
               Padding(
                 padding: const EdgeInsets.all(8),
-                child: ClipRRect(
-                    borderRadius: BorderRadius.circular(8),
-                    child: CloudImageWidget(
-                      topicDir: widget.topic.dirName,
-                      imageName: widget.question.getImage()!,
-                    )),
+                child: CloudImageWidget(
+                  topicDir: widget.topic.dirName,
+                  imageName: widget.question.getImage()!,
+                ),
               ),
             Container(
                 constraints: const BoxConstraints(maxWidth: 800),

@@ -4,9 +4,7 @@ import 'package:flutter/material.dart';
 
 class CloudImageWidget extends StatefulWidget {
   const CloudImageWidget(
-      {super.key,
-      required this.topicDir,
-      required this.imageName});
+      {super.key, required this.topicDir, required this.imageName});
 
   final String topicDir;
   final String imageName;
@@ -30,23 +28,39 @@ class _CloudImageWidgetState extends State<CloudImageWidget> {
         .child('/${widget.imageName}')
         .getDownloadURL();
 
-    return CachedNetworkImage(imageUrl: url);
+    return CachedNetworkImage(
+      imageUrl: url,
+      progressIndicatorBuilder: (context, url, downloadProgress) =>
+          CircularProgressIndicator(value: downloadProgress.progress),
+      errorWidget: (context, url, error) => Column(
+        children: [
+          Icon(
+            Icons.error,
+            color: Theme.of(context).colorScheme.error,
+          ),
+          Text(error.toString()),
+        ],
+      ),
+    );
   }
 
   @override
   Widget build(BuildContext context) {
     return FutureBuilder(
       future: _loadImage(),
-      builder: (BuildContext context, AsyncSnapshot<CachedNetworkImage> image) {
+      builder: (BuildContext context, AsyncSnapshot<Widget> image) {
         if (image.hasData) {
-          return image.data!;
+          return ClipRRect(
+              borderRadius: BorderRadius.circular(8), child: image.data!);
         } else {
-          return const Padding(
-            padding: EdgeInsets.all(8.0),
-            child: CircularProgressIndicator(),
-          );
+          return _getLoad();
         }
       },
     );
   }
+
+  Widget _getLoad() => const Padding(
+        padding: EdgeInsets.all(8.0),
+        child: CircularProgressIndicator(),
+      );
 }

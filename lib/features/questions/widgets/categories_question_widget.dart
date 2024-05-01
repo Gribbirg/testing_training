@@ -51,7 +51,7 @@ class _CategoriesQuestionWidgetState extends State<CategoriesQuestionWidget> {
                   if (answer.image != null)
                     CloudImageWidget(
                       topicDir: widget.topic.dirName,
-                      imageName: widget.question.getImage()!,
+                      imageName: answer.image!,
                     ),
                 ],
               );
