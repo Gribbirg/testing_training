@@ -30,8 +30,10 @@ class _CloudImageWidgetState extends State<CloudImageWidget> {
 
     return CachedNetworkImage(
       imageUrl: url,
-      progressIndicatorBuilder: (context, url, downloadProgress) =>
-          CircularProgressIndicator(value: downloadProgress.progress),
+      progressIndicatorBuilder: (context, url, downloadProgress) => Padding(
+        padding: const EdgeInsets.all(8.0),
+        child: CircularProgressIndicator(value: downloadProgress.progress),
+      ),
       errorWidget: (context, url, error) => Column(
         children: [
           Icon(

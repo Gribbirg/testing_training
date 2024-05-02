@@ -40,22 +40,26 @@ class _CategoriesQuestionWidgetState extends State<CategoriesQuestionWidget> {
         children: [
           const Divider(),
           const Text("Ответы:"),
-          Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: order[1].asMap().entries.map((entry) {
-              final index = entry.key;
-              final answer = widget.question.answers[entry.value];
-              return Column(
-                children: [
-                  Text('${_getLetter(index)}. ${answer.text ?? ""}'),
-                  if (answer.image != null)
-                    CloudImageWidget(
-                      topicDir: widget.topic.dirName,
-                      imageName: answer.image!,
-                    ),
-                ],
-              );
-            }).toList(),
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: order[1].asMap().entries.map((entry) {
+                final index = entry.key;
+                final answer = widget.question.answers[entry.value];
+                return Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text('${_getLetter(index)}. ${answer.text ?? ""}'),
+                    if (answer.image != null)
+                      CloudImageWidget(
+                        topicDir: widget.topic.dirName,
+                        imageName: answer.image!,
+                      ),
+                  ],
+                );
+              }).toList(),
+            ),
           ),
           const Divider(),
           Column(
