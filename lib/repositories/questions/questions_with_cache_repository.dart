@@ -5,8 +5,8 @@ import 'package:firebase_storage/firebase_storage.dart';
 import 'package:get_it/get_it.dart';
 import 'package:hive/hive.dart';
 import 'package:testing_training/repositories/questions/questions_cloud_repository.dart';
-import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
-
+import 'package:version/version.dart';
+import '../session_save/abstract_session_save_repository.dart';
 import 'models/module.dart';
 import 'models/question/abstract_question.dart';
 import 'models/topic.dart';
@@ -93,15 +93,25 @@ class QuestionsCloudWithCacheRepository extends QuestionsCloudRepository {
     final dataString = utf8.decode(downloadedData!);
     final data = (await json.decode(dataString)) as Map<String, dynamic>;
 
-    final updateData = DateTime.parse(data["time"]);
-    final lastUploadDate = DateTime.parse(
-        ((await cacheBox.get("update_date")) as String?) ??
-            "1974-03-20 00:00:00.000");
-    if (lastUploadDate.isBefore(updateData)) {
+    // final updateData = DateTime.parse(data["time"]);
+    // final lastUploadDate = DateTime.parse(
+    //     ((await cacheBox.get("update_date")) as String?) ??
+    //         "1974-03-20 00:00:00.000");
+    // if (lastUploadDate.isBefore(updateData)) {
+    //   await removeAll();
+    //   await cacheBox.put("update_date", DateTime.now().toUtc().toIso8601String());
+    //   await GetIt.I<AbstractSessionSaveRepository>().removeAll();
+    //   return true;
+    // }
+
+    final dataVersion = Version.parse(data["version"]);
+    final localVersion =
+        Version.parse((await cacheBox.get("version") as String?) ?? "0.0.0");
+
+    if (dataVersion != localVersion) {
       await removeAll();
-      await cacheBox.put("update_date", DateTime.now().toUtc().toIso8601String());
+      await cacheBox.put("version", dataVersion.toString());
       await GetIt.I<AbstractSessionSaveRepository>().removeAll();
-      return true;
     }
     return false;
   }
