@@ -99,7 +99,7 @@ class QuestionsCloudWithCacheRepository extends QuestionsCloudRepository {
             "1974-03-20 00:00:00.000");
     if (lastUploadDate.isBefore(updateData)) {
       await removeAll();
-      await cacheBox.put("update_date", DateTime.now().toIso8601String());
+      await cacheBox.put("update_date", DateTime.now().toUtc().toIso8601String());
       await GetIt.I<AbstractSessionSaveRepository>().removeAll();
       return true;
     }
