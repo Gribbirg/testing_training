@@ -105,7 +105,7 @@ class _QuestionWidgetState extends State<QuestionWidget> {
             Container(
                 constraints: const BoxConstraints(maxWidth: 800),
                 padding: const EdgeInsets.all(10),
-                child: Text(
+                child: SelectableText(
                   widget.question.getName(),
                   textAlign: TextAlign.center,
                 )),

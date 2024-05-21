@@ -50,7 +50,7 @@ class _CategoriesQuestionWidgetState extends State<CategoriesQuestionWidget> {
                 return Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('${_getLetter(index)}. ${answer.text ?? ""}'),
+                    SelectableText('${_getLetter(index)}. ${answer.text ?? ""}'),
                     if (answer.image != null)
                       CloudImageWidget(
                         topicDir: widget.topic.dirName,
