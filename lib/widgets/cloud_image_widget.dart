@@ -1,13 +1,18 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
+import 'package:insta_image_viewer/insta_image_viewer.dart';
 
 class CloudImageWidget extends StatefulWidget {
   const CloudImageWidget(
-      {super.key, required this.topicDir, required this.imageName});
+      {super.key,
+      required this.topicDir,
+      required this.imageName,
+      this.isFullScreen = false});
 
   final String topicDir;
   final String imageName;
+  final bool isFullScreen;
 
   @override
   State<CloudImageWidget> createState() => _CloudImageWidgetState();
@@ -30,6 +35,15 @@ class _CloudImageWidgetState extends State<CloudImageWidget> {
 
     return CachedNetworkImage(
       imageUrl: url,
+      imageBuilder: (context, imageProvider) => widget.isFullScreen
+          ? InstaImageViewer(
+              backgroundColor: Theme.of(context).colorScheme.background,
+              backgroundIsTransparent: true,
+              child: Image(
+                image: imageProvider,
+              ),
+            )
+          : Image(image: imageProvider),
       progressIndicatorBuilder: (context, url, downloadProgress) => Padding(
         padding: const EdgeInsets.all(8.0),
         child: CircularProgressIndicator(value: downloadProgress.progress),

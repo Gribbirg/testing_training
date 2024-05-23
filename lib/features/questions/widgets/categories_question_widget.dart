@@ -55,6 +55,7 @@ class _CategoriesQuestionWidgetState extends State<CategoriesQuestionWidget> {
                       CloudImageWidget(
                         topicDir: widget.topic.dirName,
                         imageName: answer.image!,
+                        isFullScreen: true,
                       ),
                   ],
                 );

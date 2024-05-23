@@ -100,6 +100,7 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                 child: CloudImageWidget(
                   topicDir: widget.topic.dirName,
                   imageName: widget.question.getImage()!,
+                  isFullScreen: true,
                 ),
               ),
             Container(
