@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';
 import 'package:testing_training/features/questions/bloc/questions_list_bloc.dart';
-import 'package:testing_training/features/questions/widgets/question_widget.dart';
+import 'package:testing_training/features/questions/questions.dart';
 import 'package:testing_training/features/questions/widgets/session_stats_widget.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/router/router.dart';
@@ -73,7 +73,8 @@ class _QuestionsPageState extends State<QuestionsPage> {
                   actions: [
                     IconButton(
                         onPressed: () {
-                          _questionsListBloc.add(RestartSession());
+                          _questionsListBloc.add(
+                              RestartSession(sessionData: state.sessionData));
                           pageController.jumpToPage(0);
                         },
                         icon: const Icon(Icons.refresh_sharp)),
@@ -91,13 +92,17 @@ class _QuestionsPageState extends State<QuestionsPage> {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     Padding(
-                      padding: const EdgeInsets.symmetric(vertical:  2.0, horizontal: 8,),
+                      padding: const EdgeInsets.symmetric(
+                        vertical: 2.0,
+                        horizontal: 8,
+                      ),
                       child: SessionStateWidget(
                           rightCount: state.sessionData.rightsCount,
                           wrongCount: state.sessionData.wrongCount,
                           completeCount: state.sessionData.completeCount,
                           questionsCount: state.sessionData.questionsCount,
-                          currentQuestionNum: state.sessionData.currentQuestionNum),
+                          currentQuestionNum:
+                              state.sessionData.currentQuestionNum),
                     ),
                     Flexible(
                       child: PageView(
@@ -155,9 +160,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
                                     duration: const Duration(milliseconds: 300),
                                     curve: Curves.easeInOut);
                               } else {
-                                _questionsListBloc.add(DeleteSessionData());
-                                AutoRouter.of(context)
-                                    .popAndPush(const HomeRoute());
+                                _questionsListBloc.add(QuestionsFinishEvent());
                               }
                             },
                           );
@@ -177,6 +180,46 @@ class _QuestionsPageState extends State<QuestionsPage> {
               );
             }
 
+            if (state is QuestionsFinishState) {
+              return Scaffold(
+                  appBar: AppBar(
+                    title: Text(state.module.name),
+                    actions: [
+                      IconButton(
+                          onPressed: () {
+                            _questionsListBloc.add(
+                                RestartSession(sessionData: state.sessionData));
+                            pageController.jumpToPage(0);
+                          },
+                          icon: const Icon(Icons.refresh_sharp)),
+                      IconButton(
+                          onPressed: () {
+                            AutoRouter.of(context).push(const HomeRoute());
+                          },
+                          icon: const Icon(Icons.home)),
+                      const SizedBox(
+                        width: 10,
+                      ),
+                    ],
+                  ),
+                  body: QuestionFinishedPage(
+                    state: state,
+                    restart: () {
+                      _questionsListBloc.add(
+                          RestartSession(sessionData: state.sessionData));
+                      pageController.jumpToPage(0);
+                    },
+                    toModules: () {
+                      _questionsListBloc.add(DeleteSessionData());
+                      AutoRouter.of(context).push(ModuleSelectRoute(topicId: state.topic.dirName));
+                    },
+                    toTopics: () {
+                      _questionsListBloc.add(DeleteSessionData());
+                      AutoRouter.of(context).push(const HomeRoute());
+                    },
+                  ));
+            }
+
             return Scaffold(
               appBar: AppBar(
                 title: const Text("Загрузка..."),
@@ -187,13 +230,5 @@ class _QuestionsPageState extends State<QuestionsPage> {
             );
           },
         ));
-  }
-
-  int _getCurrentPage() {
-    try {
-      return pageController.page!.floor() + 1;
-    } catch (e) {
-      return pageController.initialPage;
-    }
   }
 }

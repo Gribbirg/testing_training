@@ -44,3 +44,18 @@ class QuestionsListNotFound extends QuestionsListState {
   @override
   List<Object?> get props => [];
 }
+
+class QuestionsFinishState extends QuestionsListState {
+  final SessionData sessionData;
+  final Module module;
+  final Topic topic;
+
+  QuestionsFinishState({
+    required this.module,
+    required this.topic,
+    required this.sessionData
+  });
+
+  @override
+  List<Object?> get props => [topic, module, sessionData];
+}

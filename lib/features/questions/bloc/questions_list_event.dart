@@ -26,6 +26,16 @@ class DeleteSessionData extends QuestionsListEvent {
 }
 
 class RestartSession extends QuestionsListEvent {
+
+  final SessionData sessionData;
+
+  RestartSession({required this.sessionData});
+
+  @override
+  List<Object?> get props => [sessionData];
+}
+
+class QuestionsFinishEvent extends QuestionsListEvent {
   @override
   List<Object?> get props => [];
 }

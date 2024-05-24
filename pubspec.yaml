@@ -58,6 +58,7 @@ dependencies:
   version: ^3.0.2
   insta_image_viewer: ^1.0.4
   animated_flip_counter: ^0.3.4
+  syncfusion_flutter_charts: ^25.2.5
 
 dev_dependencies:
   flutter_test:

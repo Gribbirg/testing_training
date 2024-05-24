@@ -15,13 +15,13 @@ part 'questions_list_state.dart';
 
 class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
   QuestionsListBloc(
-      {required this.questionsRepository,
-      required this.sessionSaveRepository})
+      {required this.questionsRepository, required this.sessionSaveRepository})
       : super(QuestionsListInitial()) {
     on<LoadQuestionsList>(_load);
     on<SaveSessionData>(_save);
     on<DeleteSessionData>(_delete);
     on<RestartSession>(_restart);
+    on<QuestionsFinishEvent>(_finish);
   }
 
   final AbstractQuestionsRepository questionsRepository;
@@ -50,8 +50,8 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
         return;
       }
 
-      final questionsList =
-          await questionsRepository.getQuestionsList(event.topicId!, event.moduleId!);
+      final questionsList = await questionsRepository.getQuestionsList(
+          event.topicId!, event.moduleId!);
 
       if (questionsList == null || questionsList.isEmpty) {
         emit(QuestionsListNotFound());
@@ -71,12 +71,17 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
       if (sessionData.sessionsQuestions.isEmpty) {
         emit(QuestionsListError(message: "Вопросы не найдены"));
       } else {
-        emit(QuestionsListLoaded(
-          topic: topic,
-          module: module,
-          questionsList: questionsList,
-          sessionData: sessionData,
-        ));
+        if (sessionData.completeCount != sessionData.questionsCount) {
+          emit(QuestionsListLoaded(
+            topic: topic,
+            module: module,
+            questionsList: questionsList,
+            sessionData: sessionData,
+          ));
+        } else {
+          emit(QuestionsFinishState(
+              module: module, sessionData: sessionData, topic: topic));
+        }
       }
     } catch (e) {
       emit(QuestionsListError(message: e.toString()));
@@ -116,12 +121,17 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
   Future<void> _delete(
       DeleteSessionData event, Emitter<QuestionsListState> emit) async {
     try {
-      if (state is! QuestionsListLoaded) {
-        emit(QuestionsListError(message: "Nothing to save"));
+      SessionData sessionData;
+      if (state is QuestionsListLoaded) {
+        sessionData = (state as QuestionsListLoaded).sessionData;
+      } else if (state is QuestionsFinishState) {
+        sessionData = (state as QuestionsFinishState).sessionData;
+      } else {
+        emit(QuestionsListError(message: "Nothing to delete"));
         return;
       }
-      sessionSaveRepository
-          .removeSessionData((state as QuestionsListLoaded).sessionData);
+      await sessionSaveRepository
+          .removeSessionData(sessionData);
     } catch (e) {
       emit(QuestionsListError(message: e.toString()));
     }
@@ -131,7 +141,12 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
       RestartSession event, Emitter<QuestionsListState> emit) async {
     try {
       if (state is! QuestionsListLoaded) {
-        emit(QuestionsListError(message: "Nothing to restart"));
+        await sessionSaveRepository.removeSessionData(event.sessionData);
+        await _load(
+            LoadQuestionsList(
+                topicId: event.sessionData.topicId,
+                moduleId: event.sessionData.moduleId),
+            emit);
         return;
       }
       final saveState = state as QuestionsListLoaded;
@@ -151,5 +166,20 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
     } catch (e) {
       emit(QuestionsListError(message: e.toString()));
     }
+  }
+
+  Future<void> _finish(
+      QuestionsFinishEvent event, Emitter<QuestionsListState> emit) async {
+    if (state is! QuestionsListLoaded) {
+      emit(QuestionsListError(message: "Nothing to finish"));
+      return;
+    }
+    final curState = state as QuestionsListLoaded;
+    emit(QuestionsListLoading());
+
+    emit(QuestionsFinishState(
+        topic: curState.topic,
+        module: curState.module,
+        sessionData: curState.sessionData));
   }
 }

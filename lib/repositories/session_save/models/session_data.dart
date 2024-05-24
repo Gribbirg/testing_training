@@ -17,6 +17,7 @@ class SessionData extends HiveObject {
   late int rightsCount;
   late int wrongCount;
   late int completeCount;
+
   int get questionsCount => sessionsQuestions.length;
   late int currentQuestionNum;
 
@@ -26,7 +27,8 @@ class SessionData extends HiveObject {
     rightsCount = 0;
     wrongCount = 0;
     completeCount = 0;
-    currentQuestionNum = this.sessionsQuestions.indexWhere((element) => element.isRight == null);
+    currentQuestionNum =
+        this.sessionsQuestions.indexWhere((element) => element.isRight == null);
     for (var element in this.sessionsQuestions) {
       if (element.isRight != null) {
         completeCount++;
