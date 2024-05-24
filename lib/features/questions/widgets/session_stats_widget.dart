@@ -1,7 +1,6 @@
-import 'dart:math';
 
-import 'package:animated_digit/animated_digit.dart';
 import 'package:flutter/material.dart';
+import 'package:animated_flip_counter/animated_flip_counter.dart';
 
 class SessionStateWidget extends StatefulWidget {
   const SessionStateWidget(
@@ -44,12 +43,11 @@ class _SessionStateWidgetState extends State<SessionStateWidget> {
 
   Widget _getRightWrongCounter() {
     return Row(
-      crossAxisAlignment: CrossAxisAlignment.start,
+      crossAxisAlignment: CrossAxisAlignment.center,
       mainAxisAlignment: MainAxisAlignment.start,
       children: [
         Icon(Icons.done, color: Theme.of(context).colorScheme.primary,),
-        AnimatedDigitWidget(
-          loop: false,
+        AnimatedFlipCounter(
           value: widget.rightCount,
           textStyle: TextStyle(
               color: Theme.of(context).colorScheme.onSecondaryContainer,
@@ -58,8 +56,7 @@ class _SessionStateWidgetState extends State<SessionStateWidget> {
         ),
         const SizedBox(width: 5,),
         Icon(Icons.dangerous, color: Theme.of(context).colorScheme.error,),
-        AnimatedDigitWidget(
-          loop: false,
+        AnimatedFlipCounter(
           value: widget.wrongCount,
           textStyle: TextStyle(
               color: Theme.of(context).colorScheme.onSecondaryContainer,
@@ -77,8 +74,7 @@ class _SessionStateWidgetState extends State<SessionStateWidget> {
       children: [
         const Text("№", textAlign: TextAlign.center, style: TextStyle(fontSize: 15),),
         const SizedBox(width: 2,),
-        AnimatedDigitWidget(
-          loop: false,
+        AnimatedFlipCounter(
           value: widget.currentQuestionNum + 1,
           textStyle: TextStyle(
             color: Theme.of(context).colorScheme.onSecondaryContainer,
@@ -93,16 +89,20 @@ class _SessionStateWidgetState extends State<SessionStateWidget> {
     return Row(
       mainAxisAlignment: MainAxisAlignment.end,
       children: [
-        AnimatedDigitWidget(
-          loop: false,
-          value: widget.completeCount * pow(10, widget.questionsCount.toString().length) + widget.questionsCount,
+        AnimatedFlipCounter(
+          value: widget.completeCount,
           textStyle: TextStyle(
               color: Theme.of(context).colorScheme.onSecondaryContainer,
               fontSize: 15
           ),
-          enableSeparator: true,
-          separateSymbol: ' / ',
-          separateLength: widget.questionsCount.toString().length,
+        ),
+        const Text('/'),
+        AnimatedFlipCounter(
+          value: widget.questionsCount,
+          textStyle: TextStyle(
+              color: Theme.of(context).colorScheme.onSecondaryContainer,
+              fontSize: 15
+          ),
         ),
       ],
     );
