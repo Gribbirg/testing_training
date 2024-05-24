@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:testing_training/features/questions/widgets/categories_question_widget.dart';
-import 'package:testing_training/features/questions/widgets/multi_select_question_widget.dart';
-import 'package:testing_training/features/questions/widgets/num_question_widget.dart';
-import 'package:testing_training/features/questions/widgets/string_question_widget.dart';
+import 'package:testing_training/features/questions/widgets/type_questions_widgets/categories_question_widget.dart';
+import 'package:testing_training/features/questions/widgets/type_questions_widgets/multi_select_question_widget.dart';
+import 'package:testing_training/features/questions/widgets/type_questions_widgets/num_question_widget.dart';
+import 'package:testing_training/features/questions/widgets/type_questions_widgets/string_question_widget.dart';
 import 'package:testing_training/repositories/questions/models/question/categories_question.dart';
 import 'package:testing_training/repositories/questions/models/question/question.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';
@@ -10,8 +10,8 @@ import 'package:testing_training/widgets/cloud_image_widget.dart';
 
 import '../../../repositories/questions/models/module.dart';
 import '../../../repositories/questions/models/topic.dart';
-import 'one_select_question_widget.dart';
-import 'order_question_widget.dart';
+import 'type_questions_widgets/one_select_question_widget.dart';
+import 'type_questions_widgets/order_question_widget.dart';
 
 class QuestionWidget extends StatefulWidget {
   const QuestionWidget(
@@ -33,7 +33,7 @@ class QuestionWidget extends StatefulWidget {
   final PageController pageController;
   final bool isFirst;
   final bool isLast;
-  final void Function() onAnswer;
+  final void Function(bool) onAnswer;
   final void Function() scrollToNextOpenedQuestion;
 
   @override
@@ -45,12 +45,11 @@ class _QuestionWidgetState extends State<QuestionWidget> {
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     return SingleChildScrollView(
-      padding: const EdgeInsets.all(10),
       child: Card(
         child: Column(
           children: [
             Padding(
-              padding: const EdgeInsets.all(8.0),
+              padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 2),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 crossAxisAlignment: CrossAxisAlignment.center,
@@ -123,7 +122,8 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                                 setState(() {
                                   widget.question
                                       .setAnswerRight(widget.sessionQuestion);
-                                  widget.onAnswer();
+                                  widget.onAnswer(
+                                      widget.sessionQuestion.isRight!);
                                 });
                               }
                             : null,

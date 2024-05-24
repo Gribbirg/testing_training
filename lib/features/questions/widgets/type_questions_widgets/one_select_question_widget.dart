@@ -1,13 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:testing_training/repositories/questions/models/question/answer.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';
 
-import '../../../repositories/questions/models/module.dart';
-import '../../../repositories/questions/models/question/multi_select_question.dart';
-import '../../../repositories/questions/models/topic.dart';
-import '../../../widgets/cloud_image_widget.dart';
+import '../../../../repositories/questions/models/module.dart';
+import '../../../../repositories/questions/models/question/one_select_question.dart';
+import '../../../../repositories/questions/models/topic.dart';
+import '../../../../widgets/cloud_image_widget.dart';
 
-class MultiSelectQuestionWidget extends StatefulWidget {
-  const MultiSelectQuestionWidget({
+class OneSelectQuestionWidget extends StatefulWidget {
+  const OneSelectQuestionWidget({
     super.key,
     required this.question,
     required this.topic,
@@ -16,18 +17,18 @@ class MultiSelectQuestionWidget extends StatefulWidget {
     required this.setParentState,
   });
 
-  final MultiSelectQuestion question;
+  final OneSelectQuestion question;
   final SessionQuestion sessionQuestion;
   final Topic topic;
   final Module module;
   final void Function(void Function()) setParentState;
 
   @override
-  State<MultiSelectQuestionWidget> createState() =>
-      _MultiSelectQuestionWidgetState();
+  State<OneSelectQuestionWidget> createState() =>
+      _OneSelectQuestionWidgetState();
 }
 
-class _MultiSelectQuestionWidgetState extends State<MultiSelectQuestionWidget> {
+class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
@@ -38,9 +39,10 @@ class _MultiSelectQuestionWidgetState extends State<MultiSelectQuestionWidget> {
             .map((answerNum) {
           final answer = widget.question.answers[answerNum];
           final isRightAnswer = (widget.sessionQuestion.isRight != null)
-              ? widget.question.rightAnswersNumbers.contains(answer.number)
+              ? widget.question.rightAnswerNumber == answer.number
               : false;
-          final isUserAnswer = widget.sessionQuestion.userAnswer[answerNum];
+          final isUserAnswer =
+              widget.sessionQuestion.userAnswer == answer.number;
           final isResult = widget.sessionQuestion.isRight != null;
           return Card(
             shadowColor:
@@ -53,7 +55,7 @@ class _MultiSelectQuestionWidgetState extends State<MultiSelectQuestionWidget> {
                         ? theme.colorScheme.primaryContainer
                         : theme.colorScheme.secondaryContainer
                     : theme.cardColor,
-            child: CheckboxListTile(
+            child: RadioListTile<Answer>(
               activeColor: (isResult && !isRightAnswer && isUserAnswer)
                   ? theme.colorScheme.error
                   : (isRightAnswer)
@@ -79,19 +81,21 @@ class _MultiSelectQuestionWidgetState extends State<MultiSelectQuestionWidget> {
                     ),
                 ],
               ),
+              groupValue: (widget.sessionQuestion.userAnswer == null)
+                  ? widget.sessionQuestion.userAnswer
+                  : widget.question.answers[widget.sessionQuestion.userAnswer],
               onChanged: (!isResult)
                   ? (newAnswer) {
                       setState(() {
                         widget.setParentState(() {
-                          widget.sessionQuestion.userAnswer[answerNum] =
-                              newAnswer;
+                          widget.sessionQuestion.userAnswer = newAnswer!.number;
                         });
                       });
                     }
                   : (isRightAnswer || isUserAnswer)
                       ? (_) {}
                       : null,
-              value: isUserAnswer,
+              value: answer,
             ),
           );
         }).toList(),

@@ -14,9 +14,29 @@ class SessionData extends HiveObject {
   @HiveField(2)
   late List<SessionQuestion> sessionsQuestions;
 
+  late int rightsCount;
+  late int wrongCount;
+  late int completeCount;
+  int get questionsCount => sessionsQuestions.length;
+  late int currentQuestionNum;
+
   SessionData(
       {required this.topicId, required this.moduleId, sessionsQuestions}) {
     this.sessionsQuestions = sessionsQuestions ?? [];
+    rightsCount = 0;
+    wrongCount = 0;
+    completeCount = 0;
+    currentQuestionNum = this.sessionsQuestions.indexWhere((element) => element.isRight == null);
+    for (var element in this.sessionsQuestions) {
+      if (element.isRight != null) {
+        completeCount++;
+        if (element.isRight!) {
+          rightsCount++;
+        } else {
+          wrongCount++;
+        }
+      }
+    }
   }
 
   bool allQuestionsAreClosed() =>

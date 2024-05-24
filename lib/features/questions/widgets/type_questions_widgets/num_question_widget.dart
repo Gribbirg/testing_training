@@ -3,8 +3,8 @@ import 'package:flutter/services.dart';
 import 'package:testing_training/repositories/questions/models/question/num_question.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';
 
-import '../../../repositories/questions/models/module.dart';
-import '../../../repositories/questions/models/topic.dart';
+import '../../../../repositories/questions/models/module.dart';
+import '../../../../repositories/questions/models/topic.dart';
 
 class NumQuestionWidget extends StatefulWidget {
   const NumQuestionWidget({
