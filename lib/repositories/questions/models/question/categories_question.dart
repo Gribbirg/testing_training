@@ -96,4 +96,15 @@ class CategoriesQuestion extends AbstractQuestion {
   @override
   bool isAnswerFilled(userAnswer) =>
       !(userAnswer as List).any((element) => element == null);
+
+  @override
+  AbstractQuestion copyWithNum(int newNum) => CategoriesQuestion(
+      name: name,
+      number: newNum,
+      answersCount: answersCount,
+      statementsCount: statementsCount,
+      image: image,
+      rightAnswersNumbers: rightAnswersNumbers,
+      answers: answers,
+      statements: statements);
 }

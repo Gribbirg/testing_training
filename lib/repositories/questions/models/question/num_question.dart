@@ -71,4 +71,7 @@ class NumQuestion extends AbstractQuestion {
 
   @override
   bool isAnswerFilled(userAnswer) => userAnswer != null;
+
+  @override
+  AbstractQuestion copyWithNum(int newNum) => NumQuestion(name: name, number: newNum, image: image, answer: answer, delta: delta, unit: unit);
 }

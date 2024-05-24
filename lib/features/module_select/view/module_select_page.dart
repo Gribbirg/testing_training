@@ -6,6 +6,7 @@ import 'package:testing_training/features/module_select/bloc/module_list_bloc.da
 import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
 import 'package:testing_training/router/router.dart';
 
+import '../../../repositories/questions/models/module.dart';
 import '../widgets/module_item.dart';
 
 @RoutePage()
@@ -20,7 +21,9 @@ class ModuleSelectPage extends StatefulWidget {
 }
 
 class _ModuleSelectPageState extends State<ModuleSelectPage> {
-  final _moduleListBloc = ModuleListBloc(GetIt.I<AbstractQuestionsRepository>(),);
+  final _moduleListBloc = ModuleListBloc(
+    GetIt.I<AbstractQuestionsRepository>(),
+  );
 
   @override
   void initState() {
@@ -40,7 +43,11 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
         bloc: _moduleListBloc,
         builder: (BuildContext context, ModuleListState state) {
           if (state is ModuleListLoaded) {
-            final modulesList = state.modules;
+            final modulesList = [
+                  const Module(
+                      name: "Тест", dirName: "testing", questionsCount: 30)
+                ] +
+                state.modules;
             return Scaffold(
                 appBar: AppBar(
                   title: Text(state.topic.name),

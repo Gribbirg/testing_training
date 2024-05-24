@@ -16,7 +16,9 @@ class SessionSaveRepository extends AbstractSessionSaveRepository {
 
   @override
   Future<SessionData?> getSessionData(Topic topic, Module module) async {
-    return (await box.get(_getKeyByTopicAndModule(topic, module))) as SessionData?;
+    return (await box
+            .get(_getKeyByTopicAndModule(topic.dirName, module.dirName)))
+        as SessionData?;
     // return null;
   }
 
@@ -28,8 +30,8 @@ class SessionSaveRepository extends AbstractSessionSaveRepository {
   String _getKey(SessionData sessionData) =>
       '${sessionData.topicId}___${sessionData.moduleId}';
 
-  String _getKeyByTopicAndModule(Topic topic, Module module) =>
-      '${topic.dirName}___${module.dirName}';
+  String _getKeyByTopicAndModule(String topicId, String moduleId) =>
+      '${topicId}___$moduleId';
 
   @override
   Future<void> removeSessionData(SessionData sessionData) async {
@@ -39,5 +41,25 @@ class SessionSaveRepository extends AbstractSessionSaveRepository {
   @override
   Future<void> removeAll() async {
     await box.clear();
+  }
+
+  @override
+  Future<List<int>?> getTestingData(Topic topic) async {
+    final data = await box.get(
+        '${_getKeyByTopicAndModule(topic.dirName, 'testing')}___questions');
+    if (data == null) return null;
+    return (data as List<dynamic>).map((e) => e as int).toList();
+  }
+
+  @override
+  Future<void> addTestingData(Topic topic, List<int> data) async {
+    box.put('${_getKeyByTopicAndModule(topic.dirName, 'testing')}___questions',
+        data);
+  }
+
+  @override
+  Future<void> removeTestingData(String topicId) async {
+    box.delete(
+        '${_getKeyByTopicAndModule(topicId, 'testing')}___questions');
   }
 }

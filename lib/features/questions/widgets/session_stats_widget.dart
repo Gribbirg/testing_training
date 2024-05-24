@@ -1,4 +1,6 @@
 
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:animated_flip_counter/animated_flip_counter.dart';
 
@@ -75,7 +77,7 @@ class _SessionStateWidgetState extends State<SessionStateWidget> {
         const Text("№", textAlign: TextAlign.center, style: TextStyle(fontSize: 15),),
         const SizedBox(width: 2,),
         AnimatedFlipCounter(
-          value: widget.currentQuestionNum + 1,
+          value: max(widget.currentQuestionNum + 1, 1),
           textStyle: TextStyle(
             color: Theme.of(context).colorScheme.onSecondaryContainer,
             fontSize: 15

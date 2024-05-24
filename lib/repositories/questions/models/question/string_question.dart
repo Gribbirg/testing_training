@@ -64,4 +64,7 @@ class StringQuestion extends AbstractQuestion {
 
   @override
   bool isAnswerFilled(userAnswer) => userAnswer != null;
+
+  @override
+  AbstractQuestion copyWithNum(int newNum) => StringQuestion(name: name, number: newNum, image: image, answer: answer, variants: variants.toList());
 }

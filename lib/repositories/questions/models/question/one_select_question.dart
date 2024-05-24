@@ -72,4 +72,7 @@ class OneSelectQuestion extends AbstractQuestion {
 
   @override
   bool isAnswerFilled(userAnswer) => userAnswer != null;
+
+  @override
+  AbstractQuestion copyWithNum(int newNum) => OneSelectQuestion(name: name, number: newNum, answersCount: answersCount, image: image, rightAnswerNumber: rightAnswerNumber, answers: answers);
 }

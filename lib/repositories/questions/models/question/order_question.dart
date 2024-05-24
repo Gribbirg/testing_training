@@ -74,4 +74,13 @@ class OrderQuestion extends AbstractQuestion {
 
   @override
   bool isAnswerFilled(userAnswer) => true;
+
+  @override
+  AbstractQuestion copyWithNum(int newNum) => OrderQuestion(
+      name: name,
+      number: newNum,
+      answersCount: answersCount,
+      image: image,
+      rightAnswersNumbersOrder: rightAnswersNumbersOrder,
+      answers: answers);
 }

@@ -1,4 +1,6 @@
 import 'dart:async';
+import 'dart:collection';
+import 'dart:math';
 
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -42,16 +44,23 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
         return;
       }
 
-      final module = (await questionsRepository.getModulesList(event.topicId!))
-          ?.firstWhere((element) => element.dirName == event.moduleId);
+      Module? module;
+      List<AbstractQuestion>? questionsList;
 
-      if (module == null) {
-        emit(QuestionsListNotFound());
-        return;
+      if (event.moduleId == 'testing') {
+        module =
+            const Module(name: 'Тест', questionsCount: 30, dirName: 'testing');
+        questionsList = await _getTestingQuestions(emit, topic);
+      } else {
+        module = (await questionsRepository.getModulesList(event.topicId!))
+            ?.firstWhere((element) => element.dirName == event.moduleId);
+        if (module == null) {
+          emit(QuestionsListNotFound());
+          return;
+        }
+        questionsList = await questionsRepository.getQuestionsList(
+            event.topicId!, event.moduleId!);
       }
-
-      final questionsList = await questionsRepository.getQuestionsList(
-          event.topicId!, event.moduleId!);
 
       if (questionsList == null || questionsList.isEmpty) {
         emit(QuestionsListNotFound());
@@ -86,6 +95,69 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
     } catch (e) {
       emit(QuestionsListError(message: e.toString()));
     }
+  }
+
+  Future<List<AbstractQuestion>> _getTestingQuestions(
+      Emitter<QuestionsListState> emit, Topic topic) async {
+    final List<Module>? modules =
+        await questionsRepository.getModulesList(topic.dirName);
+    if (modules == null) {
+      emit(QuestionsListError(message: "Вопросы не найдены"));
+      return [];
+    }
+
+    List<int>? questionsNumsList =
+        await sessionSaveRepository.getTestingData(topic);
+    if (questionsNumsList == null) {
+      questionsNumsList = _getRandomNums(topic.questionsCount, 30);
+      sessionSaveRepository.addTestingData(topic, questionsNumsList);
+    }
+
+    Map<String, List<int>>? questionsNums;
+    questionsNums = <String, List<int>>{};
+
+    for (int num in questionsNumsList) {
+      int i = 0;
+      while (modules[i].questionsCount <= num) {
+        num -= modules[i].questionsCount;
+        i++;
+      }
+      questionsNums[modules[i].dirName] =
+          (questionsNums[modules[i].dirName] ?? <int>[])..add(num);
+    }
+
+    List<AbstractQuestion> questions = [];
+    for (final entry in questionsNums.entries) {
+      final moduleQuestions =
+          await questionsRepository.getQuestionsList(topic.dirName, entry.key);
+      if (moduleQuestions == null) {
+        emit(QuestionsListError(message: "Вопросы не найдены"));
+        return [];
+      }
+
+      questions.addAll(entry.value.map((e) => moduleQuestions[e]));
+    }
+
+    for (int i = 0; i < questions.length; i++) {
+      questions[i] = questions[i].copyWithNum(i);
+    }
+
+    return questions;
+  }
+
+  List<int> _getRandomNums(int max, int count) {
+    final random = Random();
+    final nums = HashSet<int>();
+
+    for (int i = 0; i < count; i++) {
+      int num;
+      do {
+        num = random.nextInt(max);
+      } while (nums.contains(num));
+      nums.add(num);
+    }
+
+    return nums.toList()..shuffle();
   }
 
   List<SessionQuestion> _getShuffledQuestions(
@@ -130,8 +202,10 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
         emit(QuestionsListError(message: "Nothing to delete"));
         return;
       }
-      await sessionSaveRepository
-          .removeSessionData(sessionData);
+      sessionSaveRepository.removeSessionData(sessionData);
+      if (sessionData.moduleId == 'testing') {
+        sessionSaveRepository.removeTestingData(sessionData.topicId);
+      }
     } catch (e) {
       emit(QuestionsListError(message: e.toString()));
     }
@@ -151,16 +225,23 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
       }
       final saveState = state as QuestionsListLoaded;
       emit(QuestionsListLoading());
+
+      List<AbstractQuestion> questionsList = saveState.questionsList;
+
       sessionSaveRepository.removeSessionData(saveState.sessionData);
+      if (saveState.sessionData.moduleId == 'testing') {
+        sessionSaveRepository.removeTestingData(saveState.sessionData.topicId);
+        questionsList = await _getTestingQuestions(emit, saveState.topic);
+      }
 
       final session = SessionData(
         topicId: saveState.topic.dirName,
         moduleId: saveState.module.dirName,
-      )..sessionsQuestions = _getShuffledQuestions(saveState.questionsList);
+      )..sessionsQuestions = _getShuffledQuestions(questionsList);
       emit(QuestionsListLoaded(
           topic: saveState.topic,
           module: saveState.module,
-          questionsList: saveState.questionsList,
+          questionsList: questionsList,
           sessionData: session));
       sessionSaveRepository.addSessionData(session);
     } catch (e) {

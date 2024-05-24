@@ -80,4 +80,7 @@ class MultiSelectQuestion extends AbstractQuestion {
   @override
   bool isAnswerFilled(userAnswer) =>
       (userAnswer as List<bool>).any((element) => element);
+
+  @override
+  AbstractQuestion copyWithNum(int newNum) => MultiSelectQuestion(name: name, number: newNum, answersCount: answersCount, image: image, rightAnswersNumbers: rightAnswersNumbers, answers: answers);
 }

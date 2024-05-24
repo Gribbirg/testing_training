@@ -15,4 +15,6 @@ abstract class AbstractQuestion extends Equatable {
   bool isAnswerFilled(dynamic userAnswer);
 
   Map<String, dynamic> toJson();
+
+  AbstractQuestion copyWithNum(int newNum);
 }

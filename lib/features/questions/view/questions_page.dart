@@ -207,7 +207,6 @@ class _QuestionsPageState extends State<QuestionsPage> {
                     restart: () {
                       _questionsListBloc.add(
                           RestartSession(sessionData: state.sessionData));
-                      pageController.jumpToPage(0);
                     },
                     toModules: () {
                       _questionsListBloc.add(DeleteSessionData());
