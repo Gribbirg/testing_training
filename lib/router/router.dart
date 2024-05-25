@@ -3,6 +3,7 @@ import 'package:flutter/cupertino.dart';
 
 import '../features/home/view/home_page.dart';
 import '../features/module_select/view/module_select_page.dart';
+import '../features/news/view/news_page.dart';
 import '../features/questions/view/questions_page.dart';
 import '../features/settings/view/settings_page.dart';
 
@@ -14,6 +15,7 @@ class AppRouter extends _$AppRouter {
   List<AutoRoute> get routes => [
         AutoRoute(page: HomeRoute.page, path: '/'),
         AutoRoute(page: SettingsRoute.page, path: '/settings'),
+        AutoRoute(page: NewsRoute.page, path: '/news'),
         AutoRoute(page: ModuleSelectRoute.page, path: '/:topic'),
         AutoRoute(page: QuestionsRoute.page, path: '/:topic/:module'),
       ];

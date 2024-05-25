@@ -1,7 +1,5 @@
 import 'package:auto_route/auto_route.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:testing_training/router/router.dart';
 
 import '../main.dart';
@@ -45,6 +43,15 @@ class _BaseDrawerState extends State<BaseDrawer> {
                 routeName: HomeRoute.name),
             getBaseDrawerListTile(
                 context: context,
+                icon: const Icon(Icons.feed),
+                title: const Text('Новости'),
+                onTap: () {
+                  widget.scaffoldKey.currentState!.closeDrawer();
+                  AutoRouter.of(context).push(const NewsRoute());
+                },
+                routeName: NewsRoute.name),
+            getBaseDrawerListTile(
+                context: context,
                 icon: const Icon(Icons.settings),
                 title: const Text("Настройки"),
                 onTap: () {
@@ -65,15 +72,18 @@ class _BaseDrawerState extends State<BaseDrawer> {
     required void Function() onTap,
     String? routeName,
   }) =>
-      ListTile(
-        leading: icon,
-        title: title,
-        onTap: onTap,
-        selected: AutoRouter.of(context).current.name == routeName,
-        selectedColor: Theme.of(context).colorScheme.primary,
-        selectedTileColor: Theme.of(context).colorScheme.primaryContainer,
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(10),
+      Padding(
+        padding: const EdgeInsets.symmetric(vertical: 2.0),
+        child: ListTile(
+          leading: icon,
+          title: title,
+          onTap: onTap,
+          selected: AutoRouter.of(context).current.name == routeName,
+          selectedColor: Theme.of(context).colorScheme.primary,
+          selectedTileColor: Theme.of(context).colorScheme.primaryContainer,
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(10),
+          ),
         ),
       );
 
@@ -87,8 +97,8 @@ class _BaseDrawerState extends State<BaseDrawer> {
         accountEmail: null,
         currentAccountPicture: _logo,
         currentAccountPictureSize: const Size(100, 100),
-        decoration: BoxDecoration(
-          color: Theme.of(context).colorScheme.surface,
+        decoration: const BoxDecoration(
+          color: null,
         ),
       );
 }

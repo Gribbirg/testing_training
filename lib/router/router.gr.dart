@@ -34,6 +34,12 @@ abstract class _$AppRouter extends RootStackRouter {
         ),
       );
     },
+    NewsRoute.name: (routeData) {
+      return AutoRoutePage<dynamic>(
+        routeData: routeData,
+        child: const NewsPage(),
+      );
+    },
     QuestionsRoute.name: (routeData) {
       final pathParams = routeData.inheritedPathParams;
       final args = routeData.argsAs<QuestionsRouteArgs>(
@@ -110,6 +116,20 @@ class ModuleSelectRouteArgs {
   String toString() {
     return 'ModuleSelectRouteArgs{key: $key, topicId: $topicId}';
   }
+}
+
+/// generated route for
+/// [NewsPage]
+class NewsRoute extends PageRouteInfo<void> {
+  const NewsRoute({List<PageRouteInfo>? children})
+      : super(
+          NewsRoute.name,
+          initialChildren: children,
+        );
+
+  static const String name = 'NewsRoute';
+
+  static const PageInfo<void> page = PageInfo<void>(name);
 }
 
 /// generated route for

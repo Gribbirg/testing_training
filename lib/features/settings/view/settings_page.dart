@@ -1,6 +1,7 @@
 import 'package:auto_route/annotations.dart';
 import 'package:flutter/material.dart';
 import 'package:testing_training/widgets/app_bar.dart';
+import 'package:testing_training/widgets/coming_soon_widget.dart';
 import 'package:testing_training/widgets/drawer.dart';
 
 @RoutePage()
@@ -27,6 +28,7 @@ class _SettingsPageState extends State<SettingsPage> {
           width: 15,
         )
       ]),
+      body: const SingleChildScrollView(child: ComingSoonWidget()),
     );
   }
 }
