@@ -1,8 +1,10 @@
-import 'package:auto_route/annotations.dart';
+import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
+import 'package:testing_training/features/settings/widgets/settings_drawer.dart';
+import 'package:testing_training/features/settings/widgets/settings_list_tile_widget.dart';
+import 'package:testing_training/router/router.dart';
 import 'package:testing_training/widgets/app_bar.dart';
-import 'package:testing_training/widgets/coming_soon_widget.dart';
-import 'package:testing_training/widgets/drawer.dart';
+
 
 @RoutePage()
 class SettingsPage extends StatefulWidget {
@@ -19,16 +21,36 @@ class _SettingsPageState extends State<SettingsPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       key: _key,
-      drawer: BaseDrawer(
-        scaffoldKey: _key,
+      drawer: SettingsDrawer(scaffoldKey: _key),
+      appBar: getAppBar(context, text: "Настройки"),
+      body: SingleChildScrollView(
+        child: Center(
+          child: Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Container(
+              constraints: const BoxConstraints(maxWidth: 400),
+              child: Column(
+                children: [
+                  SettingsListTileWidget(
+                    title: 'Внешний вид',
+                    onTap: () {
+                      AutoRouter.of(context).push(const ColorsSelectRoute());
+                    },
+                    icon: const Icon(Icons.color_lens),
+                  ),
+                  SettingsListTileWidget(
+                    title: 'О приложении',
+                    onTap: () {
+                      AutoRouter.of(context).push(const AboutAppRoute());
+                    },
+                    icon: const Icon(Icons.info),
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
       ),
-      appBar: getAppBar(context, text: "Настройки", actions: [
-        const Icon(Icons.settings),
-        const SizedBox(
-          width: 15,
-        )
-      ]),
-      body: const SingleChildScrollView(child: ComingSoonWidget()),
     );
   }
 }

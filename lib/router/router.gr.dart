@@ -15,6 +15,18 @@ abstract class _$AppRouter extends RootStackRouter {
 
   @override
   final Map<String, PageFactory> pagesMap = {
+    AboutAppRoute.name: (routeData) {
+      return AutoRoutePage<dynamic>(
+        routeData: routeData,
+        child: const AboutAppPage(),
+      );
+    },
+    ColorsSelectRoute.name: (routeData) {
+      return AutoRoutePage<dynamic>(
+        routeData: routeData,
+        child: const ColorsSelectPage(),
+      );
+    },
     HomeRoute.name: (routeData) {
       return AutoRoutePage<dynamic>(
         routeData: routeData,
@@ -63,6 +75,34 @@ abstract class _$AppRouter extends RootStackRouter {
       );
     },
   };
+}
+
+/// generated route for
+/// [AboutAppPage]
+class AboutAppRoute extends PageRouteInfo<void> {
+  const AboutAppRoute({List<PageRouteInfo>? children})
+      : super(
+          AboutAppRoute.name,
+          initialChildren: children,
+        );
+
+  static const String name = 'AboutAppRoute';
+
+  static const PageInfo<void> page = PageInfo<void>(name);
+}
+
+/// generated route for
+/// [ColorsSelectPage]
+class ColorsSelectRoute extends PageRouteInfo<void> {
+  const ColorsSelectRoute({List<PageRouteInfo>? children})
+      : super(
+          ColorsSelectRoute.name,
+          initialChildren: children,
+        );
+
+  static const String name = 'ColorsSelectRoute';
+
+  static const PageInfo<void> page = PageInfo<void>(name);
 }
 
 /// generated route for

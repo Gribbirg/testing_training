@@ -6,7 +6,7 @@ part of 'color_settings.dart';
 // TypeAdapterGenerator
 // **************************************************************************
 
-class ColorSettingAdapter extends TypeAdapter<ColorSettings> {
+class ColorSettingsAdapter extends TypeAdapter<ColorSettings> {
   @override
   final int typeId = 13;
 
@@ -41,7 +41,7 @@ class ColorSettingAdapter extends TypeAdapter<ColorSettings> {
   @override
   bool operator ==(Object other) =>
       identical(this, other) ||
-      other is ColorSettingAdapter &&
+      other is ColorSettingsAdapter &&
           runtimeType == other.runtimeType &&
           typeId == other.typeId;
 }

@@ -5,9 +5,10 @@ import 'package:testing_training/router/router.dart';
 import '../main.dart';
 
 class BaseDrawer extends StatefulWidget {
-  const BaseDrawer({super.key, required this.scaffoldKey});
+  const BaseDrawer({super.key, required this.scaffoldKey, this.body});
 
   final GlobalKey<ScaffoldState> scaffoldKey;
+  final List<Widget>? body;
 
   @override
   State<BaseDrawer> createState() => _BaseDrawerState();
@@ -31,61 +32,41 @@ class _BaseDrawerState extends State<BaseDrawer> {
         padding: const EdgeInsets.symmetric(horizontal: 8.0),
         child: Column(
           children: [
-            _getHeader(),
-            getBaseDrawerListTile(
-                context: context,
-                icon: const Icon(Icons.home),
-                title: const Text("Главная"),
-                onTap: () {
-                  widget.scaffoldKey.currentState!.closeDrawer();
-                  AutoRouter.of(context).push(const HomeRoute());
-                },
-                routeName: HomeRoute.name),
-            getBaseDrawerListTile(
-                context: context,
-                icon: const Icon(Icons.feed),
-                title: const Text('Новости'),
-                onTap: () {
-                  widget.scaffoldKey.currentState!.closeDrawer();
-                  AutoRouter.of(context).push(const NewsRoute());
-                },
-                routeName: NewsRoute.name),
-            getBaseDrawerListTile(
-                context: context,
-                icon: const Icon(Icons.settings),
-                title: const Text("Настройки"),
-                onTap: () {
-                  widget.scaffoldKey.currentState!.closeDrawer();
-                  AutoRouter.of(context).push(const SettingsRoute());
-                },
-                routeName: SettingsRoute.name)
-          ],
+                _getHeader(),
+                getBaseDrawerListTile(
+                    context: context,
+                    icon: const Icon(Icons.home),
+                    title: const Text("Главная"),
+                    onTap: () {
+                      widget.scaffoldKey.currentState!.closeDrawer();
+                      AutoRouter.of(context).push(const HomeRoute());
+                    },
+                    routeName: HomeRoute.name),
+                getBaseDrawerListTile(
+                    context: context,
+                    icon: const Icon(Icons.feed),
+                    title: const Text('Новости'),
+                    onTap: () {
+                      widget.scaffoldKey.currentState!.closeDrawer();
+                      AutoRouter.of(context).push(const NewsRoute());
+                    },
+                    routeName: NewsRoute.name),
+                getBaseDrawerListTile(
+                    context: context,
+                    icon: const Icon(Icons.settings),
+                    title: const Text("Настройки"),
+                    onTap: () {
+                      widget.scaffoldKey.currentState!.closeDrawer();
+                      AutoRouter.of(context).push(const SettingsRoute());
+                    },
+                    routeName: SettingsRoute.name),
+                const Divider(),
+              ] +
+              (widget.body ?? []),
         ),
       ),
     );
   }
-
-  static Widget getBaseDrawerListTile({
-    required BuildContext context,
-    required Widget icon,
-    required Widget title,
-    required void Function() onTap,
-    String? routeName,
-  }) =>
-      Padding(
-        padding: const EdgeInsets.symmetric(vertical: 2.0),
-        child: ListTile(
-          leading: icon,
-          title: title,
-          onTap: onTap,
-          selected: AutoRouter.of(context).current.name == routeName,
-          selectedColor: Theme.of(context).colorScheme.primary,
-          selectedTileColor: Theme.of(context).colorScheme.primaryContainer,
-          shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(10),
-          ),
-        ),
-      );
 
   Widget _getHeader() => UserAccountsDrawerHeader(
         accountName: Text(
@@ -102,3 +83,25 @@ class _BaseDrawerState extends State<BaseDrawer> {
         ),
       );
 }
+
+Widget getBaseDrawerListTile({
+  required BuildContext context,
+  required Widget icon,
+  required Widget title,
+  required void Function() onTap,
+  String? routeName,
+}) =>
+    Padding(
+      padding: const EdgeInsets.symmetric(vertical: 2.0),
+      child: ListTile(
+        leading: icon,
+        title: title,
+        onTap: onTap,
+        selected: AutoRouter.of(context).current.name == routeName,
+        selectedColor: Theme.of(context).colorScheme.primary,
+        selectedTileColor: Theme.of(context).colorScheme.primaryContainer,
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.circular(10),
+        ),
+      ),
+    );

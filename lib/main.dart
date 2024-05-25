@@ -26,9 +26,11 @@ Future<void> main() async {
   await _initHive();
   await GetIt.instance.allReady();
 
-  final Settings settings = await GetIt.I<AbstractSettingsRepository>().getUserSettings();
+  GetIt.I.registerSingleton<Settings>(
+      await GetIt.I<AbstractSettingsRepository>().getUserSettings()
+  );
 
-  runApp(TestingTrainingApp(userSettings: settings,));
+  runApp(const TestingTrainingApp());
   FlutterNativeSplash.remove();
 }
 
@@ -77,11 +79,12 @@ Future<void> _initHive() async {
   Hive.registerAdapter(StringQuestionAdapter());
 
   Hive.registerAdapter(SettingsAdapter());
-  Hive.registerAdapter(ColorSettingAdapter());
+  Hive.registerAdapter(ColorSettingsAdapter());
+  Hive.registerAdapter(ColorLightnessAdapter());
 
   final sessionsSaveBox = await Hive.openLazyBox('sessions');
   final questionsCacheBox = await Hive.openLazyBox('cache');
-  final settingsBox = await Hive.openLazyBox('settings');
+  final settingsBox = await Hive.openBox('settings');
   // await questionsCacheBox.clear();
 
   GetIt.I.registerLazySingleton<AbstractSessionSaveRepository>(

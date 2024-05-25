@@ -1,7 +1,6 @@
 import 'package:auto_route/annotations.dart';
 import 'package:flutter/material.dart';
 
-import '../../../main.dart';
 import '../../../widgets/app_bar.dart';
 import '../../../widgets/coming_soon_widget.dart';
 import '../../../widgets/drawer.dart';
@@ -24,12 +23,7 @@ class _NewsPageState extends State<NewsPage> {
       drawer: BaseDrawer(
         scaffoldKey: _key,
       ),
-      appBar: getAppBar(context, text: "Новости", actions: [
-        Image.asset(path('images/logo.png')),
-        const SizedBox(
-          width: 15,
-        )
-      ]),
+      appBar: getAppBar(context, text: "Новости"),
       body: const SingleChildScrollView(child: ComingSoonWidget()),
     );
   }

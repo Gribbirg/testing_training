@@ -19,7 +19,7 @@ class SessionDataAdapter extends TypeAdapter<SessionData> {
     return SessionData(
       topicId: fields[0] as String,
       moduleId: fields[1] as String,
-      sessionsQuestions: (fields[2] as List).cast<SessionQuestion>(),
+      sessionsQuestions: fields[2] as dynamic,
     );
   }
 

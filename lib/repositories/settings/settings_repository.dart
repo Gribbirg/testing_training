@@ -4,17 +4,22 @@ import 'package:testing_training/repositories/settings/model/settings.dart';
 
 class SettingRepository extends AbstractSettingsRepository {
 
-  final LazyBox box;
+  final Box box;
 
   SettingRepository({required this.box});
 
   @override
   Future<Settings> getUserSettings() async {
-    return (await box.get('user_settings')) as Settings? ?? Settings.def();
+    Settings? settings = await box.get('user_settings');
+    if (settings == null) {
+      settings = Settings.def();
+      await box.put('user_settings', settings);
+    }
+    return settings;
   }
 
   @override
   Future<void> saveSettings(Settings settings) async {
-    box.put('user_settings', settings);
+    settings.save();
   }
 }

@@ -12,4 +12,11 @@ class Settings extends HiveObject {
   Settings({required this.colorSetting});
 
   Settings.def() : this(colorSetting: ColorSettings.def());
+
+  Settings.copy(Settings settings) : this(colorSetting: ColorSettings.copy(settings.colorSetting));
+
+  @override
+  String toString() {
+    return 'Settings{colorSetting: $colorSetting}';
+  }
 }

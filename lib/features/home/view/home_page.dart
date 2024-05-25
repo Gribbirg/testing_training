@@ -7,9 +7,7 @@ import 'package:testing_training/features/home/widgets/topic_item.dart';
 import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
 import 'package:get_it/get_it.dart';
 import 'package:testing_training/widgets/app_bar.dart';
-import 'package:testing_training/features/home/widgets/drawer.dart';
 
-import '../../../main.dart';
 import '../../../widgets/drawer.dart';
 
 @RoutePage()
@@ -39,12 +37,6 @@ class _HomePageState extends State<HomePage> {
       appBar: getAppBar(
         context,
         text: "Подготовка к ЦТ",
-        actions: [
-          Image.asset(path('images/logo.png')),
-          const SizedBox(
-            width: 15,
-          )
-        ],
       ),
       drawer: BaseDrawer(
         scaffoldKey: _key,
