@@ -10,6 +10,7 @@ import 'package:testing_training/widgets/app_bar.dart';
 import 'package:testing_training/features/home/widgets/drawer.dart';
 
 import '../../../main.dart';
+import '../../../widgets/drawer.dart';
 
 @RoutePage()
 class HomePage extends StatefulWidget {
@@ -20,6 +21,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  final GlobalKey<ScaffoldState> _key = GlobalKey();
   final _topicListBloc = TopicListBloc(GetIt.I<AbstractQuestionsRepository>());
 
   @override
@@ -33,6 +35,7 @@ class _HomePageState extends State<HomePage> {
     // final theme = Theme.of(context);
 
     return Scaffold(
+      key: _key,
       appBar: getAppBar(
         context,
         text: "Подготовка к ЦТ",
@@ -43,7 +46,9 @@ class _HomePageState extends State<HomePage> {
           )
         ],
       ),
-      drawer: const HomeDrawer(),
+      drawer: BaseDrawer(
+        scaffoldKey: _key,
+      ),
       body: Column(children: [
         const SizedBox(
           height: 20,
