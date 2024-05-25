@@ -10,6 +10,10 @@ import 'package:testing_training/repositories/questions/models/question/categori
 import 'package:testing_training/repositories/questions/questions.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/repositories/session_save/session_save.dart';
+import 'package:testing_training/repositories/settings/abstract_settings_repository.dart';
+import 'package:testing_training/repositories/settings/model/color_settings.dart';
+import 'package:testing_training/repositories/settings/model/model.dart';
+import 'package:testing_training/repositories/settings/settings.dart';
 import 'package:testing_training/testing_training_app.dart';
 
 import 'firebase_options.dart';
@@ -17,10 +21,14 @@ import 'firebase_options.dart';
 Future<void> main() async {
   WidgetsBinding widgetsBinding = WidgetsFlutterBinding.ensureInitialized();
   FlutterNativeSplash.preserve(widgetsBinding: widgetsBinding);
+
   await _initFirebase();
   await _initHive();
   await GetIt.instance.allReady();
-  runApp(const TestingTrainingApp());
+
+  final Settings settings = await GetIt.I<AbstractSettingsRepository>().getUserSettings();
+
+  runApp(TestingTrainingApp(userSettings: settings,));
   FlutterNativeSplash.remove();
 }
 
@@ -53,19 +61,27 @@ Future<void> _initFirebase() async {
 
 Future<void> _initHive() async {
   await Hive.initFlutter();
+
   Hive.registerAdapter(SessionQuestionAdapter());
   Hive.registerAdapter(SessionDataAdapter());
+
   Hive.registerAdapter(TopicAdapter());
   Hive.registerAdapter(ModuleAdapter());
   Hive.registerAdapter(AnswerAdapter());
+
   Hive.registerAdapter(OneSelectQuestionAdapter());
   Hive.registerAdapter(CategoriesQuestionAdapter());
   Hive.registerAdapter(MultiSelectQuestionAdapter());
   Hive.registerAdapter(NumQuestionAdapter());
   Hive.registerAdapter(OrderQuestionAdapter());
   Hive.registerAdapter(StringQuestionAdapter());
+
+  Hive.registerAdapter(SettingsAdapter());
+  Hive.registerAdapter(ColorSettingAdapter());
+
   final sessionsSaveBox = await Hive.openLazyBox('sessions');
   final questionsCacheBox = await Hive.openLazyBox('cache');
+  final settingsBox = await Hive.openLazyBox('settings');
   // await questionsCacheBox.clear();
 
   GetIt.I.registerLazySingleton<AbstractSessionSaveRepository>(
@@ -79,4 +95,6 @@ Future<void> _initHive() async {
       return rep;
     },
   );
+  GetIt.I.registerLazySingleton<AbstractSettingsRepository>(
+      () => SettingRepository(box: settingsBox));
 }

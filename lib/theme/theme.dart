@@ -1,9 +1,20 @@
 import 'package:flutter/material.dart';
+import 'package:testing_training/repositories/settings/model/color_settings.dart';
 
-part 'color_schemes.g.dart';
-
-ThemeData getTheme({darkMode = false, colorTheme}) {
-  colorTheme ??= darkMode ? darkColorScheme : lightColorScheme;
+ThemeData getTheme(
+    {required ColorSettings colorSettings, colorTheme, bool darkMode = false}) {
+  if (!colorSettings.dynamic || colorTheme == null) {
+    colorTheme = ColorScheme.fromSeed(
+      seedColor: Color(colorSettings.base),
+      brightness: colorSettings.lightness == ColorLightness.system
+          ? darkMode
+              ? Brightness.dark
+              : Brightness.light
+          : colorSettings.lightness == ColorLightness.dark
+              ? Brightness.dark
+              : Brightness.light,
+    );
+  }
   return ThemeData(
     colorScheme: colorTheme,
     useMaterial3: true,
@@ -11,7 +22,7 @@ ThemeData getTheme({darkMode = false, colorTheme}) {
       centerTitle: true,
       // shape: Border(
       //     bottom: BorderSide(color: colorTheme.outlineVariant, width: 1)),
-      backgroundColor: colorTheme.background,
+      // backgroundColor: colorTheme.background,
       elevation: 10,
       titleTextStyle: TextStyle(color: colorTheme.onBackground, fontSize: 25),
     ),
