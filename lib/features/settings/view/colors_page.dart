@@ -121,19 +121,21 @@ class _ColorsSelectPageState extends State<ColorsSelectPage> {
                                   getTheme(
                                       colorSettings: _settings.colorSetting,
                                       colorTheme: ThemeChanger.lightDynamic,
-                                      darkMode: false),
+                                      darkMode: _settings.colorSetting.lightness == ColorLightness.dark),
                                   getTheme(
                                       colorSettings: _settings.colorSetting,
                                       colorTheme: ThemeChanger.darkDynamic,
-                                      darkMode: true));
+                                      darkMode: _settings.colorSetting.lightness == ColorLightness.system ||
+                                          _settings.colorSetting.lightness == ColorLightness.dark));
                             } else {
                               _themeProvider.setTheme(
                                   getTheme(
                                       colorSettings: _settings.colorSetting,
-                                      darkMode: false),
+                                      darkMode: _settings.colorSetting.lightness == ColorLightness.dark),
                                   getTheme(
                                       colorSettings: _settings.colorSetting,
-                                      darkMode: true));
+                                      darkMode: _settings.colorSetting.lightness == ColorLightness.system ||
+                                          _settings.colorSetting.lightness == ColorLightness.dark));
                             }
                             _settingsBloc.add(SaveSettings(settings: _settings));
                           });
