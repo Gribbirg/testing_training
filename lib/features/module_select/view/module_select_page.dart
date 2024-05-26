@@ -5,6 +5,8 @@ import 'package:get_it/get_it.dart';
 import 'package:testing_training/features/module_select/bloc/module_list_bloc.dart';
 import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
 import 'package:testing_training/router/router.dart';
+import 'package:testing_training/widgets/app_bar.dart';
+import 'package:testing_training/widgets/drawer.dart';
 
 import '../../../repositories/questions/models/module.dart';
 import '../widgets/module_item.dart';
@@ -21,6 +23,7 @@ class ModuleSelectPage extends StatefulWidget {
 }
 
 class _ModuleSelectPageState extends State<ModuleSelectPage> {
+  final GlobalKey<ScaffoldState> _key = GlobalKey();
   final _moduleListBloc = ModuleListBloc(
     GetIt.I<AbstractQuestionsRepository>(),
   );
@@ -49,19 +52,9 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
                 ] +
                 state.modules;
             return Scaffold(
-                appBar: AppBar(
-                  title: Text(state.topic.name),
-                  actions: [
-                    IconButton(
-                        onPressed: () {
-                          AutoRouter.of(context).push(const HomeRoute());
-                        },
-                        icon: const Icon(Icons.home)),
-                    const SizedBox(
-                      width: 10,
-                    ),
-                  ],
-                ),
+                key: _key,
+                drawer: _getDrawer(),
+                appBar: getAppBar(context, text: state.topic.name),
                 body: Column(children: [
                   const SizedBox(
                     height: 20,
@@ -104,13 +97,17 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
           }
 
           return Scaffold(
-            appBar: AppBar(
-              title: const Text("Загрузка..."),
-            ),
+            key: _key,
+            drawer: _getDrawer(),
+            appBar: getAppBar(context, text: 'Загрузка...'),
             body: const Center(
               child: CircularProgressIndicator(),
             ),
           );
         });
   }
+
+  Widget _getDrawer() => BaseDrawer(
+        scaffoldKey: _key,
+      );
 }

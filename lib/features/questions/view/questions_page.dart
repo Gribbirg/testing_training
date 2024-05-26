@@ -8,6 +8,8 @@ import 'package:testing_training/features/questions/questions.dart';
 import 'package:testing_training/features/questions/widgets/session_stats_widget.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/router/router.dart';
+import 'package:testing_training/widgets/app_bar.dart';
+import 'package:testing_training/widgets/drawer.dart';
 
 import '../../../repositories/questions/abstract_questions_repository.dart';
 
@@ -26,6 +28,7 @@ class QuestionsPage extends StatefulWidget {
 }
 
 class _QuestionsPageState extends State<QuestionsPage> {
+  final GlobalKey<ScaffoldState> _key = GlobalKey();
   final _questionsListBloc = QuestionsListBloc(
     questionsRepository: GetIt.I<AbstractQuestionsRepository>(),
     sessionSaveRepository: GetIt.I<AbstractSessionSaveRepository>(),
@@ -68,26 +71,9 @@ class _QuestionsPageState extends State<QuestionsPage> {
               pageController = PageController(
                   initialPage: state.sessionData.currentQuestionNum);
               return Scaffold(
-                appBar: AppBar(
-                  title: Text(state.module.name),
-                  actions: [
-                    IconButton(
-                        onPressed: () {
-                          _questionsListBloc.add(
-                              RestartSession(sessionData: state.sessionData));
-                          pageController.jumpToPage(0);
-                        },
-                        icon: const Icon(Icons.refresh_sharp)),
-                    IconButton(
-                        onPressed: () {
-                          AutoRouter.of(context).push(const HomeRoute());
-                        },
-                        icon: const Icon(Icons.home)),
-                    const SizedBox(
-                      width: 10,
-                    ),
-                  ],
-                ),
+                key: _key,
+                drawer: _getDrawer(state),
+                appBar: getAppBar(context, text: state.module.name),
                 body: Column(
                   mainAxisSize: MainAxisSize.min,
                   children: [
@@ -182,35 +168,19 @@ class _QuestionsPageState extends State<QuestionsPage> {
 
             if (state is QuestionsFinishState) {
               return Scaffold(
-                  appBar: AppBar(
-                    title: Text(state.module.name),
-                    actions: [
-                      IconButton(
-                          onPressed: () {
-                            _questionsListBloc.add(
-                                RestartSession(sessionData: state.sessionData));
-                            pageController.jumpToPage(0);
-                          },
-                          icon: const Icon(Icons.refresh_sharp)),
-                      IconButton(
-                          onPressed: () {
-                            AutoRouter.of(context).push(const HomeRoute());
-                          },
-                          icon: const Icon(Icons.home)),
-                      const SizedBox(
-                        width: 10,
-                      ),
-                    ],
-                  ),
+                  key: _key,
+                  drawer: _getDrawer(state),
+                  appBar: getAppBar(context, text: state.module.name),
                   body: QuestionFinishedPage(
                     state: state,
                     restart: () {
-                      _questionsListBloc.add(
-                          RestartSession(sessionData: state.sessionData));
+                      _questionsListBloc
+                          .add(RestartSession(sessionData: state.sessionData));
                     },
                     toModules: () {
                       _questionsListBloc.add(DeleteSessionData());
-                      AutoRouter.of(context).push(ModuleSelectRoute(topicId: state.topic.dirName));
+                      AutoRouter.of(context).push(
+                          ModuleSelectRoute(topicId: state.topic.dirName));
                     },
                     toTopics: () {
                       _questionsListBloc.add(DeleteSessionData());
@@ -220,14 +190,48 @@ class _QuestionsPageState extends State<QuestionsPage> {
             }
 
             return Scaffold(
-              appBar: AppBar(
-                title: const Text("Загрузка..."),
+              key: _key,
+              drawer: BaseDrawer(
+                scaffoldKey: _key,
               ),
+              appBar: getAppBar(context, text: 'Загрузка...'),
               body: const Center(
                 child: CircularProgressIndicator(),
               ),
             );
           },
         ));
+  }
+
+  Widget _getDrawer(QuestionsListState state) {
+    assert(state is QuestionsListLoaded || state is QuestionsFinishState);
+    final sessionData = (state is QuestionsListLoaded)
+        ? state.sessionData
+        : state is QuestionsFinishState
+            ? state.sessionData
+            : null;
+    return BaseDrawer(
+      scaffoldKey: _key,
+      body: [
+        getBaseDrawerListTile(
+            context: context,
+            icon: const Icon(Icons.refresh_sharp),
+            title: const Text('Заново'),
+            onTap: () {
+              _questionsListBloc.add(RestartSession(sessionData: sessionData!));
+              pageController.jumpToPage(0);
+              _key.currentState!.closeDrawer();
+            }),
+        getBaseDrawerListTile(
+            context: context,
+            icon: const Icon(Icons.topic_rounded),
+            title: const Text('К темам'),
+            onTap: () {
+              _key.currentState!.closeDrawer();
+              AutoRouter.of(context)
+                  .push(ModuleSelectRoute(topicId: widget.topicId));
+            })
+      ],
+    );
   }
 }

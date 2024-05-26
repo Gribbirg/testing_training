@@ -60,7 +60,7 @@ class _BaseDrawerState extends State<BaseDrawer> {
                       AutoRouter.of(context).push(const SettingsRoute());
                     },
                     routeName: SettingsRoute.name),
-                const Divider(),
+                if (widget.body != null) const Divider(),
               ] +
               (widget.body ?? []),
         ),
