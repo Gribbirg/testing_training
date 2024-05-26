@@ -7,7 +7,6 @@ import 'package:testing_training/features/questions/bloc/questions_list_bloc.dar
 import 'package:testing_training/features/questions/questions.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/router/router.dart';
-import 'package:testing_training/widgets/app_bar.dart';
 import 'package:testing_training/widgets/drawer.dart';
 
 import '../../../repositories/questions/abstract_questions_repository.dart';
@@ -73,7 +72,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
               return AdaptiveScaffold(
                 scaffoldKey: _key,
                 drawer: _getDrawer(state),
-                appBar: getAppBar(context, text: state.module.name),
+                appBarTitle: state.module.name,
                 body: Column(
                   mainAxisSize: MainAxisSize.min,
                   children: [
@@ -173,7 +172,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
               return AdaptiveScaffold(
                   scaffoldKey: _key,
                   drawer: _getDrawer(state),
-                  appBar: getAppBar(context, text: state.module.name),
+                  appBarTitle: state.module.name,
                   body: QuestionFinishedPage(
                     state: state,
                     restart: () {
@@ -197,7 +196,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
               drawer: BaseDrawer(
                 scaffoldKey: _key,
               ),
-              appBar: getAppBar(context, text: 'Загрузка...'),
+              appBarTitle: 'Загрузка...',
               body: const Center(
                 child: CircularProgressIndicator(),
               ),

@@ -1,15 +1,16 @@
 import 'package:flutter/material.dart';
+import 'package:testing_training/widgets/app_bar.dart';
 
 class AdaptiveScaffold extends StatefulWidget {
   const AdaptiveScaffold(
       {super.key,
       required this.scaffoldKey,
-      this.appBar,
+      this.appBarTitle,
       this.drawer,
       required this.body});
 
   final GlobalKey<ScaffoldState> scaffoldKey;
-  final PreferredSizeWidget? appBar;
+  final String? appBarTitle;
   final Widget? drawer;
   final Widget body;
 
@@ -18,6 +19,8 @@ class AdaptiveScaffold extends StatefulWidget {
 }
 
 class _AdaptiveScaffoldState extends State<AdaptiveScaffold> {
+  static bool _isDrawerOpen = true;
+
   @override
   Widget build(BuildContext context) {
     if (isDesktop(context)) {
@@ -25,10 +28,10 @@ class _AdaptiveScaffoldState extends State<AdaptiveScaffold> {
         key: widget.scaffoldKey,
         body: Row(
           children: [
-            if (widget.drawer != null) widget.drawer!,
+            if (widget.drawer != null && _isDrawerOpen) widget.drawer!,
             Expanded(
               child: Scaffold(
-                appBar: widget.appBar,
+                appBar: _getAppBarDesktop(),
                 body: widget.body,
               ),
             )
@@ -39,11 +42,32 @@ class _AdaptiveScaffoldState extends State<AdaptiveScaffold> {
 
     return Scaffold(
       key: widget.scaffoldKey,
-      appBar: widget.appBar,
+      appBar: _getAppBar(),
       drawer: widget.drawer,
       body: widget.body,
     );
   }
 
-  bool isDesktop(context) => MediaQuery.of(context).size.width > 1000;
+  AppBar? _getAppBar() => widget.appBarTitle != null
+      ? getAppBar(
+          context,
+          text: widget.appBarTitle!,
+        )
+      : null;
+
+  AppBar? _getAppBarDesktop() => widget.appBarTitle != null
+      ? getAppBar(
+          context,
+          text: widget.appBarTitle!,
+          leading: IconButton(
+              onPressed: () {
+                setState(() {
+                  _isDrawerOpen = !_isDrawerOpen;
+                });
+              },
+              icon: const Icon(Icons.menu)),
+        )
+      : null;
 }
+
+bool isDesktop(context) => MediaQuery.of(context).size.width > 1000;

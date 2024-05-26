@@ -3,10 +3,10 @@ import 'package:flutter/material.dart';
 import '../main.dart';
 
 AppBar getAppBar(BuildContext context,
-    {required String text}) {
+    {required String text, Widget? leading}) {
   // final theme = Theme.of(context);
   return AppBar(
-    // leading: Image.asset(path('images/logo.png')),
+    leading: leading,
     forceMaterialTransparency: true,
     title: Text(
       text,

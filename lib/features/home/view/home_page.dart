@@ -7,7 +7,6 @@ import 'package:testing_training/features/home/widgets/topic_item.dart';
 import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
 import 'package:get_it/get_it.dart';
 import 'package:testing_training/widgets/adaptive_scaffold.dart';
-import 'package:testing_training/widgets/app_bar.dart';
 
 import '../../../widgets/drawer.dart';
 
@@ -35,10 +34,7 @@ class _HomePageState extends State<HomePage> {
 
     return AdaptiveScaffold(
       scaffoldKey: _key,
-      appBar: getAppBar(
-        context,
-        text: "Подготовка к ЦТ",
-      ),
+      appBarTitle: "Подготовка к ЦТ",
       drawer: BaseDrawer(
         scaffoldKey: _key,
       ),

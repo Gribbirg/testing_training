@@ -5,7 +5,6 @@ import 'package:get_it/get_it.dart';
 import 'package:testing_training/features/module_select/bloc/module_list_bloc.dart';
 import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
 import 'package:testing_training/router/router.dart';
-import 'package:testing_training/widgets/app_bar.dart';
 import 'package:testing_training/widgets/drawer.dart';
 
 import '../../../repositories/questions/models/module.dart';
@@ -55,7 +54,7 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
             return AdaptiveScaffold(
                 scaffoldKey: _key,
                 drawer: _getDrawer(),
-                appBar: getAppBar(context, text: state.topic.name),
+                appBarTitle: state.topic.name,
                 body: Column(children: [
                   const SizedBox(
                     height: 20,
@@ -100,7 +99,7 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
           return AdaptiveScaffold(
             scaffoldKey: _key,
             drawer: _getDrawer(),
-            appBar: getAppBar(context, text: 'Загрузка...'),
+            appBarTitle: 'Загрузка...',
             body: const Center(
               child: CircularProgressIndicator(),
             ),

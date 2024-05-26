@@ -3,10 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:testing_training/features/settings/widgets/settings_drawer.dart';
 import 'package:testing_training/features/settings/widgets/settings_list_tile_widget.dart';
 import 'package:testing_training/router/router.dart';
-import 'package:testing_training/widgets/app_bar.dart';
 
 import '../../../widgets/adaptive_scaffold.dart';
-
 
 @RoutePage()
 class SettingsPage extends StatefulWidget {
@@ -24,7 +22,7 @@ class _SettingsPageState extends State<SettingsPage> {
     return AdaptiveScaffold(
       scaffoldKey: _key,
       drawer: SettingsDrawer(scaffoldKey: _key),
-      appBar: getAppBar(context, text: "Настройки"),
+      appBarTitle: "Настройки",
       body: SingleChildScrollView(
         child: Center(
           child: Padding(

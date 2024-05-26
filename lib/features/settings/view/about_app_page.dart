@@ -1,6 +1,5 @@
 import 'package:auto_route/annotations.dart';
 import 'package:flutter/material.dart';
-import 'package:testing_training/widgets/app_bar.dart';
 import 'package:testing_training/widgets/coming_soon_widget.dart';
 
 import '../../../widgets/adaptive_scaffold.dart';
@@ -22,7 +21,7 @@ class _AboutAppPageState extends State<AboutAppPage> {
     return AdaptiveScaffold(
       scaffoldKey: _key,
       drawer: SettingsDrawer(scaffoldKey: _key),
-      appBar: getAppBar(context, text: 'О приложении'),
+      appBarTitle: 'О приложении',
       body: const SingleChildScrollView(
         child: ComingSoonWidget(),
       ),

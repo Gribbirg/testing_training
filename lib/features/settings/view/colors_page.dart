@@ -9,7 +9,6 @@ import 'package:testing_training/repositories/settings/abstract_settings_reposit
 import 'package:testing_training/repositories/settings/model/color_settings.dart';
 import 'package:testing_training/repositories/settings/model/model.dart';
 import 'package:testing_training/theme/theme.dart';
-import 'package:testing_training/widgets/app_bar.dart';
 
 import '../../../repositories/settings/model/settings.dart';
 import '../../../theme/theme_changer.dart';
@@ -41,7 +40,7 @@ class _ColorsSelectPageState extends State<ColorsSelectPage> {
     return AdaptiveScaffold(
       scaffoldKey: _key,
       drawer: SettingsDrawer(scaffoldKey: _key),
-      appBar: getAppBar(context, text: 'Внешний вид'),
+      appBarTitle: 'Внешний вид',
       body: SingleChildScrollView(
         child: Center(
           child: Padding(
