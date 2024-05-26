@@ -30,39 +30,42 @@ class _BaseDrawerState extends State<BaseDrawer> {
     return Drawer(
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 8.0),
-        child: Column(
-          children: [
-                _getHeader(),
-                getBaseDrawerListTile(
-                    context: context,
-                    icon: const Icon(Icons.home),
-                    title: const Text("Главная"),
-                    onTap: () {
-                      widget.scaffoldKey.currentState!.closeDrawer();
-                      AutoRouter.of(context).push(const HomeRoute());
-                    },
-                    routeName: HomeRoute.name),
-                getBaseDrawerListTile(
-                    context: context,
-                    icon: const Icon(Icons.feed),
-                    title: const Text('Новости'),
-                    onTap: () {
-                      widget.scaffoldKey.currentState!.closeDrawer();
-                      AutoRouter.of(context).push(const NewsRoute());
-                    },
-                    routeName: NewsRoute.name),
-                getBaseDrawerListTile(
-                    context: context,
-                    icon: const Icon(Icons.settings),
-                    title: const Text("Настройки"),
-                    onTap: () {
-                      widget.scaffoldKey.currentState!.closeDrawer();
-                      AutoRouter.of(context).push(const SettingsRoute());
-                    },
-                    routeName: SettingsRoute.name),
-                if (widget.body != null) const Divider(),
-              ] +
-              (widget.body ?? []),
+        child: SingleChildScrollView(
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+                  _getHeader(),
+                  getBaseDrawerListTile(
+                      context: context,
+                      icon: const Icon(Icons.home),
+                      title: const Text("Главная"),
+                      onTap: () {
+                        widget.scaffoldKey.currentState!.closeDrawer();
+                        AutoRouter.of(context).push(const HomeRoute());
+                      },
+                      routeName: HomeRoute.name),
+                  getBaseDrawerListTile(
+                      context: context,
+                      icon: const Icon(Icons.feed),
+                      title: const Text('Новости'),
+                      onTap: () {
+                        widget.scaffoldKey.currentState!.closeDrawer();
+                        AutoRouter.of(context).push(const NewsRoute());
+                      },
+                      routeName: NewsRoute.name),
+                  getBaseDrawerListTile(
+                      context: context,
+                      icon: const Icon(Icons.settings),
+                      title: const Text("Настройки"),
+                      onTap: () {
+                        widget.scaffoldKey.currentState!.closeDrawer();
+                        AutoRouter.of(context).push(const SettingsRoute());
+                      },
+                      routeName: SettingsRoute.name),
+                  if (widget.body != null) const Divider(),
+                ] +
+                (widget.body ?? []),
+          ),
         ),
       ),
     );
@@ -88,7 +91,7 @@ Widget getBaseDrawerListTile({
   required BuildContext context,
   required Widget icon,
   required Widget title,
-  required void Function() onTap,
+  required void Function()? onTap,
   String? routeName,
 }) =>
     Padding(

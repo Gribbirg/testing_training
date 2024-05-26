@@ -5,7 +5,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';
 import 'package:testing_training/features/questions/bloc/questions_list_bloc.dart';
 import 'package:testing_training/features/questions/questions.dart';
-import 'package:testing_training/features/questions/widgets/session_stats_widget.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/router/router.dart';
 import 'package:testing_training/widgets/app_bar.dart';
@@ -230,7 +229,22 @@ class _QuestionsPageState extends State<QuestionsPage> {
               _key.currentState!.closeDrawer();
               AutoRouter.of(context)
                   .push(ModuleSelectRoute(topicId: widget.topicId));
-            })
+            }),
+        const Divider(),
+        getBaseDrawerListTile(
+          context: context,
+          icon: const Icon(Icons.question_mark_rounded),
+          title: const Text('Вопросы'),
+          onTap: null,
+        ),
+        Flexible(
+          fit: FlexFit.loose,
+          child: QuestionsNavigationGridWidget(
+            pageController: pageController,
+            sessionData: sessionData!,
+            scaffoldKey: _key,
+          ),
+        ),
       ],
     );
   }
