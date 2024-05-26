@@ -25,7 +25,9 @@ class SettingsBloc extends Bloc<SettingsEvent, SettingsState> {
       final settings = await settingsRepository.getUserSettings();
       emit(SettingsLoaded(settings: settings));
     } catch (e) {
-      emit(SettingsError(message: e.toString()));
+      final settings = Settings.def();
+      await settingsRepository.saveSettings(settings);
+      emit(SettingsLoaded(settings: settings));
     }
   }
 

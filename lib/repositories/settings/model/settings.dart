@@ -9,14 +9,18 @@ class Settings extends HiveObject {
   @HiveField(0)
   final ColorSettings colorSetting;
 
-  Settings({required this.colorSetting});
+  @HiveField(1)
+  late bool isDesktopDrawerOpened;
 
-  Settings.def() : this(colorSetting: ColorSettings.def());
-
-  Settings.copy(Settings settings) : this(colorSetting: ColorSettings.copy(settings.colorSetting));
-
-  @override
-  String toString() {
-    return 'Settings{colorSetting: $colorSetting}';
+  Settings({required this.colorSetting, bool? isDesktopDrawerOpened}){
+    this.isDesktopDrawerOpened = isDesktopDrawerOpened ?? true;
   }
+
+  Settings.def()
+      : this(colorSetting: ColorSettings.def(), isDesktopDrawerOpened: true);
+
+  Settings.copy(Settings settings)
+      : this(
+            colorSetting: ColorSettings.copy(settings.colorSetting),
+            isDesktopDrawerOpened: settings.isDesktopDrawerOpened);
 }

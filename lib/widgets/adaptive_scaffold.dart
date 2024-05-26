@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:get_it/get_it.dart';
+import 'package:testing_training/repositories/settings/model/model.dart';
 import 'package:testing_training/widgets/app_bar.dart';
+
+import '../features/settings/bloc/settings_bloc.dart';
+import '../repositories/settings/abstract_settings_repository.dart';
 
 class AdaptiveScaffold extends StatefulWidget {
   const AdaptiveScaffold(
@@ -19,7 +24,8 @@ class AdaptiveScaffold extends StatefulWidget {
 }
 
 class _AdaptiveScaffoldState extends State<AdaptiveScaffold> {
-  static bool _isDrawerOpen = true;
+  final Settings settings = GetIt.I<Settings>();
+  final _settingsBloc = SettingsBloc(GetIt.I<AbstractSettingsRepository>());
 
   @override
   Widget build(BuildContext context) {
@@ -28,7 +34,8 @@ class _AdaptiveScaffoldState extends State<AdaptiveScaffold> {
         key: widget.scaffoldKey,
         body: Row(
           children: [
-            if (widget.drawer != null && _isDrawerOpen) widget.drawer!,
+            if (widget.drawer != null && settings.isDesktopDrawerOpened)
+              widget.drawer!,
             Expanded(
               child: Scaffold(
                 appBar: _getAppBarDesktop(),
@@ -62,7 +69,9 @@ class _AdaptiveScaffoldState extends State<AdaptiveScaffold> {
           leading: IconButton(
               onPressed: () {
                 setState(() {
-                  _isDrawerOpen = !_isDrawerOpen;
+                  settings.isDesktopDrawerOpened =
+                      !settings.isDesktopDrawerOpened;
+                  _settingsBloc.add(SaveSettings(settings: settings));
                 });
               },
               icon: const Icon(Icons.menu)),

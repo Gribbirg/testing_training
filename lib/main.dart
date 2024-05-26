@@ -26,10 +26,6 @@ Future<void> main() async {
   await _initHive();
   await GetIt.instance.allReady();
 
-  GetIt.I.registerSingleton<Settings>(
-      await GetIt.I<AbstractSettingsRepository>().getUserSettings()
-  );
-
   runApp(const TestingTrainingApp());
   FlutterNativeSplash.remove();
 }
@@ -100,4 +96,6 @@ Future<void> _initHive() async {
   );
   GetIt.I.registerLazySingleton<AbstractSettingsRepository>(
       () => SettingRepository(box: settingsBox));
+  GetIt.I.registerSingleton<Settings>(
+      await GetIt.I<AbstractSettingsRepository>().getUserSettings());
 }
