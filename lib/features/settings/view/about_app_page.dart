@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:testing_training/widgets/app_bar.dart';
 import 'package:testing_training/widgets/coming_soon_widget.dart';
 
+import '../../../widgets/adaptive_scaffold.dart';
 import '../widgets/settings_drawer.dart';
 
 @RoutePage()
@@ -18,8 +19,8 @@ class _AboutAppPageState extends State<AboutAppPage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      key: _key,
+    return AdaptiveScaffold(
+      scaffoldKey: _key,
       drawer: SettingsDrawer(scaffoldKey: _key),
       appBar: getAppBar(context, text: 'О приложении'),
       body: const SingleChildScrollView(

@@ -11,6 +11,7 @@ import 'package:testing_training/widgets/app_bar.dart';
 import 'package:testing_training/widgets/drawer.dart';
 
 import '../../../repositories/questions/abstract_questions_repository.dart';
+import '../../../widgets/adaptive_scaffold.dart';
 
 @RoutePage()
 class QuestionsPage extends StatefulWidget {
@@ -33,7 +34,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
     sessionSaveRepository: GetIt.I<AbstractSessionSaveRepository>(),
   );
 
-  late PageController pageController;
+  PageController? pageController;
 
   @override
   void initState() {
@@ -54,11 +55,11 @@ class _QuestionsPageState extends State<QuestionsPage> {
         autofocus: true,
         onKeyEvent: (event) {
           if (event.physicalKey == PhysicalKeyboardKey.arrowLeft) {
-            pageController.previousPage(
+            pageController!.previousPage(
                 duration: const Duration(milliseconds: 300),
                 curve: Curves.easeInOut);
           } else if (event.physicalKey == PhysicalKeyboardKey.arrowRight) {
-            pageController.nextPage(
+            pageController!.nextPage(
                 duration: const Duration(milliseconds: 300),
                 curve: Curves.easeInOut);
           }
@@ -69,8 +70,8 @@ class _QuestionsPageState extends State<QuestionsPage> {
             if (state is QuestionsListLoaded) {
               pageController = PageController(
                   initialPage: state.sessionData.currentQuestionNum);
-              return Scaffold(
-                key: _key,
+              return AdaptiveScaffold(
+                scaffoldKey: _key,
                 drawer: _getDrawer(state),
                 appBar: getAppBar(context, text: state.module.name),
                 body: Column(
@@ -90,66 +91,69 @@ class _QuestionsPageState extends State<QuestionsPage> {
                               state.sessionData.currentQuestionNum),
                     ),
                     Flexible(
-                      child: PageView(
-                        scrollDirection: Axis.horizontal,
-                        controller: pageController,
-                        onPageChanged: (i) {
-                          setState(() {
-                            state.sessionData.currentQuestionNum = i;
-                          });
-                        },
-                        children: state.sessionData.sessionsQuestions
-                            .map((sessionQuestion) {
-                          final question =
-                              state.questionsList[sessionQuestion.questionNum];
-                          return QuestionWidget(
-                            topic: state.topic,
-                            module: state.module,
-                            question: question,
-                            sessionQuestion: sessionQuestion,
-                            pageController: pageController,
-                            isFirst: state.questionsList[state.sessionData
-                                    .sessionsQuestions.first.questionNum] ==
-                                question,
-                            isLast: state.questionsList[state.sessionData
-                                    .sessionsQuestions.last.questionNum] ==
-                                question,
-                            onAnswer: (bool isRight) {
-                              _questionsListBloc.add(SaveSessionData());
-                              setState(() {
-                                state.sessionData.completeCount++;
-                                if (isRight) {
-                                  state.sessionData.rightsCount++;
+                      child: Padding(
+                        padding: const EdgeInsets.all(8.0),
+                        child: PageView(
+                          scrollDirection: Axis.horizontal,
+                          controller: pageController,
+                          onPageChanged: (i) {
+                            setState(() {
+                              state.sessionData.currentQuestionNum = i;
+                            });
+                          },
+                          children: state.sessionData.sessionsQuestions
+                              .map((sessionQuestion) {
+                            final question =
+                                state.questionsList[sessionQuestion.questionNum];
+                            return QuestionWidget(
+                              topic: state.topic,
+                              module: state.module,
+                              question: question,
+                              sessionQuestion: sessionQuestion,
+                              pageController: pageController!,
+                              isFirst: state.questionsList[state.sessionData
+                                      .sessionsQuestions.first.questionNum] ==
+                                  question,
+                              isLast: state.questionsList[state.sessionData
+                                      .sessionsQuestions.last.questionNum] ==
+                                  question,
+                              onAnswer: (bool isRight) {
+                                _questionsListBloc.add(SaveSessionData());
+                                setState(() {
+                                  state.sessionData.completeCount++;
+                                  if (isRight) {
+                                    state.sessionData.rightsCount++;
+                                  } else {
+                                    state.sessionData.wrongCount++;
+                                  }
+                                });
+                              },
+                              scrollToNextOpenedQuestion: () {
+                                if (!state.sessionData.allQuestionsAreClosed()) {
+                                  final sessionsQuestions =
+                                      state.sessionData.sessionsQuestions;
+                                  int page = pageController!.page!.toInt();
+
+                                  while (page < sessionsQuestions.length &&
+                                      sessionsQuestions[page].isRight != null) {
+                                    page++;
+                                  }
+
+                                  if (page == sessionsQuestions.length) {
+                                    page =
+                                        state.sessionData.getFirstOpenedIndex();
+                                  }
+
+                                  pageController?.animateToPage(page,
+                                      duration: const Duration(milliseconds: 300),
+                                      curve: Curves.easeInOut);
                                 } else {
-                                  state.sessionData.wrongCount++;
+                                  _questionsListBloc.add(QuestionsFinishEvent());
                                 }
-                              });
-                            },
-                            scrollToNextOpenedQuestion: () {
-                              if (!state.sessionData.allQuestionsAreClosed()) {
-                                final sessionsQuestions =
-                                    state.sessionData.sessionsQuestions;
-                                int page = pageController.page!.toInt();
-
-                                while (page < sessionsQuestions.length &&
-                                    sessionsQuestions[page].isRight != null) {
-                                  page++;
-                                }
-
-                                if (page == sessionsQuestions.length) {
-                                  page =
-                                      state.sessionData.getFirstOpenedIndex();
-                                }
-
-                                pageController.animateToPage(page,
-                                    duration: const Duration(milliseconds: 300),
-                                    curve: Curves.easeInOut);
-                              } else {
-                                _questionsListBloc.add(QuestionsFinishEvent());
-                              }
-                            },
-                          );
-                        }).toList(),
+                              },
+                            );
+                          }).toList(),
+                        ),
                       ),
                     ),
                   ],
@@ -166,8 +170,8 @@ class _QuestionsPageState extends State<QuestionsPage> {
             }
 
             if (state is QuestionsFinishState) {
-              return Scaffold(
-                  key: _key,
+              return AdaptiveScaffold(
+                  scaffoldKey: _key,
                   drawer: _getDrawer(state),
                   appBar: getAppBar(context, text: state.module.name),
                   body: QuestionFinishedPage(
@@ -188,8 +192,8 @@ class _QuestionsPageState extends State<QuestionsPage> {
                   ));
             }
 
-            return Scaffold(
-              key: _key,
+            return AdaptiveScaffold(
+              scaffoldKey: _key,
               drawer: BaseDrawer(
                 scaffoldKey: _key,
               ),
@@ -218,7 +222,7 @@ class _QuestionsPageState extends State<QuestionsPage> {
             title: const Text('Заново'),
             onTap: () {
               _questionsListBloc.add(RestartSession(sessionData: sessionData!));
-              pageController.jumpToPage(0);
+              pageController!.jumpToPage(0);
               _key.currentState!.closeDrawer();
             }),
         getBaseDrawerListTile(

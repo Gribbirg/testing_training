@@ -22,7 +22,7 @@ ThemeData getTheme(
       centerTitle: true,
       // shape: Border(
       //     bottom: BorderSide(color: colorTheme.outlineVariant, width: 1)),
-      // backgroundColor: colorTheme.background,
+      color: colorTheme.background,
       elevation: 10,
       titleTextStyle: TextStyle(color: colorTheme.onBackground, fontSize: 25),
     ),

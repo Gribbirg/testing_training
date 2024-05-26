@@ -26,18 +26,23 @@ class SessionStateWidget extends StatefulWidget {
 class _SessionStateWidgetState extends State<SessionStateWidget> {
   @override
   Widget build(BuildContext context) {
-    return Card(
-      color: Theme.of(context).colorScheme.secondaryContainer,
-      child: Padding(
-        padding: const EdgeInsets.symmetric(horizontal:  8.0, vertical: 5,),
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          crossAxisAlignment: CrossAxisAlignment.center,
-          children: [
-            Expanded(child: _getRightWrongCounter()),
-            Expanded(child: _getQuestionNumber()),
-            Expanded(child: _getSolvedCounter())
-          ],
+    return Container(
+      constraints: const BoxConstraints(
+        maxWidth: 500
+      ),
+      child: Card(
+        color: Theme.of(context).colorScheme.secondaryContainer,
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal:  8.0, vertical: 5,),
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Expanded(child: _getRightWrongCounter()),
+              Expanded(child: _getQuestionNumber()),
+              Expanded(child: _getSolvedCounter())
+            ],
+          ),
         ),
       ),
     );

@@ -9,6 +9,7 @@ import 'package:testing_training/widgets/app_bar.dart';
 import 'package:testing_training/widgets/drawer.dart';
 
 import '../../../repositories/questions/models/module.dart';
+import '../../../widgets/adaptive_scaffold.dart';
 import '../widgets/module_item.dart';
 
 @RoutePage()
@@ -51,8 +52,8 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
                       name: "Тест", dirName: "testing", questionsCount: 30)
                 ] +
                 state.modules;
-            return Scaffold(
-                key: _key,
+            return AdaptiveScaffold(
+                scaffoldKey: _key,
                 drawer: _getDrawer(),
                 appBar: getAppBar(context, text: state.topic.name),
                 body: Column(children: [
@@ -96,8 +97,8 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
             AutoRouter.of(context).popAndPush(const HomeRoute());
           }
 
-          return Scaffold(
-            key: _key,
+          return AdaptiveScaffold(
+            scaffoldKey: _key,
             drawer: _getDrawer(),
             appBar: getAppBar(context, text: 'Загрузка...'),
             body: const Center(

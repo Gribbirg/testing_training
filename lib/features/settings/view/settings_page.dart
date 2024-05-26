@@ -5,6 +5,8 @@ import 'package:testing_training/features/settings/widgets/settings_list_tile_wi
 import 'package:testing_training/router/router.dart';
 import 'package:testing_training/widgets/app_bar.dart';
 
+import '../../../widgets/adaptive_scaffold.dart';
+
 
 @RoutePage()
 class SettingsPage extends StatefulWidget {
@@ -19,8 +21,8 @@ class _SettingsPageState extends State<SettingsPage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      key: _key,
+    return AdaptiveScaffold(
+      scaffoldKey: _key,
       drawer: SettingsDrawer(scaffoldKey: _key),
       appBar: getAppBar(context, text: "Настройки"),
       body: SingleChildScrollView(

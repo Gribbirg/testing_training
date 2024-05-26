@@ -13,6 +13,7 @@ import 'package:testing_training/widgets/app_bar.dart';
 
 import '../../../repositories/settings/model/settings.dart';
 import '../../../theme/theme_changer.dart';
+import '../../../widgets/adaptive_scaffold.dart';
 import '../widgets/settings_drawer.dart';
 
 @RoutePage()
@@ -26,7 +27,6 @@ class ColorsSelectPage extends StatefulWidget {
 class _ColorsSelectPageState extends State<ColorsSelectPage> {
   final GlobalKey<ScaffoldState> _key = GlobalKey();
   final _settings = GetIt.I<Settings>();
-  final _settingsCopy = Settings.copy(GetIt.I<Settings>());
   final _settingsBloc = SettingsBloc(GetIt.I<AbstractSettingsRepository>());
   late ThemeChanger _themeProvider;
 
@@ -38,8 +38,8 @@ class _ColorsSelectPageState extends State<ColorsSelectPage> {
   @override
   Widget build(BuildContext context) {
     _themeProvider = Provider.of<ThemeChanger>(context);
-    return Scaffold(
-      key: _key,
+    return AdaptiveScaffold(
+      scaffoldKey: _key,
       drawer: SettingsDrawer(scaffoldKey: _key),
       appBar: getAppBar(context, text: 'Внешний вид'),
       body: SingleChildScrollView(

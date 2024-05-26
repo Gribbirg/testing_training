@@ -22,6 +22,7 @@ class _QuestionFinishedPageState extends State<QuestionFinishedPage> {
 
   @override
   Widget build(BuildContext context) {
+    widget.state.sessionData.currentQuestionNum = -1;
     return SingleChildScrollView(
       child: Row(
         mainAxisSize: MainAxisSize.max,
