@@ -73,7 +73,8 @@ class _ColorsSelectPageState extends State<ColorsSelectPage> {
                                       colorLightness == ColorLightness.dark),
                               getTheme(
                                   colorSettings: _settings.colorSetting,
-                                  darkMode: !(colorLightness == ColorLightness.light)));
+                                  darkMode: !(colorLightness ==
+                                      ColorLightness.light)));
                           _settingsBloc.add(SaveSettings(settings: _settings));
                         },
                       ),
@@ -107,6 +108,42 @@ class _ColorsSelectPageState extends State<ColorsSelectPage> {
                       ),
                     ),
                   ),
+                  if (ThemeChanger.lightDynamic != null)
+                    Padding(
+                      padding: const EdgeInsets.all(2.0),
+                      child: SwitchListTile(
+                        title: const Text('Использовать системный цвет'),
+                        onChanged: (bool on) {
+                          setState(() {
+                            _settings.colorSetting.dynamic = on;
+                            if (on) {
+                              _themeProvider.setTheme(
+                                  getTheme(
+                                      colorSettings: _settings.colorSetting,
+                                      colorTheme: ThemeChanger.lightDynamic,
+                                      darkMode: false),
+                                  getTheme(
+                                      colorSettings: _settings.colorSetting,
+                                      colorTheme: ThemeChanger.darkDynamic,
+                                      darkMode: true));
+                            } else {
+                              _themeProvider.setTheme(
+                                  getTheme(
+                                      colorSettings: _settings.colorSetting,
+                                      darkMode: false),
+                                  getTheme(
+                                      colorSettings: _settings.colorSetting,
+                                      darkMode: true));
+                            }
+                            _settingsBloc.add(SaveSettings(settings: _settings));
+                          });
+                        },
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(10),
+                        ),
+                        value: _settings.colorSetting.dynamic,
+                      ),
+                    ),
                 ],
               ),
             ),

@@ -37,7 +37,10 @@ class _ColorPickerDialogState extends State<ColorPickerDialog> {
     _themeProvider = Provider.of<ThemeChanger>(context);
     // print(_dialogTheme.dialogTheme.backgroundColo);
     return AlertDialog(
-      title: Text('Выберите цвет:', style: TextStyle(color: _dialogTheme.colorScheme.onBackground),),
+      title: Text(
+        'Выберите цвет:',
+        style: TextStyle(color: _dialogTheme.colorScheme.onBackground),
+      ),
       backgroundColor: _dialogTheme.colorScheme.background,
       content: SingleChildScrollView(
         child: ColorPicker(
@@ -47,9 +50,7 @@ class _ColorPickerDialogState extends State<ColorPickerDialog> {
               _dialogTheme = getTheme(
                   colorSettings: _settingsCopy.colorSetting
                     ..base = pickerColor.value,
-                  darkMode: Theme
-                      .of(context)
-                      .brightness == Brightness.dark);
+                  darkMode: Theme.of(context).brightness == Brightness.dark);
             });
           },
         ),
@@ -59,11 +60,15 @@ class _ColorPickerDialogState extends State<ColorPickerDialog> {
           onPressed: () {
             AutoRouter.of(context).maybePop();
           },
-          child: Text('Отменить', style: TextStyle(color: _dialogTheme.colorScheme.primary),),
+          child: Text(
+            'Отменить',
+            style: TextStyle(color: _dialogTheme.colorScheme.primary),
+          ),
         ),
         FilledButton(
           onPressed: () {
             _settings.colorSetting.base = _settingsCopy.colorSetting.base;
+            _settings.colorSetting.dynamic = false;
             _themeProvider.setTheme(
               getTheme(
                 colorSettings: _settings.colorSetting,
@@ -73,8 +78,13 @@ class _ColorPickerDialogState extends State<ColorPickerDialog> {
             _settingsBloc.add(SaveSettings(settings: _settings));
             AutoRouter.of(context).maybePop();
           },
-          style: ButtonStyle(backgroundColor: MaterialStateProperty.all(_dialogTheme.colorScheme.primary)),
-          child: Text('Сохранить', style:  TextStyle(color: _dialogTheme.colorScheme.onPrimary),),
+          style: ButtonStyle(
+              backgroundColor:
+                  MaterialStateProperty.all(_dialogTheme.colorScheme.primary)),
+          child: Text(
+            'Сохранить',
+            style: TextStyle(color: _dialogTheme.colorScheme.onPrimary),
+          ),
         ),
       ],
     );

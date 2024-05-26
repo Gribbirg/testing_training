@@ -20,28 +20,24 @@ class _TestingTrainingAppState extends State<TestingTrainingApp> {
 
   @override
   Widget build(BuildContext context) {
-    return DynamicColorBuilder(
-        builder: (ColorScheme? lightColorScheme, ColorScheme? darkColorScheme) {
-      return MultiProvider(
-        providers: [
-          ChangeNotifierProvider(
-              create: (_) => ThemeChanger(
-                  getTheme(
-                      colorTheme: lightColorScheme,
-                      colorSettings: _settings.colorSetting,
-                      darkMode: _settings.colorSetting.lightness ==
-                          ColorLightness.dark),
-                  getTheme(
-                      colorTheme: darkColorScheme,
-                      darkMode: _settings.colorSetting.lightness ==
-                              ColorLightness.system ||
-                          _settings.colorSetting.lightness ==
-                              ColorLightness.dark,
-                      colorSettings: _settings.colorSetting))),
-        ],
-        child: const TestingTrainingThemeApp(),
-      );
-    });
+    return MultiProvider(
+      providers: [
+        ChangeNotifierProvider(
+            create: (_) => ThemeChanger(
+                getTheme(
+                    colorTheme: ThemeChanger.lightDynamic,
+                    colorSettings: _settings.colorSetting,
+                    darkMode: _settings.colorSetting.lightness ==
+                        ColorLightness.dark),
+                getTheme(
+                    colorTheme: ThemeChanger.darkDynamic,
+                    darkMode: _settings.colorSetting.lightness ==
+                            ColorLightness.system ||
+                        _settings.colorSetting.lightness == ColorLightness.dark,
+                    colorSettings: _settings.colorSetting))),
+      ],
+      child: const TestingTrainingThemeApp(),
+    );
   }
 }
 
@@ -55,16 +51,34 @@ class TestingTrainingThemeApp extends StatefulWidget {
 
 class _TestingTrainingThemeAppState extends State<TestingTrainingThemeApp> {
   final _router = AppRouter();
+  final _settings = GetIt.I<Settings>();
 
   @override
   Widget build(BuildContext context) {
     final theme = Provider.of<ThemeChanger>(context);
-    return MaterialApp.router(
-      title: "Подготовка к ЦТ",
-      theme: theme.getTheme,
-      darkTheme: theme.getDartTheme,
-      themeMode: ThemeMode.system,
-      routerConfig: _router.config(),
-    );
+    return DynamicColorBuilder(
+        builder: (ColorScheme? lightColorScheme, ColorScheme? darkColorScheme) {
+      ThemeChanger.setDynamic(lightColorScheme, darkColorScheme);
+      Provider.of<ThemeChanger>(context).setThemeWithoutNotify(
+          getTheme(
+              colorTheme: ThemeChanger.lightDynamic,
+              colorSettings: _settings.colorSetting,
+              darkMode:
+                  _settings.colorSetting.lightness == ColorLightness.dark),
+          getTheme(
+              colorTheme: ThemeChanger.darkDynamic,
+              darkMode:
+                  _settings.colorSetting.lightness == ColorLightness.system ||
+                      _settings.colorSetting.lightness == ColorLightness.dark,
+              colorSettings: _settings.colorSetting),
+      );
+      return MaterialApp.router(
+        title: "Подготовка к ЦТ",
+        theme: theme.getTheme,
+        darkTheme: theme.getDartTheme,
+        themeMode: ThemeMode.system,
+        routerConfig: _router.config(),
+      );
+    });
   }
 }

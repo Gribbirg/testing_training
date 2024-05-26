@@ -11,7 +11,7 @@ class ColorSettings extends HiveObject {
   ColorLightness lightness;
 
   @HiveField(2)
-  final bool dynamic;
+  bool dynamic;
 
   ColorSettings(
       {required this.base, required this.lightness, required this.dynamic});
