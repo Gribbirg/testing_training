@@ -53,7 +53,7 @@ class _OrderQuestionWidgetState extends State<OrderQuestionWidget> {
             ? theme.colorScheme.errorContainer
             : (isRightAnswer)
                 ? theme.colorScheme.primaryContainer
-                : theme.colorScheme.surfaceVariant,
+                : theme.colorScheme.surfaceContainerHighest,
         child: Center(
           child: Padding(
             padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 40),

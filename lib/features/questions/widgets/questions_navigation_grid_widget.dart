@@ -47,11 +47,11 @@ class _QuestionsNavigationGridWidgetState
                         curve: Curves.easeInOut);
                   },
                   style: ButtonStyle(
-                      padding: MaterialStateProperty.all<EdgeInsets>(
+                      padding: WidgetStateProperty.all<EdgeInsets>(
                           const EdgeInsets.all(8)),
-                      shape: MaterialStateProperty.all(RoundedRectangleBorder(
+                      shape: WidgetStateProperty.all(RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(10))),
-                      backgroundColor: MaterialStateProperty.all(isCurrent
+                      backgroundColor: WidgetStateProperty.all(isCurrent
                           ? Theme.of(context).colorScheme.tertiaryContainer
                           : sessionQuestion.isRight == null
                               ? Theme.of(context).colorScheme.surface
@@ -62,7 +62,7 @@ class _QuestionsNavigationGridWidgetState
                                   : Theme.of(context)
                                       .colorScheme
                                       .errorContainer),
-                      elevation: MaterialStateProperty.all(isCurrent ? 8 : 2)),
+                      elevation: WidgetStateProperty.all(isCurrent ? 8 : 2)),
                   child: Text(
                     (entry.key + 1).toString(),
                     style: TextStyle(

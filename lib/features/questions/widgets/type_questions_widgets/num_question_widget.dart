@@ -56,7 +56,7 @@ class _NumQuestionWidgetState extends State<NumQuestionWidget> {
                 ? null
                 : widget.sessionQuestion.userAnswer,
             keyboardType: const TextInputType.numberWithOptions(decimal: true),
-            style: TextStyle(color: theme.colorScheme.onBackground),
+            style: TextStyle(color: theme.colorScheme.onSurface),
             inputFormatters: [
               FilteringTextInputFormatter.allow(
                   RegExp(r'[0-9]+[,.]{0,1}[0-9]*')),

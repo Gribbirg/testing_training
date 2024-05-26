@@ -73,7 +73,7 @@ class _QuestionFinishedPageState extends State<QuestionFinishedPage> {
     final tooltipBehavior = TooltipBehavior(
         enable: true,
         color: Theme.of(context).colorScheme.scrim,
-        textStyle: TextStyle(color: Theme.of(context).colorScheme.onBackground),
+        textStyle: TextStyle(color: Theme.of(context).colorScheme.onSurface),
         format: 'point.y%');
 
     return Card(

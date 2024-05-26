@@ -37,7 +37,7 @@ class _CloudImageWidgetState extends State<CloudImageWidget> {
       imageUrl: url,
       imageBuilder: (context, imageProvider) => widget.isFullScreen
           ? InstaImageViewer(
-              backgroundColor: Theme.of(context).colorScheme.background,
+              backgroundColor: Theme.of(context).colorScheme.surface,
               backgroundIsTransparent: true,
               child: Image(
                 image: imageProvider,

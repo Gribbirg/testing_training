@@ -54,7 +54,7 @@ class _StringQuestionWidgetState extends State<StringQuestionWidget> {
                     (widget.sessionQuestion.userAnswer as String).isEmpty)
                     ? null
                     : widget.sessionQuestion.userAnswer,
-                style: TextStyle(color: theme.colorScheme.onBackground),
+                style: TextStyle(color: theme.colorScheme.onSurface),
                 decoration: InputDecoration(
                   constraints: const BoxConstraints(minWidth: 200, maxWidth: 500),
                   labelText: "Ответ",

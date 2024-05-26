@@ -39,9 +39,9 @@ class _ColorPickerDialogState extends State<ColorPickerDialog> {
     return AlertDialog(
       title: Text(
         'Выберите цвет:',
-        style: TextStyle(color: _dialogTheme.colorScheme.onBackground),
+        style: TextStyle(color: _dialogTheme.colorScheme.onSurface),
       ),
-      backgroundColor: _dialogTheme.colorScheme.background,
+      backgroundColor: _dialogTheme.colorScheme.surface,
       content: SingleChildScrollView(
         child: ColorPicker(
           pickerColor: Color(_settingsCopy.colorSetting.base),
@@ -80,7 +80,7 @@ class _ColorPickerDialogState extends State<ColorPickerDialog> {
           },
           style: ButtonStyle(
               backgroundColor:
-                  MaterialStateProperty.all(_dialogTheme.colorScheme.primary)),
+                  WidgetStateProperty.all(_dialogTheme.colorScheme.primary)),
           child: Text(
             'Сохранить',
             style: TextStyle(color: _dialogTheme.colorScheme.onPrimary),

@@ -17,7 +17,7 @@ deploy:
 	flutter clean && \
 	flutter pub get && \
 	flutter create . --platform web && \
-	flutter build web && \
+	flutter build web --wasm && \
 	python make/copy_dirs.py && \
 	cd build/web && \
 	git init && \
