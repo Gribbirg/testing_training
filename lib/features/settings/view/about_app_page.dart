@@ -205,13 +205,10 @@ class _AboutAppPageState extends State<AboutAppPage> {
 
   void _showSnackBar() {
     ScaffoldMessenger.of(context).showSnackBar(SnackBar(
-      content: Text(
+      content: const Text(
         'Скопировано',
-        style: TextStyle(color: Theme.of(context).colorScheme.onSurface),
         textAlign: TextAlign.center,
       ),
-      backgroundColor: Theme.of(context).colorScheme.scrim,
-      padding: const EdgeInsets.all(8.0),
       shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
       elevation: 10,
       showCloseIcon: true,
