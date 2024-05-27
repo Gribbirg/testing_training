@@ -3,12 +3,19 @@ import 'package:syncfusion_flutter_charts/charts.dart';
 import 'package:testing_training/features/questions/bloc/questions_list_bloc.dart';
 
 class QuestionFinishedPage extends StatefulWidget {
-  const QuestionFinishedPage({super.key, required this.state, required this.restart, required this.toTopics, required this.toModules});
+  const QuestionFinishedPage(
+      {super.key,
+      required this.state,
+      required this.restart,
+      required this.toTopics,
+      required this.toModules,
+      required this.toQuestions});
 
   final QuestionsFinishState state;
   final void Function() restart;
   final void Function() toTopics;
   final void Function() toModules;
+  final void Function() toQuestions;
 
   @override
   State<QuestionFinishedPage> createState() => _QuestionFinishedPageState();
@@ -36,7 +43,8 @@ class _QuestionFinishedPageState extends State<QuestionFinishedPage> {
                 child: Text(
                   'Тест пройден!',
                   style: TextStyle(
-                      fontSize: 25, color: Theme.of(context).colorScheme.primary),
+                      fontSize: 25,
+                      color: Theme.of(context).colorScheme.primary),
                 ),
               ),
               Padding(padding: const EdgeInsets.all(8.0), child: _getDiagram()),
@@ -47,15 +55,31 @@ class _QuestionFinishedPageState extends State<QuestionFinishedPage> {
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      OutlinedButton(onPressed: widget.toTopics, child: const Text('К разделам')),
-                      const SizedBox(width: 10,),
-                      OutlinedButton(onPressed: widget.toModules, child: const Text('К темам')),
-                      const SizedBox(width: 10,),
-                      FilledButton(onPressed: widget.restart, child: const Text('Заново')),
+                      FilledButton(
+                          onPressed: widget.toQuestions,
+                          child: const Text('К вопросам')),
+                      const SizedBox(
+                        width: 10,
+                      ),
+                      FilledButton(
+                          onPressed: widget.restart,
+                          child: const Text('Заново')),
+                      const SizedBox(
+                        width: 10,
+                      ),
+                      OutlinedButton(
+                          onPressed: widget.toTopics,
+                          child: const Text('К разделам')),
+                      const SizedBox(
+                        width: 10,
+                      ),
+                      OutlinedButton(
+                          onPressed: widget.toModules,
+                          child: const Text('К темам')),
                     ],
                   ),
                 ),
-              )
+              ),
             ],
           ),
         ],
@@ -84,9 +108,11 @@ class _QuestionFinishedPageState extends State<QuestionFinishedPage> {
           SfCircularChart(
             title: ChartTitle(
               text: 'Результат:',
-              textStyle: TextStyle(color: Theme.of(context).colorScheme.onSurface),
+              textStyle:
+                  TextStyle(color: Theme.of(context).colorScheme.onSurface),
             ),
-            legend: const Legend(isVisible: true, position: LegendPosition.bottom),
+            legend:
+                const Legend(isVisible: true, position: LegendPosition.bottom),
             tooltipBehavior: tooltipBehavior,
             series: [
               PieSeries<_ChartData, String>(

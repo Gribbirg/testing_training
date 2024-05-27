@@ -6,11 +6,13 @@ class QuestionsNavigationGridWidget extends StatefulWidget {
       {super.key,
       required this.pageController,
       required this.sessionData,
-      required this.scaffoldKey});
+      required this.scaffoldKey,
+      required this.onBlockPressed});
 
   final GlobalKey<ScaffoldState> scaffoldKey;
   final PageController? pageController;
   final SessionData sessionData;
+  final void Function(int) onBlockPressed;
 
   @override
   State<QuestionsNavigationGridWidget> createState() =>
@@ -41,10 +43,7 @@ class _QuestionsNavigationGridWidgetState
                 height: blockHeight,
                 child: FilledButton(
                   onPressed: () {
-                    widget.scaffoldKey.currentState!.closeDrawer();
-                    widget.pageController?.animateToPage(entry.key,
-                        duration: const Duration(milliseconds: 300),
-                        curve: Curves.easeInOut);
+                    widget.onBlockPressed(entry.key);
                   },
                   style: ButtonStyle(
                       padding: WidgetStateProperty.all<EdgeInsets>(

@@ -24,7 +24,8 @@ class QuestionWidget extends StatefulWidget {
       required this.module,
       required this.sessionQuestion,
       required this.onAnswer,
-      required this.scrollToNextOpenedQuestion});
+      required this.scrollToNextOpenedQuestion,
+      this.onFinish});
 
   final Topic topic;
   final Module module;
@@ -35,6 +36,7 @@ class QuestionWidget extends StatefulWidget {
   final bool isLast;
   final void Function(bool) onAnswer;
   final void Function() scrollToNextOpenedQuestion;
+  final void Function()? onFinish;
 
   @override
   State<QuestionWidget> createState() => _QuestionWidgetState();
@@ -111,37 +113,50 @@ class _QuestionWidgetState extends State<QuestionWidget> {
                 )),
             _getQuestionAnswers(),
             Container(
-                constraints:
-                    const BoxConstraints(minWidth: 200, minHeight: 100),
-                padding: const EdgeInsets.all(20),
-                child: (widget.sessionQuestion.isRight == null)
-                    ? FilledButton(
-                        onPressed: (widget.question.isAnswerFilled(
-                                widget.sessionQuestion.userAnswer))
-                            ? () {
-                                setState(() {
-                                  widget.question
-                                      .setAnswerRight(widget.sessionQuestion);
-                                  widget.onAnswer(
-                                      widget.sessionQuestion.isRight!);
-                                });
-                              }
-                            : null,
-                        child: const Text("Ответить"),
-                      )
-                    : OutlinedButton(
-                        onPressed: widget.scrollToNextOpenedQuestion,
-                        child: Text(
-                          "Следующий",
-                          style: TextStyle(
-                            color: (widget.sessionQuestion.isRight == null)
-                                ? null
-                                : (widget.sessionQuestion.isRight!)
-                                    ? theme.colorScheme.primary
-                                    : theme.colorScheme.error,
+              constraints: const BoxConstraints(minWidth: 200, minHeight: 100),
+              padding: const EdgeInsets.all(20),
+              child: (widget.sessionQuestion.isRight == null)
+                  ? FilledButton(
+                      onPressed: (widget.question.isAnswerFilled(
+                              widget.sessionQuestion.userAnswer))
+                          ? () {
+                              setState(() {
+                                widget.question
+                                    .setAnswerRight(widget.sessionQuestion);
+                                widget
+                                    .onAnswer(widget.sessionQuestion.isRight!);
+                              });
+                            }
+                          : null,
+                      child: const Text("Ответить"),
+                    )
+                  : widget.onFinish == null
+                      ? OutlinedButton(
+                          onPressed: widget.scrollToNextOpenedQuestion,
+                          child: Text(
+                            "Следующий",
+                            style: TextStyle(
+                              color: (widget.sessionQuestion.isRight == null)
+                                  ? null
+                                  : (widget.sessionQuestion.isRight!)
+                                      ? theme.colorScheme.primary
+                                      : theme.colorScheme.error,
+                            ),
+                          ),
+                        )
+                      : FilledButton(
+                          onPressed: widget.onFinish,
+                          style: ButtonStyle(
+                              backgroundColor: WidgetStateProperty.all(
+                                  Theme.of(context).colorScheme.tertiary)),
+                          child: Text(
+                            'Завершить',
+                            style: TextStyle(
+                                color:
+                                    Theme.of(context).colorScheme.onTertiary),
                           ),
                         ),
-                      )),
+            ),
           ],
         ),
       ),

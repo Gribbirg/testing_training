@@ -82,17 +82,12 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
       if (sessionData.sessionsQuestions.isEmpty) {
         emit(QuestionsListError(message: "Вопросы не найдены"));
       } else {
-        if (sessionData.completeCount != sessionData.questionsCount) {
-          emit(QuestionsListLoaded(
-            topic: topic,
-            module: module,
-            questionsList: questionsList,
-            sessionData: sessionData,
-          ));
-        } else {
-          emit(QuestionsFinishState(
-              module: module, sessionData: sessionData, topic: topic));
-        }
+        emit(QuestionsListLoaded(
+          topic: topic,
+          module: module,
+          questionsList: questionsList,
+          sessionData: sessionData,
+        ));
       }
     } catch (e) {
       emit(QuestionsListError(message: e.toString()));

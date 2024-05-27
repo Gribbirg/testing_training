@@ -29,6 +29,7 @@ class SessionData extends HiveObject {
     completeCount = 0;
     currentQuestionNum =
         this.sessionsQuestions.indexWhere((element) => element.isRight == null);
+    if (currentQuestionNum == -1) currentQuestionNum = questionsCount - 1;
     for (var element in this.sessionsQuestions) {
       if (element.isRight != null) {
         completeCount++;

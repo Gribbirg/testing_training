@@ -1,3 +1,4 @@
+
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -102,8 +103,8 @@ class _QuestionsPageState extends State<QuestionsPage> {
                           },
                           children: state.sessionData.sessionsQuestions
                               .map((sessionQuestion) {
-                            final question =
-                                state.questionsList[sessionQuestion.questionNum];
+                            final question = state
+                                .questionsList[sessionQuestion.questionNum];
                             return QuestionWidget(
                               topic: state.topic,
                               module: state.module,
@@ -128,7 +129,8 @@ class _QuestionsPageState extends State<QuestionsPage> {
                                 });
                               },
                               scrollToNextOpenedQuestion: () {
-                                if (!state.sessionData.allQuestionsAreClosed()) {
+                                if (!state.sessionData
+                                    .allQuestionsAreClosed()) {
                                   final sessionsQuestions =
                                       state.sessionData.sessionsQuestions;
                                   int page = pageController!.page!.toInt();
@@ -144,12 +146,21 @@ class _QuestionsPageState extends State<QuestionsPage> {
                                   }
 
                                   pageController?.animateToPage(page,
-                                      duration: const Duration(milliseconds: 300),
+                                      duration:
+                                          const Duration(milliseconds: 300),
                                       curve: Curves.easeInOut);
                                 } else {
-                                  _questionsListBloc.add(QuestionsFinishEvent());
+                                  _questionsListBloc
+                                      .add(QuestionsFinishEvent());
                                 }
                               },
+                              onFinish: state.sessionData.questionsCount ==
+                                      state.sessionData.completeCount
+                                  ? () {
+                                      _questionsListBloc
+                                          .add(QuestionsFinishEvent());
+                                    }
+                                  : null,
                             );
                           }).toList(),
                         ),
@@ -188,6 +199,10 @@ class _QuestionsPageState extends State<QuestionsPage> {
                       _questionsListBloc.add(DeleteSessionData());
                       AutoRouter.of(context).push(const HomeRoute());
                     },
+                    toQuestions: () {
+                      _questionsListBloc.add(LoadQuestionsList(
+                          topicId: widget.topicId, moduleId: widget.moduleId));
+                    },
                   ));
             }
 
@@ -217,15 +232,6 @@ class _QuestionsPageState extends State<QuestionsPage> {
       body: [
         getBaseDrawerListTile(
             context: context,
-            icon: const Icon(Icons.refresh_sharp),
-            title: const Text('Заново'),
-            onTap: () {
-              _questionsListBloc.add(RestartSession(sessionData: sessionData!));
-              pageController!.jumpToPage(0);
-              _key.currentState!.closeDrawer();
-            }),
-        getBaseDrawerListTile(
-            context: context,
             icon: const Icon(Icons.topic_rounded),
             title: const Text('К темам'),
             onTap: () {
@@ -233,21 +239,51 @@ class _QuestionsPageState extends State<QuestionsPage> {
               AutoRouter.of(context)
                   .push(ModuleSelectRoute(topicId: widget.topicId));
             }),
+        getBaseDrawerListTile(
+            context: context,
+            icon: const Icon(Icons.refresh_sharp),
+            title: const Text('Заново'),
+            onTap: () {
+              _questionsListBloc.add(RestartSession(sessionData: sessionData!));
+              pageController!.jumpToPage(0);
+              _key.currentState!.closeDrawer();
+            }),
+        if (state is QuestionsListLoaded)
+          getBaseDrawerListTile(
+              context: context,
+              icon: const Icon(Icons.flag),
+              title: const Text('Завершить'),
+              onTap: () {
+                _key.currentState!.closeDrawer();
+                _questionsListBloc.add(QuestionsFinishEvent());
+              }),
         const Divider(),
         getBaseDrawerListTile(
           context: context,
           icon: const Icon(Icons.question_mark_rounded),
           title: const Text('Вопросы'),
-          onTap: null,
+          onTap: state is QuestionsFinishState
+              ? () {
+                  _key.currentState!.closeDrawer();
+                  _questionsListBloc.add(LoadQuestionsList(
+                      topicId: widget.topicId, moduleId: widget.moduleId));
+                }
+              : null,
         ),
-        Flexible(
-          fit: FlexFit.loose,
-          child: QuestionsNavigationGridWidget(
-            pageController: pageController,
-            sessionData: sessionData!,
-            scaffoldKey: _key,
+        if (state is QuestionsListLoaded)
+          Flexible(
+            fit: FlexFit.loose,
+            child: QuestionsNavigationGridWidget(
+                pageController: pageController,
+                sessionData: sessionData!,
+                scaffoldKey: _key,
+                onBlockPressed: (int i) {
+                  _key.currentState!.closeDrawer();
+                  pageController?.animateToPage(i,
+                      duration: const Duration(milliseconds: 300),
+                      curve: Curves.easeInOut);
+                }),
           ),
-        ),
       ],
     );
   }
