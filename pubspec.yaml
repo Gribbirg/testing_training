@@ -61,6 +61,7 @@ dependencies:
   syncfusion_flutter_charts: ^25.2.5
   flutter_colorpicker: ^1.1.0
   provider: ^6.1.2
+  url_launcher: ^6.2.6
 
 dev_dependencies:
   flutter_test:
@@ -95,6 +96,8 @@ flutter:
     - assets/images/logo_shadow.png
     - assets/images/logo960.png
     - assets/images/logo_shadow_more_background.png
+    - assets/images/github_logo_light.png
+    - assets/images/vk_icon.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
