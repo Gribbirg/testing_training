@@ -4,6 +4,8 @@ import 'dart:math';
 
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:get_it/get_it.dart';
+import 'package:testing_training/log/abstract_logger.dart';
 import 'package:testing_training/repositories/questions/models/models.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';
@@ -244,6 +246,15 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
           questionsList: questionsList,
           sessionData: session));
       sessionSaveRepository.addSessionData(session);
+
+      GetIt.I<AbstractLogger>().logEvent("restart_testng", {
+        "right_answers": saveState.sessionData.rightsCount,
+        "wrong_answers": saveState.sessionData.wrongCount,
+        "no_ans_count": saveState.sessionData.questionsCount -
+            saveState.sessionData.completeCount,
+        "topic_id": saveState.topic.dirName,
+        "module_id": saveState.module.dirName,
+      });
     } catch (e) {
       emit(QuestionsListError(message: e.toString()));
     }
@@ -262,5 +273,14 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
         topic: curState.topic,
         module: curState.module,
         sessionData: curState.sessionData));
+
+    GetIt.I<AbstractLogger>().logEvent("finish_testng", {
+      "right_answers": curState.sessionData.rightsCount,
+      "wrong_answers": curState.sessionData.wrongCount,
+      "no_ans_count": curState.sessionData.questionsCount -
+          curState.sessionData.completeCount,
+      "topic_id": curState.topic.dirName,
+      "module_id": curState.module.dirName,
+    });
   }
 }

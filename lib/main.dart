@@ -6,6 +6,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:get_it/get_it.dart';
 import 'package:hive_flutter/adapters.dart';
+import 'package:testing_training/log/abstract_logger.dart';
+import 'package:testing_training/log/firebase_logger.dart';
 import 'package:testing_training/repositories/questions/models/question/categories_question.dart';
 import 'package:testing_training/repositories/questions/questions.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
@@ -24,7 +26,8 @@ Future<void> main() async {
 
   await _initFirebase();
   await _initHive();
-  await GetIt.instance.allReady();
+  await _initLogger();
+  await GetIt.I.allReady();
 
   runApp(const TestingTrainingApp());
   FlutterNativeSplash.remove();
@@ -98,4 +101,8 @@ Future<void> _initHive() async {
       () => SettingRepository(box: settingsBox));
   GetIt.I.registerSingleton<Settings>(
       await GetIt.I<AbstractSettingsRepository>().getUserSettings());
+}
+
+Future<void> _initLogger() async {
+  GetIt.I.registerLazySingleton<AbstractLogger>(() => FirebaseLogger());
 }
