@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:testing_training/router/router.dart';
 
 import '../main.dart';
+import 'adaptive_scaffold.dart';
 
 class BaseDrawer extends StatefulWidget {
   const BaseDrawer({super.key, required this.scaffoldKey, this.body});
@@ -28,6 +29,8 @@ class _BaseDrawerState extends State<BaseDrawer> {
   @override
   Widget build(BuildContext context) {
     return Drawer(
+      backgroundColor:
+          isDesktop(context) ? Theme.of(context).colorScheme.surface : null,
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 8.0),
         child: SingleChildScrollView(
