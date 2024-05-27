@@ -54,8 +54,12 @@ class _OneSelectQuestionWidgetState extends State<OneSelectQuestionWidget> {
                     ? (isUserAnswer)
                         ? theme.colorScheme.primaryContainer
                         : theme.colorScheme.secondaryContainer
-                    : theme.cardColor,
+                    : isUserAnswer
+                        ? theme.colorScheme.surfaceContainerHighest
+                        : theme.cardColor,
             child: RadioListTile<Answer>(
+              shape: const RoundedRectangleBorder(
+                  borderRadius: BorderRadius.all(Radius.circular(12))),
               activeColor: (isResult && !isRightAnswer && isUserAnswer)
                   ? theme.colorScheme.error
                   : (isRightAnswer)

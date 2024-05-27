@@ -52,8 +52,12 @@ class _MultiSelectQuestionWidgetState extends State<MultiSelectQuestionWidget> {
                     ? (isUserAnswer)
                         ? theme.colorScheme.primaryContainer
                         : theme.colorScheme.secondaryContainer
-                    : theme.cardColor,
+                    : isUserAnswer
+                        ? theme.colorScheme.surfaceContainerHighest
+                        : theme.cardColor,
             child: CheckboxListTile(
+              shape: const RoundedRectangleBorder(
+                  borderRadius: BorderRadius.all(Radius.circular(12))),
               activeColor: (isResult && !isRightAnswer && isUserAnswer)
                   ? theme.colorScheme.error
                   : (isRightAnswer)
