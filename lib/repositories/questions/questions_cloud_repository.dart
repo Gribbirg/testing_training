@@ -6,6 +6,7 @@ import 'package:testing_training/repositories/questions/abstract_questions_repos
 import 'package:testing_training/repositories/questions/models/module.dart';
 import 'package:testing_training/repositories/questions/models/question/abstract_question.dart';
 import 'package:testing_training/repositories/questions/models/topic.dart';
+import 'package:version/version.dart';
 
 import 'models/question/questions_factory.dart';
 
@@ -64,4 +65,7 @@ class QuestionsCloudRepository extends AbstractQuestionsRepository {
 
     return list;
   }
+
+  @override
+  Version get version => Version(0, 0, 0);
 }

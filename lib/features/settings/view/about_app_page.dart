@@ -1,6 +1,8 @@
 import 'package:auto_route/annotations.dart';
 import 'package:flutter/material.dart';
+import 'package:get_it/get_it.dart';
 import 'package:testing_training/main.dart';
+import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
 
 import '../../../services/copy_text.dart';
 import '../../../services/go_to_url.dart';
@@ -18,9 +20,11 @@ class AboutAppPage extends StatefulWidget {
 
 class _AboutAppPageState extends State<AboutAppPage> {
   final GlobalKey<ScaffoldState> _key = GlobalKey();
+  final _questionsRepository = GetIt.I<AbstractQuestionsRepository>();
   static const String _phone = '+7 (977) 945-64-92';
   static const String _mail = 'gribkovalexander@gmail.com';
-  static const String _githubLink = 'https://github.com/grib-testing-training/testing_training';
+  static const String _githubLink =
+      'https://github.com/grib-testing-training/testing_training';
   static const String _tgLink = 'https://t.me/Alex_Gribbirg';
   static const String _vkLink = 'https://vk.com/gribbirg';
 
@@ -183,7 +187,25 @@ class _AboutAppPageState extends State<AboutAppPage> {
                       shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(12)),
                     ),
-                  )
+                  ),
+                  Row(children: [
+                    const Expanded(
+                      child: Card(
+                        child: Padding(
+                          padding: EdgeInsets.all(8.0),
+                          child: Text('Версия приложения:\nv1.0.0', textAlign: TextAlign.center,),
+                        ),
+                      ),
+                    ),
+                    Expanded(
+                      child: Card(
+                        child: Padding(
+                          padding: const EdgeInsets.all(8.0),
+                          child: Text('Версия данных:\nv${_questionsRepository.version.toString()}', textAlign: TextAlign.center,),
+                        ),
+                      ),
+                    )
+                  ]),
                 ],
               ),
             ),

@@ -13,6 +13,7 @@ import 'models/topic.dart';
 
 class QuestionsCloudWithCacheRepository extends QuestionsCloudRepository {
   final LazyBox cacheBox;
+  Version? _dataVersion;
 
   QuestionsCloudWithCacheRepository({required this.cacheBox});
 
@@ -104,13 +105,13 @@ class QuestionsCloudWithCacheRepository extends QuestionsCloudRepository {
     //   return true;
     // }
 
-    final dataVersion = Version.parse(data["version"]);
+    _dataVersion = Version.parse(data["version"]);
     final localVersion =
         Version.parse((await cacheBox.get("version") as String?) ?? "0.0.0");
 
-    if (dataVersion != localVersion) {
+    if (_dataVersion != localVersion) {
       await removeAll();
-      await cacheBox.put("version", dataVersion.toString());
+      await cacheBox.put("version", _dataVersion.toString());
       await GetIt.I<AbstractSessionSaveRepository>().removeAll();
     }
     return false;
@@ -132,4 +133,7 @@ class QuestionsCloudWithCacheRepository extends QuestionsCloudRepository {
   Future<void> removeAll() async {
     await cacheBox.clear();
   }
+
+  @override
+  Version get version => _dataVersion!;
 }
