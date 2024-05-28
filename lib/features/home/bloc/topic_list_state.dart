@@ -23,10 +23,10 @@ class TopicListLoaded extends TopicListState {
 
 class TopicListError extends TopicListState {
 
-  final String message;
+  final dynamic exception;
 
-  TopicListError({required this.message});
+  TopicListError({required this.exception});
 
   @override
-  List<Object?> get props => [message];
+  List<Object?> get props => [exception];
 }

@@ -1,10 +1,11 @@
 import 'package:auto_route/annotations.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:testing_training/main.dart';
-import 'package:url_launcher/url_launcher.dart';
 
+import '../../../services/copy_text.dart';
+import '../../../services/go_to_url.dart';
 import '../../../widgets/adaptive_scaffold.dart';
+import '../../../widgets/snack_bar.dart';
 import '../widgets/settings_drawer.dart';
 
 @RoutePage()
@@ -74,7 +75,7 @@ class _AboutAppPageState extends State<AboutAppPage> {
                                 Theme.of(context).colorScheme.primaryContainer,
                             child: IconButton(
                               onPressed: () {
-                                _goToUrl(_githubLink);
+                                goToUrl(_githubLink);
                               },
                               icon: Image.asset(
                                   path('images/github_logo_light.png')),
@@ -113,7 +114,7 @@ class _AboutAppPageState extends State<AboutAppPage> {
                             child: IconButton(
                               color: Theme.of(context).colorScheme.onSurface,
                               onPressed: () {
-                                _goToUrl(_tgLink);
+                                goToUrl(_tgLink);
                               },
                               icon: const Icon(
                                 Icons.telegram,
@@ -136,7 +137,7 @@ class _AboutAppPageState extends State<AboutAppPage> {
                                   .colorScheme
                                   .onTertiaryContainer,
                               onPressed: () {
-                                _goToUrl(_vkLink);
+                                goToUrl(_vkLink);
                               },
                               icon: Image.asset(path('images/vk_icon.png')),
                               style: ButtonStyle(
@@ -156,11 +157,11 @@ class _AboutAppPageState extends State<AboutAppPage> {
                       leading: const Icon(Icons.mail),
                       title: const Text(_mail),
                       onTap: () {
-                        _goToUrl('mailto:$_mail');
+                        goToUrl('mailto:$_mail');
                       },
                       onLongPress: () {
-                        _copyText(_mail);
-                        _showSnackBar();
+                        copyText(_mail);
+                        showTextSnackBar(context, 'Скопировано');
                       },
                       shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(12)),
@@ -172,12 +173,12 @@ class _AboutAppPageState extends State<AboutAppPage> {
                       leading: const Icon(Icons.phone),
                       title: const Text(_phone),
                       onTap: () {
-                        _goToUrl(
+                        goToUrl(
                             'tel:${_phone.replaceAll(' ', '').replaceAll('(', '').replaceAll(')', 'replace').replaceAll('-', 'replace')}');
                       },
                       onLongPress: () {
-                        _copyText(_phone);
-                        _showSnackBar();
+                        copyText(_phone);
+                        showTextSnackBar(context, 'Скопировано');
                       },
                       shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(12)),
@@ -190,30 +191,5 @@ class _AboutAppPageState extends State<AboutAppPage> {
         ),
       ),
     );
-  }
-
-  Future<void> _goToUrl(String url) async {
-    final uri = Uri.parse(url);
-    if (!(await launchUrl(uri))) {
-      throw 'Could not launch $url';
-    }
-  }
-
-  Future<void> _copyText(String text) async {
-    await Clipboard.setData(ClipboardData(text: text));
-  }
-
-  void _showSnackBar() {
-    ScaffoldMessenger.of(context).showSnackBar(SnackBar(
-      content: const Text(
-        'Скопировано',
-        textAlign: TextAlign.center,
-      ),
-      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
-      elevation: 10,
-      showCloseIcon: true,
-      behavior: SnackBarBehavior.floating,
-      width: 300,
-    ));
   }
 }

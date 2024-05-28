@@ -12,6 +12,7 @@ import 'package:testing_training/widgets/not_found.dart';
 
 import '../../../repositories/questions/abstract_questions_repository.dart';
 import '../../../widgets/adaptive_scaffold.dart';
+import '../../../widgets/error_widget.dart';
 
 @RoutePage()
 class QuestionsPage extends StatefulWidget {
@@ -172,9 +173,14 @@ class _QuestionsPageState extends State<QuestionsPage> {
             }
 
             if (state is QuestionsListError) {
-              return Center(
-                child: Text(
-                  state.message,
+              return AdaptiveScaffold(
+                scaffoldKey: _key,
+                drawer: BaseDrawer(
+                  scaffoldKey: _key,
+                ),
+                appBarTitle: 'Ошибка',
+                body: ErrorAppWidget(
+                  exception: state.exception,
                 ),
               );
             }

@@ -23,19 +23,19 @@ class _NotFoundWidgetState extends State<NotFoundWidget> {
                   maxHeight: 500,
                 ),
                 child: Image.asset(
-                  path('images/angry_grib.png'),
+                  path('images/grib_with_knife.png'),
                 ),
               ),
             ),
             const SizedBox(
-              height: 20,
+              height: 10,
             ),
             Text(
               'Страница не найдена!',
-              style: Theme.of(context).textTheme.displaySmall,
+              style: TextStyle(color: Theme.of(context).colorScheme.error, fontSize: 30),
             ),
             const SizedBox(
-              height: 20,
+              height: 40,
             ),
             FilledButton(
                 onPressed: () {

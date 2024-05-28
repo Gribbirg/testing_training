@@ -6,6 +6,7 @@ import 'package:testing_training/features/module_select/bloc/module_list_bloc.da
 import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
 import 'package:testing_training/router/router.dart';
 import 'package:testing_training/widgets/drawer.dart';
+import 'package:testing_training/widgets/error_widget.dart';
 import 'package:testing_training/widgets/not_found.dart';
 
 import '../../../repositories/questions/models/module.dart';
@@ -87,9 +88,11 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
           }
 
           if (state is ModuleListError) {
-            final message = state.message;
-            return Center(
-              child: Text(message),
+            return AdaptiveScaffold(
+              scaffoldKey: _key,
+              drawer: _getDrawer(),
+              appBarTitle: 'Ошибка',
+              body: ErrorAppWidget(exception: state.exception,),
             );
           }
 

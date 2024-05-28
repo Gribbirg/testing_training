@@ -1,3 +1,5 @@
+import 'dart:developer';
+
 void main() {
-  print(DateTime.now().toUtc().toIso8601String());
+  log(DateTime.now().toUtc().toIso8601String());
 }

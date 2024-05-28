@@ -1,13 +1,12 @@
 import 'package:firebase_app_check/firebase_app_check.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:get_it/get_it.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:testing_training/log/abstract_logger.dart';
-import 'package:testing_training/log/firebase_logger.dart';
 import 'package:testing_training/repositories/questions/models/question/categories_question.dart';
 import 'package:testing_training/repositories/questions/questions.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
@@ -16,6 +15,7 @@ import 'package:testing_training/repositories/settings/abstract_settings_reposit
 import 'package:testing_training/repositories/settings/model/color_settings.dart';
 import 'package:testing_training/repositories/settings/model/model.dart';
 import 'package:testing_training/repositories/settings/settings.dart';
+import 'package:testing_training/services/services.dart';
 import 'package:testing_training/testing_training_app.dart';
 
 import 'firebase_options.dart';
@@ -26,7 +26,7 @@ Future<void> main() async {
 
   await _initFirebase();
   await _initHive();
-  await _initLogger();
+  await _initServices();
   await GetIt.I.allReady();
 
   runApp(const TestingTrainingApp());
@@ -57,6 +57,13 @@ Future<void> _initFirebase() async {
           ReCaptchaV3Provider('6Leyx8opAAAAAJ6pIfeiXGgbcP1mlfLwUwy4lBwk'),
     );
   }
+
+  FlutterError.onError = FirebaseCrashlytics.instance.recordFlutterFatalError;
+  PlatformDispatcher.instance.onError = (error, stack) {
+    FirebaseCrashlytics.instance.recordError(error, stack, fatal: true);
+    return true;
+  };
+
   await FirebaseAuth.instance.signInAnonymously();
 }
 
@@ -103,6 +110,8 @@ Future<void> _initHive() async {
       await GetIt.I<AbstractSettingsRepository>().getUserSettings());
 }
 
-Future<void> _initLogger() async {
+Future<void> _initServices() async {
   GetIt.I.registerLazySingleton<AbstractLogger>(() => FirebaseLogger());
+  GetIt.I.registerLazySingleton<AbstractErrorHandler>(
+      () => FirebaseErrorHandler());
 }

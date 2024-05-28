@@ -23,12 +23,12 @@ class ModuleListLoaded extends ModuleListState {
 }
 
 class ModuleListError extends ModuleListState {
-  final String message;
+  final dynamic exception;
 
-  ModuleListError({required this.message});
+  ModuleListError({required this.exception});
 
   @override
-  List<Object?> get props => [message];
+  List<Object?> get props => [exception];
 }
 
 class ModuleListNotFound extends ModuleListState {

@@ -6,13 +6,14 @@ import 'package:collection/collection.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';
-import 'package:testing_training/log/abstract_logger.dart';
+import 'package:testing_training/services/log/abstract_logger.dart';
 import 'package:testing_training/repositories/questions/models/models.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/repositories/session_save/models/models.dart';
 import 'package:testing_training/repositories/session_save/session_save.dart';
 
 import '../../../repositories/questions/abstract_questions_repository.dart';
+import '../../../services/error_handler/abstract_error_handler.dart';
 
 part 'questions_list_event.dart';
 
@@ -81,7 +82,7 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
       }
 
       if (sessionData.sessionsQuestions.isEmpty) {
-        emit(QuestionsListError(message: "Вопросы не найдены"));
+        emit(QuestionsListError(exception: "Вопросы не найдены"));
       } else {
         emit(QuestionsListLoaded(
           topic: topic,
@@ -90,8 +91,9 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
           sessionData: sessionData,
         ));
       }
-    } catch (e) {
-      emit(QuestionsListError(message: e.toString()));
+    } catch (e, s) {
+      GetIt.I<AbstractErrorHandler>().handleError(exception: e, stack: s);
+      emit(QuestionsListError(exception: e));
     }
   }
 
@@ -100,7 +102,7 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
     final List<Module>? modules =
         await questionsRepository.getModulesList(topic.dirName);
     if (modules == null) {
-      emit(QuestionsListError(message: "Вопросы не найдены"));
+      emit(QuestionsListError(exception: "Вопросы не найдены"));
       return [];
     }
 
@@ -129,7 +131,7 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
       final moduleQuestions =
           await questionsRepository.getQuestionsList(topic.dirName, entry.key);
       if (moduleQuestions == null) {
-        emit(QuestionsListError(message: "Вопросы не найдены"));
+        emit(QuestionsListError(exception: "Вопросы не найдены"));
         return [];
       }
 
@@ -178,13 +180,14 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
       SaveSessionData event, Emitter<QuestionsListState> emit) async {
     try {
       if (state is! QuestionsListLoaded) {
-        emit(QuestionsListError(message: "Nothing to save"));
+        emit(QuestionsListError(exception: "Nothing to save"));
         return;
       }
       sessionSaveRepository
           .saveSessionData((state as QuestionsListLoaded).sessionData);
-    } catch (e) {
-      emit(QuestionsListError(message: e.toString()));
+    } catch (e, s) {
+      GetIt.I<AbstractErrorHandler>().handleError(exception: e, stack: s);
+      emit(QuestionsListError(exception: e));
     }
   }
 
@@ -197,15 +200,16 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
       } else if (state is QuestionsFinishState) {
         sessionData = (state as QuestionsFinishState).sessionData;
       } else {
-        emit(QuestionsListError(message: "Nothing to delete"));
+        emit(QuestionsListError(exception: "Nothing to delete"));
         return;
       }
       sessionSaveRepository.removeSessionData(sessionData);
       if (sessionData.moduleId == 'testing') {
         sessionSaveRepository.removeTestingData(sessionData.topicId);
       }
-    } catch (e) {
-      emit(QuestionsListError(message: e.toString()));
+    } catch (e, s) {
+      GetIt.I<AbstractErrorHandler>().handleError(exception: e, stack: s);
+      emit(QuestionsListError(exception: e));
     }
   }
 
@@ -251,32 +255,38 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
         "topic_id": saveState.topic.dirName,
         "module_id": saveState.module.dirName,
       });
-    } catch (e) {
-      emit(QuestionsListError(message: e.toString()));
+    } catch (e, s) {
+      GetIt.I<AbstractErrorHandler>().handleError(exception: e, stack: s);
+      emit(QuestionsListError(exception: e));
     }
   }
 
   Future<void> _finish(
       QuestionsFinishEvent event, Emitter<QuestionsListState> emit) async {
-    if (state is! QuestionsListLoaded) {
-      emit(QuestionsListError(message: "Nothing to finish"));
-      return;
+    try {
+      if (state is! QuestionsListLoaded) {
+        emit(QuestionsListError(exception: "Nothing to finish"));
+        return;
+      }
+      final curState = state as QuestionsListLoaded;
+      emit(QuestionsListLoading());
+
+      emit(QuestionsFinishState(
+          topic: curState.topic,
+          module: curState.module,
+          sessionData: curState.sessionData));
+
+      GetIt.I<AbstractLogger>().logEvent("finish_testng", {
+        "right_answers": curState.sessionData.rightsCount,
+        "wrong_answers": curState.sessionData.wrongCount,
+        "no_ans_count": curState.sessionData.questionsCount -
+            curState.sessionData.completeCount,
+        "topic_id": curState.topic.dirName,
+        "module_id": curState.module.dirName,
+      });
+    } catch (e, s) {
+      GetIt.I<AbstractErrorHandler>().handleError(exception: e, stack: s);
+      emit(QuestionsListError(exception: e));
     }
-    final curState = state as QuestionsListLoaded;
-    emit(QuestionsListLoading());
-
-    emit(QuestionsFinishState(
-        topic: curState.topic,
-        module: curState.module,
-        sessionData: curState.sessionData));
-
-    GetIt.I<AbstractLogger>().logEvent("finish_testng", {
-      "right_answers": curState.sessionData.rightsCount,
-      "wrong_answers": curState.sessionData.wrongCount,
-      "no_ans_count": curState.sessionData.questionsCount -
-          curState.sessionData.completeCount,
-      "topic_id": curState.topic.dirName,
-      "module_id": curState.module.dirName,
-    });
   }
 }

@@ -32,12 +32,12 @@ class QuestionsListLoaded extends QuestionsListState {
 }
 
 class QuestionsListError extends QuestionsListState {
-  final String message;
+  final dynamic exception;
 
-  QuestionsListError({required this.message});
+  QuestionsListError({required this.exception});
 
   @override
-  List<Object?> get props => [message];
+  List<Object?> get props => [exception];
 }
 
 class QuestionsListNotFound extends QuestionsListState {

@@ -1,5 +1,5 @@
 import 'package:firebase_analytics/firebase_analytics.dart';
-import 'package:testing_training/log/abstract_logger.dart';
+import 'package:testing_training/services/log/abstract_logger.dart';
 
 class FirebaseLogger extends AbstractLogger {
   @override
