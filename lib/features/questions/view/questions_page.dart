@@ -1,4 +1,3 @@
-
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -9,6 +8,7 @@ import 'package:testing_training/features/questions/questions.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
 import 'package:testing_training/router/router.dart';
 import 'package:testing_training/widgets/drawer.dart';
+import 'package:testing_training/widgets/not_found.dart';
 
 import '../../../repositories/questions/abstract_questions_repository.dart';
 import '../../../widgets/adaptive_scaffold.dart';
@@ -204,6 +204,17 @@ class _QuestionsPageState extends State<QuestionsPage> {
                           topicId: widget.topicId, moduleId: widget.moduleId));
                     },
                   ));
+            }
+
+            if (state is QuestionsListNotFound) {
+              return AdaptiveScaffold(
+                scaffoldKey: _key,
+                drawer: BaseDrawer(
+                  scaffoldKey: _key,
+                ),
+                appBarTitle: '404',
+                body: const NotFoundWidget(),
+              );
             }
 
             return AdaptiveScaffold(

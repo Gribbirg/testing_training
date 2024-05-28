@@ -1,5 +1,6 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:collection/collection.dart';
 
 import '../../../repositories/questions/abstract_questions_repository.dart';
 import '../../../repositories/questions/models/module.dart';
@@ -30,7 +31,7 @@ class ModuleListBloc extends Bloc<ModuleListEvent, ModuleListState> {
       }
 
       final topic = (await questionsRepository.getTopicList())
-          ?.firstWhere((element) => element.dirName == event.topicId);
+          ?.firstWhereOrNull((element) => element.dirName == event.topicId);
       if (topic == null) {
         emit(ModuleListNotFound());
         return;

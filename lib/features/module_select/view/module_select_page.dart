@@ -6,6 +6,7 @@ import 'package:testing_training/features/module_select/bloc/module_list_bloc.da
 import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
 import 'package:testing_training/router/router.dart';
 import 'package:testing_training/widgets/drawer.dart';
+import 'package:testing_training/widgets/not_found.dart';
 
 import '../../../repositories/questions/models/module.dart';
 import '../../../widgets/adaptive_scaffold.dart';
@@ -47,9 +48,9 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
         builder: (BuildContext context, ModuleListState state) {
           if (state is ModuleListLoaded) {
             final modulesList = [
-                  const Module(
-                      name: "Тест", dirName: "testing", questionsCount: 30)
-                ] +
+              const Module(
+                  name: "Тест", dirName: "testing", questionsCount: 30)
+            ] +
                 state.modules;
             return AdaptiveScaffold(
                 scaffoldKey: _key,
@@ -93,7 +94,12 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
           }
 
           if (state is ModuleListNotFound) {
-            AutoRouter.of(context).popAndPush(const HomeRoute());
+            return AdaptiveScaffold(
+              scaffoldKey: _key,
+              drawer: _getDrawer(),
+              appBarTitle: '404',
+              body: const NotFoundWidget(),
+            );
           }
 
           return AdaptiveScaffold(
@@ -107,7 +113,8 @@ class _ModuleSelectPageState extends State<ModuleSelectPage> {
         });
   }
 
-  Widget _getDrawer() => BaseDrawer(
+  Widget _getDrawer() =>
+      BaseDrawer(
         scaffoldKey: _key,
       );
 }

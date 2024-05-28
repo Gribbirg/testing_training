@@ -2,6 +2,7 @@ import 'dart:async';
 import 'dart:collection';
 import 'dart:math';
 
+import 'package:collection/collection.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';
@@ -39,7 +40,7 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
       }
 
       final topic = (await questionsRepository.getTopicList())
-          ?.firstWhere((element) => element.dirName == event.topicId);
+          ?.firstWhereOrNull((element) => element.dirName == event.topicId);
 
       if (topic == null) {
         emit(QuestionsListNotFound());
@@ -55,7 +56,7 @@ class QuestionsListBloc extends Bloc<QuestionsListEvent, QuestionsListState> {
         questionsList = await _getTestingQuestions(emit, topic);
       } else {
         module = (await questionsRepository.getModulesList(event.topicId!))
-            ?.firstWhere((element) => element.dirName == event.moduleId);
+            ?.firstWhereOrNull((element) => element.dirName == event.moduleId);
         if (module == null) {
           emit(QuestionsListNotFound());
           return;
