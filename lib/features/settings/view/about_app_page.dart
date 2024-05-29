@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:testing_training/main.dart';
 import 'package:testing_training/repositories/questions/abstract_questions_repository.dart';
+import 'package:testing_training/services/app_info/abstract_app_info_service.dart';
 
 import '../../../services/copy_text.dart';
 import '../../../services/go_to_url.dart';
@@ -21,7 +22,14 @@ class AboutAppPage extends StatefulWidget {
 class _AboutAppPageState extends State<AboutAppPage> {
   final GlobalKey<ScaffoldState> _key = GlobalKey();
   final _questionsRepository = GetIt.I<AbstractQuestionsRepository>();
+  final _appInfoService = GetIt.I<AbstractAppInfoService>();
+
   static const String _phone = '+7 (977) 945-64-92';
+  final String _phoneShort = _phone
+      .replaceAll(' ', '')
+      .replaceAll('(', '')
+      .replaceAll(')', 'replace')
+      .replaceAll('-', 'replace');
   static const String _mail = 'gribkovalexander@gmail.com';
   static const String _githubLink =
       'https://github.com/grib-testing-training/testing_training';
@@ -177,11 +185,10 @@ class _AboutAppPageState extends State<AboutAppPage> {
                       leading: const Icon(Icons.phone),
                       title: const Text(_phone),
                       onTap: () {
-                        goToUrl(
-                            'tel:${_phone.replaceAll(' ', '').replaceAll('(', '').replaceAll(')', 'replace').replaceAll('-', 'replace')}');
+                        goToUrl('tel:$_phoneShort}');
                       },
                       onLongPress: () {
-                        copyText(_phone);
+                        copyText(_phoneShort);
                         showTextSnackBar(context, 'Скопировано');
                       },
                       shape: RoundedRectangleBorder(
@@ -189,11 +196,14 @@ class _AboutAppPageState extends State<AboutAppPage> {
                     ),
                   ),
                   Row(children: [
-                    const Expanded(
+                    Expanded(
                       child: Card(
                         child: Padding(
-                          padding: EdgeInsets.all(8.0),
-                          child: Text('Версия приложения:\nv1.0.0', textAlign: TextAlign.center,),
+                          padding: const EdgeInsets.all(8.0),
+                          child: Text(
+                            'Версия приложения:\nv${_appInfoService.appVersion}',
+                            textAlign: TextAlign.center,
+                          ),
                         ),
                       ),
                     ),
@@ -201,7 +211,10 @@ class _AboutAppPageState extends State<AboutAppPage> {
                       child: Card(
                         child: Padding(
                           padding: const EdgeInsets.all(8.0),
-                          child: Text('Версия данных:\nv${_questionsRepository.version.toString()}', textAlign: TextAlign.center,),
+                          child: Text(
+                            'Версия данных:\nv${_questionsRepository.version.toString()}',
+                            textAlign: TextAlign.center,
+                          ),
                         ),
                       ),
                     )

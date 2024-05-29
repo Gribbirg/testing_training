@@ -7,6 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:get_it/get_it.dart';
 import 'package:hive_flutter/adapters.dart';
+import 'package:package_info_plus/package_info_plus.dart';
 import 'package:testing_training/repositories/questions/models/question/categories_question.dart';
 import 'package:testing_training/repositories/questions/questions.dart';
 import 'package:testing_training/repositories/session_save/abstract_session_save_repository.dart';
@@ -114,4 +115,8 @@ Future<void> _initServices() async {
   GetIt.I.registerLazySingleton<AbstractLogger>(() => FirebaseLogger());
   GetIt.I.registerLazySingleton<AbstractErrorHandler>(
       () => FirebaseErrorHandler());
+  GetIt.I.registerSingletonAsync<AbstractAppInfoService>(() async {
+    PackageInfo packageInfo = await PackageInfo.fromPlatform();
+    return AppInfoService(packageInfo: packageInfo);
+  });
 }
