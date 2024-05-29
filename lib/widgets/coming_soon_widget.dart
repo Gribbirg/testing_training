@@ -6,17 +6,27 @@ class ComingSoonWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Padding(
-        padding: const EdgeInsets.all(16.0),
-        child: Card(
-          child: Padding(
-            padding: const EdgeInsets.all(16.0),
+    return SingleChildScrollView(
+      child: Center(
+        child: Padding(
+          padding: const EdgeInsets.all(8.0),
+          child: Container(
+            constraints: const BoxConstraints(maxWidth: 400),
             child: Column(
-              mainAxisSize: MainAxisSize.min,
               children: [
-                Image.asset(path('images/logo.png')),
-                Text("Скоро будет добавлено!", style: Theme.of(context).textTheme.displayMedium, textAlign: TextAlign.center,),
+                Card(
+                  child: Padding(
+                    padding: const EdgeInsets.all(16.0),
+                    child: Column(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        Image.asset(path('images/logo_shadow.png')),
+                      ],
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 20,),
+                Text("Скоро будет добавлено!", style: TextStyle(color: Theme.of(context).colorScheme.primary, fontSize: 30,), textAlign: TextAlign.center,),
               ],
             ),
           ),
